@@ -1,0 +1,12 @@
+.env
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.tmp
+tldr_card_*.png
