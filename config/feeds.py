@@ -7,16 +7,16 @@ Higher trust = more likely to be selected when stories score equally.
 RSS_FEEDS = [
     # ── World / Top News ──────────────────────────────────────────────────
     {
-        "name": "Reuters",
-        "url": "https://feeds.reuters.com/reuters/topNews",
-        "category": "world",
-        "trust": 1.0,
-    },
-    {
         "name": "AP News",
         "url": "https://feeds.apnews.com/rss/apf-topnews",
         "category": "world",
         "trust": 1.0,
+    },
+    {
+        "name": "Sky News",
+        "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+        "category": "world",
+        "trust": 0.9,
     },
     {
         "name": "BBC World",
@@ -62,23 +62,23 @@ RSS_FEEDS = [
         "trust": 0.9,
     },
     {
-        "name": "Reuters Technology",
-        "url": "https://feeds.reuters.com/reuters/technologyNews",
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
         "category": "technology",
-        "trust": 1.0,
+        "trust": 0.9,
     },
     # ── Business / Economy ────────────────────────────────────────────────
-    {
-        "name": "Reuters Business",
-        "url": "https://feeds.reuters.com/reuters/businessNews",
-        "category": "business",
-        "trust": 1.0,
-    },
     {
         "name": "BBC Business",
         "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
         "category": "business",
         "trust": 0.9,
+    },
+    {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/world?format=rss",
+        "category": "business",
+        "trust": 0.95,
     },
     # ── Science ───────────────────────────────────────────────────────────
     {
@@ -88,10 +88,10 @@ RSS_FEEDS = [
         "trust": 0.9,
     },
     {
-        "name": "Reuters Science",
-        "url": "https://feeds.reuters.com/reuters/scienceNews",
+        "name": "New Scientist",
+        "url": "https://www.newscientist.com/feed/home/",
         "category": "science",
-        "trust": 1.0,
+        "trust": 0.9,
     },
     # ── Regional voices ───────────────────────────────────────────────────
     {
