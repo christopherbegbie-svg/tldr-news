@@ -100,4 +100,29 @@ RSS_FEEDS = [
         "category": "world",
         "trust": 0.8,
     },
+    # ── Politics ──────────────────────────────────────────────────────────
+    {
+        "name": "Politico",
+        "url": "https://rss.politico.com/politics-news.xml",
+        "category": "politics",
+        "trust": 0.95,
+    },
+    {
+        "name": "NPR Politics",
+        "url": "https://feeds.npr.org/1014/rss.xml",
+        "category": "politics",
+        "trust": 0.9,
+    },
+    {
+        "name": "The Guardian World Politics",
+        "url": "https://www.theguardian.com/world/rss",
+        "category": "politics",
+        "trust": 0.9,
+    },
+    {
+        "name": "BBC Politics",
+        "url": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+        "category": "politics",
+        "trust": 0.9,
+    },
 ]

@@ -40,7 +40,16 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
             db.log_run("skipped", "No new articles")
             return
 
-        top = aggregator.select_top(articles, n=1)
+        # Every 3rd post, prefer a politics story
+        post_count = int(db.kv_get("post_count") or "0")
+        if post_count % 3 == 2:
+            politics = [a for a in articles if a.category == "politics"]
+            top = aggregator.select_top(politics if politics else articles, n=1)
+            logger.info("Politics rotation (post #%d)", post_count)
+        else:
+            top = aggregator.select_top(articles, n=1)
+        db.kv_set("post_count", str(post_count + 1))
+
         article = top[0]
         logger.info("Selected: [%s] %s", article.source, article.title)
 
