@@ -169,7 +169,7 @@ def create_card(article: Article, summary: SummaryResult) -> Path:
     # ── Source ─────────────────────────────────────────────────────────────
     draw.text(
         (PADDING, SOURCE_Y),
-        f"📰  {article.source}",
+        f"via {article.source}",
         font=font_source,
         fill=TEXT_SECONDARY,
     )
