@@ -29,6 +29,7 @@ class Settings(BaseSettings):
     # Meta / Instagram
     meta_page_access_token: Optional[str] = None
     instagram_account_id: Optional[str] = None
+    imgbb_api_key: Optional[str] = None
 
     # NewsAPI
     newsapi_key: Optional[str] = None
@@ -50,7 +51,7 @@ class Settings(BaseSettings):
 
     @property
     def instagram_enabled(self) -> bool:
-        return all([self.meta_page_access_token, self.instagram_account_id])
+        return all([self.meta_page_access_token, self.instagram_account_id, self.imgbb_api_key])
 
     @property
     def newsapi_enabled(self) -> bool:

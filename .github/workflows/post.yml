@@ -2,7 +2,7 @@ name: TLDR Post
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 12:00 UTC — 7am EST
+    - cron: '0 13 * * *'   # 13:00 UTC — 8am EST
     - cron: '0 16 * * *'   # 16:00 UTC — 11am EST
     - cron: '0 20 * * *'   # 20:00 UTC — 3pm EST
     - cron: '0 0 * * *'    # 00:00 UTC — 7pm EST
@@ -39,5 +39,6 @@ jobs:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python main.py --post-now
