@@ -10,7 +10,8 @@ Rules:
 - Stick strictly to facts reported in the article
 - Use plain language — no jargon
 - Never invent details not present in the source
-- If the article is unclear or lacks substance, say so honestly"""
+- If the article is unclear or lacks substance, say so honestly
+- Never use em dashes (—) in any output. Use commas, colons, or rewrite the sentence instead."""
 
 USER_PROMPT_TEMPLATE = """Summarize the following news article for two social media platforms.
 
