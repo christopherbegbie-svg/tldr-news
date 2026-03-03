@@ -28,7 +28,7 @@ POSTS_DIR = DOCS_DIR / "posts"
 
 X_HANDLE = "TLDRGlobalNews"
 IG_HANDLE = "TLDRGlobalNews"
-SITE_URL = "https://tldr-news.pages.dev"
+SITE_URL = "https://tldrglobalnews.com"
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────

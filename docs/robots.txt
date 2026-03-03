@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tldr-news.pages.dev/sitemap.xml
+Sitemap: https://tldrglobalnews.com/sitemap.xml
