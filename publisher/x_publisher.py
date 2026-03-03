@@ -51,6 +51,7 @@ def _upload_media(image_path: Path) -> Optional[str]:
         )
         api_v1 = tweepy.API(auth)
         media = api_v1.media_upload(filename=str(image_path))
+        logger.info("Image uploaded to X (media_id=%s)", media.media_id)
         return str(media.media_id)
     except Exception as exc:
         logger.warning("Media upload failed (posting text-only): %s", exc)
@@ -64,6 +65,8 @@ def post_thread(tweets: list[str], dry_run: bool = False, image_path: Optional[P
 
     In dry_run mode, prints the tweets without posting.
     """
+    # Drop any empty/whitespace tweets Claude occasionally appends
+    tweets = [t for t in tweets if t.strip()]
     if not tweets:
         logger.warning("post_thread called with empty list")
         return None
