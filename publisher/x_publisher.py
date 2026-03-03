@@ -62,8 +62,6 @@ def post_thread(tweets: list[str], dry_run: bool = False) -> Optional[str]:
         reply_to: Optional[str] = None
 
         for i, text in enumerate(tweets):
-            # Enforce 280-char hard limit just in case
-            text = text[:280]
             kwargs: dict = {"text": text}
             if reply_to:
                 kwargs["in_reply_to_tweet_id"] = reply_to
