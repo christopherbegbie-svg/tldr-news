@@ -64,6 +64,7 @@ def _story_page(
     headline = html.escape(summary.get("card_headline", article.title))
     subheadline = html.escape(summary.get("card_subheadline", ""))
     source = html.escape(article.source)
+    category_class = html.escape(article.category.lower())
     category = html.escape(article.category.upper())
     article_url = html.escape(article.url)
     date_str = datetime.utcnow().strftime("%B %d, %Y")
@@ -109,7 +110,7 @@ def _story_page(
 
   <main class="story">
     <div class="meta">
-      <span class="chip">{category}</span>
+      <span class="chip {category_class}">{category}</span>
       <time class="date">{date_str}</time>
     </div>
     <h1>{headline}</h1>
@@ -137,7 +138,8 @@ def _story_page(
       TLDR News &mdash;
       <a href="../index.html">All stories</a> &mdash;
       <a href="https://twitter.com/{X_HANDLE}" target="_blank">@{X_HANDLE}</a> &mdash;
-      <a href="https://instagram.com/{IG_HANDLE}" target="_blank">@{IG_HANDLE}</a>
+      <a href="https://instagram.com/{IG_HANDLE}" target="_blank">@{IG_HANDLE}</a> &mdash;
+      <a href="../privacy.html">Privacy Policy</a>
     </p>
   </footer>
 </body>
@@ -145,24 +147,76 @@ def _story_page(
 
 
 def _index_page(stories: list[dict]) -> str:
-    cards = []
-    for s in stories:
+    year = datetime.utcnow().year
+    hero_html = ""
+    grid_html = ""
+
+    if stories:
+        s = stories[0]
         slug = s.get("slug", "")
         headline = html.escape(s.get("title", ""))
-        category = html.escape(s.get("category", "").upper())
-        date = s.get("date", "")
+        cat = s.get("category", "world")
+        cat_class = html.escape(cat.lower())
+        cat_label = html.escape(cat.upper())
+        date = html.escape(s.get("date", ""))
         source = html.escape(s.get("source", ""))
-        cards.append(f"""    <a href="posts/{slug}.html" class="story-card">
-      <div class="card-top">
-        <span class="chip">{category}</span>
-        <span class="source">{source}</span>
+        img_url = s.get("image_url", "")
+
+        img_html = (
+            f'<img src="{html.escape(img_url)}" alt="{headline}" class="hero-img" loading="lazy">'
+            if img_url else '<div class="hero-img-placeholder">TLDR</div>'
+        )
+
+        hero_html = f"""  <p class="section-label">Latest</p>
+  <a href="posts/{slug}.html" class="hero">
+    {img_html}
+    <div class="hero-body">
+      <div class="hero-eyebrow">
+        <span class="chip {cat_class}">{cat_label}</span>
       </div>
       <h2>{headline}</h2>
-      <time class="date">{date}</time>
+      <div class="hero-meta">
+        <span>{source}</span><span>{date}</span>
+      </div>
+      <span class="hero-arrow">Read story &rarr;</span>
+    </div>
+  </a>"""
+
+    if len(stories) > 1:
+        cards = []
+        for s in stories[1:]:
+            slug = s.get("slug", "")
+            headline = html.escape(s.get("title", ""))
+            cat = s.get("category", "world")
+            cat_class = html.escape(cat.lower())
+            cat_label = html.escape(cat.upper())
+            date = s.get("date", "")
+            source = html.escape(s.get("source", ""))
+            img_url = s.get("image_url", "")
+
+            thumb = (
+                f'<img src="{html.escape(img_url)}" alt="{headline}" class="card-thumb" loading="lazy">'
+                if img_url else '<div class="card-thumb-placeholder">TLDR</div>'
+            )
+
+            cards.append(f"""    <a href="posts/{slug}.html" class="story-card">
+      {thumb}
+      <div class="card-body">
+        <div class="card-top">
+          <span class="chip {cat_class}">{cat_label}</span>
+          <span class="source">{source}</span>
+        </div>
+        <h2>{headline}</h2>
+        <time class="date">{date}</time>
+      </div>
     </a>""")
 
-    cards_html = "\n".join(cards)
-    year = datetime.utcnow().year
+        cards_html = "\n".join(cards)
+        grid_html = f"""
+  <p class="section-label" style="margin-top:2.5rem">More Stories</p>
+  <div class="grid">
+{cards_html}
+  </div>"""
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -188,13 +242,11 @@ def _index_page(stories: list[dict]) -> str:
   </header>
 
   <main class="index">
-    <div class="grid">
-{cards_html}
-    </div>
+{hero_html}{grid_html}
   </main>
 
   <footer>
-    <p>TLDR News &copy; {year} &mdash; Updated automatically throughout the day</p>
+    <p>TLDR News &copy; {year} &mdash; Updated automatically throughout the day &mdash; <a href="privacy.html">Privacy Policy</a></p>
   </footer>
 </body>
 </html>"""
@@ -238,6 +290,7 @@ def publish_story(
                 "category": article.category,
                 "source": article.source,
                 "date": datetime.utcnow().strftime("%B %d, %Y"),
+                "image_url": image_url or "",
             })
         stories = stories[:100]  # keep last 100
         stories_file.write_text(json.dumps(stories, indent=2), encoding="utf-8")
