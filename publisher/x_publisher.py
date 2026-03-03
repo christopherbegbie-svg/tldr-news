@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import logging
 import time
+from pathlib import Path
 from typing import Optional
 
 from config.settings import get_settings
@@ -37,7 +38,26 @@ def _get_client():
     )
 
 
-def post_thread(tweets: list[str], dry_run: bool = False) -> Optional[str]:
+def _upload_media(image_path: Path) -> Optional[str]:
+    """Upload image via v1.1 API and return media_id string, or None on failure."""
+    try:
+        import tweepy
+        settings = get_settings()
+        auth = tweepy.OAuth1UserHandler(
+            settings.x_api_key,
+            settings.x_api_secret,
+            settings.x_access_token,
+            settings.x_access_secret,
+        )
+        api_v1 = tweepy.API(auth)
+        media = api_v1.media_upload(filename=str(image_path))
+        return str(media.media_id)
+    except Exception as exc:
+        logger.warning("Media upload failed (posting text-only): %s", exc)
+        return None
+
+
+def post_thread(tweets: list[str], dry_run: bool = False, image_path: Optional[Path] = None) -> Optional[str]:
     """
     Post a list of tweet strings as a thread.
     Returns the URL of the first tweet, or None on failure.
@@ -53,6 +73,8 @@ def post_thread(tweets: list[str], dry_run: bool = False) -> Optional[str]:
         print("\n-- X Thread (DRY RUN) -------------------------------------")
         for i, tweet in enumerate(tweets, 1):
             print(f"  [{i}] {safe(tweet)}")
+        if image_path:
+            print(f"  [IMG] {image_path}")
         print("-----------------------------------------------------------\n")
         return "dry-run://x/thread"
 
@@ -61,10 +83,15 @@ def post_thread(tweets: list[str], dry_run: bool = False) -> Optional[str]:
         first_id: Optional[str] = None
         reply_to: Optional[str] = None
 
+        # Upload image once and attach to tweet 1
+        media_id = _upload_media(image_path) if image_path else None
+
         for i, text in enumerate(tweets):
             kwargs: dict = {"text": text}
             if reply_to:
                 kwargs["in_reply_to_tweet_id"] = reply_to
+            if i == 0 and media_id:
+                kwargs["media_ids"] = [media_id]
 
             response = client.create_tweet(**kwargs)
             tweet_id = str(response.data["id"])

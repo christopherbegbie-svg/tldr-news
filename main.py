@@ -3,9 +3,10 @@
 TLDR News Auto-Poster
 ─────────────────────
 Usage:
-  python main.py               → Start scheduled daemon (posts at configured times)
-  python main.py --dry-run     → Run one cycle now, print output, don't post
-  python main.py --post-now    → Run one cycle now and actually post
+  python main.py                  → Start scheduled daemon (posts at configured times)
+  python main.py --dry-run        → Run one cycle now, print output, don't post
+  python main.py --post-now       → Run one posting cycle immediately (actually posts)
+  python main.py --check-mentions → Check and reply to X mentions
 """
 
 from __future__ import annotations
@@ -41,6 +42,11 @@ def main() -> None:
         action="store_true",
         help="Run one posting cycle immediately (actually posts)",
     )
+    mode.add_argument(
+        "--check-mentions",
+        action="store_true",
+        help="Check X mentions and reply to them",
+    )
     args = parser.parse_args()
 
     # Late imports so .env is loaded before settings are accessed
@@ -59,6 +65,12 @@ def main() -> None:
         logger.info("Running immediate posting cycle.")
         from scheduler.jobs import run_posting_cycle
         run_posting_cycle(dry_run=False)
+
+    elif args.check_mentions:
+        logger.info("Checking X mentions.")
+        from publisher.x_mentions import check_and_reply_mentions
+        n = check_and_reply_mentions()
+        logger.info("Replied to %d mentions.", n)
 
     else:
         logger.info("Starting TLDR scheduler daemon.")

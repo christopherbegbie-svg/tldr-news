@@ -25,7 +25,7 @@ Return a JSON object with exactly these keys:
 {{
   "headline": "A punchy, factual headline (max 10 words)",
   "x_thread": [
-    "Tweet 1: Opening tweet (max 240 chars). Start with 🌍 TLDR | {category_upper}. Then: headline in one punchy sentence. End with a single sentence answering 'why does this matter?' — make it feel urgent or consequential.",
+    "Tweet 1: Hook tweet (max 240 chars). Start with 🌍 TLDR | {category_upper} — then lead with the single most striking fact, number, or quote from the story. Concrete and specific beats vague summaries. End with 1 short sentence on the real-world stakes.",
     "Tweet 2: Key facts — who, what, where, when. Be specific with names, places, numbers. (max 280 chars)",
     "Tweet 3: 1-2 sentences of context or background (max 180 chars). Then on a new line: 📰 Via {source} | {url} | #[topic1] #[topic2] #TLDR #WorldNews  — replace [topic1] and [topic2] with 2 specific hashtags relevant to this story (e.g. #Gaza #Ceasefire or #AI #OpenAI)"
   ],

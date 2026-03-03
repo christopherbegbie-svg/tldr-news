@@ -68,10 +68,12 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
         except Exception as exc:
             logger.error("Image generation failed: %s", exc)
 
-        # 4. Post to X
+        # 4. Post to X (attach image card to tweet 1)
         x_post_id: Optional[str] = None
         if settings.x_enabled or dry_run:
-            x_post_id = x_publisher.post_thread(summary["x_thread"], dry_run=dry_run)
+            x_post_id = x_publisher.post_thread(
+                summary["x_thread"], dry_run=dry_run, image_path=image_path
+            )
 
         # 5. Post to Instagram
         ig_post_id: Optional[str] = None

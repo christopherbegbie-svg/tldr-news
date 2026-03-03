@@ -2,7 +2,7 @@ name: TLDR Reply to Mentions
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # every 30 minutes
+    - cron: '0 * * * *'   # every hour
   workflow_dispatch:
 
 jobs:
@@ -34,13 +34,4 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-        run: |
-          python -c "
-          import sys; sys.path.insert(0, '.')
-          from config.settings import get_settings
-          from database.migrations import init_db
-          settings = get_settings()
-          init_db(settings.db_path)
-          from publisher.x_mentions import check_and_reply_mentions
-          check_and_reply_mentions()
-          "
+        run: python main.py --check-mentions
