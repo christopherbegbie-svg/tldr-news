@@ -29,7 +29,7 @@ Return a JSON object with exactly these keys:
     "Tweet 2: Key facts — who, what, where, when. Be specific with names, places, numbers. (max 280 chars)",
     "Tweet 3: 1-2 sentences of context or background (max 180 chars). Then on a new line: 📰 Via {source} | {url} | #[topic1] #[topic2] #TLDR #WorldNews  — replace [topic1] and [topic2] with 2 specific hashtags relevant to this story (e.g. #Gaza #Ceasefire or #AI #OpenAI)"
   ],
-  "instagram_caption": "• [fact 1]\\n• [fact 2]\\n• [fact 3]\\n• [fact 4]\\n• [fact 5]\\n\\nContext: [1-2 sentence background]\\n\\nSource: {source}\\nFull story: {url}\\n\\n#tldr #news #worldnews #{category_tag}",
+  "instagram_caption": "🌍 [HEADLINE IN ALL CAPS, punchy, max 8 words]\\n\\n━━━━━━━━━━━━━━━━━━━━━━\\n\\n🔹 [fact 1]\\n🔹 [fact 2]\\n🔹 [fact 3]\\n🔹 [fact 4]\\n🔹 [fact 5]\\n\\n━━━━━━━━━━━━━━━━━━━━━━\\n\\n📌 [1-2 sentence context or background]\\n\\n📰 {source}\\n🔗 {url}\\n\\n.\\n.\\n.\\n\\n#tldr #news #worldnews #{category_tag}",
   "card_headline": "Short headline for image card (max 8 words)",
   "card_subheadline": "One-line context for image card (max 12 words)"
 }}

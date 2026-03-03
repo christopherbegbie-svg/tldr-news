@@ -47,7 +47,7 @@ def deduplicate(articles: list[Article]) -> list[Article]:
     return unique
 
 
-MIN_SUMMARY_LENGTH = 80  # skip articles with near-empty excerpts
+MIN_SUMMARY_LENGTH = 150  # skip articles with near-empty excerpts
 
 
 def fetch_all() -> list[Article]:

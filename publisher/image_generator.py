@@ -109,7 +109,7 @@ def create_card(article: Article, summary: SummaryResult) -> Path:
     # ── Fonts ──────────────────────────────────────────────────────────────
     font_logo   = _load_font("Bold", 52)
     font_chip   = _load_font("Bold", 26)
-    font_h1     = _load_font("Bold", 62)
+    font_h1     = _load_font("Bold", 46)
     font_sub    = _load_font("Regular", 34)
     font_source = _load_font("Regular", 28)
     font_brand  = _load_font("Bold", 30)
@@ -141,7 +141,7 @@ def create_card(article: Article, summary: SummaryResult) -> Path:
 
     # ── Headline ───────────────────────────────────────────────────────────
     headline = summary.get("card_headline", article.title)[:80]
-    max_text_width = WIDTH - PADDING * 2 - 30  # account for accent bar + gap
+    max_text_width = WIDTH - PADDING * 2 - 80  # account for accent bar + gap + font metric slack
     lines = _wrap_text(headline, font_h1, max_text_width, draw)[:4]
     h_x = PADDING + 22
     h_y = bar_y + 8
@@ -177,7 +177,7 @@ def create_card(article: Article, summary: SummaryResult) -> Path:
     # ── Brand footer ───────────────────────────────────────────────────────
     draw.text(
         (PADDING, BRAND_Y),
-        "TLDR — Your daily global news digest",
+        "TLDR: Your daily global news digest",
         font=font_brand,
         fill=ACCENT_COLOR,
     )
