@@ -47,12 +47,17 @@ def deduplicate(articles: list[Article]) -> list[Article]:
     return unique
 
 
+MIN_SUMMARY_LENGTH = 80  # skip articles with near-empty excerpts
+
+
 def fetch_all() -> list[Article]:
     """Pull from all sources and return deduplicated, scored articles."""
     rss = fetch_all_rss()
     api = fetch_newsapi()
     combined = rss + api
     logger.info("Total before dedup: %d articles", len(combined))
+    # Drop articles with no useful excerpt — Claude can't summarise them
+    combined = [a for a in combined if len(a.summary.strip()) >= MIN_SUMMARY_LENGTH]
     deduped = deduplicate(combined)
     logger.info("Total after dedup: %d articles", len(deduped))
     return deduped
