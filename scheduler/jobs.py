@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import logging
 import os
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -80,14 +81,28 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
         if image_path:
             web_image_url = instagram_publisher.upload_for_web(image_path)
 
-        # 6. Post to Instagram
+        # 6. Post to Instagram (max 3 per UTC day)
         ig_post_id: Optional[str] = None
-        if image_path and (settings.instagram_enabled or dry_run):
+        today_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        ig_date = db.kv_get("ig_posts_date") or ""
+        ig_count = int(db.kv_get("ig_posts_count") or "0")
+        if ig_date != today_utc:
+            ig_count = 0
+            db.kv_set("ig_posts_date", today_utc)
+            db.kv_set("ig_posts_count", "0")
+        ig_allowed = ig_count < 3
+
+        if image_path and (settings.instagram_enabled or dry_run) and ig_allowed:
             ig_post_id = instagram_publisher.post(
                 image_path,
                 summary["instagram_caption"],
                 dry_run=dry_run,
             )
+            if ig_post_id and not dry_run:
+                db.kv_set("ig_posts_count", str(ig_count + 1))
+            logger.info("Instagram post %d/3 today.", ig_count + 1)
+        elif not ig_allowed:
+            logger.info("Instagram daily limit reached (3/3) — skipping.")
 
         # 7. Publish to website
         web_publisher.publish_story(
