@@ -26,7 +26,7 @@ DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 POSTS_DIR = DOCS_DIR / "posts"
 
 X_HANDLE = "TLDRGlobalNews"
-IG_HANDLE = "tldrglobalnews"
+IG_HANDLE = "TLDRGlobalNews"
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
@@ -138,7 +138,7 @@ def _story_page(
       TLDR News &mdash;
       <a href="../index.html">All stories</a> &mdash;
       <a href="https://twitter.com/{X_HANDLE}" target="_blank">@{X_HANDLE}</a> &mdash;
-      <a href="https://instagram.com/{IG_HANDLE}" target="_blank">@{IG_HANDLE}</a> &mdash;
+      <a href="https://instagram.com/{IG_HANDLE}" target="_blank">{IG_HANDLE}</a> &mdash;
       <a href="../privacy.html">Privacy Policy</a>
     </p>
   </footer>
