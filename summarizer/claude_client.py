@@ -76,7 +76,4 @@ def summarize(article: Article) -> SummaryResult:
 
     except Exception as exc:
         logger.error("Claude summarization failed for '%s': %s", article.title, exc)
-        fallback = dict(_FALLBACK)
-        fallback["headline"] = article.title[:80]
-        fallback["card_headline"] = article.title[:50]
-        return fallback  # type: ignore[return-value]
+        return None

@@ -55,6 +55,10 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
 
         # 2. Summarize with Claude
         summary = claude_client.summarize(article)
+        if summary is None:
+            logger.warning("Summarization failed for '%s' — skipping cycle.", article.title)
+            db.log_run("skipped", f"Summarization failed: {article.title[:80]}")
+            return
         logger.info("Summarized headline: %s", summary["headline"])
 
         # 3. Generate image card
