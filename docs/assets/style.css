@@ -1,0 +1,242 @@
+/* TLDR News — dark theme matching image cards */
+:root {
+  --bg:         #0D1117;
+  --surface:    #161B22;
+  --accent:     #58A6FF;
+  --text:       #E6EDF3;
+  --muted:      #8B949E;
+  --border:     #30363D;
+  --chip-text:  #0D1117;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+a { color: var(--accent); }
+
+/* ── Header ───────────────────────────────────────────────────────────────── */
+
+header {
+  padding: 1.25rem 2rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--accent);
+  text-decoration: none;
+  letter-spacing: -0.5px;
+}
+
+header .tagline { color: var(--muted); font-size: 0.9rem; }
+
+/* Home header */
+.home-header {
+  padding: 3.5rem 2rem 2.5rem;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+  display: block;
+}
+
+.home-header .logo {
+  font-size: 3.5rem;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.home-header .tagline {
+  font-size: 1.15rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.home-header .follow { color: var(--muted); font-size: 0.9rem; }
+.home-header .follow a { text-decoration: none; }
+.home-header .follow a:hover { text-decoration: underline; }
+
+/* ── Index grid ───────────────────────────────────────────────────────────── */
+
+.index { max-width: 960px; margin: 0 auto; padding: 2rem; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.story-card {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  text-decoration: none;
+  color: var(--text);
+  transition: border-color 0.15s, transform 0.1s;
+}
+
+.story-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.card-top {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+
+.story-card h2 {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+}
+
+.source {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+/* ── Category chip ────────────────────────────────────────────────────────── */
+
+.chip {
+  display: inline-block;
+  background: var(--accent);
+  color: var(--chip-text);
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 0.18rem 0.55rem;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+/* ── Date ─────────────────────────────────────────────────────────────────── */
+
+.date {
+  color: var(--muted);
+  font-size: 0.8rem;
+  display: block;
+}
+
+/* ── Story page ───────────────────────────────────────────────────────────── */
+
+.story {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem;
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.story h1 {
+  font-size: 2.1rem;
+  line-height: 1.2;
+  margin-bottom: 0.6rem;
+  letter-spacing: -0.3px;
+}
+
+.subheadline {
+  color: var(--muted);
+  font-size: 1.1rem;
+  margin-bottom: 1.75rem;
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1.75rem;
+  border: 1px solid var(--border);
+}
+
+/* ── Fact list ────────────────────────────────────────────────────────────── */
+
+.facts {
+  list-style: none;
+  margin: 1.5rem 0;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.facts li {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  gap: 0.6rem;
+  font-size: 0.97rem;
+}
+
+.facts li:last-child { border-bottom: none; }
+
+.facts li::before {
+  content: "▸";
+  color: var(--accent);
+  flex-shrink: 0;
+  font-weight: 700;
+}
+
+/* ── Source link ──────────────────────────────────────────────────────────── */
+
+.source-link {
+  margin: 2rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.source-link a {
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.source-link a:hover { text-decoration: underline; }
+
+/* ── AdSense spacing ──────────────────────────────────────────────────────── */
+
+.adsbygoogle { margin: 1.75rem 0; }
+
+/* ── Footer ───────────────────────────────────────────────────────────────── */
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 1.5rem 2rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 3rem;
+}
+
+footer a { text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+
+/* ── Responsive ───────────────────────────────────────────────────────────── */
+
+@media (max-width: 640px) {
+  .story { padding: 1.25rem 1rem; }
+  .story h1 { font-size: 1.6rem; }
+  .grid { grid-template-columns: 1fr; }
+  header { padding: 1rem; }
+  .home-header { padding: 2rem 1rem; }
+  .home-header .logo { font-size: 2.5rem; }
+}

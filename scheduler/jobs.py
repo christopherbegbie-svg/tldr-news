@@ -15,7 +15,7 @@ from apscheduler.triggers.cron import CronTrigger
 from config.settings import get_settings
 from database import migrations, store as db
 from news import aggregator
-from publisher import image_generator, instagram_publisher, x_publisher, x_mentions
+from publisher import image_generator, instagram_publisher, web_publisher, x_publisher, x_mentions
 from summarizer import claude_client
 
 logger = logging.getLogger(__name__)
@@ -75,7 +75,12 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
                 summary["x_thread"], dry_run=dry_run, image_path=image_path
             )
 
-        # 5. Post to Instagram
+        # 5. Upload image permanently for website (before Instagram uses/deletes it)
+        web_image_url: Optional[str] = None
+        if image_path:
+            web_image_url = instagram_publisher.upload_for_web(image_path)
+
+        # 6. Post to Instagram
         ig_post_id: Optional[str] = None
         if image_path and (settings.instagram_enabled or dry_run):
             ig_post_id = instagram_publisher.post(
@@ -84,7 +89,16 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
                 dry_run=dry_run,
             )
 
-        # 6. Record in DB (even in dry_run, so we don't re-select same story)
+        # 7. Publish to website
+        web_publisher.publish_story(
+            article,
+            summary,
+            image_url=web_image_url,
+            adsense_id=settings.adsense_publisher_id,
+        )
+        logger.info("Web story published.")
+
+        # 8. Record in DB (even in dry_run, so we don't re-select same story)
         if not dry_run:
             db.record_post(
                 content_hash=article.content_hash,
@@ -96,7 +110,7 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
                 instagram_post_id=ig_post_id,
             )
 
-        # 7. Clean up temp image
+        # 9. Clean up temp image
         if image_path and image_path.exists():
             try:
                 os.unlink(image_path)

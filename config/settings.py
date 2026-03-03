@@ -34,6 +34,9 @@ class Settings(BaseSettings):
     # NewsAPI
     newsapi_key: Optional[str] = None
 
+    # Website / AdSense (optional — add once AdSense account approved)
+    adsense_publisher_id: Optional[str] = None  # e.g. ca-pub-XXXXXXXXXXXXXXXX
+
     # Scheduling (comma-separated 24h times, UTC)
     post_times: str = "08:00,12:00,17:00,21:00"
 

@@ -40,6 +40,28 @@ def _upload_to_imgbb(image_path: Path, api_key: str) -> str:
     return resp.json()["data"]["url"]
 
 
+def upload_for_web(image_path: Path) -> Optional[str]:
+    """Upload image to imgbb permanently (no expiry) for use on the website."""
+    settings = get_settings()
+    if not settings.imgbb_api_key:
+        return None
+    try:
+        with open(image_path, "rb") as f:
+            image_b64 = base64.b64encode(f.read()).decode("utf-8")
+        resp = requests.post(
+            "https://api.imgbb.com/1/upload",
+            data={"key": settings.imgbb_api_key, "image": image_b64},
+            timeout=30,
+        )
+        resp.raise_for_status()
+        url = resp.json()["data"]["url"]
+        logger.info("Image uploaded permanently for web: %s", url)
+        return url
+    except Exception as exc:
+        logger.error("imgbb permanent upload failed: %s", exc)
+        return None
+
+
 def _create_container(ig_id: str, image_url: str, caption: str, token: str) -> str:
     """Create an Instagram media container and return its ID."""
     resp = requests.post(

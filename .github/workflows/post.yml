@@ -1,5 +1,9 @@
 name: TLDR Post
 
+concurrency:
+  group: tldr-post
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: '0 0 * * *'    # 00:00 UTC — 8pm EST / peak US evening
@@ -49,4 +53,12 @@ jobs:
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
           IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          ADSENSE_PUBLISHER_ID: ${{ secrets.ADSENSE_PUBLISHER_ID }}
         run: python main.py --post-now
+
+      - name: Publish website
+        run: |
+          git config user.name "TLDR Bot"
+          git config user.email "actions@github.com"
+          git add docs/
+          git diff --staged --quiet || (git commit -m "auto: publish story [skip ci]" && git push)
