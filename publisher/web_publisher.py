@@ -95,12 +95,14 @@ def _story_page(
 
     # JSON-LD NewsArticle schema
     schema_image = f'"{html.escape(image_url)}"' if image_url else 'null'
+    schema_headline = summary.get('card_headline', article.title).replace('"', '&quot;')
+    schema_description = (facts[0] if facts else subheadline).replace('"', '&quot;')
     json_ld = f"""<script type="application/ld+json">
 {{
   "@context": "https://schema.org",
   "@type": "NewsArticle",
-  "headline": "{summary.get('card_headline', article.title).replace('"', '\\"')}",
-  "description": "{(facts[0] if facts else subheadline).replace('"', '\\"')}",
+  "headline": "{schema_headline}",
+  "description": "{schema_description}",
   "datePublished": "{date_iso}",
   "image": {schema_image},
   "url": "{canonical_url}",
