@@ -72,7 +72,7 @@ def _generate_reply(mention_text: str, post_topic: str) -> Optional[str]:
             messages=[{"role": "user", "content": build_reply_prompt(post_topic, mention_text)}],
         )
         reply = msg.content[0].text.strip()
-        if reply.upper() == "SKIP" or not reply:
+        if reply.upper().startswith("SKIP") or not reply:
             return None
         # Hard cap at 270 chars to leave room for the @mention prefix X adds
         return reply[:270]
