@@ -75,8 +75,8 @@ RSS_FEEDS = [
         "trust": 0.9,
     },
     {
-        "name": "Financial Times",
-        "url": "https://www.ft.com/world?format=rss",
+        "name": "Reuters Business",
+        "url": "https://feeds.reuters.com/reuters/businessNews",
         "category": "business",
         "trust": 0.95,
     },
