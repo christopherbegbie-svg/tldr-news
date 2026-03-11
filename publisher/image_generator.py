@@ -183,7 +183,7 @@ def create_card(article: Article, summary: SummaryResult) -> Path:
     )
     draw.text(
         (WIDTH - PADDING - 120, BRAND_Y),
-        "@tldr_news",
+        "@TLDRGlobalNews",
         font=font_brand,
         fill=TEXT_SECONDARY,
     )
