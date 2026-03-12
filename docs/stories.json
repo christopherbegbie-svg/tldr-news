@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-12-red-state-cities-debate-ice-resistance",
+    "title": "Red state cities debate ICE resistance",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "March 12, 2026",
+    "image_url": "https://i.ibb.co/qYkCZKYr/43e5df633fc3.png"
+  },
+  {
     "slug": "2026-03-12-nasa-spacecraft-completes-atmospheric-re-entry",
     "title": "Nasa spacecraft completes atmospheric re-entry",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "March 06, 2026",
     "image_url": "https://i.ibb.co/KczDCgGC/537b8211e8ae.png"
-  },
-  {
-    "slug": "2026-03-06-obesity-drug-could-cost-3-monthly",
-    "title": "Obesity drug could cost $3 monthly",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "March 06, 2026",
-    "image_url": "https://i.ibb.co/xtKxCNdT/3ea6be14b528.png"
   }
 ]
