@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-14-weekly-political-cartoons-capture-nations-news",
+    "title": "Weekly political cartoons capture nation's news",
+    "category": "politics",
+    "source": "Politico",
+    "date": "March 14, 2026",
+    "image_url": "https://i.ibb.co/FqygHHBD/5ae1bc478af4.png"
+  },
+  {
     "slug": "2026-03-14-australia-battles-inflation-and-property-market-rules",
     "title": "Australia battles inflation and property market rules",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "March 08, 2026",
     "image_url": "https://i.ibb.co/0pw85DvV/4b4feff9d14e.png"
-  },
-  {
-    "slug": "2026-03-08-israel-targets-tehran-oil-infrastructure",
-    "title": "Israel targets Tehran oil infrastructure",
-    "category": "world",
-    "source": "France 24",
-    "date": "March 08, 2026",
-    "image_url": "https://i.ibb.co/fGqmNjbD/f6e3f99d8460.png"
   }
 ]
