@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-14-nations-cartoonists-react-to-politics",
+    "title": "Nation's cartoonists react to politics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "March 14, 2026",
+    "image_url": "https://i.ibb.co/9kgjXrJk/17237d0b0887.png"
+  },
+  {
     "slug": "2026-03-13-potomac-sewage-spill-sparks-class-action-suit",
     "title": "Potomac sewage spill sparks class-action suit",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 07, 2026",
     "image_url": "https://i.ibb.co/9H8CWCBL/204f8451e731.png"
-  },
-  {
-    "slug": "2026-03-07-kdpi-leader-addresses-iran-kurdish-issues",
-    "title": "KDPI leader addresses Iran Kurdish issues",
-    "category": "world",
-    "source": "France 24",
-    "date": "March 07, 2026",
-    "image_url": "https://i.ibb.co/FLpfzDPD/494b41c34dc0.png"
   }
 ]
