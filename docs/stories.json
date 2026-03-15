@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-15-australia-flooding-reaches-longreach",
+    "title": "Australia flooding reaches Longreach",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "March 15, 2026",
+    "image_url": "https://i.ibb.co/LXvSq81b/2b7a9f60260a.png"
+  },
+  {
     "slug": "2026-03-14-weekly-political-cartoons-capture-nations-news",
     "title": "Weekly political cartoons capture nation's news",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 08, 2026",
     "image_url": "https://i.ibb.co/6cn66d63/3c9485875447.png"
-  },
-  {
-    "slug": "2026-03-08-australia-evacuates-officials-amid-twin-crises",
-    "title": "Australia evacuates officials amid twin crises",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "March 08, 2026",
-    "image_url": "https://i.ibb.co/0pw85DvV/4b4feff9d14e.png"
   }
 ]
