@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-15-nations-cartoonists-capture-politics-this-week",
+    "title": "Nation's cartoonists capture politics this week",
+    "category": "politics",
+    "source": "Politico",
+    "date": "March 15, 2026",
+    "image_url": "https://i.ibb.co/k6q6kTDt/105d1f219e13.png"
+  },
+  {
     "slug": "2026-03-15-trump-calls-for-warships-amid-iran-tensions",
     "title": "Trump calls for warships amid Iran tensions",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 09, 2026",
     "image_url": "https://i.ibb.co/cSzYCjym/8d11bee39bd3.png"
-  },
-  {
-    "slug": "2026-03-09-nationals-select-army-colonel-for-farrer",
-    "title": "Nationals select army colonel for Farrer",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "March 09, 2026",
-    "image_url": "https://i.ibb.co/3Yy7T8FS/9d25eefa14a8.png"
   }
 ]
