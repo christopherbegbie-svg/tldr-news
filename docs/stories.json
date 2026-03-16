@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-16-usa-claims-24-medals-at-winter-paralympics",
+    "title": "USA claims 24 medals at Winter Paralympics",
+    "category": "world",
+    "source": "NPR News",
+    "date": "March 16, 2026",
+    "image_url": "https://i.ibb.co/60W25TsM/3778eeb4c370.png"
+  },
+  {
     "slug": "2026-03-16-democrats-weigh-generational-shift-in-chicago-race",
     "title": "Democrats weigh generational shift in Chicago race",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "March 10, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-03-10-china-north-korea-trains-resume-after-six-years",
-    "title": "China-North Korea trains resume after six years",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "March 10, 2026",
-    "image_url": "https://i.ibb.co/vvJkrQYC/2cad1771ba47.png"
   }
 ]
