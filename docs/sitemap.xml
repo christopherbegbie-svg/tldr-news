@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-03-16-cyclone-warning-and-fire-ant-spread-in-australia.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-15-hybrid-cars-surge-past-petrol-in-australia.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-09-trump-calls-albanese-at-2am-on-iran.html</loc>
-    <lastmod>2026-03-09</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-03-09-trump-calls-australian-pm-about-iranian-team.html</loc>
     <lastmod>2026-03-09</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
