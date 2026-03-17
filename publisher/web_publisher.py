@@ -217,7 +217,7 @@ def _story_page(
 </html>"""
 
 
-def _index_page(stories: list[dict]) -> str:
+def _index_page(stories: list[dict], adsense_id: Optional[str] = None) -> str:
     year = datetime.utcnow().year
     hero_html = ""
     grid_html = ""
@@ -302,6 +302,7 @@ def _index_page(stories: list[dict]) -> str:
   <meta property="og:url" content="{SITE_URL}/">
   <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="assets/style.css">
+  {f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={html.escape(adsense_id)}" crossorigin="anonymous"></script>' if adsense_id else ""}
 </head>
 <body>
   <header class="home-header">
@@ -397,7 +398,7 @@ def publish_story(
         (POSTS_DIR / f"{slug}.html").write_text(story_html, encoding="utf-8")
 
         # Rebuild index.html
-        (DOCS_DIR / "index.html").write_text(_index_page(stories), encoding="utf-8")
+        (DOCS_DIR / "index.html").write_text(_index_page(stories, adsense_id=adsense_id), encoding="utf-8")
 
         # Rebuild sitemap.xml
         (DOCS_DIR / "sitemap.xml").write_text(_sitemap(stories), encoding="utf-8")
