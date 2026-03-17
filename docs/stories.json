@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-17-fishing-nets-stop-flying-bombs",
+    "title": "Fishing Nets Stop Flying Bombs",
+    "category": "world",
+    "source": "NPR News",
+    "date": "March 17, 2026",
+    "image_url": "https://i.ibb.co/FbH3z8vP/5917b34d822b.png"
+  },
+  {
     "slug": "2026-03-17-trump-shifts-war-strategy-expands-tariffs",
     "title": "Trump shifts war strategy, expands tariffs",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 11, 2026",
     "image_url": "https://i.ibb.co/Kjwvf8sp/ffa59d59c12b.png"
-  },
-  {
-    "slug": "2026-03-11-georgia-runoff-set-in-mtg-replacement-race",
-    "title": "Georgia runoff set in MTG replacement race",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 11, 2026",
-    "image_url": "https://i.ibb.co/XgGCRZd/35408e2da4cf.png"
   }
 ]
