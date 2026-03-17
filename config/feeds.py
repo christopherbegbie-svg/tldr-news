@@ -93,6 +93,99 @@ RSS_FEEDS = [
         "category": "science",
         "trust": 0.9,
     },
+    {
+        "name": "Scientific American",
+        "url": "https://www.scientificamerican.com/feed/",
+        "category": "science",
+        "trust": 0.9,
+    },
+    # ── Economics ─────────────────────────────────────────────────────────
+    {
+        "name": "Economist Free",
+        "url": "https://www.economist.com/finance-and-economics/rss.xml",
+        "category": "economics",
+        "trust": 0.95,
+    },
+    {
+        "name": "NPR Economics",
+        "url": "https://feeds.npr.org/1017/rss.xml",
+        "category": "economics",
+        "trust": 0.9,
+    },
+    # ── History ───────────────────────────────────────────────────────────
+    {
+        "name": "BBC History",
+        "url": "http://feeds.bbci.co.uk/history/rss.xml",
+        "category": "history",
+        "trust": 0.9,
+    },
+    {
+        "name": "Smithsonian Magazine",
+        "url": "https://www.smithsonianmag.com/rss/latest_articles/",
+        "category": "history",
+        "trust": 0.85,
+    },
+    # ── Math ──────────────────────────────────────────────────────────────
+    {
+        "name": "AMS News",
+        "url": "https://www.ams.org/rss/news.xml",
+        "category": "math",
+        "trust": 0.9,
+    },
+    # ── Literature ────────────────────────────────────────────────────────
+    {
+        "name": "The Guardian Books",
+        "url": "https://www.theguardian.com/books/rss",
+        "category": "literature",
+        "trust": 0.9,
+    },
+    # ── Physics ───────────────────────────────────────────────────────────
+    {
+        "name": "Physics World",
+        "url": "https://physicsworld.com/feed/",
+        "category": "physics",
+        "trust": 0.9,
+    },
+    # ── Engineering ───────────────────────────────────────────────────────
+    {
+        "name": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/rss",
+        "category": "engineering",
+        "trust": 0.9,
+    },
+    # ── Farming/Agriculture ───────────────────────────────────────────────
+    {
+        "name": "USDA News",
+        "url": "https://www.usda.gov/rss/usda.xml",
+        "category": "farming",
+        "trust": 0.8,
+    },
+    # ── AI ────────────────────────────────────────────────────────────────
+    {
+        "name": "MIT Technology Review AI",
+        "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+        "category": "ai",
+        "trust": 0.9,
+    },
+    {
+        "name": "AI News",
+        "url": "https://artificialintelligence-news.com/feed/",
+        "category": "ai",
+        "trust": 0.8,
+    },
+    # ── Coding ────────────────────────────────────────────────────────────
+    {
+        "name": "Hacker News",
+        "url": "https://hnrss.org/frontpage",
+        "category": "coding",
+        "trust": 0.7,
+    },
+    {
+        "name": "Reddit Programming",
+        "url": "https://www.reddit.com/r/programming/.rss",
+        "category": "coding",
+        "trust": 0.6,
+    },
     # ── Regional voices ───────────────────────────────────────────────────
     {
         "name": "The Hindu",

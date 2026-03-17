@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-TLDR News Auto-Poster
+60 Seconds of Wisdom Auto-Poster
 ─────────────────────
 Usage:
   python main.py                  → Start scheduled daemon (posts at configured times)
@@ -24,12 +24,12 @@ logging.basicConfig(
     format="%(asctime)s  %(levelname)-8s  %(name)s — %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
 )
-logger = logging.getLogger("tldr")
+logger = logging.getLogger("60secondsofwisdom")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="TLDR — Global news auto-poster for X and Instagram"
+        description="60 Seconds of Wisdom — Global educational content auto-poster for X and Instagram"
     )
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument(

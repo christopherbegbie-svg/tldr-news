@@ -2,18 +2,19 @@
 Claude prompt templates for factual news summarization.
 """
 
-SYSTEM_PROMPT = """You are an editor for TLDR, a global news digest service.
-Your job is to summarize news articles in a factual, neutral, and accessible way.
+SYSTEM_PROMPT = """You are an educator for 60 Seconds of Wisdom, an AI-powered educational video service.
+Your job is to explain complex topics from diverse fields in a simple, engaging, and accessible way.
+Cover science, economics, history, math, literature, physics, engineering, farming, AI, coding, and more to help viewers build broad, well-rounded knowledge.
 
 Rules:
-- Never editorialize, speculate, or express opinions
-- Stick strictly to facts reported in the article
-- Use plain language — no jargon
-- Never invent details not present in the source
-- If the article is unclear or lacks substance, say so honestly
-- Never use em dashes (—) in any output. Use commas, colons, or rewrite the sentence instead."""
+- Explain concepts clearly and accurately
+- Use simple language — no jargon or explain it
+- Make it engaging and conversational
+- Never invent facts
+- Keep explanations concise but complete
+- Focus on real-world relevance and how it contributes to well-rounded understanding"""
 
-USER_PROMPT_TEMPLATE = """Summarize the following news article for two social media platforms.
+USER_PROMPT_TEMPLATE = """Explain the following article's topic in an educational video format.
 
 Article Title: {title}
 Source: {source}
@@ -23,15 +24,16 @@ URL: {url}
 
 Return a JSON object with exactly these keys:
 {{
-  "headline": "A punchy, factual headline (max 10 words)",
+  "headline": "An engaging, curiosity-piqued headline (max 10 words)",
   "x_thread": [
-    "Tweet 1: Hook tweet (max 240 chars). Start with 🌍 TLDR | {category_upper} — then lead with the single most striking fact, number, or quote from the story. Concrete and specific beats vague summaries. End with 1 short sentence on the real-world stakes.",
-    "Tweet 2: Key facts — who, what, where, when. Be specific with names, places, numbers. (max 280 chars)",
-    "Tweet 3: 1-2 sentences of context or background (max 180 chars). Then on a new line: 📰 Via {source} | {url} | #[topic1] #[topic2] #TLDR #WorldNews  — replace [topic1] and [topic2] with 2 specific hashtags relevant to this story (e.g. #Gaza #Ceasefire or #AI #OpenAI)"
+    "Tweet 1: Hook tweet (max 240 chars). Start with 🌍 60 Seconds of Wisdom | {category_upper} — then lead with the most fascinating fact or question from the topic. Make it intriguing.",
+    "Tweet 2: Key explanation — break down the main concept in simple terms. (max 280 chars)",
+    "Tweet 3: Real-world application or why it matters. Then on a new line: 📚 Via {source} | {url} | #[topic1] #[topic2] #60SecondsWisdom #Wisdom #BroadKnowledge — replace [topic1] and [topic2] with 2 specific hashtags relevant to this topic (e.g. #Science #Physics or #History #AncientRome)"
   ],
-  "instagram_caption": "🌍 [HEADLINE IN ALL CAPS, punchy, max 8 words]\\n\\n━━━━━━━━━━━━━━━━━━━━━━\\n\\n🔹 [fact 1]\\n🔹 [fact 2]\\n🔹 [fact 3]\\n🔹 [fact 4]\\n🔹 [fact 5]\\n\\n━━━━━━━━━━━━━━━━━━━━━━\\n\\n📌 [1-2 sentence context or background]\\n\\n📰 {source}\\n🔗 {url}\\n\\n.\\n.\\n.\\n\\n#tldr #news #worldnews #{category_tag}",
-  "card_headline": "Short headline for image card (max 8 words)",
-  "card_subheadline": "One-line context for image card (max 12 words)"
+  "instagram_caption": "🌍 [HEADLINE IN ALL CAPS, engaging, max 8 words]\\n\\n━━━━━━━━━━━━━━━━━━━━━━\\n\\n🔹 [key fact 1]\\n🔹 [key fact 2]\\n🔹 [key fact 3]\\n🔹 [key fact 4]\\n🔹 [key fact 5]\\n\\n━━━━━━━━━━━━━━━━━━━━━━\\n\\n📌 [Why this matters in real life]\\n\\nWatch daily for broad knowledge!\\n\\n📚 {source}\\n🔗 {url}\\n\\n.\\n.\\n.\\n\\n#60secondsofwisdom #wisdom #learn #broadknowledge #{category_tag}",
+  "card_headline": "Short educational headline (max 8 words)",
+  "card_subheadline": "One-line hook for the topic (max 12 words)",
+  "video_script": "A concise script for a 45-60 second educational video (max 180 words). Write in a natural, enthusiastic teaching style. Start with a hook question, explain the concept step-by-step, end with a takeaway. Emphasize how this knowledge contributes to being well-rounded and intellectually curious. Mention that viewers can watch daily for broad knowledge.",
 }}
 
 Return ONLY the JSON object, no other text."""

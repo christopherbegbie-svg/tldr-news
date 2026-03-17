@@ -366,6 +366,7 @@ def publish_story(
         DOCS_DIR.mkdir(exist_ok=True)
         POSTS_DIR.mkdir(exist_ok=True)
         (DOCS_DIR / "assets").mkdir(exist_ok=True)
+        (DOCS_DIR / "CNAME").write_text("tldrglobalnews.com", encoding="utf-8")
 
         date_prefix = datetime.utcnow().strftime("%Y-%m-%d")
         slug = f"{date_prefix}-{_slug(summary.get('card_headline', article.title))}"

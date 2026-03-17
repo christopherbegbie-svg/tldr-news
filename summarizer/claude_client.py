@@ -26,14 +26,16 @@ class SummaryResult(TypedDict):
     instagram_caption: str
     card_headline: str
     card_subheadline: str
+    video_script: str
 
 
 _FALLBACK: SummaryResult = {
-    "headline": "Breaking news",
-    "x_thread": ["🌍 TLDR | WORLD — Breaking news. Check the source for details. #TLDR"],
-    "instagram_caption": "• Breaking news — details emerging.\n\n#tldr #news #worldnews",
-    "card_headline": "Breaking news",
-    "card_subheadline": "Details emerging",
+    "headline": "Fascinating discovery",
+    "x_thread": ["🌍 60 Seconds of Wisdom | SCIENCE — Did you know this amazing fact? Check it out. #60SecondsWisdom #BroadKnowledge"],
+    "instagram_caption": "• Fascinating topic — learn something new.\n\nWatch daily for broad knowledge!\n\n#60secondsofwisdom #wisdom #learn #broadknowledge",
+    "card_headline": "Fascinating discovery",
+    "card_subheadline": "Learn something new today",
+    "video_script": "Today we're exploring a fascinating topic. Here's what you need to know in simple terms. This concept matters because... Check the source for more details."
 }
 
 

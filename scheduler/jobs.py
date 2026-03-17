@@ -30,7 +30,7 @@ def run_posting_cycle(dry_run: Optional[bool] = None) -> None:
     if dry_run is None:
         dry_run = settings.dry_run
 
-    logger.info("=== TLDR posting cycle started (dry_run=%s) ===", dry_run)
+    logger.info("=== 60 Seconds of Wisdom posting cycle started (dry_run=%s) ===", dry_run)
     db.log_run("started")
 
     try:
