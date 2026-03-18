@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-18-moneys-role-in-winning-elections",
+    "title": "Money's Role in Winning Elections",
+    "category": "politics",
+    "source": "Politico",
+    "date": "March 18, 2026",
+    "image_url": "https://i.ibb.co/gK9dNXT/74c8ded877d0.png"
+  },
+  {
     "slug": "2026-03-18-when-global-tensions-reach-allied-nations",
     "title": "When Global Tensions Reach Allied Nations",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 11, 2026",
     "image_url": "https://i.ibb.co/JwxxH88H/d1c1121b996b.png"
-  },
-  {
-    "slug": "2026-03-11-us-attacks-iranian-vessels-near-hormuz",
-    "title": "US attacks Iranian vessels near Hormuz",
-    "category": "world",
-    "source": "NPR News",
-    "date": "March 11, 2026",
-    "image_url": "https://i.ibb.co/BVwczFYg/a72d5df1e9f4.png"
   }
 ]
