@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-18-separating-rumor-from-military-reality",
+    "title": "Separating Rumor From Military Reality",
+    "category": "world",
+    "source": "France 24",
+    "date": "March 18, 2026",
+    "image_url": "https://i.ibb.co/ymtbtGB7/2d4866d92182.png"
+  },
+  {
     "slug": "2026-03-18-californias-gas-price-spike-explained",
     "title": "California's Gas Price Spike Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 11, 2026",
     "image_url": "https://i.ibb.co/93b2DBzh/3c925a9b9b01.png"
-  },
-  {
-    "slug": "2026-03-11-georgia-mississippi-primaries-reveal-party-dynamics",
-    "title": "Georgia, Mississippi primaries reveal party dynamics",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 11, 2026",
-    "image_url": "https://i.ibb.co/Xx4y6WZh/31553b0f663e.png"
   }
 ]
