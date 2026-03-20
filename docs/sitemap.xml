@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-03-20</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-03-20-states-push-voter-id-laws-independently.html</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-19-environmental-ruling-reversal-sparks-legal-fight.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-11-poll-americans-divided-on-guard-at-voting-sites.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-03-11-israel-strikes-hezbollah-targets-in-beirut.html</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
