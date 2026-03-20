@@ -7,6 +7,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://tldrglobalnews.com/posts/2026-03-20-why-did-radio-news-disappear.html</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-20-states-push-voter-id-laws-independently.html</loc>
     <lastmod>2026-03-20</lastmod>
     <changefreq>never</changefreq>
@@ -597,12 +603,6 @@
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-12-australia-cuts-fuel-standards-temporarily.html</loc>
     <lastmod>2026-03-12</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-03-11-poll-americans-divided-on-guard-at-voting-sites.html</loc>
-    <lastmod>2026-03-11</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
