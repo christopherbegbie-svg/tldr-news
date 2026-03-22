@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-22-the-hidden-cost-of-frictionless-ai",
+    "title": "The Hidden Cost of Frictionless AI",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "March 22, 2026",
+    "image_url": "https://i.ibb.co/hFzMG4TK/b4c6e7684458.png"
+  },
+  {
     "slug": "2026-03-22-who-was-robert-mueller",
     "title": "Who Was Robert Mueller?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "March 12, 2026",
     "image_url": "https://i.ibb.co/9m6fJcxk/2758f7be1aca.png"
-  },
-  {
-    "slug": "2026-03-12-red-state-cities-debate-ice-resistance",
-    "title": "Red state cities debate ICE resistance",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 12, 2026",
-    "image_url": "https://i.ibb.co/qYkCZKYr/43e5df633fc3.png"
   }
 ]
