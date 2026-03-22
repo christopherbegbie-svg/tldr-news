@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-22-who-was-robert-mueller",
+    "title": "Who Was Robert Mueller?",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "March 22, 2026",
+    "image_url": "https://i.ibb.co/fzCgZxQj/53c7d484cf75.png"
+  },
+  {
     "slug": "2026-03-22-political-groups-choose-strategic-silence",
     "title": "Political Groups Choose Strategic Silence",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 12, 2026",
     "image_url": "https://i.ibb.co/qYkCZKYr/43e5df633fc3.png"
-  },
-  {
-    "slug": "2026-03-12-nasa-spacecraft-completes-atmospheric-re-entry",
-    "title": "Nasa spacecraft completes atmospheric re-entry",
-    "category": "science",
-    "source": "BBC Science",
-    "date": "March 12, 2026",
-    "image_url": "https://i.ibb.co/DP0c9XzQ/e27ed63f7ada.png"
   }
 ]
