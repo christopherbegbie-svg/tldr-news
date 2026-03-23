@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-23-ransomware-from-prank-to-criminal-empire",
+    "title": "Ransomware: From Prank to Criminal Empire",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "March 23, 2026",
+    "image_url": "https://i.ibb.co/ZzH0fhRK/d37f4d54d9d9.png"
+  },
+  {
     "slug": "2026-03-23-cyclones-cross-continents-heres-how",
     "title": "Cyclones Cross Continents: Here's How",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "March 12, 2026",
     "image_url": "https://i.ibb.co/mCtd0w79/0807d5081c2c.png"
-  },
-  {
-    "slug": "2026-03-12-australia-evacuates-officials-from-israel-uae",
-    "title": "Australia evacuates officials from Israel, UAE",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "March 12, 2026",
-    "image_url": "https://i.ibb.co/VcVbS2Jd/4fb1cb16b80f.png"
   }
 ]
