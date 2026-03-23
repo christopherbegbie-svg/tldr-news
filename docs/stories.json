@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-23-cyclones-cross-continents-heres-how",
+    "title": "Cyclones Cross Continents: Here's How",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "March 23, 2026",
+    "image_url": "https://i.ibb.co/G4DXv9L0/f172167d0006.png"
+  },
+  {
     "slug": "2026-03-22-shutdowns-and-airport-chaos-explained",
     "title": "Shutdowns and Airport Chaos Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 12, 2026",
     "image_url": "https://i.ibb.co/VcVbS2Jd/4fb1cb16b80f.png"
-  },
-  {
-    "slug": "2026-03-12-maga-coalition-lobbies-trump-on-deportations",
-    "title": "MAGA coalition lobbies Trump on deportations",
-    "category": "politics",
-    "source": "Politico",
-    "date": "March 12, 2026",
-    "image_url": "https://i.ibb.co/QzNRNyb/dc4a31a5538d.png"
   }
 ]
