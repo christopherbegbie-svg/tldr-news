@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-25-oil-prices-and-your-wallet",
+    "title": "Oil Prices and Your Wallet",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "March 25, 2026",
+    "image_url": "https://i.ibb.co/9H1c9LpM/6917d93c19b1.png"
+  },
+  {
     "slug": "2026-03-25-government-investment-saves-factories",
     "title": "Government Investment Saves Factories",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "March 13, 2026",
     "image_url": "https://i.ibb.co/pjcHTRkN/3825781d7463.png"
-  },
-  {
-    "slug": "2026-03-13-nations-cartoonists-capture-weekly-politics",
-    "title": "Nation's cartoonists capture weekly politics",
-    "category": "politics",
-    "source": "Politico",
-    "date": "March 13, 2026",
-    "image_url": "https://i.ibb.co/hR59Mx9z/17dad26ebaab.png"
   }
 ]
