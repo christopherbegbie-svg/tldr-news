@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-27-political-cartoons-shape-democracy",
+    "title": "Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "March 27, 2026",
+    "image_url": "https://i.ibb.co/mVVg49Ds/15416c887e80.png"
+  },
+  {
     "slug": "2026-03-27-government-transparency-and-accountability-explained",
     "title": "Government Transparency and Accountability Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 13, 2026",
     "image_url": "https://i.ibb.co/wNjp8yVT/44327e29a9e0.png"
-  },
-  {
-    "slug": "2026-03-13-weekly-political-cartoon-roundup-published",
-    "title": "Weekly political cartoon roundup published",
-    "category": "politics",
-    "source": "Politico",
-    "date": "March 13, 2026",
-    "image_url": "https://i.ibb.co/Mx0hz6Z6/d3bd8de53a0c.png"
   }
 ]
