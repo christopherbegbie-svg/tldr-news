@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-27-the-unsung-heroes-of-scientific-research",
+    "title": "The Unsung Heroes of Scientific Research",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "March 27, 2026",
+    "image_url": "https://i.ibb.co/0Tzs8J8/450f1778407f.png"
+  },
+  {
     "slug": "2026-03-27-political-cartoons-shape-democracy",
     "title": "Political Cartoons Shape Democracy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "March 13, 2026",
     "image_url": "https://i.ibb.co/Xk3T4VKv/d8cc57a5a940.png"
-  },
-  {
-    "slug": "2026-03-13-gop-silence-on-anti-muslim-rhetoric-marks-shift",
-    "title": "GOP silence on anti-Muslim rhetoric marks shift",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 13, 2026",
-    "image_url": "https://i.ibb.co/wNjp8yVT/44327e29a9e0.png"
   }
 ]
