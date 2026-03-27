@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-03-26</lastmod>
+    <lastmod>2026-03-27</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-03-27-government-transparency-and-accountability-explained.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-26-tropical-cyclones-natures-most-powerful-storms.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-13-weekly-political-cartoon-roundup-published.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-03-13-scientists-vaccinate-bats-to-stop-disease-spread.html</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
