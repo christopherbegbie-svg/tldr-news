@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-03-30</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-03-30-political-preselections-and-party-accountability.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-29-democracy-in-action-protests-and-policy.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-14-minister-blocks-aboriginal-poet-theatre-name.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-03-14-rubio-holds-dual-foreign-policy-posts.html</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
