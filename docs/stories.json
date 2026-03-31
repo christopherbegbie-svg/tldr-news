@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-03-31-heroes-and-flaws-reckoning-with-history",
+    "title": "Heroes and Flaws: Reckoning with History",
+    "category": "world",
+    "source": "NPR News",
+    "date": "March 31, 2026",
+    "image_url": "https://i.ibb.co/j9TQbwJ9/65f620132fcd.png"
+  },
+  {
     "slug": "2026-03-31-inflation-rising-what-it-really-means",
     "title": "Inflation Rising: What It Really Means",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 15, 2026",
     "image_url": "https://i.ibb.co/LXvSq81b/2b7a9f60260a.png"
-  },
-  {
-    "slug": "2026-03-14-weekly-political-cartoons-capture-nations-news",
-    "title": "Weekly political cartoons capture nation's news",
-    "category": "politics",
-    "source": "Politico",
-    "date": "March 14, 2026",
-    "image_url": "https://i.ibb.co/FqygHHBD/5ae1bc478af4.png"
   }
 ]
