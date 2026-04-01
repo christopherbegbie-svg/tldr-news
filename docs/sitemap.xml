@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-04-01-fuel-costs-and-congressional-control.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-31-oil-markets-react-to-global-conflict.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-03-15-cartoonists-skewer-the-week-in-politics.html</loc>
-    <lastmod>2026-03-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-03-15-joyce-defends-hanson-amid-muslim-comments-row.html</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
