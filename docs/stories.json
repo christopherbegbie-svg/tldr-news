@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-07-politics-vs-justice-a-democratic-tension",
+    "title": "Politics vs. Justice: A Democratic Tension",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "April 07, 2026",
+    "image_url": "https://i.ibb.co/svSXFVjB/2c7225282fe7.png"
+  },
+  {
     "slug": "2026-04-06-social-media-and-modern-diplomacy",
     "title": "Social Media and Modern Diplomacy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "March 16, 2026",
     "image_url": "https://i.ibb.co/60W25TsM/3778eeb4c370.png"
-  },
-  {
-    "slug": "2026-03-16-democrats-weigh-generational-shift-in-chicago-race",
-    "title": "Democrats weigh generational shift in Chicago race",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 16, 2026",
-    "image_url": "https://i.ibb.co/B5B86Dvw/18ffcca3630c.png"
   }
 ]
