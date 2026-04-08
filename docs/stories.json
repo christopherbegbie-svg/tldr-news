@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-08-politics-and-petrol-connected-globally",
+    "title": "Politics and Petrol: Connected Globally",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "April 08, 2026",
+    "image_url": "https://i.ibb.co/kVNdhsTS/4ea124cddd49.png"
+  },
+  {
     "slug": "2026-04-07-moon-crater-named-for-love",
     "title": "Moon Crater Named for Love",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 16, 2026",
     "image_url": "https://i.ibb.co/fzXVT4dD/599455aa6c0a.png"
-  },
-  {
-    "slug": "2026-03-16-us-has-not-asked-for-australian-hormuz-ships",
-    "title": "US has not asked for Australian Hormuz ships",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "March 16, 2026",
-    "image_url": "https://i.ibb.co/cSJwVYxh/f51ba5ede4f0.png"
   }
 ]
