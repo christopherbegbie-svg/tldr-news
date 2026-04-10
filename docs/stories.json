@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-10-political-cartoons-democracys-visual-truth",
+    "title": "Political Cartoons: Democracy's Visual Truth",
+    "category": "politics",
+    "source": "Politico",
+    "date": "April 10, 2026",
+    "image_url": "https://i.ibb.co/Pv9cd0ct/7cf844eeaf0e.png"
+  },
+  {
     "slug": "2026-04-10-electric-vehicle-battery-recall-explained",
     "title": "Electric Vehicle Battery Recall Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 17, 2026",
     "image_url": "https://i.ibb.co/s4f5Dbs/b10e2cb260d2.png"
-  },
-  {
-    "slug": "2026-03-17-illinois-primary-tests-aipacs-democratic-party-influence",
-    "title": "Illinois primary tests AIPAC's Democratic Party influence",
-    "category": "politics",
-    "source": "Politico",
-    "date": "March 17, 2026",
-    "image_url": "https://i.ibb.co/cXs9TtYN/68d8a5cbfdab.png"
   }
 ]
