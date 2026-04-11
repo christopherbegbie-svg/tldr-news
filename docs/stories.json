@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-11-political-cartoons-shape-democratic-conversations",
+    "title": "Political Cartoons Shape Democratic Conversations",
+    "category": "politics",
+    "source": "Politico",
+    "date": "April 11, 2026",
+    "image_url": "https://i.ibb.co/HDyDg9Qd/2ea123e17e25.png"
+  },
+  {
     "slug": "2026-04-11-eight-hour-laser-breakthrough-changes-everything",
     "title": "Eight-Hour Laser Breakthrough Changes Everything",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 18, 2026",
     "image_url": "https://i.ibb.co/M5fX3j3G/21ad7ac11104.png"
-  },
-  {
-    "slug": "2026-03-18-crisis-economics-when-disasters-meet-markets",
-    "title": "Crisis Economics: When Disasters Meet Markets",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "March 18, 2026",
-    "image_url": "https://i.ibb.co/1JsL49LY/6f03a30cdd0f.png"
   }
 ]
