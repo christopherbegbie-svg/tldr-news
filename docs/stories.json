@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-12-perus-political-crisis-explained",
+    "title": "Peru's Political Crisis Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "April 12, 2026",
+    "image_url": "https://i.ibb.co/hxSHMPCP/9ce53d7756b4.png"
+  },
+  {
     "slug": "2026-04-11-pakistans-peace-deal-breakthrough",
     "title": "Pakistan's Peace Deal Breakthrough",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 18, 2026",
     "image_url": "https://i.ibb.co/r2jQyRgJ/226f31480c3b.png"
-  },
-  {
-    "slug": "2026-03-18-separating-rumor-from-military-reality",
-    "title": "Separating Rumor From Military Reality",
-    "category": "world",
-    "source": "France 24",
-    "date": "March 18, 2026",
-    "image_url": "https://i.ibb.co/ymtbtGB7/2d4866d92182.png"
   }
 ]
