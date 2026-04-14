@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-14-political-reputation-and-campaign-money",
+    "title": "Political reputation and campaign money",
+    "category": "politics",
+    "source": "Politico",
+    "date": "April 14, 2026",
+    "image_url": "https://i.ibb.co/ZpnkDypG/57f270eb5c08.png"
+  },
+  {
     "slug": "2026-04-14-immigration-policy-why-nations-differ",
     "title": "Immigration Policy: Why Nations Differ",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 21, 2026",
     "image_url": "https://i.ibb.co/SXRrCxmR/bd5cff43e84e.png"
-  },
-  {
-    "slug": "2026-03-21-iran-israel-tensions-whats-really-happening",
-    "title": "Iran-Israel Tensions: What's Really Happening",
-    "category": "world",
-    "source": "France 24",
-    "date": "March 21, 2026",
-    "image_url": "https://i.ibb.co/hJg0F4pX/61d0ba3c2661.png"
   }
 ]
