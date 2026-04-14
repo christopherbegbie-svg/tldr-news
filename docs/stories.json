@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-14-power-scandal-and-global-leadership",
+    "title": "Power, Scandal, and Global Leadership",
+    "category": "world",
+    "source": "NPR News",
+    "date": "April 14, 2026",
+    "image_url": "https://i.ibb.co/s9GGSZXy/71f81f6cb2f6.png"
+  },
+  {
     "slug": "2026-04-14-congressional-ethics-and-accountability",
     "title": "Congressional Ethics and Accountability",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "March 22, 2026",
     "image_url": "https://i.ibb.co/hFzMG4TK/b4c6e7684458.png"
-  },
-  {
-    "slug": "2026-03-22-who-was-robert-mueller",
-    "title": "Who Was Robert Mueller?",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 22, 2026",
-    "image_url": "https://i.ibb.co/fzCgZxQj/53c7d484cf75.png"
   }
 ]
