@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-14-the-art-of-writing-your-own-life",
+    "title": "The Art of Writing Your Own Life",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "April 14, 2026",
+    "image_url": "https://i.ibb.co/dwfF5T5R/125ffec7104f.png"
+  },
+  {
     "slug": "2026-04-14-political-reputation-and-campaign-money",
     "title": "Political reputation and campaign money",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 21, 2026",
     "image_url": "https://i.ibb.co/cKpfrN5k/d2e8a73c52e5.png"
-  },
-  {
-    "slug": "2026-03-21-pentagon-iran-and-budget-debates",
-    "title": "Pentagon, Iran, and Budget Debates",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 21, 2026",
-    "image_url": "https://i.ibb.co/SXRrCxmR/bd5cff43e84e.png"
   }
 ]
