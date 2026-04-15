@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-15-death-investigation-and-digital-justice",
+    "title": "Death, Investigation, and Digital Justice",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "April 15, 2026",
+    "image_url": "https://i.ibb.co/93ngNP4Q/008fcb8fd177.png"
+  },
+  {
     "slug": "2026-04-15-immigration-policy-and-national-identity",
     "title": "Immigration Policy and National Identity",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "March 23, 2026",
     "image_url": "https://i.ibb.co/ZzH0fhRK/d37f4d54d9d9.png"
-  },
-  {
-    "slug": "2026-03-23-cyclones-cross-continents-heres-how",
-    "title": "Cyclones Cross Continents: Here's How",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "March 23, 2026",
-    "image_url": "https://i.ibb.co/G4DXv9L0/f172167d0006.png"
   }
 ]
