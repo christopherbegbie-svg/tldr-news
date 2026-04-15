@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-15-immigration-policy-and-national-identity",
+    "title": "Immigration Policy and National Identity",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "April 15, 2026",
+    "image_url": "https://i.ibb.co/VpBCZP9Q/080c8f98689b.png"
+  },
+  {
     "slug": "2026-04-15-north-koreas-nuclear-weapons-growth",
     "title": "North Korea's Nuclear Weapons Growth",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 23, 2026",
     "image_url": "https://i.ibb.co/G4DXv9L0/f172167d0006.png"
-  },
-  {
-    "slug": "2026-03-22-shutdowns-and-airport-chaos-explained",
-    "title": "Shutdowns and Airport Chaos Explained",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "March 22, 2026",
-    "image_url": "https://i.ibb.co/VcjZXqC7/eca78ebd0b69.png"
   }
 ]
