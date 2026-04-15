@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-15-family-feuds-over-billions",
+    "title": "Family Feuds Over Billions",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "April 15, 2026",
+    "image_url": "https://i.ibb.co/cKh7ncw2/47e52546ae0b.png"
+  },
+  {
     "slug": "2026-04-14-power-scandal-and-global-leadership",
     "title": "Power, Scandal, and Global Leadership",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "March 22, 2026",
     "image_url": "https://i.ibb.co/yc8YF4N9/65d65e5ec529.png"
-  },
-  {
-    "slug": "2026-03-22-the-hidden-cost-of-frictionless-ai",
-    "title": "The Hidden Cost of Frictionless AI",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "March 22, 2026",
-    "image_url": "https://i.ibb.co/hFzMG4TK/b4c6e7684458.png"
   }
 ]
