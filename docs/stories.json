@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-16-global-tensions-what-you-need-to-know",
+    "title": "Global Tensions: What You Need to Know",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "April 16, 2026",
+    "image_url": "https://i.ibb.co/S7w4Yw2W/9043f74ba20b.png"
+  },
+  {
     "slug": "2026-04-16-global-supply-chains-under-pressure",
     "title": "Global Supply Chains Under Pressure",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "March 23, 2026",
     "image_url": "https://i.ibb.co/bgtx4Gpz/9eba6c304c3b.png"
-  },
-  {
-    "slug": "2026-03-23-aviation-safety-ground-collision-lessons",
-    "title": "Aviation Safety: Ground Collision Lessons",
-    "category": "world",
-    "source": "BBC World",
-    "date": "March 23, 2026",
-    "image_url": "https://i.ibb.co/XfJvjnC6/d6395d937a57.png"
   }
 ]
