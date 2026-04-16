@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-16-digital-speech-wheres-the-line",
+    "title": "Digital Speech: Where's the Line?",
+    "category": "world",
+    "source": "BBC World",
+    "date": "April 16, 2026",
+    "image_url": "https://i.ibb.co/1GFxVBqh/2c8983a0bb04.png"
+  },
+  {
     "slug": "2026-04-16-quantum-devices-computing-at-atomic-scale",
     "title": "Quantum Devices: Computing at Atomic Scale",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "March 26, 2026",
     "image_url": "https://i.ibb.co/7xmrBYJd/38ff495f6700.png"
-  },
-  {
-    "slug": "2026-03-26-when-nations-face-fuel-shortages",
-    "title": "When Nations Face Fuel Shortages",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "March 26, 2026",
-    "image_url": "https://i.ibb.co/216wJbcz/6738474c882f.png"
   }
 ]
