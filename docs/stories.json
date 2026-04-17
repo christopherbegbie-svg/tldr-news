@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-17-when-courts-block-construction",
+    "title": "When Courts Block Construction",
+    "category": "world",
+    "source": "NPR News",
+    "date": "April 17, 2026",
+    "image_url": "https://i.ibb.co/wNxgTKfc/8ee6ff5d251a.png"
+  },
+  {
     "slug": "2026-04-16-the-hardware-startup-funding-gap",
     "title": "The Hardware Startup Funding Gap",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "March 26, 2026",
     "image_url": "https://i.ibb.co/svBTqQr4/608093a364d0.png"
-  },
-  {
-    "slug": "2026-03-26-speculative-fiction-and-hidden-truths",
-    "title": "Speculative Fiction and Hidden Truths",
-    "category": "literature",
-    "source": "The Guardian Books",
-    "date": "March 26, 2026",
-    "image_url": "https://i.ibb.co/ymNrtKJ0/9ae54f75283d.png"
   }
 ]
