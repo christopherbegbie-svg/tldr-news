@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-17-political-cartoons-art-meets-political-commentary",
+    "title": "Political Cartoons: Art Meets Political Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "April 17, 2026",
+    "image_url": "https://i.ibb.co/fzL9fwrC/72e996d368be.png"
+  },
+  {
     "slug": "2026-04-17-universes-largest-3d-map-revealed",
     "title": "Universe's Largest 3D Map Revealed",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "March 27, 2026",
     "image_url": "https://i.ibb.co/FqqNn5pH/69c5ea374183.png"
-  },
-  {
-    "slug": "2026-03-27-the-unsung-heroes-of-scientific-research",
-    "title": "The Unsung Heroes of Scientific Research",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "March 27, 2026",
-    "image_url": "https://i.ibb.co/0Tzs8J8/450f1778407f.png"
   }
 ]
