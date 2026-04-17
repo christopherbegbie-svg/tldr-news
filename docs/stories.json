@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-17-political-cartoons-democracys-secret-weapon",
+    "title": "Political Cartoons: Democracy's Secret Weapon",
+    "category": "politics",
+    "source": "Politico",
+    "date": "April 17, 2026",
+    "image_url": "https://i.ibb.co/x8FjRPFY/26808433dfe1.png"
+  },
+  {
     "slug": "2026-04-17-when-heroes-face-war-crimes-trials",
     "title": "When Heroes Face War Crimes Trials",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "March 27, 2026",
     "image_url": "https://i.ibb.co/mVVg49Ds/15416c887e80.png"
-  },
-  {
-    "slug": "2026-03-27-government-transparency-and-accountability-explained",
-    "title": "Government Transparency and Accountability Explained",
-    "category": "politics",
-    "source": "BBC Politics",
-    "date": "March 27, 2026",
-    "image_url": "https://i.ibb.co/4RLVSsdW/778841081e52.png"
   }
 ]
