@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-17-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "April 17, 2026",
+    "image_url": "https://i.ibb.co/QF8ntDs0/3ce054897c53.png"
+  },
+  {
     "slug": "2026-04-17-the-grand-canyons-ancient-lake-secret",
     "title": "The Grand Canyon's Ancient Lake Secret",
     "category": "history",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "March 28, 2026",
     "image_url": "https://i.ibb.co/tpmbFL0r/efdb285f1d11.png"
-  },
-  {
-    "slug": "2026-03-28-when-cyclones-weaken-but-threaten-more",
-    "title": "When Cyclones Weaken But Threaten More",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "March 28, 2026",
-    "image_url": "https://i.ibb.co/dwzzZZms/1bf423230979.png"
   }
 ]
