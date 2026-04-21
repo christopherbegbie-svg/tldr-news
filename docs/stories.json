@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-21-how-presidents-shape-global-alliances",
+    "title": "How Presidents Shape Global Alliances",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 21, 2026",
+    "image_url": "https://i.ibb.co/HZ58rtf/8b85db1ceb00.png"
+  },
+  {
     "slug": "2026-04-21-the-psychology-of-fake-discounts",
     "title": "The Psychology of Fake Discounts",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 03, 2026",
     "image_url": "https://i.ibb.co/XZv6PBBV/56e546b6032f.png"
-  },
-  {
-    "slug": "2026-04-02-when-government-leaders-step-down",
-    "title": "When Government Leaders Step Down",
-    "category": "world",
-    "source": "NPR News",
-    "date": "April 02, 2026",
-    "image_url": "https://i.ibb.co/FL6T9MVm/ad94482a6616.png"
   }
 ]
