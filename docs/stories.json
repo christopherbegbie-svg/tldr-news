@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-22-gerrymandering-when-politicians-pick-their-voters",
+    "title": "Gerrymandering: When politicians pick their voters",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 22, 2026",
+    "image_url": "https://i.ibb.co/sv5J5ZnP/2bc1810ec79a.png"
+  },
+  {
     "slug": "2026-04-22-how-redistricting-shapes-american-politics",
     "title": "How Redistricting Shapes American Politics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 06, 2026",
     "image_url": "https://i.ibb.co/qHWc9Ys/79e72736411d.png"
-  },
-  {
-    "slug": "2026-04-06-mining-safety-during-armed-conflict",
-    "title": "Mining Safety During Armed Conflict",
-    "category": "world",
-    "source": "France 24",
-    "date": "April 06, 2026",
-    "image_url": "https://i.ibb.co/3yKWdLNT/4f5ad9ae14ca.png"
   }
 ]
