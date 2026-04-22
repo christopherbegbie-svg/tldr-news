@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-22-evolution-isnt-stopping",
+    "title": "Evolution Isn't Stopping",
+    "category": "history",
+    "source": "Smithsonian Magazine",
+    "date": "April 22, 2026",
+    "image_url": "https://i.ibb.co/0RCSK9mM/179a44673720.png"
+  },
+  {
     "slug": "2026-04-22-aprils-best-books-guide-you",
     "title": "April's Best Books Guide You",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "April 06, 2026",
     "image_url": "https://i.ibb.co/93v9SfDF/92d02d93ae49.png"
-  },
-  {
-    "slug": "2026-04-06-ucla-wins-historic-womens-basketball-championship",
-    "title": "UCLA wins historic women's basketball championship",
-    "category": "world",
-    "source": "NPR News",
-    "date": "April 06, 2026",
-    "image_url": "https://i.ibb.co/3YNB5dFt/e5d86eef5732.png"
   }
 ]
