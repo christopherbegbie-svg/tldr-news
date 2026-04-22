@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-04-22-disability-support-scheme-faces-major-cuts.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-04-21-how-presidents-shape-global-alliances.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-04-03-nepals-political-upheaval-protests-and-power.html</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-04-03-timing-of-presidential-communication-matters.html</loc>
     <lastmod>2026-04-03</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
