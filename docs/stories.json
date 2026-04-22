@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-22-tech-apps-enter-the-political-arena",
+    "title": "Tech Apps Enter the Political Arena",
+    "category": "politics",
+    "source": "Politico",
+    "date": "April 22, 2026",
+    "image_url": "https://i.ibb.co/gLS7H2Kr/a35e78c45cdb.png"
+  },
+  {
     "slug": "2026-04-22-evolution-isnt-stopping",
     "title": "Evolution Isn't Stopping",
     "category": "history",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 06, 2026",
     "image_url": "https://i.ibb.co/gFjN6NZT/975458dd50ce.png"
-  },
-  {
-    "slug": "2026-04-06-australias-housing-market-hits-a-speed-bump",
-    "title": "Australia's Housing Market Hits a Speed Bump",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "April 06, 2026",
-    "image_url": "https://i.ibb.co/93v9SfDF/92d02d93ae49.png"
   }
 ]
