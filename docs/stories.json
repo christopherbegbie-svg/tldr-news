@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-22-aprils-best-books-guide-you",
+    "title": "April's Best Books Guide You",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "April 22, 2026",
+    "image_url": "https://i.ibb.co/XZBmJG4Q/efe794c01b7f.png"
+  },
+  {
     "slug": "2026-04-22-virginias-redistricting-vote-explained",
     "title": "Virginia's Redistricting Vote Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "April 06, 2026",
     "image_url": "https://i.ibb.co/3YNB5dFt/e5d86eef5732.png"
-  },
-  {
-    "slug": "2026-04-05-defense-budgets-shape-world-politics",
-    "title": "Defense budgets shape world politics",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "April 05, 2026",
-    "image_url": "https://i.ibb.co/6Rcwkgtm/cacc0d9cc9eb.png"
   }
 ]
