@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-25-understanding-conflict-through-daily-life",
+    "title": "Understanding Conflict Through Daily Life",
+    "category": "world",
+    "source": "The Hindu",
+    "date": "April 25, 2026",
+    "image_url": "https://i.ibb.co/ycjLmxSP/9fe26a56ccde.png"
+  },
+  {
     "slug": "2026-04-25-when-campaign-promises-meet-reality",
     "title": "When Campaign Promises Meet Reality",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "April 08, 2026",
     "image_url": "https://i.ibb.co/0VqVMS2n/67d618fca406.png"
-  },
-  {
-    "slug": "2026-04-08-politics-and-petrol-connected-globally",
-    "title": "Politics and Petrol: Connected Globally",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 08, 2026",
-    "image_url": "https://i.ibb.co/kVNdhsTS/4ea124cddd49.png"
   }
 ]
