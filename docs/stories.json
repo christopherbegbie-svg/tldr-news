@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-25-the-hidden-power-behind-your-paycheck",
+    "title": "The Hidden Power Behind Your Paycheck",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 25, 2026",
+    "image_url": "https://i.ibb.co/FbmKNrmZ/693b4d709e07.png"
+  },
+  {
     "slug": "2026-04-24-australias-gas-tax-debate-simplified",
     "title": "Australia's gas tax debate simplified",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 07, 2026",
     "image_url": "https://i.ibb.co/MJHWh6h/b80e43c1569a.png"
-  },
-  {
-    "slug": "2026-04-07-ai-surveillance-safety-or-privacy-invasion",
-    "title": "AI Surveillance: Safety or Privacy Invasion?",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "April 07, 2026",
-    "image_url": "https://i.ibb.co/TqdQgzDR/f2b47f14f285.png"
   }
 ]

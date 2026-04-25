@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-04-25-the-hidden-power-behind-your-paycheck.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-04-24-australias-gas-tax-debate-simplified.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-04-07-universities-defense-contracts-and-accountability.html</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-04-07-ai-surveillance-safety-or-privacy-invasion.html</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
