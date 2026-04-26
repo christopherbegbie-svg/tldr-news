@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-26-security-response-at-political-events",
+    "title": "Security Response at Political Events",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 26, 2026",
+    "image_url": "https://i.ibb.co/j9bkZGNW/7811033bf00f.png"
+  },
+  {
     "slug": "2026-04-26-ndis-reform-state-funding-standoff-explained",
     "title": "NDIS Reform: State Funding Standoff Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 10, 2026",
     "image_url": "https://i.ibb.co/k6PBQLHd/435ebaa9d45a.png"
-  },
-  {
-    "slug": "2026-04-09-how-public-figures-address-allegations",
-    "title": "How Public Figures Address Allegations",
-    "category": "world",
-    "source": "France 24",
-    "date": "April 09, 2026",
-    "image_url": "https://i.ibb.co/6cg7mWFR/2e88ce7aa138.png"
   }
 ]
