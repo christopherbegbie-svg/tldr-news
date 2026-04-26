@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-26-understanding-diplomatic-breakdowns",
+    "title": "Understanding Diplomatic Breakdowns",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 26, 2026",
+    "image_url": "https://i.ibb.co/60tgxQ6Y/5f35e58dd8a7.png"
+  },
+  {
     "slug": "2026-04-26-security-response-at-political-events",
     "title": "Security Response at Political Events",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "April 10, 2026",
     "image_url": "https://i.ibb.co/Pv9cd0ct/7cf844eeaf0e.png"
-  },
-  {
-    "slug": "2026-04-10-electric-vehicle-battery-recall-explained",
-    "title": "Electric Vehicle Battery Recall Explained",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 10, 2026",
-    "image_url": "https://i.ibb.co/k6PBQLHd/435ebaa9d45a.png"
   }
 ]
