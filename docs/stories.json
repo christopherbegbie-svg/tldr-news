@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-26-intelligence-doesnt-equal-good-judgment",
+    "title": "Intelligence Doesn't Equal Good Judgment",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 26, 2026",
+    "image_url": "https://i.ibb.co/rGVWLJF2/0029fc4dcc97.png"
+  },
+  {
     "slug": "2026-04-26-australia-secures-fuel-supply-across-asia",
     "title": "Australia Secures Fuel Supply Across Asia",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "April 10, 2026",
     "image_url": "https://i.ibb.co/7xQ2qGGQ/3656820ca793.png"
-  },
-  {
-    "slug": "2026-04-10-the-strait-of-hormuz-energys-critical-chokepoint",
-    "title": "The Strait of Hormuz: Energy's Critical Chokepoint",
-    "category": "world",
-    "source": "NPR News",
-    "date": "April 10, 2026",
-    "image_url": "https://i.ibb.co/sh12wmy/a02ab2071b7b.png"
   }
 ]
