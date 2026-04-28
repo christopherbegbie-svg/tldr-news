@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-28-conspiracy-theories-across-the-political-spectrum",
+    "title": "Conspiracy Theories Across the Political Spectrum",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 28, 2026",
+    "image_url": "https://i.ibb.co/JWr9fLbf/4aa6bd73d2d2.png"
+  },
+  {
     "slug": "2026-04-28-why-countries-tax-tech-for-news",
     "title": "Why Countries Tax Tech for News",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "April 11, 2026",
     "image_url": "https://i.ibb.co/HDyDg9Qd/2ea123e17e25.png"
-  },
-  {
-    "slug": "2026-04-11-eight-hour-laser-breakthrough-changes-everything",
-    "title": "Eight-Hour Laser Breakthrough Changes Everything",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "April 11, 2026",
-    "image_url": "https://i.ibb.co/JR2Rmr8c/bebcd529561f.png"
   }
 ]
