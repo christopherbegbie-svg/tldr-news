@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-04-29-when-politicians-fight-nothing-gets-done",
+    "title": "When politicians fight, nothing gets done",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "April 29, 2026",
+    "image_url": "https://i.ibb.co/tPYD3wzw/23231d2dc026.png"
+  },
+  {
     "slug": "2026-04-29-the-next-generation-of-particle-colliders",
     "title": "The Next Generation of Particle Colliders",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 14, 2026",
     "image_url": "https://i.ibb.co/XkGjWPrV/9da1cbc7ae2b.png"
-  },
-  {
-    "slug": "2026-04-14-section-702-americas-surveillance-divide",
-    "title": "Section 702: America's Surveillance Divide",
-    "category": "world",
-    "source": "NPR News",
-    "date": "April 14, 2026",
-    "image_url": "https://i.ibb.co/d4tWzYDV/5f79a8018263.png"
   }
 ]
