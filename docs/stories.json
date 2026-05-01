@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-01-the-fossil-fuel-crossroads",
+    "title": "The fossil fuel crossroads",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "May 01, 2026",
+    "image_url": "https://i.ibb.co/KzbX3h4d/c019c7daccae.png"
+  },
+  {
     "slug": "2026-05-01-understanding-fuel-theft-and-crime-economics",
     "title": "Understanding Fuel Theft and Crime Economics",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 16, 2026",
     "image_url": "https://i.ibb.co/KcdHnFfY/517986438d64.png"
-  },
-  {
-    "slug": "2026-04-16-how-nations-manage-fuel-crises",
-    "title": "How nations manage fuel crises",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 16, 2026",
-    "image_url": "https://i.ibb.co/yccWvSkw/cfcef993240f.png"
   }
 ]
