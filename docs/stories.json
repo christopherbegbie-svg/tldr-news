@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-01-governor-exits-senate-race",
+    "title": "Governor Exits Senate Race",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 01, 2026",
+    "image_url": "https://i.ibb.co/HD2d6Wsh/c0defb90d976.png"
+  },
+  {
     "slug": "2026-04-30-australias-rental-crisis-explained",
     "title": "Australia's Rental Crisis Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 16, 2026",
     "image_url": "https://i.ibb.co/S7w4Yw2W/9043f74ba20b.png"
-  },
-  {
-    "slug": "2026-04-16-global-supply-chains-under-pressure",
-    "title": "Global Supply Chains Under Pressure",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 16, 2026",
-    "image_url": "https://i.ibb.co/gbL814Qw/54c03bd509e6.png"
   }
 ]
