@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-01-political-cartoons-democracys-sharpest-critics",
+    "title": "Political Cartoons: Democracy's Sharpest Critics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 01, 2026",
+    "image_url": "https://i.ibb.co/v68PhCs8/f21cdeed44f9.png"
+  },
+  {
     "slug": "2026-05-01-the-fossil-fuel-crossroads",
     "title": "The fossil fuel crossroads",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 16, 2026",
     "image_url": "https://i.ibb.co/XZCR6LzF/0f8ed49a497c.png"
-  },
-  {
-    "slug": "2026-04-16-when-industrial-disasters-become-political-events",
-    "title": "When Industrial Disasters Become Political Events",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 16, 2026",
-    "image_url": "https://i.ibb.co/KcdHnFfY/517986438d64.png"
   }
 ]
