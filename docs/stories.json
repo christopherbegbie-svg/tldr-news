@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-02-how-district-lines-shape-american-elections",
+    "title": "How District Lines Shape American Elections",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 02, 2026",
+    "image_url": "https://i.ibb.co/gFFdHDK2/f83cd24ab651.png"
+  },
+  {
     "slug": "2026-05-02-corruption-at-the-highest-levels",
     "title": "Corruption at the Highest Levels",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 16, 2026",
     "image_url": "https://i.ibb.co/whVRbvmT/8c6625dd9477.png"
-  },
-  {
-    "slug": "2026-04-16-digital-speech-wheres-the-line",
-    "title": "Digital Speech: Where's the Line?",
-    "category": "world",
-    "source": "BBC World",
-    "date": "April 16, 2026",
-    "image_url": "https://i.ibb.co/1GFxVBqh/2c8983a0bb04.png"
   }
 ]
