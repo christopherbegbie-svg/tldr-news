@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-02-power-defense-and-voting-rights",
+    "title": "Power, Defense, and Voting Rights",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 02, 2026",
+    "image_url": "https://i.ibb.co/2T3W94s/c1e32e1daf42.png"
+  },
+  {
     "slug": "2026-05-02-understanding-economic-sanctions",
     "title": "Understanding economic sanctions",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 16, 2026",
     "image_url": "https://i.ibb.co/k2TBzctf/03a819844e90.png"
-  },
-  {
-    "slug": "2026-04-16-political-leaders-and-legal-accountability",
-    "title": "Political Leaders and Legal Accountability",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "April 16, 2026",
-    "image_url": "https://i.ibb.co/kg6GH4CW/0251e74e1d5d.png"
   }
 ]
