@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-02-corruption-at-the-highest-levels",
+    "title": "Corruption at the Highest Levels",
+    "category": "world",
+    "source": "Deutsche Welle",
+    "date": "May 02, 2026",
+    "image_url": "https://i.ibb.co/chnxkMbx/e95870756964.png"
+  },
+  {
     "slug": "2026-05-02-nobel-laureates-fight-for-human-rights",
     "title": "Nobel Laureate's Fight for Human Rights",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "April 16, 2026",
     "image_url": "https://i.ibb.co/1GFxVBqh/2c8983a0bb04.png"
-  },
-  {
-    "slug": "2026-04-16-quantum-devices-computing-at-atomic-scale",
-    "title": "Quantum Devices: Computing at Atomic Scale",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "April 16, 2026",
-    "image_url": "https://i.ibb.co/3mrhwYBh/98054c97d396.png"
   }
 ]
