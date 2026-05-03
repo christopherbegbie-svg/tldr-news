@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-03-justice-systems-how-society-seeks-truth",
+    "title": "Justice Systems: How Society Seeks Truth",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "May 03, 2026",
+    "image_url": "https://i.ibb.co/1f0LrnB7/829e89fef886.png"
+  },
+  {
     "slug": "2026-05-02-how-district-lines-shape-american-elections",
     "title": "How District Lines Shape American Elections",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "April 16, 2026",
     "image_url": "https://i.ibb.co/VY0zfJ8Q/4ebd92ac7a50.png"
-  },
-  {
-    "slug": "2026-04-16-government-workers-challenge-housing-policy",
-    "title": "Government Workers Challenge Housing Policy",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "April 16, 2026",
-    "image_url": "https://i.ibb.co/whVRbvmT/8c6625dd9477.png"
   }
 ]
