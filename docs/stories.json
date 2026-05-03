@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-03-political-cartoons-shape-how-we-think",
+    "title": "Political Cartoons Shape How We Think",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 03, 2026",
+    "image_url": "https://i.ibb.co/qY8gfc0G/3847cd3b0066.png"
+  },
+  {
     "slug": "2026-05-03-budget-basics-spending-less-than-you-earn",
     "title": "Budget Basics: Spending Less Than You Earn",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "April 17, 2026",
     "image_url": "https://i.ibb.co/QF8ntDs0/3ce054897c53.png"
-  },
-  {
-    "slug": "2026-04-17-the-grand-canyons-ancient-lake-secret",
-    "title": "The Grand Canyon's Ancient Lake Secret",
-    "category": "history",
-    "source": "Smithsonian Magazine",
-    "date": "April 17, 2026",
-    "image_url": "https://i.ibb.co/d4n9L0D1/9c5a41d6f0f1.png"
   }
 ]
