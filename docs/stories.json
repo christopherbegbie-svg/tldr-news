@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-04-qbism-when-quantum-gets-personal",
+    "title": "QBism: When Quantum Gets Personal",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "May 04, 2026",
+    "image_url": "https://i.ibb.co/0RNxzfBG/893519a10be9.png"
+  },
+  {
     "slug": "2026-05-04-budget-oil-and-social-division",
     "title": "Budget, Oil, and Social Division",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "April 18, 2026",
     "image_url": "https://i.ibb.co/d0p6Ctqz/8e72297dab66.png"
-  },
-  {
-    "slug": "2026-04-17-net-oil-exporter-but-not-cheap-gas",
-    "title": "Net Oil Exporter, But Not Cheap Gas",
-    "category": "economics",
-    "source": "NPR Economics",
-    "date": "April 17, 2026",
-    "image_url": "https://i.ibb.co/LdX81KF6/af5be169093f.png"
   }
 ]
