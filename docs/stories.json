@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-04-the-strait-of-hormuz-explained",
+    "title": "The Strait of Hormuz Explained",
+    "category": "world",
+    "source": "NPR News",
+    "date": "May 04, 2026",
+    "image_url": "https://i.ibb.co/qYwvjLNG/a62e87386315.png"
+  },
+  {
     "slug": "2026-05-04-supreme-court-decision-reshapes-congressional-districts",
     "title": "Supreme Court Decision Reshapes Congressional Districts",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "April 18, 2026",
     "image_url": "https://i.ibb.co/h14XPY0B/e39cfab4235c.png"
-  },
-  {
-    "slug": "2026-04-18-redistricting-why-maps-matter",
-    "title": "Redistricting: Why Maps Matter",
-    "category": "politics",
-    "source": "Politico",
-    "date": "April 18, 2026",
-    "image_url": "https://i.ibb.co/9kkw1r4g/1fcb188e43c9.png"
   }
 ]
