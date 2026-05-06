@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-06-primary-elections-shape-campaign-strategy",
+    "title": "Primary Elections Shape Campaign Strategy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 06, 2026",
+    "image_url": "https://i.ibb.co/Swy0ZDrR/93a4e8569bc6.png"
+  },
+  {
     "slug": "2026-05-05-when-money-handouts-make-inflation-worse",
     "title": "When Money Handouts Make Inflation Worse",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 19, 2026",
     "image_url": "https://i.ibb.co/jP383fhT/2baede8ab288.png"
-  },
-  {
-    "slug": "2026-04-19-bacons-vision-built-modern-science",
-    "title": "Bacon's Vision Built Modern Science",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "April 19, 2026",
-    "image_url": "https://i.ibb.co/YBncSZxX/0c7d7da2a0aa.png"
   }
 ]
