@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-08-maps-districts-and-electoral-power",
+    "title": "Maps, districts, and electoral power",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 08, 2026",
+    "image_url": "https://i.ibb.co/S7JHWw6r/a3c364e058d4.png"
+  },
+  {
     "slug": "2026-05-08-australias-budget-battle-against-inflation",
     "title": "Australia's Budget Battle Against Inflation",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 21, 2026",
     "image_url": "https://i.ibb.co/zVn72bN0/532dacbc3e45.png"
-  },
-  {
-    "slug": "2026-04-21-australias-gas-export-tax-debate",
-    "title": "Australia's Gas Export Tax Debate",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "April 21, 2026",
-    "image_url": "https://i.ibb.co/3yGfQNwH/75a7f28f1512.png"
   }
 ]
