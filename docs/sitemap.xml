@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-05-08-australias-budget-battle-against-inflation.html</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-05-07-military-weakness-as-a-tool-of-power.html</loc>
@@ -597,12 +603,6 @@
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-04-21-australias-gas-export-tax-debate.html</loc>
     <lastmod>2026-04-21</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-04-20-why-australias-gas-export-tax-debate-matters.html</loc>
-    <lastmod>2026-04-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
