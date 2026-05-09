@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-09-political-cartoons-democracys-visual-conscience",
+    "title": "Political Cartoons: Democracy's Visual Conscience",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 09, 2026",
+    "image_url": "https://i.ibb.co/d4STKbh4/3e6a3dc86308.png"
+  },
+  {
     "slug": "2026-05-09-military-parades-history-culture-symbolism",
     "title": "Military Parades: History, Culture & Symbolism",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 22, 2026",
     "image_url": "https://i.ibb.co/wrMFSXz9/e423e235e2e1.png"
-  },
-  {
-    "slug": "2026-04-22-australias-disability-support-system-under-pressure",
-    "title": "Australia's Disability Support System Under Pressure",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 22, 2026",
-    "image_url": "https://i.ibb.co/HfByYbFz/744ff6f93787.png"
   }
 ]
