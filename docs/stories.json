@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-09-political-cartoons-art-meets-accountability",
+    "title": "Political Cartoons: Art Meets Accountability",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 09, 2026",
+    "image_url": "https://i.ibb.co/KpC1mBfk/5048a0e1d86a.png"
+  },
+  {
     "slug": "2026-05-08-pardons-power-and-lost-oversight",
     "title": "Pardons, Power, and Lost Oversight",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 21, 2026",
     "image_url": "https://i.ibb.co/HZ58rtf/8b85db1ceb00.png"
-  },
-  {
-    "slug": "2026-04-21-the-psychology-of-fake-discounts",
-    "title": "The Psychology of Fake Discounts",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "April 21, 2026",
-    "image_url": "https://i.ibb.co/sdWyfQ2v/bb933cb83cd2.png"
   }
 ]
