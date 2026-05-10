@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-10-maps-power-and-elections-explained",
+    "title": "Maps, Power, and Elections Explained",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 10, 2026",
+    "image_url": "https://i.ibb.co/93BK7fNk/611d547b60c9.png"
+  },
+  {
     "slug": "2026-05-10-how-sports-pressure-shapes-competition-outcomes",
     "title": "How sports pressure shapes competition outcomes",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "April 22, 2026",
     "image_url": "https://i.ibb.co/gLS7H2Kr/a35e78c45cdb.png"
-  },
-  {
-    "slug": "2026-04-22-evolution-isnt-stopping",
-    "title": "Evolution Isn't Stopping",
-    "category": "history",
-    "source": "Smithsonian Magazine",
-    "date": "April 22, 2026",
-    "image_url": "https://i.ibb.co/0RCSK9mM/179a44673720.png"
   }
 ]
