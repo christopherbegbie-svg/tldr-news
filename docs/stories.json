@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-10-the-self-proclaimed-king-of-switzerland",
+    "title": "The Self-Proclaimed King of Switzerland",
+    "category": "world",
+    "source": "France 24",
+    "date": "May 10, 2026",
+    "image_url": "https://i.ibb.co/zTXgrjXY/e4af3945dde5.png"
+  },
+  {
     "slug": "2026-05-10-midterm-elections-what-voters-really-care-about",
     "title": "Midterm Elections: What Voters Really Care About",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "April 22, 2026",
     "image_url": "https://i.ibb.co/XZBmJG4Q/efe794c01b7f.png"
-  },
-  {
-    "slug": "2026-04-22-virginias-redistricting-vote-explained",
-    "title": "Virginia's Redistricting Vote Explained",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "April 22, 2026",
-    "image_url": "https://i.ibb.co/zTxqBKmY/cc91f17e9e2f.png"
   }
 ]
