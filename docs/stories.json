@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-10-healthcares-hidden-crisis-homelessness",
+    "title": "Healthcare's Hidden Crisis: Homelessness",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "May 10, 2026",
+    "image_url": "https://i.ibb.co/20MrZ2LW/5843b17da06a.png"
+  },
+  {
     "slug": "2026-05-10-maps-power-and-elections-explained",
     "title": "Maps, Power, and Elections Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "April 22, 2026",
     "image_url": "https://i.ibb.co/RGjmqkD7/90c9ad32acfc.png"
-  },
-  {
-    "slug": "2026-04-22-tech-apps-enter-the-political-arena",
-    "title": "Tech Apps Enter the Political Arena",
-    "category": "politics",
-    "source": "Politico",
-    "date": "April 22, 2026",
-    "image_url": "https://i.ibb.co/gLS7H2Kr/a35e78c45cdb.png"
   }
 ]
