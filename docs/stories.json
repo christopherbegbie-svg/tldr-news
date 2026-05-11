@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-11-when-political-movements-challenge-tradition",
+    "title": "When Political Movements Challenge Tradition",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 11, 2026",
+    "image_url": "https://i.ibb.co/rG9mH7NY/95536d8c2bdc.png"
+  },
+  {
     "slug": "2026-05-10-nato-training-exercise-ends-in-tragedy",
     "title": "NATO Training Exercise Ends in Tragedy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 23, 2026",
     "image_url": "https://i.ibb.co/0jnxjgk1/eff9c555d962.png"
-  },
-  {
-    "slug": "2026-04-23-ais-agreement-problem-and-mental-health",
-    "title": "AI's Agreement Problem and Mental Health",
-    "category": "world",
-    "source": "NPR News",
-    "date": "April 23, 2026",
-    "image_url": "https://i.ibb.co/ny04BW1/5884dbbf1e51.png"
   }
 ]
