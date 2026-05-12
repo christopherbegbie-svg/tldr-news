@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-12-capital-gains-tax-and-housing",
+    "title": "Capital Gains Tax and Housing",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "May 12, 2026",
+    "image_url": "https://i.ibb.co/6J87pPzy/030660292005.png"
+  },
+  {
     "slug": "2026-05-12-pencil-campaigns-for-oregon-governor",
     "title": "Pencil Campaigns for Oregon Governor",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "April 25, 2026",
     "image_url": "https://i.ibb.co/ycjLmxSP/9fe26a56ccde.png"
-  },
-  {
-    "slug": "2026-04-25-when-campaign-promises-meet-reality",
-    "title": "When Campaign Promises Meet Reality",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "April 25, 2026",
-    "image_url": "https://i.ibb.co/qZ2p4cc/5cd190ae41da.png"
   }
 ]
