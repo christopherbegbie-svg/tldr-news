@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-15-political-cartoons-democracys-truth-telling-art",
+    "title": "Political Cartoons: Democracy's Truth-Telling Art",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 15, 2026",
+    "image_url": "https://i.ibb.co/fYGRfV2y/d37b31babb78.png"
+  },
+  {
     "slug": "2026-05-15-three-stories-shaping-global-politics-today",
     "title": "Three Stories Shaping Global Politics Today",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 28, 2026",
     "image_url": "https://i.ibb.co/cKvbccVJ/9c7320e4bcca.png"
-  },
-  {
-    "slug": "2026-04-28-cultural-trade-offs-and-economic-realities",
-    "title": "Cultural Trade-Offs and Economic Realities",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 28, 2026",
-    "image_url": "https://i.ibb.co/NdP8N33Q/dea01f8a7e59.png"
   }
 ]
