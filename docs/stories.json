@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-16-great-white-sharks-natures-ocean-hunters",
+    "title": "Great White Sharks: Nature's Ocean Hunters",
+    "category": "world",
+    "source": "BBC World",
+    "date": "May 16, 2026",
+    "image_url": "https://i.ibb.co/8nh4jqnK/b3f5ccbac6d5.png"
+  },
+  {
     "slug": "2026-05-16-how-cartoons-shape-political-debate",
     "title": "How Cartoons Shape Political Debate",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "April 29, 2026",
     "image_url": "https://i.ibb.co/Kzy174cR/4bc55ced6bb4.png"
-  },
-  {
-    "slug": "2026-04-29-australias-gas-export-tax-debate",
-    "title": "Australia's Gas Export Tax Debate",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "April 29, 2026",
-    "image_url": "https://i.ibb.co/ZRgGXZgR/857f154330eb.png"
   }
 ]
