@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-16-political-language-and-extremist-rhetoric",
+    "title": "Political Language and Extremist Rhetoric",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 16, 2026",
+    "image_url": "https://i.ibb.co/cSNQ2h6m/45f6045eb48a.png"
+  },
+  {
     "slug": "2026-05-15-gerrymandering-when-maps-decide-elections",
     "title": "Gerrymandering: When Maps Decide Elections",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 28, 2026",
     "image_url": "https://i.ibb.co/7JN2mr0N/76d90875895b.png"
-  },
-  {
-    "slug": "2026-04-28-russias-private-army-shapes-african-politics",
-    "title": "Russia's Private Army Shapes African Politics",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "April 28, 2026",
-    "image_url": "https://i.ibb.co/6JTtTmG2/b00b7374f85b.png"
   }
 ]
