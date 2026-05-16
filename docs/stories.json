@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-16-election-rules-changed-mid-vote",
+    "title": "Election Rules Changed Mid-Vote",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 16, 2026",
+    "image_url": "https://i.ibb.co/pBB8CHcH/c705cafa08f3.png"
+  },
+  {
     "slug": "2026-05-16-international-counterterrorism-collaboration-explained",
     "title": "International Counterterrorism Collaboration Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "April 29, 2026",
     "image_url": "https://i.ibb.co/WW4NhzM9/7d90f2224c0e.png"
-  },
-  {
-    "slug": "2026-04-29-voting-system-loopholes-explained",
-    "title": "Voting system loopholes explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "April 29, 2026",
-    "image_url": "https://i.ibb.co/8Ldp0q3p/717be3354c73.png"
   }
 ]
