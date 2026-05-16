@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-16-how-cartoons-shape-political-debate",
+    "title": "How Cartoons Shape Political Debate",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 16, 2026",
+    "image_url": "https://i.ibb.co/Jw62vxVw/fb88eace1fb8.png"
+  },
+  {
     "slug": "2026-05-16-byelections-democracys-warning-system",
     "title": "Byelections: Democracy's Warning System",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "April 29, 2026",
     "image_url": "https://i.ibb.co/ZRgGXZgR/857f154330eb.png"
-  },
-  {
-    "slug": "2026-04-28-seashells-threats-and-free-speech",
-    "title": "Seashells, Threats, and Free Speech",
-    "category": "world",
-    "source": "BBC World",
-    "date": "April 28, 2026",
-    "image_url": "https://i.ibb.co/Ld3m363b/ac58092cfbcf.png"
   }
 ]
