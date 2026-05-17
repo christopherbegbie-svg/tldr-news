@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-17-how-drones-changed-modern-warfare",
+    "title": "How Drones Changed Modern Warfare",
+    "category": "world",
+    "source": "NPR News",
+    "date": "May 17, 2026",
+    "image_url": "https://i.ibb.co/YFxt7y9Y/f515c8d6ad24.png"
+  },
+  {
     "slug": "2026-05-17-georgias-primary-a-national-political-battleground",
     "title": "Georgia's Primary: A National Political Battleground",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "April 30, 2026",
     "image_url": "https://i.ibb.co/x8trNGQ5/0ac0cf3eaec8.png"
-  },
-  {
-    "slug": "2026-04-30-louisiana-delays-house-primary-elections",
-    "title": "Louisiana Delays House Primary Elections",
-    "category": "politics",
-    "source": "Politico",
-    "date": "April 30, 2026",
-    "image_url": "https://i.ibb.co/N2h07TKf/9e047ba9b449.png"
   }
 ]
