@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-17-the-paradox-of-fighting-fire-with-fire",
+    "title": "The Paradox of Fighting Fire with Fire",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 17, 2026",
+    "image_url": "https://i.ibb.co/2fT9ncM/69ed13164e75.png"
+  },
+  {
     "slug": "2026-05-17-tax-policy-meets-digital-activism",
     "title": "Tax Policy Meets Digital Activism",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "April 30, 2026",
     "image_url": "https://i.ibb.co/LhgpLPXY/27207c42fa19.png"
-  },
-  {
-    "slug": "2026-04-29-elon-musk-vs-openai-mission-or-money",
-    "title": "Elon Musk vs. OpenAI: Mission or Money?",
-    "category": "world",
-    "source": "NPR News",
-    "date": "April 29, 2026",
-    "image_url": "https://i.ibb.co/fGdZZTMM/60d2cf0aec32.png"
   }
 ]
