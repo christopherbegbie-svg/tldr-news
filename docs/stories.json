@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-17-georgias-primary-a-national-political-battleground",
+    "title": "Georgia's Primary: A National Political Battleground",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 17, 2026",
+    "image_url": "https://i.ibb.co/R4P9587g/6314976495be.png"
+  },
+  {
     "slug": "2026-05-17-immigration-enforcement-and-mental-health",
     "title": "Immigration Enforcement and Mental Health",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "April 30, 2026",
     "image_url": "https://i.ibb.co/N2h07TKf/9e047ba9b449.png"
-  },
-  {
-    "slug": "2026-04-30-satire-vs-legal-rights-the-onion-court-case",
-    "title": "Satire vs. Legal Rights: The Onion Court Case",
-    "category": "world",
-    "source": "NPR News",
-    "date": "April 30, 2026",
-    "image_url": "https://i.ibb.co/3yXfXQTT/499d58d91c85.png"
   }
 ]
