@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-18-politics-and-public-health-collide",
+    "title": "Politics and Public Health Collide",
+    "category": "world",
+    "source": "NPR News",
+    "date": "May 18, 2026",
+    "image_url": "https://i.ibb.co/0VYrnJjd/21d3a0d6ca19.png"
+  },
+  {
     "slug": "2026-05-18-photojournalism-documenting-wars-reality",
     "title": "Photojournalism: Documenting War's Reality",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Deutsche Welle",
     "date": "May 02, 2026",
     "image_url": "https://i.ibb.co/chnxkMbx/e95870756964.png"
-  },
-  {
-    "slug": "2026-05-02-nobel-laureates-fight-for-human-rights",
-    "title": "Nobel Laureate's Fight for Human Rights",
-    "category": "world",
-    "source": "NPR News",
-    "date": "May 02, 2026",
-    "image_url": "https://i.ibb.co/602P0pDQ/f1e5a2d5f8ea.png"
   }
 ]
