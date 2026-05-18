@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-18-politics-meets-faith-on-the-national-mall",
+    "title": "Politics Meets Faith on the National Mall",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 18, 2026",
+    "image_url": "https://i.ibb.co/rfHZd4tV/03ecf4a6c370.png"
+  },
+  {
     "slug": "2026-05-18-politics-and-public-health-collide",
     "title": "Politics and Public Health Collide",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 02, 2026",
     "image_url": "https://i.ibb.co/gFFdHDK2/f83cd24ab651.png"
-  },
-  {
-    "slug": "2026-05-02-corruption-at-the-highest-levels",
-    "title": "Corruption at the Highest Levels",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "May 02, 2026",
-    "image_url": "https://i.ibb.co/chnxkMbx/e95870756964.png"
   }
 ]
