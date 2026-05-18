@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-18-when-party-leaders-lose-control",
+    "title": "When Party Leaders Lose Control",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 18, 2026",
+    "image_url": "https://i.ibb.co/hRtz7ckw/48a27d3a41d9.png"
+  },
+  {
     "slug": "2026-05-18-courts-draw-lines-in-lawsuits",
     "title": "Courts Draw Lines in Lawsuits",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "May 01, 2026",
     "image_url": "https://i.ibb.co/v68PhCs8/f21cdeed44f9.png"
-  },
-  {
-    "slug": "2026-05-01-the-fossil-fuel-crossroads",
-    "title": "The fossil fuel crossroads",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "May 01, 2026",
-    "image_url": "https://i.ibb.co/KzbX3h4d/c019c7daccae.png"
   }
 ]
