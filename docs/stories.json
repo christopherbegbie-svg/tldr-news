@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-18-photojournalism-documenting-wars-reality",
+    "title": "Photojournalism: Documenting War's Reality",
+    "category": "world",
+    "source": "France 24",
+    "date": "May 18, 2026",
+    "image_url": "https://i.ibb.co/F4Z1w6m1/fa1279aec6f9.png"
+  },
+  {
     "slug": "2026-05-18-political-loyalty-and-primary-power-shifts",
     "title": "Political Loyalty and Primary Power Shifts",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "May 02, 2026",
     "image_url": "https://i.ibb.co/602P0pDQ/f1e5a2d5f8ea.png"
-  },
-  {
-    "slug": "2026-05-02-power-defense-and-voting-rights",
-    "title": "Power, Defense, and Voting Rights",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "May 02, 2026",
-    "image_url": "https://i.ibb.co/2T3W94s/c1e32e1daf42.png"
   }
 ]
