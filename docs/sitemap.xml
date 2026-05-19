@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-05-19-disease-outbreaks-and-vaccination-why-it-matters.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-05-18-australias-infrastructure-under-climate-threat.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-05-03-budget-basics-spending-less-than-you-earn.html</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-05-03-hantavirus-the-rodent-borne-killer.html</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-19-disease-outbreaks-and-vaccination-why-it-matters",
+    "title": "Disease Outbreaks and Vaccination: Why It Matters",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "May 19, 2026",
+    "image_url": "https://i.ibb.co/tMgKgpwQ/021055e81a6d.png"
+  },
+  {
     "slug": "2026-05-18-australias-infrastructure-under-climate-threat",
     "title": "Australia's Infrastructure Under Climate Threat",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "May 03, 2026",
     "image_url": "https://i.ibb.co/NM2ptXq/a343c7e8a970.png"
-  },
-  {
-    "slug": "2026-05-03-hantavirus-the-rodent-borne-killer",
-    "title": "Hantavirus: The Rodent-Borne Killer",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 03, 2026",
-    "image_url": "https://i.ibb.co/qLNg7DxM/9f95157871be.png"
   }
 ]
