@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-19-us-spyware-policy-whats-changing",
+    "title": "U.S. Spyware Policy: What's Changing?",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 19, 2026",
+    "image_url": "https://i.ibb.co/G3VrhTZw/3e80bfea9fd0.png"
+  },
+  {
     "slug": "2026-05-19-minnesotas-prediction-market-ban-explained",
     "title": "Minnesota's Prediction Market Ban Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 04, 2026",
     "image_url": "https://i.ibb.co/60LG9g6Z/ee1bcd625f55.png"
-  },
-  {
-    "slug": "2026-05-04-qbism-when-quantum-gets-personal",
-    "title": "QBism: When Quantum Gets Personal",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "May 04, 2026",
-    "image_url": "https://i.ibb.co/0RNxzfBG/893519a10be9.png"
   }
 ]
