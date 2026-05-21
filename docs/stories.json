@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-21-budget-battles-within-political-parties",
+    "title": "Budget Battles Within Political Parties",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 21, 2026",
+    "image_url": "https://i.ibb.co/n8KBY7y6/976ce0f9a51c.png"
+  },
+  {
     "slug": "2026-05-21-colombias-climate-crisis",
     "title": "Colombia's Climate Crisis",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 07, 2026",
     "image_url": "https://i.ibb.co/PsvSy8mb/da69aafb77f8.png"
-  },
-  {
-    "slug": "2026-05-07-why-major-infrastructure-projects-get-cancelled",
-    "title": "Why Major Infrastructure Projects Get Cancelled",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "May 07, 2026",
-    "image_url": "https://i.ibb.co/JR2mvCJB/d95d070ddee9.png"
   }
 ]
