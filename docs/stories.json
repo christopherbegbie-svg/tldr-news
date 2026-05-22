@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-22-political-cartoons-democracys-visual-commentary",
+    "title": "Political Cartoons: Democracy's Visual Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 22, 2026",
+    "image_url": "https://i.ibb.co/Mkwfdfnx/61f03d084fbc.png"
+  },
+  {
     "slug": "2026-05-22-modern-warfare-targets-energy-infrastructure",
     "title": "Modern Warfare Targets Energy Infrastructure",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "May 09, 2026",
     "image_url": "https://i.ibb.co/5WZnH4kG/1802fe909190.png"
-  },
-  {
-    "slug": "2026-05-09-understanding-ceasefires-in-global-conflict",
-    "title": "Understanding ceasefires in global conflict",
-    "category": "world",
-    "source": "NPR News",
-    "date": "May 09, 2026",
-    "image_url": "https://i.ibb.co/3yYQtmPY/1a2318af7bcc.png"
   }
 ]
