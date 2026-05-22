@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-22-albertas-push-for-independence",
+    "title": "Alberta's Push for Independence",
+    "category": "world",
+    "source": "BBC World",
+    "date": "May 22, 2026",
+    "image_url": "https://i.ibb.co/8gZLwXDN/a35b12d8b6c4.png"
+  },
+  {
     "slug": "2026-05-21-the-swing-voter-paradox-explained",
     "title": "The Swing Voter Paradox Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 08, 2026",
     "image_url": "https://i.ibb.co/hFgqJM2V/b213e3a89c50.png"
-  },
-  {
-    "slug": "2026-05-08-maps-districts-and-electoral-power",
-    "title": "Maps, districts, and electoral power",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "May 08, 2026",
-    "image_url": "https://i.ibb.co/S7JHWw6r/a3c364e058d4.png"
   }
 ]
