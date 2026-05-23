@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-05-23</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-05-23-elections-vs-congress-the-power-paradox.html</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-05-22-us-cuba-tensions-whats-really-happening.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-05-10-how-populist-movements-shift-political-power.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-05-10-voters-shake-up-australian-politics.html</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
