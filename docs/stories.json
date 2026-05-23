@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-23-how-mayors-shape-your-city",
+    "title": "How Mayors Shape Your City",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 23, 2026",
+    "image_url": "https://i.ibb.co/V0LCKL7X/f5687cb3ccce.png"
+  },
+  {
     "slug": "2026-05-23-bond-yields-why-they-matter-now",
     "title": "Bond Yields: Why They Matter Now",
     "category": "economics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "May 10, 2026",
     "image_url": "https://i.ibb.co/cjw1f5x/d819fc1d9f8c.png"
-  },
-  {
-    "slug": "2026-05-10-the-self-proclaimed-king-of-switzerland",
-    "title": "The Self-Proclaimed King of Switzerland",
-    "category": "world",
-    "source": "France 24",
-    "date": "May 10, 2026",
-    "image_url": "https://i.ibb.co/zTXgrjXY/e4af3945dde5.png"
   }
 ]
