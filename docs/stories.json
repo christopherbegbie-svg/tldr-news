@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-24-food-as-a-weapon-of-war",
+    "title": "Food as a Weapon of War",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "May 24, 2026",
+    "image_url": "https://i.ibb.co/HDGn7CjY/2ac5462ce4bd.png"
+  },
+  {
     "slug": "2026-05-24-free-sports-or-paid-profits",
     "title": "Free Sports or Paid Profits?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 10, 2026",
     "image_url": "https://i.ibb.co/MDCc1znh/066bf8fd2e3b.png"
-  },
-  {
-    "slug": "2026-05-10-decoding-putins-ceasefire-strategy",
-    "title": "Decoding Putin's Ceasefire Strategy",
-    "category": "world",
-    "source": "France 24",
-    "date": "May 10, 2026",
-    "image_url": "https://i.ibb.co/TqqVVZqz/8f70bc938180.png"
   }
 ]
