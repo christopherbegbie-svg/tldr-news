@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-27-rewriting-history-a-modern-declaration",
+    "title": "Rewriting History: A Modern Declaration",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "May 27, 2026",
+    "image_url": "https://i.ibb.co/QFyWTW6r/b181d2333a99.png"
+  },
+  {
     "slug": "2026-05-27-why-party-divisions-weaken-election-campaigns",
     "title": "Why Party Divisions Weaken Election Campaigns",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 13, 2026",
     "image_url": "https://i.ibb.co/bjT5mk2c/b20f72678992.png"
-  },
-  {
-    "slug": "2026-05-13-trumps-beijing-visit-reveals-global-power-shift",
-    "title": "Trump's Beijing Visit Reveals Global Power Shift",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 13, 2026",
-    "image_url": "https://i.ibb.co/67gskBDh/0f8ffe6b2ef8.png"
   }
 ]
