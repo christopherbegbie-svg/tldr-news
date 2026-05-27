@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-27-news-leadership-behind-the-scenes",
+    "title": "News Leadership: Behind the Scenes",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "May 27, 2026",
+    "image_url": "https://i.ibb.co/xtrbLDP3/fe487cd43605.png"
+  },
+  {
     "slug": "2026-05-27-primary-elections-party-challenges-explained",
     "title": "Primary Elections: Party Challenges Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "May 14, 2026",
     "image_url": "https://i.ibb.co/vxySj6ZB/d9d189683ef6.png"
-  },
-  {
-    "slug": "2026-05-14-superpowers-negotiate-whats-at-stake",
-    "title": "Superpowers negotiate: what's at stake?",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 14, 2026",
-    "image_url": "https://i.ibb.co/v6Brp1ch/9fb9a5369192.png"
   }
 ]
