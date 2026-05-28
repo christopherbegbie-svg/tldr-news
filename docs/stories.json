@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-28-open-data-sciences-collaborative-revolution",
+    "title": "Open Data: Science's Collaborative Revolution",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "May 28, 2026",
+    "image_url": "https://i.ibb.co/bc50Mcw/ecec74496b45.png"
+  },
+  {
     "slug": "2026-05-28-governments-bold-move-against-scams",
     "title": "Government's Bold Move Against Scams",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 15, 2026",
     "image_url": "https://i.ibb.co/pjD00Wj9/3e4d3059d4e7.png"
-  },
-  {
-    "slug": "2026-05-15-party-defections-what-they-really-mean",
-    "title": "Party Defections: What They Really Mean",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "May 15, 2026",
-    "image_url": "https://i.ibb.co/XHm79rp/9e0a0c493b26.png"
   }
 ]
