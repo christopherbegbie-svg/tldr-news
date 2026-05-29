@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-29-literary-prizes-amplify-underrepresented-voices",
+    "title": "Literary prizes amplify underrepresented voices",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "May 29, 2026",
+    "image_url": "https://i.ibb.co/hRtzBxNr/51bec87d34d2.png"
+  },
+  {
     "slug": "2026-05-29-economic-messages-and-political-persuasion",
     "title": "Economic Messages and Political Persuasion",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "May 16, 2026",
     "image_url": "https://i.ibb.co/Jw62vxVw/fb88eace1fb8.png"
-  },
-  {
-    "slug": "2026-05-16-byelections-democracys-warning-system",
-    "title": "Byelections: Democracy's Warning System",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 16, 2026",
-    "image_url": "https://i.ibb.co/LXLcbpjf/acee20293240.png"
   }
 ]
