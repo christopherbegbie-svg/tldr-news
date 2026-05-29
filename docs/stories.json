@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-29-three-candidates-one-citys-future",
+    "title": "Three Candidates, One City's Future",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "May 29, 2026",
+    "image_url": "https://i.ibb.co/5gBfmkmQ/6468feb15667.png"
+  },
+  {
     "slug": "2026-05-29-how-international-peace-negotiations-work",
     "title": "How international peace negotiations work",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "May 16, 2026",
     "image_url": "https://i.ibb.co/k2jZMx6f/516a116bd69d.png"
-  },
-  {
-    "slug": "2026-05-16-great-white-sharks-natures-ocean-hunters",
-    "title": "Great White Sharks: Nature's Ocean Hunters",
-    "category": "world",
-    "source": "BBC World",
-    "date": "May 16, 2026",
-    "image_url": "https://i.ibb.co/8nh4jqnK/b3f5ccbac6d5.png"
   }
 ]
