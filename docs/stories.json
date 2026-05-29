@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-29-political-crisis-what-does-it-mean",
+    "title": "Political Crisis: What Does It Mean?",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "May 29, 2026",
+    "image_url": "https://i.ibb.co/jksqVhFP/22a43f3df9a4.png"
+  },
+  {
     "slug": "2026-05-29-religion-and-history-in-classrooms",
     "title": "Religion and History in Classrooms",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 16, 2026",
     "image_url": "https://i.ibb.co/cSNQ2h6m/45f6045eb48a.png"
-  },
-  {
-    "slug": "2026-05-15-gerrymandering-when-maps-decide-elections",
-    "title": "Gerrymandering: When Maps Decide Elections",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 15, 2026",
-    "image_url": "https://i.ibb.co/B25sKP9t/1cdac49829f8.png"
   }
 ]
