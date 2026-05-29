@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-29-economic-messages-and-political-persuasion",
+    "title": "Economic Messages and Political Persuasion",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 29, 2026",
+    "image_url": "https://i.ibb.co/d0SJcNYW/b128027980ab.png"
+  },
+  {
     "slug": "2026-05-29-fighting-ebola-global-health-in-action",
     "title": "Fighting Ebola: Global Health in Action",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "May 16, 2026",
     "image_url": "https://i.ibb.co/LXLcbpjf/acee20293240.png"
-  },
-  {
-    "slug": "2026-05-16-sentence-commutations-politics-and-justice",
-    "title": "Sentence Commutations: Politics and Justice",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 16, 2026",
-    "image_url": "https://i.ibb.co/xtMS2TCH/529077243cde.png"
   }
 ]
