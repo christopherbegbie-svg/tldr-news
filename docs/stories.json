@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-30-political-cartoons-democracys-visual-truth",
+    "title": "Political Cartoons: Democracy's Visual Truth",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 30, 2026",
+    "image_url": "https://i.ibb.co/jZPzsPg8/43e7f1ab88f5.png"
+  },
+  {
     "slug": "2026-05-29-primaries-the-election-before-the-election",
     "title": "Primaries: The Election Before the Election",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 17, 2026",
     "image_url": "https://i.ibb.co/2fT9ncM/69ed13164e75.png"
-  },
-  {
-    "slug": "2026-05-17-tax-policy-meets-digital-activism",
-    "title": "Tax Policy Meets Digital Activism",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 17, 2026",
-    "image_url": "https://i.ibb.co/tPKjf3kQ/c2760cac0716.png"
   }
 ]
