@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-30-political-bias-in-professional-services",
+    "title": "Political Bias in Professional Services",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "May 30, 2026",
+    "image_url": "https://i.ibb.co/cKrVWwhb/edba5e152ac5.png"
+  },
+  {
     "slug": "2026-05-30-political-cartoons-and-democratic-accountability",
     "title": "Political Cartoons and Democratic Accountability",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 17, 2026",
     "image_url": "https://i.ibb.co/R4P9587g/6314976495be.png"
-  },
-  {
-    "slug": "2026-05-17-immigration-enforcement-and-mental-health",
-    "title": "Immigration Enforcement and Mental Health",
-    "category": "world",
-    "source": "NPR News",
-    "date": "May 17, 2026",
-    "image_url": "https://i.ibb.co/x8SmHkmL/48082cf37a86.png"
   }
 ]
