@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-05-30-political-cartoons-and-democratic-accountability",
+    "title": "Political Cartoons and Democratic Accountability",
+    "category": "politics",
+    "source": "Politico",
+    "date": "May 30, 2026",
+    "image_url": "https://i.ibb.co/fVnM06bc/68a54c2c7844.png"
+  },
+  {
     "slug": "2026-05-30-indias-military-rise-reshapes-asia",
     "title": "India's Military Rise Reshapes Asia",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "May 17, 2026",
     "image_url": "https://i.ibb.co/x8SmHkmL/48082cf37a86.png"
-  },
-  {
-    "slug": "2026-05-17-uyghurs-syria-global-power",
-    "title": "Uyghurs, Syria & Global Power",
-    "category": "world",
-    "source": "NPR News",
-    "date": "May 17, 2026",
-    "image_url": "https://i.ibb.co/mm9p9xq/9286a2b2806a.png"
   }
 ]
