@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-01-election-polls-and-political-strategy",
+    "title": "Election Polls and Political Strategy",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "June 01, 2026",
+    "image_url": "https://i.ibb.co/VcBXjKSB/c25c90540de7.png"
+  },
+  {
     "slug": "2026-05-31-why-australia-chose-used-submarines",
     "title": "Why Australia chose used submarines",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "May 17, 2026",
     "image_url": "https://i.ibb.co/zhWz6T09/ac2aa44e9cba.png"
-  },
-  {
-    "slug": "2026-05-17-how-drones-changed-modern-warfare",
-    "title": "How Drones Changed Modern Warfare",
-    "category": "world",
-    "source": "NPR News",
-    "date": "May 17, 2026",
-    "image_url": "https://i.ibb.co/YFxt7y9Y/f515c8d6ad24.png"
   }
 ]
