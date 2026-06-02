@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-02-trade-tariffs-explained",
+    "title": "Trade Tariffs Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 02, 2026",
+    "image_url": "https://i.ibb.co/8DFG24X3/ea41348a0001.png"
+  },
+  {
     "slug": "2026-06-02-us-iran-peace-talks-explained",
     "title": "U.S.-Iran Peace Talks Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "May 18, 2026",
     "image_url": "https://i.ibb.co/TBRqpTqR/5c2300f1383f.png"
-  },
-  {
-    "slug": "2026-05-18-smart-glasses-designed-for-military-combat",
-    "title": "Smart Glasses Designed for Military Combat",
-    "category": "ai",
-    "source": "MIT Technology Review AI",
-    "date": "May 18, 2026",
-    "image_url": "https://i.ibb.co/PZzjC9kd/6dcbdf7e391b.png"
   }
 ]
