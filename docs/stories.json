@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-02-living-tissue-that-defies-death",
+    "title": "Living Tissue That Defies Death",
+    "category": "history",
+    "source": "Smithsonian Magazine",
+    "date": "June 02, 2026",
+    "image_url": "https://i.ibb.co/GvCMmJpr/e53df46fc441.png"
+  },
+  {
     "slug": "2026-06-02-trade-tariffs-explained",
     "title": "Trade Tariffs Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "May 18, 2026",
     "image_url": "https://i.ibb.co/1fyS842Q/1e466b08d2b6.png"
-  },
-  {
-    "slug": "2026-05-18-israel-dividing-republicans",
-    "title": "Israel dividing Republicans",
-    "category": "politics",
-    "source": "Politico",
-    "date": "May 18, 2026",
-    "image_url": "https://i.ibb.co/TBRqpTqR/5c2300f1383f.png"
   }
 ]
