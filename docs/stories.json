@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-04-nyc-transit-prepares-for-world-cup-crowds",
+    "title": "NYC Transit Prepares for World Cup Crowds",
+    "category": "world",
+    "source": "NPR News",
+    "date": "June 04, 2026",
+    "image_url": "https://i.ibb.co/k2PWYKSt/4156e84e12ff.png"
+  },
+  {
     "slug": "2026-06-04-controversies-vs-political-agendas",
     "title": "Controversies vs. Political Agendas",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 20, 2026",
     "image_url": "https://i.ibb.co/tFBZ2Zv/bdc379c775c0.png"
-  },
-  {
-    "slug": "2026-05-20-how-studios-use-streaming-to-launch-blockbusters",
-    "title": "How Studios Use Streaming to Launch Blockbusters",
-    "category": "world",
-    "source": "France 24",
-    "date": "May 20, 2026",
-    "image_url": "https://i.ibb.co/233QZ4CW/e5b485e0ff80.png"
   }
 ]
