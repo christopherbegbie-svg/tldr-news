@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-06-04-endorsement-timing-wins-elections.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-06-03-dead-teen-ordered-deported-by-immigration-judge.html</loc>
@@ -597,12 +603,6 @@
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-05-19-disease-outbreaks-and-vaccination-why-it-matters.html</loc>
     <lastmod>2026-05-19</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-05-18-australias-infrastructure-under-climate-threat.html</loc>
-    <lastmod>2026-05-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
