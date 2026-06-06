@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-06-perus-political-crisis-explained",
+    "title": "Peru's Political Crisis Explained",
+    "category": "world",
+    "source": "NPR News",
+    "date": "June 06, 2026",
+    "image_url": "https://i.ibb.co/TMK0vzTg/f7a70856990b.png"
+  },
+  {
     "slug": "2026-06-06-aviations-confidence-in-crisis",
     "title": "Aviation's Confidence in Crisis",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "May 21, 2026",
     "image_url": "https://i.ibb.co/C5pvB5yN/bdc08ccd943c.png"
-  },
-  {
-    "slug": "2026-05-21-party-tensions-and-presidential-power",
-    "title": "Party Tensions and Presidential Power",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "May 21, 2026",
-    "image_url": "https://i.ibb.co/G4jHyVJL/ebf44b5241fe.png"
   }
 ]
