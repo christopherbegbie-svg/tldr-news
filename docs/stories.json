@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-06-the-reflecting-pool-repaint-mystery",
+    "title": "The Reflecting Pool Repaint Mystery",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "June 06, 2026",
+    "image_url": "https://i.ibb.co/kgZzNCbJ/913dad665ebb.png"
+  },
+  {
     "slug": "2026-06-06-d-day-speech-sparks-migration-debate",
     "title": "D-Day Speech Sparks Migration Debate",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "May 22, 2026",
     "image_url": "https://i.ibb.co/Pz1yDdrb/e5875f6931c6.png"
-  },
-  {
-    "slug": "2026-05-22-albertas-push-for-independence",
-    "title": "Alberta's Push for Independence",
-    "category": "world",
-    "source": "BBC World",
-    "date": "May 22, 2026",
-    "image_url": "https://i.ibb.co/8gZLwXDN/a35b12d8b6c4.png"
   }
 ]
