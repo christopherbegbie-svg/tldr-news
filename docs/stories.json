@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-06-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "June 06, 2026",
+    "image_url": "https://i.ibb.co/GfmfT4Z6/f62663d1e01b.png"
+  },
+  {
     "slug": "2026-06-06-perus-political-crisis-explained",
     "title": "Peru's Political Crisis Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "May 21, 2026",
     "image_url": "https://i.ibb.co/zhnCrZpY/eb0b6428e405.png"
-  },
-  {
-    "slug": "2026-05-21-cubas-anxious-neighbors-fear-us-strikes",
-    "title": "Cuba's Anxious Neighbors Fear US Strikes",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "May 21, 2026",
-    "image_url": "https://i.ibb.co/C5pvB5yN/bdc08ccd943c.png"
   }
 ]
