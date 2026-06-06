@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-06-budget-cuts-logic-vs-reality",
+    "title": "Budget Cuts: Logic vs. Reality",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "June 06, 2026",
+    "image_url": "https://i.ibb.co/8DXyn0ZH/224316364d67.png"
+  },
+  {
     "slug": "2026-06-06-live-history-d-day-through-social-media",
     "title": "Live History: D-Day Through Social Media",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "May 22, 2026",
     "image_url": "https://i.ibb.co/Mkwfdfnx/61f03d084fbc.png"
-  },
-  {
-    "slug": "2026-05-22-modern-warfare-targets-energy-infrastructure",
-    "title": "Modern Warfare Targets Energy Infrastructure",
-    "category": "world",
-    "source": "France 24",
-    "date": "May 22, 2026",
-    "image_url": "https://i.ibb.co/BKfGbrVj/f540de1db431.png"
   }
 ]
