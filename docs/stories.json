@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-06-shark-attacks-rare-but-real",
+    "title": "Shark Attacks: Rare But Real",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 06, 2026",
+    "image_url": "https://i.ibb.co/N2rVxf1w/d7d82ee3a5e6.png"
+  },
+  {
     "slug": "2026-06-06-can-we-stop-the-next-ebola-crisis",
     "title": "Can We Stop the Next Ebola Crisis?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "May 21, 2026",
     "image_url": "https://i.ibb.co/PvnbkstK/075c675b1797.png"
-  },
-  {
-    "slug": "2026-05-21-budget-battles-within-political-parties",
-    "title": "Budget Battles Within Political Parties",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "May 21, 2026",
-    "image_url": "https://i.ibb.co/n8KBY7y6/976ce0f9a51c.png"
   }
 ]
