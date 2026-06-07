@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-07-political-cartoons-democracys-visual-commentary",
+    "title": "Political Cartoons: Democracy's Visual Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "June 07, 2026",
+    "image_url": "https://i.ibb.co/n8tQYw2X/4453210e6466.png"
+  },
+  {
     "slug": "2026-06-07-irans-world-cup-visa-battle-explained",
     "title": "Iran's World Cup Visa Battle Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "May 23, 2026",
     "image_url": "https://i.ibb.co/V0LCKL7X/f5687cb3ccce.png"
-  },
-  {
-    "slug": "2026-05-23-bond-yields-why-they-matter-now",
-    "title": "Bond Yields: Why They Matter Now",
-    "category": "economics",
-    "source": "NPR Economics",
-    "date": "May 23, 2026",
-    "image_url": "https://i.ibb.co/S2KPPBF/6b56c598c8ee.png"
   }
 ]
