@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-07-political-cartoons-shape-democracy",
+    "title": "Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "June 07, 2026",
+    "image_url": "https://i.ibb.co/DPNjQt1q/ae948d5dc914.png"
+  },
+  {
     "slug": "2026-06-07-perus-political-crisis-explained",
     "title": "Peru's Political Crisis Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 23, 2026",
     "image_url": "https://i.ibb.co/h1xRJD7q/45b7be63185e.png"
-  },
-  {
-    "slug": "2026-05-22-us-cuba-tensions-whats-really-happening",
-    "title": "US-Cuba tensions: What's really happening?",
-    "category": "world",
-    "source": "BBC World",
-    "date": "May 22, 2026",
-    "image_url": "https://i.ibb.co/xt5hnpbh/df0e9b513cf8.png"
   }
 ]
