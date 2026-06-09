@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-09-understanding-international-sanctions",
+    "title": "Understanding International Sanctions",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 09, 2026",
+    "image_url": "https://i.ibb.co/Psyj9mTz/440743a1dccb.png"
+  },
+  {
     "slug": "2026-06-09-federal-judge-blocks-h-1b-visa-fee",
     "title": "Federal Judge Blocks H-1B Visa Fee",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "May 27, 2026",
     "image_url": "https://i.ibb.co/0pPBt7Gz/ab6fcd7b530d.png"
-  },
-  {
-    "slug": "2026-05-27-diplomacy-ending-wars-isnt-easy",
-    "title": "Diplomacy: Ending Wars Isn't Easy",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "May 27, 2026",
-    "image_url": "https://i.ibb.co/YBT11v2X/8bc4b07c15e1.png"
   }
 ]
