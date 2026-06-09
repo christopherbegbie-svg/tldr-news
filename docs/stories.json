@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-09-party-loyalty-vs-personal-concerns",
+    "title": "Party Loyalty vs. Personal Concerns",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "June 09, 2026",
+    "image_url": "https://i.ibb.co/dsF0nR7S/a52bf8f9097f.png"
+  },
+  {
     "slug": "2026-06-08-australias-ndis-cuts-who-pays",
     "title": "Australia's NDIS Cuts: Who Pays?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 26, 2026",
     "image_url": "https://i.ibb.co/5gdyWCp1/1ce7e23edf68.png"
-  },
-  {
-    "slug": "2026-05-26-disease-spreads-economies-collapse",
-    "title": "Disease Spreads, Economies Collapse",
-    "category": "world",
-    "source": "France 24",
-    "date": "May 26, 2026",
-    "image_url": "https://i.ibb.co/MD8881p0/e7854c1e898d.png"
   }
 ]
