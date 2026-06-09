@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-09-leading-in-a-human-ai-workplace",
+    "title": "Leading in a Human-AI Workplace",
+    "category": "ai",
+    "source": "MIT Technology Review AI",
+    "date": "June 09, 2026",
+    "image_url": "https://i.ibb.co/DHB75cV2/1c7675151b07.png"
+  },
+  {
     "slug": "2026-06-09-diplomacy-in-the-middle-east",
     "title": "Diplomacy in the Middle East",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "May 27, 2026",
     "image_url": "https://i.ibb.co/KcBtwcvs/958a90b70f19.png"
-  },
-  {
-    "slug": "2026-05-27-rewriting-history-a-modern-declaration",
-    "title": "Rewriting History: A Modern Declaration",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "May 27, 2026",
-    "image_url": "https://i.ibb.co/QFyWTW6r/b181d2333a99.png"
   }
 ]
