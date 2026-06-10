@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-10-us-iran-tensions-why-geography-matters",
+    "title": "U.S.-Iran Tensions: Why Geography Matters",
+    "category": "world",
+    "source": "NPR News",
+    "date": "June 10, 2026",
+    "image_url": "https://i.ibb.co/C5c1np9H/fe6140ea865d.png"
+  },
+  {
     "slug": "2026-06-10-chinas-silent-diplomatic-shift",
     "title": "China's Silent Diplomatic Shift",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "May 28, 2026",
     "image_url": "https://i.ibb.co/cX2gSDB1/c18bf047f80b.png"
-  },
-  {
-    "slug": "2026-05-28-open-data-sciences-collaborative-revolution",
-    "title": "Open Data: Science's Collaborative Revolution",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "May 28, 2026",
-    "image_url": "https://i.ibb.co/bc50Mcw/ecec74496b45.png"
   }
 ]
