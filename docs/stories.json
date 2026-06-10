@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-10-police-accountability-and-legal-rights",
+    "title": "Police Accountability and Legal Rights",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 10, 2026",
+    "image_url": "https://i.ibb.co/ZzXpRsK2/ff4bcdd16378.png"
+  },
+  {
     "slug": "2026-06-10-conflict-minerals-the-cost-of-convenience",
     "title": "Conflict Minerals: The Cost of Convenience",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "May 28, 2026",
     "image_url": "https://i.ibb.co/gZNywP6W/366705465c03.png"
-  },
-  {
-    "slug": "2026-05-27-news-leadership-behind-the-scenes",
-    "title": "News Leadership: Behind the Scenes",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "May 27, 2026",
-    "image_url": "https://i.ibb.co/xtrbLDP3/fe487cd43605.png"
   }
 ]
