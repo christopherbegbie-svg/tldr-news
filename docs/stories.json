@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-11-australias-data-center-boom",
+    "title": "Australia's Data Center Boom",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 11, 2026",
+    "image_url": "https://i.ibb.co/0yBx1PbL/0456fa9269f6.png"
+  },
+  {
     "slug": "2026-06-10-congress-approves-ice-funding-through-trump-term",
     "title": "Congress Approves ICE Funding Through Trump Term",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "May 28, 2026",
     "image_url": "https://i.ibb.co/TqvL7sM5/cfe0a018584e.png"
-  },
-  {
-    "slug": "2026-05-28-us-iran-tensions-whats-really-going-on",
-    "title": "U.S.-Iran Tensions: What's Really Going On?",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "May 28, 2026",
-    "image_url": "https://i.ibb.co/WN5VCbsQ/9b32167ac3fd.png"
   }
 ]

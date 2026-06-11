@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-06-11-australias-data-center-boom.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-06-10-congress-approves-ice-funding-through-trump-term.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-05-28-when-your-car-becomes-a-listening-device.html</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-05-28-us-iran-tensions-whats-really-going-on.html</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
