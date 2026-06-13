@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-13-fisa-702-security-vs-privacy",
+    "title": "FISA 702: Security vs. Privacy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "June 13, 2026",
+    "image_url": "https://i.ibb.co/m5MJ4wKh/7132434d523c.png"
+  },
+  {
     "slug": "2026-06-13-us-blocks-foreign-access-to-advanced-ai",
     "title": "US Blocks Foreign Access to Advanced AI",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "May 29, 2026",
     "image_url": "https://i.ibb.co/Y7mZz0Pg/9fe60b5f120d.png"
-  },
-  {
-    "slug": "2026-05-29-can-elections-be-cancelled-legally",
-    "title": "Can Elections Be Cancelled Legally?",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "May 29, 2026",
-    "image_url": "https://i.ibb.co/Jj5L7PVs/a56acbd35d65.png"
   }
 ]
