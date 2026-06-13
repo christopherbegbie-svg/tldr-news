@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-13-literary-picks-from-todays-greatest-authors",
+    "title": "Literary Picks from Today's Greatest Authors",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "June 13, 2026",
+    "image_url": "https://i.ibb.co/b5mWwQ4G/8bc874e733cc.png"
+  },
+  {
     "slug": "2026-06-13-us-mexico-relations-at-a-critical-moment",
     "title": "US-Mexico Relations at a Critical Moment",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "May 29, 2026",
     "image_url": "https://i.ibb.co/5XsTy3DZ/686faa839b42.png"
-  },
-  {
-    "slug": "2026-05-29-three-candidates-one-citys-future",
-    "title": "Three Candidates, One City's Future",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "May 29, 2026",
-    "image_url": "https://i.ibb.co/5gBfmkmQ/6468feb15667.png"
   }
 ]
