@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-16-vote-rigging-threats-to-democracy",
+    "title": "Vote Rigging: Threats to Democracy",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "June 16, 2026",
+    "image_url": "https://i.ibb.co/359BsR0f/b41b1e100fae.png"
+  },
+  {
     "slug": "2026-06-16-interest-rates-how-economics-shapes-politics",
     "title": "Interest Rates: How Economics Shapes Politics",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "June 01, 2026",
     "image_url": "https://i.ibb.co/Lz4YPybr/70f389ab3244.png"
-  },
-  {
-    "slug": "2026-06-01-civil-rights-tools-under-attack",
-    "title": "Civil Rights Tools Under Attack",
-    "category": "world",
-    "source": "NPR News",
-    "date": "June 01, 2026",
-    "image_url": "https://i.ibb.co/qLxb2Wzj/ad04481d436d.png"
   }
 ]
