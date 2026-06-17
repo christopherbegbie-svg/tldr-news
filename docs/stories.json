@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-17-cultural-sensitivity-in-global-business",
+    "title": "Cultural Sensitivity in Global Business",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 17, 2026",
+    "image_url": "https://i.ibb.co/20447CM5/367834f8d434.png"
+  },
+  {
     "slug": "2026-06-17-diplomacy-101-how-nations-make-deals",
     "title": "Diplomacy 101: How Nations Make Deals",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "June 02, 2026",
     "image_url": "https://i.ibb.co/Vpm175M2/058556e9884a.png"
-  },
-  {
-    "slug": "2026-06-02-minimum-wage-the-economics-behind-pay-raises",
-    "title": "Minimum wage: the economics behind pay raises",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "June 02, 2026",
-    "image_url": "https://i.ibb.co/GQBVkRTL/e7d503effb0a.png"
   }
 ]
