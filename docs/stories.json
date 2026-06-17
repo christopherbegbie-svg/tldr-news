@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-17-political-debate-democracys-essential-conversation",
+    "title": "Political Debate: Democracy's Essential Conversation",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 17, 2026",
+    "image_url": "https://i.ibb.co/Hf0RgHmt/4727b2ad9089.png"
+  },
+  {
     "slug": "2026-06-16-vote-rigging-threats-to-democracy",
     "title": "Vote Rigging: Threats to Democracy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "June 01, 2026",
     "image_url": "https://i.ibb.co/3Y4vqRFc/7c8410280d65.png"
-  },
-  {
-    "slug": "2026-06-01-politics-and-public-celebrations-collide",
-    "title": "Politics and Public Celebrations Collide",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "June 01, 2026",
-    "image_url": "https://i.ibb.co/Lz4YPybr/70f389ab3244.png"
   }
 ]
