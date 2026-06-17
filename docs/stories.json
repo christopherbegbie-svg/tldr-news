@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-17-by-elections-how-one-vote-shapes-nations",
+    "title": "By-Elections: How One Vote Shapes Nations",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "June 17, 2026",
+    "image_url": "https://i.ibb.co/wFQrmmNh/99ee1ca0e619.png"
+  },
+  {
     "slug": "2026-06-17-quantum-computing-breakthrough-from-scotland",
     "title": "Quantum Computing Breakthrough from Scotland",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "MIT Technology Review AI",
     "date": "June 02, 2026",
     "image_url": "https://i.ibb.co/C5KGnJQ7/05936a67e3fa.png"
-  },
-  {
-    "slug": "2026-06-02-courts-government-spending-elections-explained",
-    "title": "Courts, Government Spending & Elections Explained",
-    "category": "world",
-    "source": "NPR News",
-    "date": "June 02, 2026",
-    "image_url": "https://i.ibb.co/bMBQcSH4/b491302c9dae.png"
   }
 ]
