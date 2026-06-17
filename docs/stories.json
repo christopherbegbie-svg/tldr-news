@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-17-diplomacy-101-how-nations-make-deals",
+    "title": "Diplomacy 101: How Nations Make Deals",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "June 17, 2026",
+    "image_url": "https://i.ibb.co/kgCtC146/94ac0d1221b8.png"
+  },
+  {
     "slug": "2026-06-17-understanding-military-counter-drug-operations",
     "title": "Understanding Military Counter-Drug Operations",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "June 02, 2026",
     "image_url": "https://i.ibb.co/GQBVkRTL/e7d503effb0a.png"
-  },
-  {
-    "slug": "2026-06-01-mining-explosives-when-safety-fails-catastrophically",
-    "title": "Mining Explosives: When Safety Fails Catastrophically",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "June 01, 2026",
-    "image_url": "https://i.ibb.co/cc22nd36/1e74b9a01cfb.png"
   }
 ]
