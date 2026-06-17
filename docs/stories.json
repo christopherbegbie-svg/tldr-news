@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-17-presidential-power-meets-senate-oversight",
+    "title": "Presidential Power Meets Senate Oversight",
+    "category": "world",
+    "source": "NPR News",
+    "date": "June 17, 2026",
+    "image_url": "https://i.ibb.co/gZ3PmdsL/62eeeba1ff24.png"
+  },
+  {
     "slug": "2026-06-17-cultural-sensitivity-in-global-business",
     "title": "Cultural Sensitivity in Global Business",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 02, 2026",
     "image_url": "https://i.ibb.co/nMSRC8Yv/fe989f5fa8cc.png"
-  },
-  {
-    "slug": "2026-06-02-understanding-political-sanctions-explained",
-    "title": "Understanding Political Sanctions Explained",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "June 02, 2026",
-    "image_url": "https://i.ibb.co/Vpm175M2/058556e9884a.png"
   }
 ]
