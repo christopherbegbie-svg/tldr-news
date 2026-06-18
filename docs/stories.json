@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-18-international-military-aid-explained",
+    "title": "International Military Aid Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 18, 2026",
+    "image_url": "https://i.ibb.co/dJ1v5QR7/2a54c854ab53.png"
+  },
+  {
     "slug": "2026-06-18-the-jury-system-how-justice-works",
     "title": "The Jury System: How Justice Works",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "June 04, 2026",
     "image_url": "https://i.ibb.co/S4GdJcRF/8190c2b232af.png"
-  },
-  {
-    "slug": "2026-06-04-endorsement-timing-wins-elections",
-    "title": "Endorsement Timing Wins Elections",
-    "category": "politics",
-    "source": "Politico",
-    "date": "June 04, 2026",
-    "image_url": "https://i.ibb.co/gZG5x8Sp/15b11b502549.png"
   }
 ]
