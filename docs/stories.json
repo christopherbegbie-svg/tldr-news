@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-18-media-power-vs-political-accountability",
+    "title": "Media Power vs. Political Accountability",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 18, 2026",
+    "image_url": "https://i.ibb.co/GGKJ3kZ/c4c35112b8c2.png"
+  },
+  {
     "slug": "2026-06-18-press-freedom-under-political-pressure",
     "title": "Press Freedom Under Political Pressure",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Smithsonian Magazine",
     "date": "June 02, 2026",
     "image_url": "https://i.ibb.co/GvCMmJpr/e53df46fc441.png"
-  },
-  {
-    "slug": "2026-06-02-trade-tariffs-explained",
-    "title": "Trade Tariffs Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 02, 2026",
-    "image_url": "https://i.ibb.co/8DFG24X3/ea41348a0001.png"
   }
 ]
