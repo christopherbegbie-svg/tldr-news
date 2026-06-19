@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-19-the-art-of-crime-thrillers-explained",
+    "title": "The Art of Crime Thrillers Explained",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "June 19, 2026",
+    "image_url": "https://i.ibb.co/3mHymzPF/ea2e2dd9b2e6.png"
+  },
+  {
     "slug": "2026-06-19-why-cartoons-matter-in-politics",
     "title": "Why Cartoons Matter in Politics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "June 04, 2026",
     "image_url": "https://i.ibb.co/k2PWYKSt/4156e84e12ff.png"
-  },
-  {
-    "slug": "2026-06-04-controversies-vs-political-agendas",
-    "title": "Controversies vs. Political Agendas",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "June 04, 2026",
-    "image_url": "https://i.ibb.co/0yKBgfdV/6e0531fbb02d.png"
   }
 ]
