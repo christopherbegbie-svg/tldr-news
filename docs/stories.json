@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-19-political-cartoons-art-meets-government",
+    "title": "Political Cartoons: Art Meets Government",
+    "category": "politics",
+    "source": "Politico",
+    "date": "June 19, 2026",
+    "image_url": "https://i.ibb.co/dsRCdPTZ/4e0fa33647b5.png"
+  },
+  {
     "slug": "2026-06-19-design-that-builds-stronger-communities",
     "title": "Design That Builds Stronger Communities",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "June 05, 2026",
     "image_url": "https://i.ibb.co/bj9sftHQ/bb42ed642ff2.png"
-  },
-  {
-    "slug": "2026-06-05-billionaires-ndas-and-media-power",
-    "title": "Billionaires, NDAs, and Media Power",
-    "category": "world",
-    "source": "France 24",
-    "date": "June 05, 2026",
-    "image_url": "https://i.ibb.co/VWk9nr3b/985838f2fe7a.png"
   }
 ]
