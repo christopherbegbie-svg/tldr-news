@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-19-deadly-bird-flu-reaches-australia",
+    "title": "Deadly Bird Flu Reaches Australia",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 19, 2026",
+    "image_url": "https://i.ibb.co/NnS02FXz/482c0372d5f7.png"
+  },
+  {
     "slug": "2026-06-19-bird-flu-reaches-australian-mainland",
     "title": "Bird Flu Reaches Australian Mainland",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 04, 2026",
     "image_url": "https://i.ibb.co/5gvDmXhS/fa6b2d562d81.png"
-  },
-  {
-    "slug": "2026-06-04-offshore-detention-a-global-policy-question",
-    "title": "Offshore Detention: A Global Policy Question",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 04, 2026",
-    "image_url": "https://i.ibb.co/1YB7k2cJ/ee3fa17d7264.png"
   }
 ]
