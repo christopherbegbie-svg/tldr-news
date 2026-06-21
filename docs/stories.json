@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-21-when-nations-say-sorry",
+    "title": "When Nations Say Sorry",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 21, 2026",
+    "image_url": "https://i.ibb.co/KpqTGcGs/68a47272b8b5.png"
+  },
+  {
     "slug": "2026-06-21-energy-as-a-weapon",
     "title": "Energy as a Weapon",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 07, 2026",
     "image_url": "https://i.ibb.co/ccL6Lfzf/77a5bb5cca28.png"
-  },
-  {
-    "slug": "2026-06-07-australias-record-personal-debt-crisis",
-    "title": "Australia's Record Personal Debt Crisis",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 07, 2026",
-    "image_url": "https://i.ibb.co/fz7wtpz7/182691492680.png"
   }
 ]
