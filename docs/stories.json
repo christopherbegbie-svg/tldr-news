@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-21-campaign-cash-when-personal-becomes-political",
+    "title": "Campaign Cash: When Personal Becomes Political",
+    "category": "politics",
+    "source": "Politico",
+    "date": "June 21, 2026",
+    "image_url": "https://i.ibb.co/rR3HVdmQ/fc7ad75d0030.png"
+  },
+  {
     "slug": "2026-06-21-when-nations-say-sorry",
     "title": "When Nations Say Sorry",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "June 07, 2026",
     "image_url": "https://i.ibb.co/DPNjQt1q/ae948d5dc914.png"
-  },
-  {
-    "slug": "2026-06-07-perus-political-crisis-explained",
-    "title": "Peru's Political Crisis Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 07, 2026",
-    "image_url": "https://i.ibb.co/ccL6Lfzf/77a5bb5cca28.png"
   }
 ]
