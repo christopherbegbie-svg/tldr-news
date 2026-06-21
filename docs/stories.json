@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-21-energy-as-a-weapon",
+    "title": "Energy as a Weapon",
+    "category": "world",
+    "source": "NPR News",
+    "date": "June 21, 2026",
+    "image_url": "https://i.ibb.co/C52yQv4M/812c0cc15008.png"
+  },
+  {
     "slug": "2026-06-21-presidential-rivalry-obama-and-trumps-complex-history",
     "title": "Presidential Rivalry: Obama and Trump's Complex History",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 07, 2026",
     "image_url": "https://i.ibb.co/fz7wtpz7/182691492680.png"
-  },
-  {
-    "slug": "2026-06-06-budget-cuts-logic-vs-reality",
-    "title": "Budget Cuts: Logic vs. Reality",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "June 06, 2026",
-    "image_url": "https://i.ibb.co/8DXyn0ZH/224316364d67.png"
   }
 ]
