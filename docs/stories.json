@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-22-how-ai-went-from-dream-to-revolution",
+    "title": "How AI Went From Dream to Revolution",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "June 22, 2026",
+    "image_url": "https://i.ibb.co/hFnM7TMF/11d36fe920a0.png"
+  },
+  {
     "slug": "2026-06-22-open-access-publishing-meets-ai-challenges",
     "title": "Open Access Publishing Meets AI Challenges",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "June 07, 2026",
     "image_url": "https://i.ibb.co/bgvCZWn1/8c15adff5e7c.png"
-  },
-  {
-    "slug": "2026-06-07-why-madrids-million-person-papal-gathering-matters",
-    "title": "Why Madrid's Million-Person Papal Gathering Matters",
-    "category": "world",
-    "source": "NPR News",
-    "date": "June 07, 2026",
-    "image_url": "https://i.ibb.co/Q7Xm5TcY/2b4ae56d9714.png"
   }
 ]
