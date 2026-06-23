@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-23-religious-rights-clash-with-prison-security",
+    "title": "Religious Rights Clash With Prison Security",
+    "category": "world",
+    "source": "NPR News",
+    "date": "June 23, 2026",
+    "image_url": "https://i.ibb.co/ymVMwVrj/ae55f53bd397.png"
+  },
+  {
     "slug": "2026-06-23-political-battles-over-family-support",
     "title": "Political Battles Over Family Support",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 08, 2026",
     "image_url": "https://i.ibb.co/hJ2bsmxb/758781fdb426.png"
-  },
-  {
-    "slug": "2026-06-08-chinas-strategic-move-in-asia",
-    "title": "China's Strategic Move in Asia",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "June 08, 2026",
-    "image_url": "https://i.ibb.co/nNmSr2wd/0d832eb1a729.png"
   }
 ]
