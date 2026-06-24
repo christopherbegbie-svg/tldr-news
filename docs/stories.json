@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-24-how-ads-can-miss-their-mark",
+    "title": "How Ads Can Miss Their Mark",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "June 24, 2026",
+    "image_url": "https://i.ibb.co/HjSwvZb/1be763c81955.png"
+  },
+  {
     "slug": "2026-06-24-algorithms-vs-experts-who-decides-healthcare",
     "title": "Algorithms vs. Experts: Who Decides Healthcare?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "June 09, 2026",
     "image_url": "https://i.ibb.co/27pkqm4x/edca9a74dd9d.png"
-  },
-  {
-    "slug": "2026-06-09-australias-ai-gold-rush-explained",
-    "title": "Australia's AI Gold Rush Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 09, 2026",
-    "image_url": "https://i.ibb.co/KjCRSGQD/9eb76cc82e4e.png"
   }
 ]
