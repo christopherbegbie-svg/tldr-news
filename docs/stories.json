@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-24-political-accountability-and-apologies",
+    "title": "Political Accountability and Apologies",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "June 24, 2026",
+    "image_url": "https://i.ibb.co/xtcnvfkM/9f2db67e669a.png"
+  },
+  {
     "slug": "2026-06-24-when-will-americas-mail-system-run-out",
     "title": "When Will America's Mail System Run Out?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "June 09, 2026",
     "image_url": "https://i.ibb.co/j9rr3N5N/ffc658cdb3a1.png"
-  },
-  {
-    "slug": "2026-06-09-leading-in-a-human-ai-workplace",
-    "title": "Leading in a Human-AI Workplace",
-    "category": "ai",
-    "source": "MIT Technology Review AI",
-    "date": "June 09, 2026",
-    "image_url": "https://i.ibb.co/DHB75cV2/1c7675151b07.png"
   }
 ]
