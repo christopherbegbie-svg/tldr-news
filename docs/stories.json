@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-25-nobel-prizes-the-quirky-side-of-science",
+    "title": "Nobel Prizes: The Quirky Side of Science",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "June 25, 2026",
+    "image_url": "https://i.ibb.co/0jyzhXwn/200ef4e0c069.png"
+  },
+  {
     "slug": "2026-06-25-understanding-earthquakes-and-disaster-response",
     "title": "Understanding Earthquakes and Disaster Response",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "June 10, 2026",
     "image_url": "https://i.ibb.co/yF3bpvGN/0a0526dbb807.png"
-  },
-  {
-    "slug": "2026-06-10-electoral-strategy-and-political-competition",
-    "title": "Electoral Strategy and Political Competition",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "June 10, 2026",
-    "image_url": "https://i.ibb.co/21bvGMcR/4a945cc644f4.png"
   }
 ]
