@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-26-political-cartoons-democracys-visual-critics",
+    "title": "Political Cartoons: Democracy's Visual Critics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "June 26, 2026",
+    "image_url": "https://i.ibb.co/ycxKTXx9/10ea26ca32a9.png"
+  },
+  {
     "slug": "2026-06-26-earthquakes-earths-tectonic-power-unleashed",
     "title": "Earthquakes: Earth's Tectonic Power Unleashed",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "June 10, 2026",
     "image_url": "https://i.ibb.co/zWBqqHMj/4fff064c9c03.png"
-  },
-  {
-    "slug": "2026-06-10-us-iran-tensions-why-geography-matters",
-    "title": "U.S.-Iran Tensions: Why Geography Matters",
-    "category": "world",
-    "source": "NPR News",
-    "date": "June 10, 2026",
-    "image_url": "https://i.ibb.co/C5c1np9H/fe6140ea865d.png"
   }
 ]
