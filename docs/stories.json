@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-06-26-politics-trade-and-farming-strategy",
+    "title": "Politics, Trade, and Farming Strategy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "June 26, 2026",
+    "image_url": "https://i.ibb.co/4RXCCc7v/c4d985650b75.png"
+  },
+  {
     "slug": "2026-06-25-when-earth-shakes-understanding-earthquakes",
     "title": "When Earth Shakes: Understanding Earthquakes",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "June 10, 2026",
     "image_url": "https://i.ibb.co/TMpnxw39/4011a858ef03.png"
-  },
-  {
-    "slug": "2026-06-10-police-accountability-and-legal-rights",
-    "title": "Police Accountability and Legal Rights",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 10, 2026",
-    "image_url": "https://i.ibb.co/ZzXpRsK2/ff4bcdd16378.png"
   }
 ]
