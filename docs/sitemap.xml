@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-07-01-when-ai-uses-your-art-without-permission.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-06-30-congress-gets-intelligence-on-iran.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-06-15-public-support-and-the-legal-system.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-06-15-russias-shadow-fleet-hidden-oil-ships-caught.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
