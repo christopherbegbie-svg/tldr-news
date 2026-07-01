@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-01-ai-in-healthcare-democracy-demands-human-touch",
+    "title": "AI in Healthcare: Democracy Demands Human Touch",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "July 01, 2026",
+    "image_url": "https://i.ibb.co/zh0KcjwP/3da288889bd5.png"
+  },
+  {
     "slug": "2026-07-01-how-american-politics-influence-global-nationalism",
     "title": "How American Politics Influence Global Nationalism",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "June 17, 2026",
     "image_url": "https://i.ibb.co/wFQrmmNh/99ee1ca0e619.png"
-  },
-  {
-    "slug": "2026-06-17-quantum-computing-breakthrough-from-scotland",
-    "title": "Quantum Computing Breakthrough from Scotland",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "June 17, 2026",
-    "image_url": "https://i.ibb.co/RGkk0NxF/4bb4da189f10.png"
   }
 ]
