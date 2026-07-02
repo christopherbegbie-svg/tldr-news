@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-02-how-family-stories-shape-literary-art",
+    "title": "How Family Stories Shape Literary Art",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "July 02, 2026",
+    "image_url": "https://i.ibb.co/v4Th0vfJ/74f4943505a5.png"
+  },
+  {
     "slug": "2026-07-02-ebolas-hidden-origins-and-outbreak-prevention",
     "title": "Ebola's Hidden Origins and Outbreak Prevention",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 18, 2026",
     "image_url": "https://i.ibb.co/BKjWgF3t/bd6d5b076667.png"
-  },
-  {
-    "slug": "2026-06-18-diplomacy-how-nations-end-wars",
-    "title": "Diplomacy: How Nations End Wars",
-    "category": "world",
-    "source": "NPR News",
-    "date": "June 18, 2026",
-    "image_url": "https://i.ibb.co/7tBh12nc/d0ab1acbb7c2.png"
   }
 ]
