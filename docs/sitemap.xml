@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-07-03-stock-exchanges-face-accountability.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-02-how-climate-change-is-reshaping-the-world-cup.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-06-19-bird-flu-reaches-australian-mainland.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-06-19-ai-wealth-a-stake-for-everyone.html</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
