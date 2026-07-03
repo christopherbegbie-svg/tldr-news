@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-03-cartoons-shape-how-we-see-politics",
+    "title": "Cartoons Shape How We See Politics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 03, 2026",
+    "image_url": "https://i.ibb.co/5hGYGKs3/6cf77caa49bf.png"
+  },
+  {
     "slug": "2026-07-03-democracys-greatest-test",
     "title": "Democracy's greatest test",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "June 19, 2026",
     "image_url": "https://i.ibb.co/TxH3yjSP/e7450fc45f04.png"
-  },
-  {
-    "slug": "2026-06-19-deadly-bird-flu-reaches-australia",
-    "title": "Deadly Bird Flu Reaches Australia",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 19, 2026",
-    "image_url": "https://i.ibb.co/NnS02FXz/482c0372d5f7.png"
   }
 ]
