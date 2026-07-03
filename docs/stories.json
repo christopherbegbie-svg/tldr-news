@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-03-democracys-greatest-test",
+    "title": "Democracy's greatest test",
+    "category": "world",
+    "source": "France 24",
+    "date": "July 03, 2026",
+    "image_url": "https://i.ibb.co/CKQQNRBp/8d154a7953a4.png"
+  },
+  {
     "slug": "2026-07-03-stock-exchanges-face-accountability",
     "title": "Stock Exchanges Face Accountability",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 19, 2026",
     "image_url": "https://i.ibb.co/NnS02FXz/482c0372d5f7.png"
-  },
-  {
-    "slug": "2026-06-19-bird-flu-reaches-australian-mainland",
-    "title": "Bird Flu Reaches Australian Mainland",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "June 19, 2026",
-    "image_url": "https://i.ibb.co/XZw0BFfC/4126f3468819.png"
   }
 ]
