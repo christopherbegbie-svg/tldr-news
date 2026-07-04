@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-04-political-cartoons-democracys-visual-truth",
+    "title": "Political Cartoons: Democracy's Visual Truth",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 04, 2026",
+    "image_url": "https://i.ibb.co/gZNKdKVy/fe629acbddbc.png"
+  },
+  {
     "slug": "2026-07-04-americas-250-years-independence-and-values",
     "title": "America's 250 Years: Independence and Values",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "June 20, 2026",
     "image_url": "https://i.ibb.co/rR4DR2QR/3b6ede39b459.png"
-  },
-  {
-    "slug": "2026-06-20-when-bestselling-characters-steal-their-authors-identity",
-    "title": "When Bestselling Characters Steal Their Author's Identity",
-    "category": "literature",
-    "source": "The Guardian Books",
-    "date": "June 20, 2026",
-    "image_url": "https://i.ibb.co/Ps3L5t3N/90fa86cbf371.png"
   }
 ]
