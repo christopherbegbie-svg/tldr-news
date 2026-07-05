@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-07-05</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-07-05-understanding-hit-and-run-laws.html</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-04-schisto-ladders-education-saves-lives.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-06-20-sports-a-healing-tool-in-crisis.html</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-06-20-ceasefires-and-conflict-why-peace-breaks-down.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
