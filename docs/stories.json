@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-07-chinas-missile-test-pacific-politics",
+    "title": "China's Missile Test & Pacific Politics",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "July 07, 2026",
+    "image_url": "https://i.ibb.co/mgZg1LS/949115537681.png"
+  },
+  {
     "slug": "2026-07-07-why-global-powers-fear-missile-tests",
     "title": "Why Global Powers Fear Missile Tests",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 21, 2026",
     "image_url": "https://i.ibb.co/KpqTGcGs/68a47272b8b5.png"
-  },
-  {
-    "slug": "2026-06-21-energy-as-a-weapon",
-    "title": "Energy as a Weapon",
-    "category": "world",
-    "source": "NPR News",
-    "date": "June 21, 2026",
-    "image_url": "https://i.ibb.co/C52yQv4M/812c0cc15008.png"
   }
 ]
