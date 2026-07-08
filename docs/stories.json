@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-08-political-parties-and-candidate-replacement-strategies",
+    "title": "Political parties and candidate replacement strategies",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "July 08, 2026",
+    "image_url": "https://i.ibb.co/gFf9b77f/06382ee59dea.png"
+  },
+  {
     "slug": "2026-07-08-summer-2026-travel-trends-and-destinations",
     "title": "Summer 2026 travel: trends and destinations",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "June 23, 2026",
     "image_url": "https://i.ibb.co/YBt1Fm0C/5e9c20ee06cc.png"
-  },
-  {
-    "slug": "2026-06-22-how-ai-went-from-dream-to-revolution",
-    "title": "How AI Went From Dream to Revolution",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "June 22, 2026",
-    "image_url": "https://i.ibb.co/hFnM7TMF/11d36fe920a0.png"
   }
 ]
