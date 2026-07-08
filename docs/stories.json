@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-08-infrastructure-collapse-when-networks-fail",
+    "title": "Infrastructure Collapse: When Networks Fail",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "July 08, 2026",
+    "image_url": "https://i.ibb.co/gCQCqQk/2415c2e4a32a.png"
+  },
+  {
     "slug": "2026-07-07-one-network-down-entire-system-fails",
     "title": "One Network Down, Entire System Fails",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "June 21, 2026",
     "image_url": "https://i.ibb.co/SXDGbWYW/a5cbc41ba323.png"
-  },
-  {
-    "slug": "2026-06-21-champion-comeback-serenas-wimbledon-return",
-    "title": "Champion Comeback: Serena's Wimbledon Return",
-    "category": "world",
-    "source": "France 24",
-    "date": "June 21, 2026",
-    "image_url": "https://i.ibb.co/YBLNX7s3/35e6dd8c8b9e.png"
   }
 ]
