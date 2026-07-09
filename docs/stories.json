@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-09-the-militarys-secret-backup-radio-system",
+    "title": "The Military's Secret Backup Radio System",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "July 09, 2026",
+    "image_url": "https://i.ibb.co/XrRJvb50/e61a6af2685b.png"
+  },
+  {
     "slug": "2026-07-09-the-mystery-of-the-switched-plane",
     "title": "The Mystery of the Switched Plane",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 24, 2026",
     "image_url": "https://i.ibb.co/Z661wcpz/c86d8f537160.png"
-  },
-  {
-    "slug": "2026-06-24-war-powers-who-controls-military-force",
-    "title": "War Powers: Who Controls Military Force?",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "June 24, 2026",
-    "image_url": "https://i.ibb.co/0y1nM3yq/04167ef27368.png"
   }
 ]
