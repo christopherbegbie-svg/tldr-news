@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-09-politics-identity-and-the-power-of-words",
+    "title": "Politics, Identity, and the Power of Words",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 09, 2026",
+    "image_url": "https://i.ibb.co/pvxjssNv/6af83992a28c.png"
+  },
+  {
     "slug": "2026-07-09-the-science-of-deadly-landslides",
     "title": "The Science of Deadly Landslides",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "June 24, 2026",
     "image_url": "https://i.ibb.co/mrw8V338/ffea143f0915.png"
-  },
-  {
-    "slug": "2026-06-24-how-ads-can-miss-their-mark",
-    "title": "How Ads Can Miss Their Mark",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "June 24, 2026",
-    "image_url": "https://i.ibb.co/HjSwvZb/1be763c81955.png"
   }
 ]
