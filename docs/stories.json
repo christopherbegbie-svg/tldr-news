@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-10-the-art-of-political-satire",
+    "title": "The Art of Political Satire",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 10, 2026",
+    "image_url": "https://i.ibb.co/mkG25Mk/1ea624e5dfa1.png"
+  },
+  {
     "slug": "2026-07-10-credibility-natos-real-power",
     "title": "Credibility: NATO's Real Power",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "June 24, 2026",
     "image_url": "https://i.ibb.co/xtcnvfkM/9f2db67e669a.png"
-  },
-  {
-    "slug": "2026-06-24-when-will-americas-mail-system-run-out",
-    "title": "When Will America's Mail System Run Out?",
-    "category": "world",
-    "source": "NPR News",
-    "date": "June 24, 2026",
-    "image_url": "https://i.ibb.co/LhgpGLg8/29450f0fc47c.png"
   }
 ]
