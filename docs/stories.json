@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-12-gun-violence-at-public-gatherings",
+    "title": "Gun Violence at Public Gatherings",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "July 12, 2026",
+    "image_url": "https://i.ibb.co/84dQXHdg/158cf9a4a862.png"
+  },
+  {
     "slug": "2026-07-12-nuclear-deal-trust-or-gamble",
     "title": "Nuclear deal: trust or gamble?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "June 25, 2026",
     "image_url": "https://i.ibb.co/wFzxK04s/3620b3e2a581.png"
-  },
-  {
-    "slug": "2026-06-25-nobel-prizes-the-quirky-side-of-science",
-    "title": "Nobel Prizes: The Quirky Side of Science",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "June 25, 2026",
-    "image_url": "https://i.ibb.co/0jyzhXwn/200ef4e0c069.png"
   }
 ]
