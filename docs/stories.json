@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-12-home-auctions-economys-pulse-check",
+    "title": "Home Auctions: Economy's Pulse Check",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "July 12, 2026",
+    "image_url": "https://i.ibb.co/V0JPQ8GP/044c85601a2a.png"
+  },
+  {
     "slug": "2026-07-12-political-allies-how-critics-become-supporters",
     "title": "Political Allies: How Critics Become Supporters",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "June 26, 2026",
     "image_url": "https://i.ibb.co/VW0prc7s/6c5f30d54b29.png"
-  },
-  {
-    "slug": "2026-06-26-political-cartoons-democracys-visual-critics",
-    "title": "Political Cartoons: Democracy's Visual Critics",
-    "category": "politics",
-    "source": "Politico",
-    "date": "June 26, 2026",
-    "image_url": "https://i.ibb.co/ycxKTXx9/10ea26ca32a9.png"
   }
 ]
