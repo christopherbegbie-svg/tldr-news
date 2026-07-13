@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-13-the-meteoric-rise-and-fall-of-nokia",
+    "title": "The Meteoric Rise and Fall of Nokia",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "July 13, 2026",
+    "image_url": "https://i.ibb.co/HfjDmN5m/10540c0633e7.png"
+  },
+  {
     "slug": "2026-07-13-can-brain-games-prevent-alzheimers",
     "title": "Can Brain Games Prevent Alzheimer's?",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "June 27, 2026",
     "image_url": "https://i.ibb.co/5x91yWkF/b5cf8b0badba.png"
-  },
-  {
-    "slug": "2026-06-27-tiny-island-nations-historic-world-cup-run",
-    "title": "Tiny Island Nation's Historic World Cup Run",
-    "category": "world",
-    "source": "France 24",
-    "date": "June 27, 2026",
-    "image_url": "https://i.ibb.co/QvR01LxQ/382d8e28c74f.png"
   }
 ]
