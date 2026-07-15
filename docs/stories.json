@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-15-inside-the-equine-mind",
+    "title": "Inside the Equine Mind",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "July 15, 2026",
+    "image_url": "https://i.ibb.co/4ZVfby3V/ce5c1e829948.png"
+  },
+  {
     "slug": "2026-07-15-senate-confirmation-of-the-attorney-general",
     "title": "Senate Confirmation of the Attorney General",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "July 02, 2026",
     "image_url": "https://i.ibb.co/PvLzxQ5g/33644848a5b5.png"
-  },
-  {
-    "slug": "2026-07-01-socialist-democrats-win-big-elections",
-    "title": "Socialist Democrats Win Big Elections",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 01, 2026",
-    "image_url": "https://i.ibb.co/7xJfPW0T/b76555b01c80.png"
   }
 ]
