@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-07-16-the-hidden-step-in-drug-development.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-15-inside-the-equine-mind.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-02-parliamentary-drama-over-social-media-rules.html</loc>
-    <lastmod>2026-07-02</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-07-02-how-democracies-actually-debate-reforms.html</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
