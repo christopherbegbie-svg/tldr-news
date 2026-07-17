@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-17-infrastructure-collapse-when-networks-fail",
+    "title": "Infrastructure Collapse: When Networks Fail",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "July 17, 2026",
+    "image_url": "https://i.ibb.co/rKZn37kX/1e44febc6e24.png"
+  },
+  {
     "slug": "2026-07-17-election-security-protecting-democracys-foundation",
     "title": "Election Security: Protecting Democracy's Foundation",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "July 02, 2026",
     "image_url": "https://i.ibb.co/LsLBs3y/d869bc771b6a.png"
-  },
-  {
-    "slug": "2026-07-02-foreign-gifts-and-presidential-ethics",
-    "title": "Foreign Gifts and Presidential Ethics",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 02, 2026",
-    "image_url": "https://i.ibb.co/23Z5sTds/b80908996cbc.png"
   }
 ]
