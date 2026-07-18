@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-18-the-art-of-knowing-when-to-exit",
+    "title": "The Art of Knowing When to Exit",
+    "category": "world",
+    "source": "France 24",
+    "date": "July 18, 2026",
+    "image_url": "https://i.ibb.co/67LzbmvR/44a6611ae276.png"
+  },
+  {
     "slug": "2026-07-18-world-cups-hidden-cost-to-small-towns",
     "title": "World Cup's Hidden Cost to Small Towns",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "July 04, 2026",
     "image_url": "https://i.ibb.co/sd2NjVjq/a4e494a6ec8e.png"
-  },
-  {
-    "slug": "2026-07-04-political-cartoons-democracys-visual-truth",
-    "title": "Political Cartoons: Democracy's Visual Truth",
-    "category": "politics",
-    "source": "Politico",
-    "date": "July 04, 2026",
-    "image_url": "https://i.ibb.co/gZNKdKVy/fe629acbddbc.png"
   }
 ]
