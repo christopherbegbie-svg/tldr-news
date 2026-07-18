@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-18-evidence-vs-claims-in-politics",
+    "title": "Evidence vs. Claims in Politics",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "July 18, 2026",
+    "image_url": "https://i.ibb.co/LXxBqtvR/cc441d39c243.png"
+  },
+  {
     "slug": "2026-07-18-when-ai-makes-cheating-too-easy",
     "title": "When AI Makes Cheating Too Easy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 05, 2026",
     "image_url": "https://i.ibb.co/NnKkt3KN/b23d84255a60.png"
-  },
-  {
-    "slug": "2026-07-05-understanding-hit-and-run-laws",
-    "title": "Understanding Hit-and-Run Laws",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 05, 2026",
-    "image_url": "https://i.ibb.co/391Nmkgn/53024232fd3b.png"
   }
 ]
