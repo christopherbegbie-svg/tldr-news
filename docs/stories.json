@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-20-ai-cracks-unsolved-math-riddle",
+    "title": "AI Cracks Unsolved Math Riddle",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "July 20, 2026",
+    "image_url": "https://i.ibb.co/pvr0Hf6M/21381936c1b9.png"
+  },
+  {
     "slug": "2026-07-20-congresss-urgent-week-long-legislative-sprint",
     "title": "Congress's Urgent Week-Long Legislative Sprint",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "July 07, 2026",
     "image_url": "https://i.ibb.co/93wL5hhQ/37dadfd16739.png"
-  },
-  {
-    "slug": "2026-07-07-australia-regulates-frontier-ai-models",
-    "title": "Australia Regulates Frontier AI Models",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "July 07, 2026",
-    "image_url": "https://i.ibb.co/84LNCZg4/5c2892161def.png"
   }
 ]
