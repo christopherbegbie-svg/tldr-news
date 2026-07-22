@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-22-bells-theorem-the-hidden-revolution",
+    "title": "Bell's Theorem: The Hidden Revolution",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "July 22, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-07-22-politics-and-social-problems-demand-nuance",
     "title": "Politics and Social Problems Demand Nuance",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Smithsonian Magazine",
     "date": "July 08, 2026",
     "image_url": "https://i.ibb.co/ksYThXR2/f7d0ff89361f.png"
-  },
-  {
-    "slug": "2026-07-08-network-outages-why-infrastructure-fragility-matters",
-    "title": "Network Outages: Why Infrastructure Fragility Matters",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "July 08, 2026",
-    "image_url": "https://i.ibb.co/DgTMbZ9d/25b8fd573da3.png"
   }
 ]
