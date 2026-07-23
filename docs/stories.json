@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-23-foreign-interference-how-nations-destabilize-each-other",
+    "title": "Foreign Interference: How Nations Destabilize Each Other",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "July 23, 2026",
+    "image_url": "https://i.ibb.co/DfsbF4gM/c739cae8cd28.png"
+  },
+  {
     "slug": "2026-07-23-us-saudi-nuclear-deal-stirs-israeli-concerns",
     "title": "U.S.-Saudi Nuclear Deal Stirs Israeli Concerns",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "July 09, 2026",
     "image_url": "https://i.ibb.co/9HnG1w5w/f2b41a5fe1da.png"
-  },
-  {
-    "slug": "2026-07-09-the-militarys-secret-backup-radio-system",
-    "title": "The Military's Secret Backup Radio System",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "July 09, 2026",
-    "image_url": "https://i.ibb.co/XrRJvb50/e61a6af2685b.png"
   }
 ]
