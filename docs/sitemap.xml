@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-07-24</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-07-24-tariffs-explained-trade-as-a-weapon.html</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-23-tariffs-the-tax-that-shapes-trade.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-10-the-art-of-political-satire.html</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-07-10-credibility-natos-real-power.html</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
