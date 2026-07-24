@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-24-maritime-disasters-why-ships-sink",
+    "title": "Maritime Disasters: Why Ships Sink",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "July 24, 2026",
+    "image_url": "https://i.ibb.co/kgPY2XYp/c92a7985774c.png"
+  },
+  {
     "slug": "2026-07-24-tariffs-explained-trade-as-a-weapon",
     "title": "Tariffs Explained: Trade as a Weapon",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "July 11, 2026",
     "image_url": "https://i.ibb.co/Hf4fwWc1/e8746fa9f543.png"
-  },
-  {
-    "slug": "2026-07-10-the-art-of-political-satire",
-    "title": "The Art of Political Satire",
-    "category": "politics",
-    "source": "Politico",
-    "date": "July 10, 2026",
-    "image_url": "https://i.ibb.co/mkG25Mk/1ea624e5dfa1.png"
   }
 ]
