@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-25-elm-architecture-meets-c-code",
+    "title": "Elm Architecture Meets C Code",
+    "category": "coding",
+    "source": "Reddit Programming",
+    "date": "July 25, 2026",
+    "image_url": "https://i.ibb.co/Tqh3rcd4/b1c9ab4cf8a9.png"
+  },
+  {
     "slug": "2026-07-25-presidential-tapes-and-public-records",
     "title": "Presidential Tapes and Public Records",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "July 13, 2026",
     "image_url": "https://i.ibb.co/G3rYC87N/61274b9f43c0.png"
-  },
-  {
-    "slug": "2026-07-13-prison-complaints-and-the-cost-of-speaking",
-    "title": "Prison complaints and the cost of speaking",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 13, 2026",
-    "image_url": "https://i.ibb.co/bRsn961s/251da573b9fd.png"
   }
 ]
