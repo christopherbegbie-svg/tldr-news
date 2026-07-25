@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-25-political-cartoons-democracys-visual-truth",
+    "title": "Political Cartoons: Democracy's Visual Truth",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 25, 2026",
+    "image_url": "https://i.ibb.co/xKKRrKgT/9035386c7bcf.png"
+  },
+  {
     "slug": "2026-07-25-elm-architecture-meets-c-code",
     "title": "Elm Architecture Meets C Code",
     "category": "coding",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 13, 2026",
     "image_url": "https://i.ibb.co/zTr72QXk/163f24ffdc84.png"
-  },
-  {
-    "slug": "2026-07-13-expertise-matters-more-in-the-ai-age",
-    "title": "Expertise Matters More in the AI Age",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "July 13, 2026",
-    "image_url": "https://i.ibb.co/G3rYC87N/61274b9f43c0.png"
   }
 ]
