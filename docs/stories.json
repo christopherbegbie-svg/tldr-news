@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-25-presidential-tapes-and-public-records",
+    "title": "Presidential Tapes and Public Records",
+    "category": "world",
+    "source": "NPR News",
+    "date": "July 25, 2026",
+    "image_url": "https://i.ibb.co/4gVML4w1/ae7c0382778a.png"
+  },
+  {
     "slug": "2026-07-25-political-cartoons-shape-democracy",
     "title": "Political Cartoons Shape Democracy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "July 13, 2026",
     "image_url": "https://i.ibb.co/bRsn961s/251da573b9fd.png"
-  },
-  {
-    "slug": "2026-07-13-power-accountability-and-democratic-pushback",
-    "title": "Power, Accountability, and Democratic Pushback",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "July 13, 2026",
-    "image_url": "https://i.ibb.co/G35MCYnJ/96a0569747d8.png"
   }
 ]
