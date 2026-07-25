@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-25-political-cartoons-shape-public-opinion",
+    "title": "Political Cartoons Shape Public Opinion",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 25, 2026",
+    "image_url": "https://i.ibb.co/ksYcVpTh/069a75d1065b.png"
+  },
+  {
     "slug": "2026-07-25-europes-worst-wildfire-crisis-explained",
     "title": "Europe's Worst Wildfire Crisis Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 12, 2026",
     "image_url": "https://i.ibb.co/27N0KrH0/fdefd7407397.png"
-  },
-  {
-    "slug": "2026-07-12-bangladeshs-deadly-flood-geography",
-    "title": "Bangladesh's Deadly Flood Geography",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "July 12, 2026",
-    "image_url": "https://i.ibb.co/6R6fNqSZ/179cf196c1da.png"
   }
 ]
