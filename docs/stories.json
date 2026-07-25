@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-25-political-cartoons-shape-democracy",
+    "title": "Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 25, 2026",
+    "image_url": "https://i.ibb.co/XZmSg6nf/192e56af937f.png"
+  },
+  {
     "slug": "2026-07-25-war-declared-won-billions-requested-anyway",
     "title": "War declared won, billions requested anyway",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "July 13, 2026",
     "image_url": "https://i.ibb.co/G35MCYnJ/96a0569747d8.png"
-  },
-  {
-    "slug": "2026-07-13-military-strikes-and-retaliation-cycles",
-    "title": "Military Strikes and Retaliation Cycles",
-    "category": "world",
-    "source": "BBC World",
-    "date": "July 13, 2026",
-    "image_url": "https://i.ibb.co/gbMvjDsG/038089ab8d81.png"
   }
 ]
