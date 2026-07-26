@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-26-maine-senate-race-how-democracy-works",
+    "title": "Maine Senate Race: How Democracy Works",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "July 26, 2026",
+    "image_url": "https://i.ibb.co/tpHyQmyv/25eda5d564da.png"
+  },
+  {
     "slug": "2026-07-26-the-strait-that-controls-oil",
     "title": "The Strait That Controls Oil",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 14, 2026",
     "image_url": "https://i.ibb.co/8LS8rMk6/a449972e13eb.png"
-  },
-  {
-    "slug": "2026-07-14-ai-self-regulation-why-it-fails",
-    "title": "AI Self-Regulation: Why It Fails",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 14, 2026",
-    "image_url": "https://i.ibb.co/r2PMK0F4/725d58619418.png"
   }
 ]
