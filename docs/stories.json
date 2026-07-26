@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-26-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 26, 2026",
+    "image_url": "https://i.ibb.co/hRxScxw3/34d54426392d.png"
+  },
+  {
     "slug": "2026-07-26-stalled-ships-trigger-invasive-species-crisis",
     "title": "Stalled Ships Trigger Invasive Species Crisis",
     "category": "coding",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 13, 2026",
     "image_url": "https://i.ibb.co/Swp58VRT/b864626465da.png"
-  },
-  {
-    "slug": "2026-07-13-the-meteoric-rise-and-fall-of-nokia",
-    "title": "The Meteoric Rise and Fall of Nokia",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "July 13, 2026",
-    "image_url": "https://i.ibb.co/HfjDmN5m/10540c0633e7.png"
   }
 ]
