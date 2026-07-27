@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-27-leaked-comments-divide-political-party",
+    "title": "Leaked Comments Divide Political Party",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 27, 2026",
+    "image_url": "https://i.ibb.co/RV49fZG/a466c62dd7fa.png"
+  },
+  {
     "slug": "2026-07-27-ai-transforms-radar-into-adaptive-defense",
     "title": "AI Transforms Radar Into Adaptive Defense",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 15, 2026",
     "image_url": "https://i.ibb.co/HTSwNKxv/0ba792f7b600.png"
-  },
-  {
-    "slug": "2026-07-14-lawsuit-explores-free-speech-vs-political-power",
-    "title": "Lawsuit Explores Free Speech vs. Political Power",
-    "category": "world",
-    "source": "France 24",
-    "date": "July 14, 2026",
-    "image_url": "https://i.ibb.co/FL92GRWL/c9d2203202f3.png"
   }
 ]
