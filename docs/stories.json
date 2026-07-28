@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-28-japans-earthquake-a-natural-disaster-explained",
+    "title": "Japan's Earthquake: A Natural Disaster Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "July 28, 2026",
+    "image_url": "https://i.ibb.co/j0FYNJZ/0ee1607eff53.png"
+  },
+  {
     "slug": "2026-07-28-the-power-of-presidential-diplomacy",
     "title": "The Power of Presidential Diplomacy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "July 16, 2026",
     "image_url": "https://i.ibb.co/fVb3jpKJ/cf0c19f598ac.png"
-  },
-  {
-    "slug": "2026-07-15-inside-the-equine-mind",
-    "title": "Inside the Equine Mind",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "July 15, 2026",
-    "image_url": "https://i.ibb.co/4ZVfby3V/ce5c1e829948.png"
   }
 ]
