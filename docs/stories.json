@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-29-reading-between-the-lines-of-diplomacy",
+    "title": "Reading Between the Lines of Diplomacy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "July 29, 2026",
+    "image_url": "https://i.ibb.co/Xx8p6QPB/de20a87248d7.png"
+  },
+  {
     "slug": "2026-07-29-earthquake-rescue-why-every-second-counts",
     "title": "Earthquake Rescue: Why Every Second Counts",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 18, 2026",
     "image_url": "https://i.ibb.co/0y8rWQtG/ea729b2e3174.png"
-  },
-  {
-    "slug": "2026-07-18-sports-politics-and-territorial-disputes",
-    "title": "Sports, Politics, and Territorial Disputes",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 18, 2026",
-    "image_url": "https://i.ibb.co/DN17NcS/dbea3305f905.png"
   }
 ]
