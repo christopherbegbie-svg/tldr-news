@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-29-inside-zelenskyys-washington-diplomacy",
+    "title": "Inside Zelenskyy's Washington Diplomacy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "July 29, 2026",
+    "image_url": "https://i.ibb.co/shpd1TF/0cfb2c2e4f0b.png"
+  },
+  {
     "slug": "2026-07-29-justice-systems-when-release-creates-risk",
     "title": "Justice Systems: When Release Creates Risk",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 18, 2026",
     "image_url": "https://i.ibb.co/LXxBqtvR/cc441d39c243.png"
-  },
-  {
-    "slug": "2026-07-18-when-ai-makes-cheating-too-easy",
-    "title": "When AI Makes Cheating Too Easy",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 18, 2026",
-    "image_url": "https://i.ibb.co/xKK1ZtMV/9c74c6cafa5b.png"
   }
 ]
