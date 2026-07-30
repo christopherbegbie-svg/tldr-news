@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-30-supreme-court-reviews-government-ban",
+    "title": "Supreme Court Reviews Government Ban",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "July 30, 2026",
+    "image_url": "https://i.ibb.co/DHTWt8x0/3b1321f3071f.png"
+  },
+  {
     "slug": "2026-07-30-parental-accountability-in-crime",
     "title": "Parental Accountability in Crime",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 21, 2026",
     "image_url": "https://i.ibb.co/FkNhCFB9/a751a8703a92.png"
-  },
-  {
-    "slug": "2026-07-21-tariffs-how-trade-taxes-affect-you",
-    "title": "Tariffs: How Trade Taxes Affect You",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 21, 2026",
-    "image_url": "https://i.ibb.co/wN2qMSKJ/7ef9492f8951.png"
   }
 ]
