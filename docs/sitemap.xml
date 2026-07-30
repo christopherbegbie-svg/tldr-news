@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-07-30-intelligence-leadership-checks-power.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-29-air-defense-how-nations-protect-citizens.html</loc>
@@ -597,12 +603,6 @@
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-20-why-china-cant-qualify-for-world-cup.html</loc>
     <lastmod>2026-07-20</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-07-19-international-rhetoric-national-reputation.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
   </url>
