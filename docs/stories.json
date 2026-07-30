@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-30-public-healths-trust-crisis-explained",
+    "title": "Public Health's Trust Crisis Explained",
+    "category": "world",
+    "source": "NPR News",
+    "date": "July 30, 2026",
+    "image_url": "https://i.ibb.co/fd6tPNv5/3abda38f4234.png"
+  },
+  {
     "slug": "2026-07-30-supreme-court-reviews-government-ban",
     "title": "Supreme Court Reviews Government Ban",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "July 21, 2026",
     "image_url": "https://i.ibb.co/DDc2HYWL/5902602a136a.png"
-  },
-  {
-    "slug": "2026-07-21-congressional-oversight-of-military-leadership",
-    "title": "Congressional oversight of military leadership",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 21, 2026",
-    "image_url": "https://i.ibb.co/FkNhCFB9/a751a8703a92.png"
   }
 ]
