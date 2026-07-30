@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-30-the-fifth-amendment-explained-simply",
+    "title": "The Fifth Amendment Explained Simply",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "July 30, 2026",
+    "image_url": "https://i.ibb.co/Pv2Gk3Jm/a46caf241536.png"
+  },
+  {
     "slug": "2026-07-30-senate-votes-how-disagreement-shapes-democracy",
     "title": "Senate votes: How disagreement shapes democracy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 20, 2026",
     "image_url": "https://i.ibb.co/SDH5QfK2/e1e032eb78b9.png"
-  },
-  {
-    "slug": "2026-07-20-ai-rules-keeping-government-fair",
-    "title": "AI Rules: Keeping Government Fair",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 20, 2026",
-    "image_url": "https://i.ibb.co/1tqDKSDT/a56e23f4e967.png"
   }
 ]
