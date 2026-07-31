@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-31-political-scandals-and-campaign-decisions",
+    "title": "Political scandals and campaign decisions",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 31, 2026",
+    "image_url": "https://i.ibb.co/gLqcmNzy/e1e60915146e.png"
+  },
+  {
     "slug": "2026-07-31-government-accountability-inquiries-explained",
     "title": "Government Accountability Inquiries Explained",
     "category": "world",
@@ -788,14 +796,6 @@
     "title": "Election Denial Reshapes Arizona Politics",
     "category": "politics",
     "source": "Politico",
-    "date": "July 22, 2026",
-    "image_url": ""
-  },
-  {
-    "slug": "2026-07-22-bells-theorem-the-hidden-revolution",
-    "title": "Bell's Theorem: The Hidden Revolution",
-    "category": "physics",
-    "source": "Physics World",
     "date": "July 22, 2026",
     "image_url": ""
   }
