@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-31-geography-borders-and-human-migration",
+    "title": "Geography, Borders, and Human Migration",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "July 31, 2026",
+    "image_url": "https://i.ibb.co/HyJBdbX/183e30302733.png"
+  },
+  {
     "slug": "2026-07-31-climate-changes-unexpected-effect-on-malaria",
     "title": "Climate Change's Unexpected Effect on Malaria",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "July 23, 2026",
     "image_url": "https://i.ibb.co/DfsbF4gM/c739cae8cd28.png"
-  },
-  {
-    "slug": "2026-07-23-us-saudi-nuclear-deal-stirs-israeli-concerns",
-    "title": "U.S.-Saudi Nuclear Deal Stirs Israeli Concerns",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 23, 2026",
-    "image_url": "https://i.ibb.co/hJgGHBSv/ca49661f04f4.png"
   }
 ]
