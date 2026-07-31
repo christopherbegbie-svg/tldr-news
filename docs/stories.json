@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-31-political-cartoons-shape-democracy-daily",
+    "title": "Political Cartoons Shape Democracy Daily",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 31, 2026",
+    "image_url": "https://i.ibb.co/tPDS9ywj/f3324cbd346c.png"
+  },
+  {
     "slug": "2026-07-31-political-cartoons-shape-public-opinion",
     "title": "Political Cartoons Shape Public Opinion",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 23, 2026",
     "image_url": "https://i.ibb.co/kVcjH3x8/3a036c101f97.png"
-  },
-  {
-    "slug": "2026-07-23-canadas-dairy-dispute-explained-simply",
-    "title": "Canada's Dairy Dispute Explained Simply",
-    "category": "world",
-    "source": "BBC World",
-    "date": "July 23, 2026",
-    "image_url": "https://i.ibb.co/r2s0kLXd/0cdd87df9bba.png"
   }
 ]
