@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-31-when-technology-meets-reality",
+    "title": "When Technology Meets Reality",
+    "category": "world",
+    "source": "NPR News",
+    "date": "July 31, 2026",
+    "image_url": "https://i.ibb.co/Qv56jFGM/58c57fe129b7.png"
+  },
+  {
     "slug": "2026-07-31-ukraine-patriot-missiles-allies-disagree",
     "title": "Ukraine Patriot Missiles: Allies Disagree",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "July 23, 2026",
     "image_url": "https://i.ibb.co/Zzvn150V/62a3c30c0121.png"
-  },
-  {
-    "slug": "2026-07-23-when-ai-solves-problems-humans-couldnt",
-    "title": "When AI Solves Problems Humans Couldn't",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "July 23, 2026",
-    "image_url": "https://i.ibb.co/Y7hS7t8c/893653b9dd03.png"
   }
 ]
