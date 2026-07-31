@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-31-political-cartoons-shape-public-opinion",
+    "title": "Political Cartoons Shape Public Opinion",
+    "category": "politics",
+    "source": "Politico",
+    "date": "July 31, 2026",
+    "image_url": "https://i.ibb.co/SX3017B1/a4f2764ad978.png"
+  },
+  {
     "slug": "2026-07-31-when-oil-meets-ai-markets-evolve",
     "title": "When oil meets AI: markets evolve",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "July 23, 2026",
     "image_url": "https://i.ibb.co/r2s0kLXd/0cdd87df9bba.png"
-  },
-  {
-    "slug": "2026-07-22-red-sea-crisis-global-impact-explained",
-    "title": "Red Sea Crisis: Global Impact Explained",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 22, 2026",
-    "image_url": ""
   }
 ]
