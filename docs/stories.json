@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-07-31-when-hope-outpaces-safety",
+    "title": "When Hope Outpaces Safety",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "July 31, 2026",
+    "image_url": "https://i.ibb.co/bRykzdbs/08073ca5a7b4.png"
+  },
+  {
     "slug": "2026-07-31-the-human-cost-of-migration-crises",
     "title": "The human cost of migration crises",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "July 23, 2026",
     "image_url": "https://i.ibb.co/DDYVkR7h/66b0ed124005.png"
-  },
-  {
-    "slug": "2026-07-23-when-disagreement-disappears-from-politics",
-    "title": "When Disagreement Disappears from Politics",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 23, 2026",
-    "image_url": "https://i.ibb.co/zVr10Yph/67cb8f7a833e.png"
   }
 ]
