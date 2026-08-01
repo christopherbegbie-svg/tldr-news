@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-01-americas-power-players-justice-senate",
+    "title": "America's Power Players: Justice & Senate",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 01, 2026",
+    "image_url": "https://i.ibb.co/RTfKB9s8/25b414fbced7.png"
+  },
+  {
     "slug": "2026-08-01-ceuta-europes-border-crisis",
     "title": "Ceuta: Europe's Border Crisis",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "July 25, 2026",
     "image_url": "https://i.ibb.co/XZmSg6nf/192e56af937f.png"
-  },
-  {
-    "slug": "2026-07-25-war-declared-won-billions-requested-anyway",
-    "title": "War declared won, billions requested anyway",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 25, 2026",
-    "image_url": "https://i.ibb.co/8gW354Sv/0ddb6578f096.png"
   }
 ]
