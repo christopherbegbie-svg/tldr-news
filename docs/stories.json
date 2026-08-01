@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-01-ceuta-europes-border-crisis",
+    "title": "Ceuta: Europe's Border Crisis",
+    "category": "world",
+    "source": "France 24",
+    "date": "August 01, 2026",
+    "image_url": "https://i.ibb.co/3543GKV5/9eb0bf58193b.png"
+  },
+  {
     "slug": "2026-08-01-europes-border-crisis-and-broken-unity",
     "title": "Europe's Border Crisis and Broken Unity",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 25, 2026",
     "image_url": "https://i.ibb.co/8gW354Sv/0ddb6578f096.png"
-  },
-  {
-    "slug": "2026-07-25-maine-democrats-swap-candidates-mid-race",
-    "title": "Maine Democrats Swap Candidates Mid-Race",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 25, 2026",
-    "image_url": "https://i.ibb.co/wZxGnMtc/5f878af02892.png"
   }
 ]
