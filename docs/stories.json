@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-01-the-secret-power-of-funny-novels",
+    "title": "The Secret Power of Funny Novels",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "August 01, 2026",
+    "image_url": "https://i.ibb.co/W4QH7Cz6/8600bcb51d35.png"
+  },
+  {
     "slug": "2026-08-01-bird-flu-crisis-hits-australian-wildlife",
     "title": "Bird Flu Crisis Hits Australian Wildlife",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "July 24, 2026",
     "image_url": "https://i.ibb.co/5W2M0fJZ/6e10128c88e4.png"
-  },
-  {
-    "slug": "2026-07-24-power-accountability-and-justice",
-    "title": "Power, Accountability, and Justice",
-    "category": "world",
-    "source": "BBC World",
-    "date": "July 24, 2026",
-    "image_url": "https://i.ibb.co/C5mVBSVv/1bf8ab426109.png"
   }
 ]
