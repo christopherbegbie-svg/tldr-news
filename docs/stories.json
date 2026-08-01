@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-01-europes-border-crisis-and-broken-unity",
+    "title": "Europe's Border Crisis and Broken Unity",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 01, 2026",
+    "image_url": "https://i.ibb.co/Q73pjXmY/b646daa79504.png"
+  },
+  {
     "slug": "2026-08-01-how-ballot-initiatives-shape-democracy",
     "title": "How Ballot Initiatives Shape Democracy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "July 25, 2026",
     "image_url": "https://i.ibb.co/wZxGnMtc/5f878af02892.png"
-  },
-  {
-    "slug": "2026-07-25-political-cartoons-shape-public-opinion",
-    "title": "Political Cartoons Shape Public Opinion",
-    "category": "politics",
-    "source": "Politico",
-    "date": "July 25, 2026",
-    "image_url": "https://i.ibb.co/ksYcVpTh/069a75d1065b.png"
   }
 ]
