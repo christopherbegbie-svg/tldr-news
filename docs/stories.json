@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-01-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 01, 2026",
+    "image_url": "https://i.ibb.co/Z1dwjMh6/8ace21a7c88a.png"
+  },
+  {
     "slug": "2026-08-01-the-secret-power-of-funny-novels",
     "title": "The Secret Power of Funny Novels",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 24, 2026",
     "image_url": "https://i.ibb.co/S4jYXLBh/6f68c3003ad8.png"
-  },
-  {
-    "slug": "2026-07-24-understanding-us-iran-military-escalation",
-    "title": "Understanding US-Iran Military Escalation",
-    "category": "world",
-    "source": "France 24",
-    "date": "July 24, 2026",
-    "image_url": "https://i.ibb.co/5W2M0fJZ/6e10128c88e4.png"
   }
 ]
