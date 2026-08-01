@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-01-military-service-duty-sacrifice-consequence",
+    "title": "Military Service: Duty, Sacrifice, Consequence",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 01, 2026",
+    "image_url": "https://i.ibb.co/QFJm88rP/fe64897f8178.png"
+  },
+  {
     "slug": "2026-08-01-spains-floating-barrier-and-migration",
     "title": "Spain's Floating Barrier and Migration",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "July 25, 2026",
     "image_url": "https://i.ibb.co/xKKRrKgT/9035386c7bcf.png"
-  },
-  {
-    "slug": "2026-07-25-elm-architecture-meets-c-code",
-    "title": "Elm Architecture Meets C Code",
-    "category": "coding",
-    "source": "Reddit Programming",
-    "date": "July 25, 2026",
-    "image_url": "https://i.ibb.co/Tqh3rcd4/b1c9ab4cf8a9.png"
   }
 ]
