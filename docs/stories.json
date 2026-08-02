@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-02-when-infrastructure-fails-whos-blamed",
+    "title": "When Infrastructure Fails, Who's Blamed?",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 02, 2026",
+    "image_url": "https://i.ibb.co/8DPMjNFx/4b32fb9c58a0.png"
+  },
+  {
     "slug": "2026-08-02-diplomacy-when-nations-pause-before-acting",
     "title": "Diplomacy: When Nations Pause Before Acting",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 26, 2026",
     "image_url": "https://i.ibb.co/tpHyQmyv/25eda5d564da.png"
-  },
-  {
-    "slug": "2026-07-26-the-strait-that-controls-oil",
-    "title": "The Strait That Controls Oil",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "July 26, 2026",
-    "image_url": "https://i.ibb.co/cSvrrpXz/ee4fe5142e59.png"
   }
 ]
