@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-02-diplomacy-pauses-military-action",
+    "title": "Diplomacy Pauses Military Action",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 02, 2026",
+    "image_url": "https://i.ibb.co/SwHv9HLt/014af9b14516.png"
+  },
+  {
     "slug": "2026-08-02-when-social-media-posts-become-insider-trading",
     "title": "When Social Media Posts Become Insider Trading",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "July 26, 2026",
     "image_url": "https://i.ibb.co/pBVz8VL9/e45fc7ca17a4.png"
-  },
-  {
-    "slug": "2026-07-26-why-prime-ministers-honor-electoral-promises",
-    "title": "Why Prime Ministers Honor Electoral Promises",
-    "category": "politics",
-    "source": "BBC Politics",
-    "date": "July 26, 2026",
-    "image_url": "https://i.ibb.co/G4vBrXrh/ba114ee9740d.png"
   }
 ]
