@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-02-elections-wars-and-economic-strategy",
+    "title": "Elections, Wars, and Economic Strategy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 02, 2026",
+    "image_url": "https://i.ibb.co/BVT1p5qw/cc2116aa1524.png"
+  },
+  {
     "slug": "2026-08-02-brazils-president-launches-historic-reelection-campaign",
     "title": "Brazil's President Launches Historic Reelection Campaign",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "July 27, 2026",
     "image_url": "https://i.ibb.co/XrH2fKR8/4cb2e99f399c.png"
-  },
-  {
-    "slug": "2026-07-27-corruption-inquiries-why-transparency-matters",
-    "title": "Corruption Inquiries: Why Transparency Matters",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 27, 2026",
-    "image_url": "https://i.ibb.co/v4KynSTz/8bd8abff7c5e.png"
   }
 ]
