@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-02-party-divisions-the-michigan-democratic-primary-battle",
+    "title": "Party Divisions: The Michigan Democratic Primary Battle",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 02, 2026",
+    "image_url": "https://i.ibb.co/jvRHkRmm/4e17de25818b.png"
+  },
+  {
     "slug": "2026-08-01-security-threats-and-public-safety",
     "title": "Security, Threats, and Public Safety",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "July 26, 2026",
     "image_url": "https://i.ibb.co/hRxScxw3/34d54426392d.png"
-  },
-  {
-    "slug": "2026-07-26-stalled-ships-trigger-invasive-species-crisis",
-    "title": "Stalled Ships Trigger Invasive Species Crisis",
-    "category": "coding",
-    "source": "Hacker News",
-    "date": "July 26, 2026",
-    "image_url": "https://i.ibb.co/0pjDSJ0b/61a654f43c10.png"
   }
 ]

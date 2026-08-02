@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-02-party-divisions-the-michigan-democratic-primary-battle.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-01-security-threats-and-public-safety.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-26-the-power-of-political-cartoons.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-07-26-stalled-ships-trigger-invasive-species-crisis.html</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
