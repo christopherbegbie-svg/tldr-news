@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-02-what-defines-a-terror-attack",
+    "title": "What Defines a Terror Attack?",
+    "category": "world",
+    "source": "Deutsche Welle",
+    "date": "August 02, 2026",
+    "image_url": "https://i.ibb.co/9khqwpdj/ed127f1e31da.png"
+  },
+  {
     "slug": "2026-08-02-when-infrastructure-fails-whos-blamed",
     "title": "When Infrastructure Fails, Who's Blamed?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "July 26, 2026",
     "image_url": "https://i.ibb.co/MkhRXpbN/977317dcaf5e.png"
-  },
-  {
-    "slug": "2026-07-26-maine-senate-race-how-democracy-works",
-    "title": "Maine Senate Race: How Democracy Works",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 26, 2026",
-    "image_url": "https://i.ibb.co/tpHyQmyv/25eda5d564da.png"
   }
 ]
