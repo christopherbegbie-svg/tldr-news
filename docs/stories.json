@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-02-political-cartoons-democracy-in-one-frame",
+    "title": "Political Cartoons: Democracy in One Frame",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 02, 2026",
+    "image_url": "https://i.ibb.co/h1MdDfSW/f486ee2b3bb9.png"
+  },
+  {
     "slug": "2026-08-02-fuel-taxes-end-watchdogs-step-in",
     "title": "Fuel Taxes End, Watchdogs Step In",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "July 27, 2026",
     "image_url": "https://i.ibb.co/RV49fZG/a466c62dd7fa.png"
-  },
-  {
-    "slug": "2026-07-27-ai-transforms-radar-into-adaptive-defense",
-    "title": "AI Transforms Radar Into Adaptive Defense",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "July 27, 2026",
-    "image_url": "https://i.ibb.co/9HdWMBnD/932fce1fefbd.png"
   }
 ]
