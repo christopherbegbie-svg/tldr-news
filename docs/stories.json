@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-03-ai-solves-ten-ancient-math-problems",
+    "title": "AI Solves Ten Ancient Math Problems",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "August 03, 2026",
+    "image_url": "https://i.ibb.co/cXR0RMb7/df6a9b67a34e.png"
+  },
+  {
     "slug": "2026-08-03-political-deadlock-when-agreement-breaks-down",
     "title": "Political Deadlock: When Agreement Breaks Down",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 28, 2026",
     "image_url": "https://i.ibb.co/mwdxCdG/bf7c61179763.png"
-  },
-  {
-    "slug": "2026-07-28-crime-task-force-becomes-immigration-enforcement",
-    "title": "Crime Task Force Becomes Immigration Enforcement",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 28, 2026",
-    "image_url": "https://i.ibb.co/C4DSXzT/cf851b01e15e.png"
   }
 ]
