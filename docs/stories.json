@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-03-youth-activists-reshaping-political-parties",
+    "title": "Youth Activists Reshaping Political Parties",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 03, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-03-australias-bird-flu-crisis-escalates-rapidly",
     "title": "Australia's Bird Flu Crisis Escalates Rapidly",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 28, 2026",
     "image_url": "https://i.ibb.co/M5BQxgX3/2160360df0cc.png"
-  },
-  {
-    "slug": "2026-07-28-political-transitions-government-accountability",
-    "title": "Political Transitions & Government Accountability",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 28, 2026",
-    "image_url": "https://i.ibb.co/KQgXbyH/6410cb2583d7.png"
   }
 ]
