@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-03-political-cartoons-shape-democratic-discourse",
+    "title": "Political Cartoons Shape Democratic Discourse",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 03, 2026",
+    "image_url": "https://i.ibb.co/Y4F9pBQr/9dd7961a0814.png"
+  },
+  {
     "slug": "2026-08-03-government-corruption-watchdogs-explained",
     "title": "Government Corruption Watchdogs Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 27, 2026",
     "image_url": "https://i.ibb.co/mVd8QKdV/4b6818b5afca.png"
-  },
-  {
-    "slug": "2026-07-27-union-leadership-changes-shape-worker-power",
-    "title": "Union Leadership Changes Shape Worker Power",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 27, 2026",
-    "image_url": "https://i.ibb.co/N2mZTygm/fcca80e11a7e.png"
   }
 ]
