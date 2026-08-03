@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-03</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-03-why-petrol-prices-jumped-above-2.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-02-political-cartoons-democracy-in-one-frame.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-07-27-ai-settlement-money-vs-ownership-rights.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-07-27-leaked-comments-divide-political-party.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
