@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-03-political-deadlock-when-agreement-breaks-down",
+    "title": "Political Deadlock: When Agreement Breaks Down",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 03, 2026",
+    "image_url": "https://i.ibb.co/RTBrhP0Y/249e64e0ed1b.png"
+  },
+  {
     "slug": "2026-08-03-military-migration-modern-politics",
     "title": "Military, Migration & Modern Politics",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 28, 2026",
     "image_url": "https://i.ibb.co/C4DSXzT/cf851b01e15e.png"
-  },
-  {
-    "slug": "2026-07-28-samsungs-chip-engineers-exodus",
-    "title": "Samsung's Chip Engineers Exodus",
-    "category": "ai",
-    "source": "MIT Technology Review AI",
-    "date": "July 28, 2026",
-    "image_url": "https://i.ibb.co/XrD0qzcJ/3614476da7ae.png"
   }
 ]
