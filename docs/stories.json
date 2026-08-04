@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-04-senate-deals-shape-cabinet-nominations",
+    "title": "Senate Deals Shape Cabinet Nominations",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 04, 2026",
+    "image_url": "https://i.ibb.co/wZ1nJh51/5e5668667ad1.png"
+  },
+  {
     "slug": "2026-08-04-power-justice-and-accountability",
     "title": "Power, Justice, and Accountability",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 28, 2026",
     "image_url": "https://i.ibb.co/KxQMZsh5/6307c593d47d.png"
-  },
-  {
-    "slug": "2026-07-28-gender-bias-in-politics-explained",
-    "title": "Gender Bias in Politics Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 28, 2026",
-    "image_url": "https://i.ibb.co/CstpqfPH/b599a8aea2d8.png"
   }
 ]
