@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-04-senate-confirmations-democracys-power-check",
+    "title": "Senate Confirmations: Democracy's Power Check",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 04, 2026",
+    "image_url": "https://i.ibb.co/VcJVL8QR/9523f163a299.png"
+  },
+  {
     "slug": "2026-08-04-rwandas-drone-delivery-revolution",
     "title": "Rwanda's Drone Delivery Revolution",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 29, 2026",
     "image_url": "https://i.ibb.co/Xx8p6QPB/de20a87248d7.png"
-  },
-  {
-    "slug": "2026-07-29-earthquake-rescue-why-every-second-counts",
-    "title": "Earthquake Rescue: Why Every Second Counts",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 29, 2026",
-    "image_url": "https://i.ibb.co/0S0508B/0acb82d08a18.png"
   }
 ]
