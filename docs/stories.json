@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-04-data-centers-enter-the-political-arena",
+    "title": "Data Centers Enter the Political Arena",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 04, 2026",
+    "image_url": "https://i.ibb.co/FPgb8bb/5a476a085405.png"
+  },
+  {
     "slug": "2026-08-04-the-missile-supply-crisis-explained",
     "title": "The Missile Supply Crisis Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "July 29, 2026",
     "image_url": "https://i.ibb.co/Tx1PQ09j/a8f3c21a2ae7.png"
-  },
-  {
-    "slug": "2026-07-29-who-gets-ai-education-access",
-    "title": "Who Gets AI Education Access?",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "July 29, 2026",
-    "image_url": "https://i.ibb.co/QvD0C3j5/64847a3ceab6.png"
   }
 ]
