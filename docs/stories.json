@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-04-senate-confirms-cabinet-members",
+    "title": "Senate Confirms Cabinet Members",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 04, 2026",
+    "image_url": "https://i.ibb.co/FLDXsbVz/2b36d08e34ad.png"
+  },
+  {
     "slug": "2026-08-04-ancient-poem-modern-impact-how-film-sells-poetry",
     "title": "Ancient Poem, Modern Impact: How Film Sells Poetry",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 29, 2026",
     "image_url": "https://i.ibb.co/vvzmBWh2/e6fa74f50a7a.png"
-  },
-  {
-    "slug": "2026-07-29-us-iran-conflict-explained",
-    "title": "U.S.-Iran Conflict Explained",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 29, 2026",
-    "image_url": "https://i.ibb.co/3DT9rFx/3ee4eb41aa46.png"
   }
 ]
