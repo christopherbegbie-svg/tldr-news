@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-04-the-missile-supply-crisis-explained",
+    "title": "The Missile Supply Crisis Explained",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 04, 2026",
+    "image_url": "https://i.ibb.co/SDjBk7rz/de0f604a5f62.png"
+  },
+  {
     "slug": "2026-08-04-senate-confirms-cabinet-members",
     "title": "Senate Confirms Cabinet Members",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "July 29, 2026",
     "image_url": "https://i.ibb.co/QvD0C3j5/64847a3ceab6.png"
-  },
-  {
-    "slug": "2026-07-29-why-nations-negotiate-during-conflict",
-    "title": "Why Nations Negotiate During Conflict",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 29, 2026",
-    "image_url": "https://i.ibb.co/vvzmBWh2/e6fa74f50a7a.png"
   }
 ]
