@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-04-ancient-poem-modern-impact-how-film-sells-poetry",
+    "title": "Ancient Poem, Modern Impact: How Film Sells Poetry",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "August 04, 2026",
+    "image_url": "https://i.ibb.co/MqbmyHc/606c02e5d776.png"
+  },
+  {
     "slug": "2026-08-04-women-physicists-breaking-barriers-in-india",
     "title": "Women Physicists Breaking Barriers in India",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "July 29, 2026",
     "image_url": "https://i.ibb.co/3DT9rFx/3ee4eb41aa46.png"
-  },
-  {
-    "slug": "2026-07-29-privacy-vs-security-the-telegram-controversy",
-    "title": "Privacy vs. security: The Telegram controversy",
-    "category": "world",
-    "source": "BBC World",
-    "date": "July 29, 2026",
-    "image_url": "https://i.ibb.co/ycDhjkMJ/7e71bfdc87ea.png"
   }
 ]
