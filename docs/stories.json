@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-05-primary-elections-democracy-in-action",
+    "title": "Primary Elections: Democracy in Action",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 05, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-05-the-ghost-of-the-mountains-explained",
     "title": "The Ghost of the Mountains Explained",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 30, 2026",
     "image_url": "https://i.ibb.co/0RJq3qX1/50a1f4d3ce7b.png"
-  },
-  {
-    "slug": "2026-07-29-air-defense-how-nations-protect-citizens",
-    "title": "Air Defense: How Nations Protect Citizens",
-    "category": "world",
-    "source": "France 24",
-    "date": "July 29, 2026",
-    "image_url": "https://i.ibb.co/PG68Njjy/07d364ba5fd1.png"
   }
 ]
