@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-05-modern-warfare-missiles-and-drones-explained",
+    "title": "Modern Warfare: Missiles and Drones Explained",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 05, 2026",
+    "image_url": "https://i.ibb.co/mrCVJK8V/ded7c47a46fd.png"
+  },
+  {
     "slug": "2026-08-05-quantum-computing-the-next-computing-revolution",
     "title": "Quantum Computing: The Next Computing Revolution",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "July 30, 2026",
     "image_url": "https://i.ibb.co/bjddn88d/961a978c2cd2.png"
-  },
-  {
-    "slug": "2026-07-30-closing-australias-inequality-gap",
-    "title": "Closing Australia's Inequality Gap",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 30, 2026",
-    "image_url": "https://i.ibb.co/k6BR0tRM/b17febc3c892.png"
   }
 ]
