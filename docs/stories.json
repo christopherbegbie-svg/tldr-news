@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-05-the-ghost-of-the-mountains-explained",
+    "title": "The Ghost of the Mountains Explained",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "August 05, 2026",
+    "image_url": "https://i.ibb.co/cSYdWq62/062629182d7f.png"
+  },
+  {
     "slug": "2026-08-05-profits-in-a-falling-housing-market",
     "title": "Profits in a Falling Housing Market",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "July 29, 2026",
     "image_url": "https://i.ibb.co/PG68Njjy/07d364ba5fd1.png"
-  },
-  {
-    "slug": "2026-07-29-australia-hits-major-indigenous-education-goal",
-    "title": "Australia Hits Major Indigenous Education Goal",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 29, 2026",
-    "image_url": "https://i.ibb.co/67gPBSp0/9f7c72311259.png"
   }
 ]
