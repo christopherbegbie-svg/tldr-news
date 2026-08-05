@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-05-quantum-computing-the-next-computing-revolution",
+    "title": "Quantum Computing: The Next Computing Revolution",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "August 05, 2026",
+    "image_url": "https://i.ibb.co/tT0RBmC5/aff62b91c249.png"
+  },
+  {
     "slug": "2026-08-05-primary-elections-democracy-in-action",
     "title": "Primary Elections: Democracy in Action",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "July 30, 2026",
     "image_url": "https://i.ibb.co/k6BR0tRM/b17febc3c892.png"
-  },
-  {
-    "slug": "2026-07-30-intelligence-leadership-checks-power",
-    "title": "Intelligence Leadership: Checks & Power",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "July 30, 2026",
-    "image_url": "https://i.ibb.co/0RJq3qX1/50a1f4d3ce7b.png"
   }
 ]
