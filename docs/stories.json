@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-05-primaries-how-parties-pick-their-fighters",
+    "title": "Primaries: How Parties Pick Their Fighters",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 05, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-05-modern-warfare-missiles-and-drones-explained",
     "title": "Modern Warfare: Missiles and Drones Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 30, 2026",
     "image_url": "https://i.ibb.co/Pv2Gk3Jm/a46caf241536.png"
-  },
-  {
-    "slug": "2026-07-30-senate-votes-how-disagreement-shapes-democracy",
-    "title": "Senate votes: How disagreement shapes democracy",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 30, 2026",
-    "image_url": "https://i.ibb.co/bjddn88d/961a978c2cd2.png"
   }
 ]
