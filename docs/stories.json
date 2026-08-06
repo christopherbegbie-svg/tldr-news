@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-06-political-accountability-in-the-digital-age",
+    "title": "Political Accountability in the Digital Age",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 06, 2026",
+    "image_url": "https://i.ibb.co/pBrmtb7c/916131c26ed9.png"
+  },
+  {
     "slug": "2026-08-06-when-athletes-choose-country-over-freedom",
     "title": "When Athletes Choose Country Over Freedom",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "July 31, 2026",
     "image_url": "https://i.ibb.co/gLqcmNzy/e1e60915146e.png"
-  },
-  {
-    "slug": "2026-07-31-government-accountability-inquiries-explained",
-    "title": "Government Accountability Inquiries Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 31, 2026",
-    "image_url": "https://i.ibb.co/mpKpznD/4cf8c470ba20.png"
   }
 ]
