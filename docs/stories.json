@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-07-political-cartoons-art-meets-accountability",
+    "title": "Political Cartoons: Art Meets Accountability",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 07, 2026",
+    "image_url": "https://i.ibb.co/sdWSvb5G/d652c6fbed9d.png"
+  },
+  {
     "slug": "2026-08-07-whats-a-mutual-defence-pact",
     "title": "What's a Mutual Defence Pact?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 01, 2026",
     "image_url": "https://i.ibb.co/Z1dwjMh6/8ace21a7c88a.png"
-  },
-  {
-    "slug": "2026-08-01-the-secret-power-of-funny-novels",
-    "title": "The Secret Power of Funny Novels",
-    "category": "literature",
-    "source": "The Guardian Books",
-    "date": "August 01, 2026",
-    "image_url": "https://i.ibb.co/W4QH7Cz6/8600bcb51d35.png"
   }
 ]
