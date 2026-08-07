@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-07-economic-sanctions-explained-simply",
+    "title": "Economic Sanctions Explained Simply",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 07, 2026",
+    "image_url": "https://i.ibb.co/KJXX3rv/ba325665ddd8.png"
+  },
+  {
     "slug": "2026-08-07-political-cartoons-art-meets-accountability",
     "title": "Political Cartoons: Art Meets Accountability",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 01, 2026",
     "image_url": "https://i.ibb.co/0Vjwny9b/51754f083b62.png"
-  },
-  {
-    "slug": "2026-08-01-the-power-of-political-cartoons",
-    "title": "The Power of Political Cartoons",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 01, 2026",
-    "image_url": "https://i.ibb.co/Z1dwjMh6/8ace21a7c88a.png"
   }
 ]
