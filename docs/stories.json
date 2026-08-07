@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-07-political-cartoons-the-visual-language-of-critique",
+    "title": "Political Cartoons: The Visual Language of Critique",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 07, 2026",
+    "image_url": "https://i.ibb.co/9mYKvVrb/f34d815ffe7d.png"
+  },
+  {
     "slug": "2026-08-07-europes-energy-crisis-explained",
     "title": "Europe's Energy Crisis Explained",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 01, 2026",
     "image_url": "https://i.ibb.co/9kfczs15/fbbe913e9b6d.png"
-  },
-  {
-    "slug": "2026-08-01-the-strait-controlling-global-oil-flows",
-    "title": "The Strait controlling global oil flows",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "August 01, 2026",
-    "image_url": "https://i.ibb.co/yF83nXkq/d7621e6643c3.png"
   }
 ]
