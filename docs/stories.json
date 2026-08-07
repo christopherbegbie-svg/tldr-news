@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-07-when-air-traffic-control-fails",
+    "title": "When Air Traffic Control Fails",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "August 07, 2026",
+    "image_url": "https://i.ibb.co/0pkSp1YT/2ec6f9fb8890.png"
+  },
+  {
     "slug": "2026-08-07-how-legal-cross-examination-protects-fairness",
     "title": "How Legal Cross-Examination Protects Fairness",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 31, 2026",
     "image_url": "https://i.ibb.co/QFsdp5hY/815b5f910754.png"
-  },
-  {
-    "slug": "2026-07-31-geography-borders-and-human-migration",
-    "title": "Geography, Borders, and Human Migration",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "July 31, 2026",
-    "image_url": "https://i.ibb.co/HyJBdbX/183e30302733.png"
   }
 ]
