@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-07-understanding-elections-and-political-power",
+    "title": "Understanding Elections and Political Power",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 07, 2026",
+    "image_url": "https://i.ibb.co/5WM4Fxsd/fea17716775e.png"
+  },
+  {
     "slug": "2026-08-07-tech-privacy-and-public-health-collide",
     "title": "Tech, Privacy, and Public Health Collide",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "July 31, 2026",
     "image_url": "https://i.ibb.co/0p2TmQTB/2063d1d62adf.png"
-  },
-  {
-    "slug": "2026-07-31-when-technology-meets-reality",
-    "title": "When Technology Meets Reality",
-    "category": "world",
-    "source": "NPR News",
-    "date": "July 31, 2026",
-    "image_url": "https://i.ibb.co/Qv56jFGM/58c57fe129b7.png"
   }
 ]
