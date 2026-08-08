@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-08-political-cartoons-visual-commentary-on-power",
+    "title": "Political Cartoons: Visual Commentary on Power",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 08, 2026",
+    "image_url": "https://i.ibb.co/zTzGnX6c/eaf7cfde5400.png"
+  },
+  {
     "slug": "2026-08-08-global-aid-drug-policy-explained",
     "title": "Global Aid & Drug Policy Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 01, 2026",
     "image_url": "https://i.ibb.co/QFJm88rP/fe64897f8178.png"
-  },
-  {
-    "slug": "2026-08-01-spains-floating-barrier-and-migration",
-    "title": "Spain's Floating Barrier and Migration",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 01, 2026",
-    "image_url": "https://i.ibb.co/fYQrdvjt/723e1f764c8d.png"
   }
 ]
