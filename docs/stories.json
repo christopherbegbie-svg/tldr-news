@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-08-politics-when-business-success-meets-elections",
+    "title": "Politics: When Business Success Meets Elections",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 08, 2026",
+    "image_url": "https://i.ibb.co/Wp3zdvBY/3f629e009ff0.png"
+  },
+  {
     "slug": "2026-08-08-senate-confirms-trumps-lawyer-as-attorney-general",
     "title": "Senate Confirms Trump's Lawyer as Attorney General",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "August 02, 2026",
     "image_url": "https://i.ibb.co/bgpjJr4k/1edb8ab71b3b.png"
-  },
-  {
-    "slug": "2026-08-02-the-magnetophon-radios-hidden-revolution",
-    "title": "The Magnetophon: Radio's Hidden Revolution",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "August 02, 2026",
-    "image_url": "https://i.ibb.co/C3gZ2znT/f95f57724aa0.png"
   }
 ]
