@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-08-a-bridge-too-controversial",
+    "title": "A Bridge Too Controversial",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 08, 2026",
+    "image_url": "https://i.ibb.co/7JG3FZ0w/f1b3da222295.png"
+  },
+  {
     "slug": "2026-08-08-eu-allies-clash-over-migration-borders",
     "title": "EU allies clash over migration borders",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 02, 2026",
     "image_url": "https://i.ibb.co/8DPMjNFx/4b32fb9c58a0.png"
-  },
-  {
-    "slug": "2026-08-02-diplomacy-when-nations-pause-before-acting",
-    "title": "Diplomacy: When Nations Pause Before Acting",
-    "category": "world",
-    "source": "BBC World",
-    "date": "August 02, 2026",
-    "image_url": "https://i.ibb.co/jPsQb36P/973128769031.png"
   }
 ]
