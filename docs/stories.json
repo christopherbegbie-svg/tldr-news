@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-08-political-cartoons-democracys-sharpest-critics",
+    "title": "Political Cartoons: Democracy's Sharpest Critics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 08, 2026",
+    "image_url": "https://i.ibb.co/Y4GGgjsV/5eba5ac5ecc3.png"
+  },
+  {
     "slug": "2026-08-08-ai-in-education-progress-or-problem",
     "title": "AI in Education: Progress or Problem?",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 02, 2026",
     "image_url": "https://i.ibb.co/jvRHkRmm/4e17de25818b.png"
-  },
-  {
-    "slug": "2026-08-01-security-threats-and-public-safety",
-    "title": "Security, Threats, and Public Safety",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "August 01, 2026",
-    "image_url": "https://i.ibb.co/cSMhY45m/0c1324bcd703.png"
   }
 ]
