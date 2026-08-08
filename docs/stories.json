@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-08-political-cartoons-shape-public-opinion",
+    "title": "Political Cartoons Shape Public Opinion",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 08, 2026",
+    "image_url": "https://i.ibb.co/mC1qJ8zq/05ada10a9a7b.png"
+  },
+  {
     "slug": "2026-08-07-europes-border-chain-reaction-explained",
     "title": "Europe's Border Chain Reaction Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 01, 2026",
     "image_url": "https://i.ibb.co/RTfKB9s8/25b414fbced7.png"
-  },
-  {
-    "slug": "2026-08-01-ceuta-europes-border-crisis",
-    "title": "Ceuta: Europe's Border Crisis",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 01, 2026",
-    "image_url": "https://i.ibb.co/3543GKV5/9eb0bf58193b.png"
   }
 ]
