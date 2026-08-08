@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-08-australias-40-year-old-welfare-debts",
+    "title": "Australia's 40-Year-Old Welfare Debts",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 08, 2026",
+    "image_url": "https://i.ibb.co/NgySRXy8/664cc7444bd9.png"
+  },
+  {
     "slug": "2026-08-08-a-bridge-too-controversial",
     "title": "A Bridge Too Controversial",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Deutsche Welle",
     "date": "August 02, 2026",
     "image_url": "https://i.ibb.co/9khqwpdj/ed127f1e31da.png"
-  },
-  {
-    "slug": "2026-08-02-when-infrastructure-fails-whos-blamed",
-    "title": "When Infrastructure Fails, Who's Blamed?",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 02, 2026",
-    "image_url": "https://i.ibb.co/8DPMjNFx/4b32fb9c58a0.png"
   }
 ]
