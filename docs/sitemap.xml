@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-09-how-airports-prevent-plane-collisions.html</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-08-politics-when-business-success-meets-elections.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-02-how-sprint-technique-wins-cyclings-biggest-races.html</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-02-justice-system-accountability-and-due-process.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
