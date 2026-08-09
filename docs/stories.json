@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-09-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 09, 2026",
+    "image_url": "https://i.ibb.co/NnTRZkry/255a8199059e.png"
+  },
+  {
     "slug": "2026-08-09-the-strait-that-shakes-global-markets",
     "title": "The Strait That Shakes Global Markets",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 03, 2026",
     "image_url": "https://i.ibb.co/RTBrhP0Y/249e64e0ed1b.png"
-  },
-  {
-    "slug": "2026-08-03-military-migration-modern-politics",
-    "title": "Military, Migration & Modern Politics",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 03, 2026",
-    "image_url": "https://i.ibb.co/Mx4jCK5T/e1bb5fdca3aa.png"
   }
 ]
