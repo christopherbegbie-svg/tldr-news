@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-09-peace-negotiations-and-the-problem-of-trust",
+    "title": "Peace Negotiations and the Problem of Trust",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 09, 2026",
+    "image_url": "https://i.ibb.co/LD9WptV5/2abdb3c0fc0d.png"
+  },
+  {
     "slug": "2026-08-09-private-prisons-and-immigration-detention",
     "title": "Private Prisons and Immigration Detention",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 03, 2026",
     "image_url": "https://i.ibb.co/rKmQwnVV/afe9213fddf5.png"
-  },
-  {
-    "slug": "2026-08-03-youth-activists-reshaping-political-parties",
-    "title": "Youth Activists Reshaping Political Parties",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 03, 2026",
-    "image_url": ""
   }
 ]
