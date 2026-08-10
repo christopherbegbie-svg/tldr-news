@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-10-political-negotiations-shape-economic-policy",
+    "title": "Political Negotiations Shape Economic Policy",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 10, 2026",
+    "image_url": "https://i.ibb.co/8LyRjL38/960970a9172c.png"
+  },
+  {
     "slug": "2026-08-10-how-lobbies-shape-political-decisions",
     "title": "How Lobbies Shape Political Decisions",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "August 04, 2026",
     "image_url": "https://i.ibb.co/MqbmyHc/606c02e5d776.png"
-  },
-  {
-    "slug": "2026-08-04-women-physicists-breaking-barriers-in-india",
-    "title": "Women Physicists Breaking Barriers in India",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "August 04, 2026",
-    "image_url": "https://i.ibb.co/35rvkvs4/2bddd3143fea.png"
   }
 ]
