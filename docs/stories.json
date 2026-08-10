@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-10-how-drones-are-changing-modern-warfare",
+    "title": "How Drones Are Changing Modern Warfare",
+    "category": "world",
+    "source": "BBC World",
+    "date": "August 10, 2026",
+    "image_url": "https://i.ibb.co/gLTnCrgG/c07a51521818.png"
+  },
+  {
     "slug": "2026-08-10-when-politics-reclaims-religion",
     "title": "When Politics Reclaims Religion",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 04, 2026",
     "image_url": "https://i.ibb.co/nM2hKzw5/73d42a419349.png"
-  },
-  {
-    "slug": "2026-08-04-senate-deals-shape-cabinet-nominations",
-    "title": "Senate Deals Shape Cabinet Nominations",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 04, 2026",
-    "image_url": "https://i.ibb.co/wZ1nJh51/5e5668667ad1.png"
   }
 ]
