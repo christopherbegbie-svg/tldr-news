@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-10-when-politics-reclaims-religion",
+    "title": "When Politics Reclaims Religion",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 10, 2026",
+    "image_url": "https://i.ibb.co/ns42B7xf/7171d4e1872b.png"
+  },
+  {
     "slug": "2026-08-10-force-feeding-in-detention-a-human-rights-crisis",
     "title": "Force-Feeding in Detention: A Human Rights Crisis",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 04, 2026",
     "image_url": "https://i.ibb.co/wZ1nJh51/5e5668667ad1.png"
-  },
-  {
-    "slug": "2026-08-04-power-justice-and-accountability",
-    "title": "Power, Justice, and Accountability",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "August 04, 2026",
-    "image_url": "https://i.ibb.co/d4jQ9bpt/4f92a2a4a1c8.png"
   }
 ]
