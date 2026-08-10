@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-10-political-cartoons-art-meets-commentary",
+    "title": "Political Cartoons: Art Meets Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 10, 2026",
+    "image_url": "https://i.ibb.co/S4r3Qf3R/ab3e3f94eb87.png"
+  },
+  {
     "slug": "2026-08-10-military-alliances-whats-really-at-stake",
     "title": "Military Alliances: What's Really at Stake?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 03, 2026",
     "image_url": "https://i.ibb.co/JjWygBX7/6e366f635e41.png"
-  },
-  {
-    "slug": "2026-08-03-europes-migration-control-crisis-explained",
-    "title": "Europe's Migration Control Crisis Explained",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "August 03, 2026",
-    "image_url": "https://i.ibb.co/Xr6vkMZM/dc345fc6c012.png"
   }
 ]
