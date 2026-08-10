@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-10-political-cartoons-shape-democracy-weekly",
+    "title": "Political Cartoons Shape Democracy Weekly",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 10, 2026",
+    "image_url": "https://i.ibb.co/v67h6NTr/a83f01053b30.png"
+  },
+  {
     "slug": "2026-08-10-australias-ai-investigation-explained-simply",
     "title": "Australia's AI Investigation Explained Simply",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 03, 2026",
     "image_url": "https://i.ibb.co/S42symQy/11d47c10423f.png"
-  },
-  {
-    "slug": "2026-08-03-replica-guns-real-legal-consequences",
-    "title": "Replica Guns & Real Legal Consequences",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 03, 2026",
-    "image_url": "https://i.ibb.co/XBDZCMs/0e40cc9064d0.png"
   }
 ]
