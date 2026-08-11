@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-11-the-great-democratic-primary-divide",
+    "title": "The Great Democratic Primary Divide",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 11, 2026",
+    "image_url": "https://i.ibb.co/mVdwLVKy/af0f4213c135.png"
+  },
+  {
     "slug": "2026-08-11-gravitys-cosmic-magnifying-glass",
     "title": "Gravity's Cosmic Magnifying Glass",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 05, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-08-05-the-ghost-of-the-mountains-explained",
-    "title": "The Ghost of the Mountains Explained",
-    "category": "literature",
-    "source": "The Guardian Books",
-    "date": "August 05, 2026",
-    "image_url": "https://i.ibb.co/cSYdWq62/062629182d7f.png"
   }
 ]
