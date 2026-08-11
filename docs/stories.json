@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-11-gravitys-cosmic-magnifying-glass",
+    "title": "Gravity's Cosmic Magnifying Glass",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "August 11, 2026",
+    "image_url": "https://i.ibb.co/1fPwYm15/1d403aeeda2a.png"
+  },
+  {
     "slug": "2026-08-11-denisovans-the-tallest-ancient-human-species",
     "title": "Denisovans: The Tallest Ancient Human Species",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "August 05, 2026",
     "image_url": "https://i.ibb.co/cSYdWq62/062629182d7f.png"
-  },
-  {
-    "slug": "2026-08-05-profits-in-a-falling-housing-market",
-    "title": "Profits in a Falling Housing Market",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 05, 2026",
-    "image_url": "https://i.ibb.co/sdSZD4hs/e4c8fda2c74c.png"
   }
 ]
