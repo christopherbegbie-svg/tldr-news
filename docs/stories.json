@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-11-baltic-startups-battle-russias-hybrid-threats",
+    "title": "Baltic Startups Battle Russia's Hybrid Threats",
+    "category": "world",
+    "source": "France 24",
+    "date": "August 11, 2026",
+    "image_url": "https://i.ibb.co/nNcJQ6mN/10fbf327cb6e.png"
+  },
+  {
     "slug": "2026-08-11-crispr-phages-beat-antibiotic-resistant-bacteria",
     "title": "CRISPR Phages Beat Antibiotic-Resistant Bacteria",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 05, 2026",
     "image_url": "https://i.ibb.co/mrCVJK8V/ded7c47a46fd.png"
-  },
-  {
-    "slug": "2026-08-05-quantum-computing-the-next-computing-revolution",
-    "title": "Quantum Computing: The Next Computing Revolution",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "August 05, 2026",
-    "image_url": "https://i.ibb.co/tT0RBmC5/aff62b91c249.png"
   }
 ]
