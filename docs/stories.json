@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-11-australias-housing-crisis-explained",
+    "title": "Australia's Housing Crisis Explained",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "August 11, 2026",
+    "image_url": "https://i.ibb.co/0ysZh6q2/f15c72f84b20.png"
+  },
+  {
     "slug": "2026-08-11-why-home-sales-are-collapsing",
     "title": "Why Home Sales Are Collapsing",
     "category": "economics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 05, 2026",
     "image_url": "https://i.ibb.co/tjh0Y27/b407aed087df.png"
-  },
-  {
-    "slug": "2026-08-05-missiles-running-low-mrna-rising",
-    "title": "Missiles Running Low, mRNA Rising",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 05, 2026",
-    "image_url": "https://i.ibb.co/RGrcbXJB/8900f5e9e794.png"
   }
 ]
