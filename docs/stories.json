@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-12-irelands-cosmic-show-eclipse-meteors",
+    "title": "Ireland's Cosmic Show: Eclipse & Meteors",
+    "category": "science",
+    "source": "BBC Science",
+    "date": "August 12, 2026",
+    "image_url": "https://i.ibb.co/SXYDvS1H/527934ec5d1e.png"
+  },
+  {
     "slug": "2026-08-12-midwest-primaries-progressive-power-test",
     "title": "Midwest Primaries: Progressive Power Test",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 05, 2026",
     "image_url": "https://i.ibb.co/0prK1NCy/b677dbc8125a.png"
-  },
-  {
-    "slug": "2026-08-05-government-contracts-money-power-accountability",
-    "title": "Government Contracts: Money, Power, Accountability",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 05, 2026",
-    "image_url": "https://i.ibb.co/WL5rXPM/7fc803f161c2.png"
   }
 ]
