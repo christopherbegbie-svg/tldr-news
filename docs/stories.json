@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-12-corporate-accountability-and-workplace-safety",
+    "title": "Corporate Accountability and Workplace Safety",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 12, 2026",
+    "image_url": "https://i.ibb.co/BHPrG3DQ/d525f7b6e231.png"
+  },
+  {
     "slug": "2026-08-12-presidential-aircraft-security-explained",
     "title": "Presidential Aircraft Security Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 06, 2026",
     "image_url": "https://i.ibb.co/s9Sjjf6f/1cf26f8538cb.png"
-  },
-  {
-    "slug": "2026-08-06-primary-elections-shape-party-direction",
-    "title": "Primary Elections Shape Party Direction",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 06, 2026",
-    "image_url": "https://i.ibb.co/chqh6K6Z/cd737d9fb1f4.png"
   }
 ]
