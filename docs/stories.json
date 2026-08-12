@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-12-midwest-primaries-progressive-power-test",
+    "title": "Midwest Primaries: Progressive Power Test",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 12, 2026",
+    "image_url": "https://i.ibb.co/s9ZDdQJH/69b62c0e8b0f.png"
+  },
+  {
     "slug": "2026-08-12-tax-policy-and-immigration-political-debate",
     "title": "Tax Policy and Immigration: Political Debate",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 05, 2026",
     "image_url": "https://i.ibb.co/WL5rXPM/7fc803f161c2.png"
-  },
-  {
-    "slug": "2026-08-05-gut-bacteria-could-cure-peanut-allergies",
-    "title": "Gut Bacteria Could Cure Peanut Allergies",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "August 05, 2026",
-    "image_url": "https://i.ibb.co/RkzbGy64/9a12cb9e6abf.png"
   }
 ]
