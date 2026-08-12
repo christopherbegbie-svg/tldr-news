@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-12-primary-wins-vs-general-election-losses",
+    "title": "Primary Wins vs. General Election Losses",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 12, 2026",
+    "image_url": "https://i.ibb.co/HJxMMqj/cf594f15d1c9.png"
+  },
+  {
     "slug": "2026-08-12-irelands-cosmic-show-eclipse-meteors",
     "title": "Ireland's Cosmic Show: Eclipse & Meteors",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "August 05, 2026",
     "image_url": "https://i.ibb.co/2037WcHY/ac12f2b7c5a3.png"
-  },
-  {
-    "slug": "2026-08-05-ousted-leader-defies-death-sentence",
-    "title": "Ousted Leader Defies Death Sentence",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 05, 2026",
-    "image_url": "https://i.ibb.co/0prK1NCy/b677dbc8125a.png"
   }
 ]
