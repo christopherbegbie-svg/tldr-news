@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-13-primary-elections-shape-party-platforms",
+    "title": "Primary Elections Shape Party Platforms",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 13, 2026",
+    "image_url": "https://i.ibb.co/jvWxS1f1/2e44fedb9932.png"
+  },
+  {
     "slug": "2026-08-13-the-rise-of-product-engineers",
     "title": "The Rise of Product Engineers",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 07, 2026",
     "image_url": "https://i.ibb.co/9mYKvVrb/f34d815ffe7d.png"
-  },
-  {
-    "slug": "2026-08-07-europes-energy-crisis-explained",
-    "title": "Europe's Energy Crisis Explained",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "August 07, 2026",
-    "image_url": "https://i.ibb.co/Tx7xqJWF/0261614d05ac.png"
   }
 ]
