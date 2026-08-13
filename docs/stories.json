@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-13-tech-companies-must-pay-for-news",
+    "title": "Tech Companies Must Pay for News",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 13, 2026",
+    "image_url": "https://i.ibb.co/cMPjGrr/c2564885cd3a.png"
+  },
+  {
     "slug": "2026-08-13-destruction-vs-conquest-ukraines-stalemate",
     "title": "Destruction vs. Conquest: Ukraine's Stalemate",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 07, 2026",
     "image_url": "https://i.ibb.co/NdNd3mQz/eb70c58db367.png"
-  },
-  {
-    "slug": "2026-08-07-ai-answers-911-callsgame-changer",
-    "title": "AI Answers 911 Calls\u2014Game Changer?",
-    "category": "coding",
-    "source": "Hacker News",
-    "date": "August 07, 2026",
-    "image_url": "https://i.ibb.co/twDs07gx/b6cefa52a7f0.png"
   }
 ]
