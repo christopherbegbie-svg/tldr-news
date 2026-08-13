@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-13-the-rise-of-product-engineers",
+    "title": "The Rise of Product Engineers",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "August 13, 2026",
+    "image_url": "https://i.ibb.co/V0SkFM6V/c9a4d0c29d9a.png"
+  },
+  {
     "slug": "2026-08-13-sydney-airport-near-misses-explained",
     "title": "Sydney Airport Near Misses Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "August 07, 2026",
     "image_url": "https://i.ibb.co/Tx7xqJWF/0261614d05ac.png"
-  },
-  {
-    "slug": "2026-08-07-citizenship-and-diplomacy-reshape-global-order",
-    "title": "Citizenship and Diplomacy Reshape Global Order",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 07, 2026",
-    "image_url": "https://i.ibb.co/ksQ9JDgD/0373ca755068.png"
   }
 ]
