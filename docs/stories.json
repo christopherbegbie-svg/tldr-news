@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-13-military-evacuation-when-families-wait",
+    "title": "Military Evacuation: When Families Wait",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 13, 2026",
+    "image_url": "https://i.ibb.co/W4TBBNrT/886924a66739.png"
+  },
+  {
     "slug": "2026-08-13-progressive-movements-arent-always-united",
     "title": "Progressive Movements Aren't Always United",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 07, 2026",
     "image_url": "https://i.ibb.co/9Ht76k21/3c8f522db7b6.png"
-  },
-  {
-    "slug": "2026-08-07-when-air-traffic-control-fails",
-    "title": "When Air Traffic Control Fails",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "August 07, 2026",
-    "image_url": "https://i.ibb.co/0pkSp1YT/2ec6f9fb8890.png"
   }
 ]
