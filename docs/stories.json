@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-14-political-cartoons-art-meets-accountability",
+    "title": "Political Cartoons: Art Meets Accountability",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 14, 2026",
+    "image_url": "https://i.ibb.co/4ZG7hM9W/67838577129b.png"
+  },
+  {
     "slug": "2026-08-14-self-healing-electronics-are-coming",
     "title": "Self-Healing Electronics Are Coming",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 08, 2026",
     "image_url": "https://i.ibb.co/05GQ7Yg/d9339b1f807f.png"
-  },
-  {
-    "slug": "2026-08-08-the-worlds-most-critical-oil-chokepoint",
-    "title": "The World's Most Critical Oil Chokepoint",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "August 08, 2026",
-    "image_url": "https://i.ibb.co/DHBYkHMp/4575f9a0e12b.png"
   }
 ]
