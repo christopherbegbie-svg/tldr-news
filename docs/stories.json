@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-14-how-political-cartoons-shape-democracy",
+    "title": "How Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 14, 2026",
+    "image_url": "https://i.ibb.co/vxCcCw7X/91b6853c7b4d.png"
+  },
+  {
     "slug": "2026-08-14-when-courts-stop-government-tech-bans",
     "title": "When Courts Stop Government Tech Bans",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 08, 2026",
     "image_url": "https://i.ibb.co/gL1BWCp1/17fa5d97efc5.png"
-  },
-  {
-    "slug": "2026-08-08-europes-heat-wave-crisis-explained",
-    "title": "Europe's Heat Wave Crisis Explained",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 08, 2026",
-    "image_url": "https://i.ibb.co/W41Qf3kn/38ea1059a849.png"
   }
 ]
