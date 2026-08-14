@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-14-political-cartoons-democracys-visual-truth-tellers",
+    "title": "Political Cartoons: Democracy's Visual Truth-Tellers",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 14, 2026",
+    "image_url": "https://i.ibb.co/XZnfpzV4/1de2ddf23491.png"
+  },
+  {
     "slug": "2026-08-14-kidnapped-missionary-released-in-niger",
     "title": "Kidnapped Missionary Released in Niger",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 08, 2026",
     "image_url": "https://i.ibb.co/Y4GGgjsV/5eba5ac5ecc3.png"
-  },
-  {
-    "slug": "2026-08-08-ai-in-education-progress-or-problem",
-    "title": "AI in Education: Progress or Problem?",
-    "category": "literature",
-    "source": "The Guardian Books",
-    "date": "August 08, 2026",
-    "image_url": "https://i.ibb.co/67s240bv/13e5214d34b2.png"
   }
 ]
