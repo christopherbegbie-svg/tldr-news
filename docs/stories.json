@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-15-how-communities-heal-together",
+    "title": "How Communities Heal Together",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 15, 2026",
+    "image_url": "https://i.ibb.co/4nYrXtDP/ec4cb08c7c76.png"
+  },
+  {
     "slug": "2026-08-15-political-cartoons-democracys-visual-voice",
     "title": "Political Cartoons: Democracy's Visual Voice",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 09, 2026",
     "image_url": "https://i.ibb.co/0jFVd0Hz/69771d8b8257.png"
-  },
-  {
-    "slug": "2026-08-08-politics-when-business-success-meets-elections",
-    "title": "Politics: When Business Success Meets Elections",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 08, 2026",
-    "image_url": "https://i.ibb.co/Wp3zdvBY/3f629e009ff0.png"
   }
 ]
