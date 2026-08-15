@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-15-politics-military-primaries-power",
+    "title": "Politics: Military, Primaries & Power",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 15, 2026",
+    "image_url": "https://i.ibb.co/Nbqk8Y9/2931c52d433f.png"
+  },
+  {
     "slug": "2026-08-15-understanding-earthquake-danger-zones",
     "title": "Understanding Earthquake Danger Zones",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 09, 2026",
     "image_url": "https://i.ibb.co/d0gRxQ9j/126941069436.png"
-  },
-  {
-    "slug": "2026-08-09-first-woman-could-lead-the-un",
-    "title": "First Woman Could Lead the UN",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 09, 2026",
-    "image_url": "https://i.ibb.co/9HL8dWPq/7c88df2c3256.png"
   }
 ]
