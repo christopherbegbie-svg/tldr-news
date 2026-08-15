@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-15-indonesias-ring-of-fire-explained.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-14-executive-power-vs-government-transparency.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-08-australias-40-year-old-welfare-debts.html</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-08-a-bridge-too-controversial.html</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

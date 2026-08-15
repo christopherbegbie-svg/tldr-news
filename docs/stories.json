@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-15-indonesias-ring-of-fire-explained",
+    "title": "Indonesia's Ring of Fire Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 15, 2026",
+    "image_url": "https://i.ibb.co/dsn3VYH6/e8407ec58a2d.png"
+  },
+  {
     "slug": "2026-08-14-executive-power-vs-government-transparency",
     "title": "Executive Power vs. Government Transparency",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 08, 2026",
     "image_url": "https://i.ibb.co/NgySRXy8/664cc7444bd9.png"
-  },
-  {
-    "slug": "2026-08-08-a-bridge-too-controversial",
-    "title": "A Bridge Too Controversial",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 08, 2026",
-    "image_url": "https://i.ibb.co/7JG3FZ0w/f1b3da222295.png"
   }
 ]
