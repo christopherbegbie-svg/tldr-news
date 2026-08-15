@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-15-political-cartoons-democracys-visual-voice",
+    "title": "Political Cartoons: Democracy's Visual Voice",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 15, 2026",
+    "image_url": "https://i.ibb.co/mC6NJjBm/164f4e19599a.png"
+  },
+  {
     "slug": "2026-08-15-when-hikers-go-missing-rescue-operations",
     "title": "When Hikers Go Missing: Rescue Operations",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 08, 2026",
     "image_url": "https://i.ibb.co/Wp3zdvBY/3f629e009ff0.png"
-  },
-  {
-    "slug": "2026-08-08-senate-confirms-trumps-lawyer-as-attorney-general",
-    "title": "Senate Confirms Trump's Lawyer as Attorney General",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 08, 2026",
-    "image_url": "https://i.ibb.co/VYXSLkXM/c2d11b447139.png"
   }
 ]
