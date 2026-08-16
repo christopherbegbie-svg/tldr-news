@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-16-how-political-cartoons-shape-democracy",
+    "title": "How Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 16, 2026",
+    "image_url": "https://i.ibb.co/qMMPFbs1/833ecff15c8f.png"
+  },
+  {
     "slug": "2026-08-16-understanding-earthquakes-and-natural-disasters",
     "title": "Understanding Earthquakes and Natural Disasters",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 10, 2026",
     "image_url": "https://i.ibb.co/S4r3Qf3R/ab3e3f94eb87.png"
-  },
-  {
-    "slug": "2026-08-10-military-alliances-whats-really-at-stake",
-    "title": "Military Alliances: What's Really at Stake?",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "August 10, 2026",
-    "image_url": "https://i.ibb.co/45L3v58/1a353425d047.png"
   }
 ]
