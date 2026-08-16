@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-16-the-hidden-power-of-political-cartoons",
+    "title": "The Hidden Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 16, 2026",
+    "image_url": "https://i.ibb.co/jks99xsq/f2d275a8a4c3.png"
+  },
+  {
     "slug": "2026-08-16-courts-can-subpoena-family-members",
     "title": "Courts Can Subpoena Family Members",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 09, 2026",
     "image_url": "https://i.ibb.co/NnTRZkry/255a8199059e.png"
-  },
-  {
-    "slug": "2026-08-09-the-strait-that-shakes-global-markets",
-    "title": "The Strait That Shakes Global Markets",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 09, 2026",
-    "image_url": "https://i.ibb.co/q3RK20Tw/88ed579b1d65.png"
   }
 ]
