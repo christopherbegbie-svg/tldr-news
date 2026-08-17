@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-17-australian-politics-three-major-stories",
+    "title": "Australian Politics: Three Major Stories",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 17, 2026",
+    "image_url": "https://i.ibb.co/B27RXzsY/49a4ee0ae9a8.png"
+  },
+  {
     "slug": "2026-08-17-parliaments-rules-why-decorum-matters",
     "title": "Parliament's Rules: Why Decorum Matters",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 11, 2026",
     "image_url": "https://i.ibb.co/N6CGW83M/6e3180e3f93e.png"
-  },
-  {
-    "slug": "2026-08-11-redistricting-how-states-redraw-election-maps",
-    "title": "Redistricting: How States Redraw Election Maps",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 11, 2026",
-    "image_url": "https://i.ibb.co/jvTdC47Y/a34bb2fd121f.png"
   }
 ]
