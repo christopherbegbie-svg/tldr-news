@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-17-military-deployment-policy-vs-people",
+    "title": "Military Deployment: Policy vs. People",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 17, 2026",
+    "image_url": "https://i.ibb.co/60gsDncJ/135c6b289ade.png"
+  },
+  {
     "slug": "2026-08-17-geopolitics-when-allies-choose-different-paths",
     "title": "Geopolitics: When Allies Choose Different Paths",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 11, 2026",
     "image_url": "https://i.ibb.co/mVdwLVKy/af0f4213c135.png"
-  },
-  {
-    "slug": "2026-08-11-gravitys-cosmic-magnifying-glass",
-    "title": "Gravity's Cosmic Magnifying Glass",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "August 11, 2026",
-    "image_url": "https://i.ibb.co/1fPwYm15/1d403aeeda2a.png"
   }
 ]
