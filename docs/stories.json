@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-17-military-drills-and-global-security-strategy",
+    "title": "Military Drills and Global Security Strategy",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 17, 2026",
+    "image_url": "https://i.ibb.co/jvbGHtRg/cadffc65af23.png"
+  },
+  {
     "slug": "2026-08-17-when-presidents-hide-government-secrets",
     "title": "When Presidents Hide Government Secrets",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "August 10, 2026",
     "image_url": "https://i.ibb.co/Hv5vHj1/196e9993b529.png"
-  },
-  {
-    "slug": "2026-08-10-party-strategy-shifts-behind-the-scenes",
-    "title": "Party Strategy Shifts Behind the Scenes",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 10, 2026",
-    "image_url": "https://i.ibb.co/mVLzJd6B/1ca1ea3d36a1.png"
   }
 ]
