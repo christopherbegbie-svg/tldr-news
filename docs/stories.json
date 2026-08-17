@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-17-inside-congressional-ethics-investigations",
+    "title": "Inside Congressional Ethics Investigations",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 17, 2026",
+    "image_url": "https://i.ibb.co/JjTh6204/82bcd073a3a3.png"
+  },
+  {
     "slug": "2026-08-17-military-deployment-policy-vs-people",
     "title": "Military Deployment: Policy vs. People",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "August 11, 2026",
     "image_url": "https://i.ibb.co/XxYWPFww/61c366bab587.png"
-  },
-  {
-    "slug": "2026-08-11-the-great-democratic-primary-divide",
-    "title": "The Great Democratic Primary Divide",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 11, 2026",
-    "image_url": "https://i.ibb.co/mVdwLVKy/af0f4213c135.png"
   }
 ]
