@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-18-australias-tax-dilemma-policy-and-housing",
+    "title": "Australia's Tax Dilemma: Policy and Housing",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 18, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-18-investigating-critics-a-free-speech-issue",
     "title": "Investigating Critics: A Free Speech Issue",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 12, 2026",
     "image_url": "https://i.ibb.co/Fq7YWswN/e485200bd67f.png"
-  },
-  {
-    "slug": "2026-08-12-primary-elections-shape-political-futures",
-    "title": "Primary Elections Shape Political Futures",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 12, 2026",
-    "image_url": "https://i.ibb.co/4RySyZ3N/6144c58ef8d9.png"
   }
 ]
