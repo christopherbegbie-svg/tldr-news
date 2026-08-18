@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-18-political-cartoons-democracys-visual-voice",
+    "title": "Political Cartoons: Democracy's Visual Voice",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 18, 2026",
+    "image_url": "https://i.ibb.co/d4t57gnr/e94496aed6c8.png"
+  },
+  {
     "slug": "2026-08-18-australias-fight-against-gambling-addiction",
     "title": "Australia's Fight Against Gambling Addiction",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 12, 2026",
     "image_url": "https://i.ibb.co/s9ZDdQJH/69b62c0e8b0f.png"
-  },
-  {
-    "slug": "2026-08-12-tax-policy-and-immigration-political-debate",
-    "title": "Tax Policy and Immigration: Political Debate",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 12, 2026",
-    "image_url": "https://i.ibb.co/qFCvrPHV/b04bae50e413.png"
   }
 ]
