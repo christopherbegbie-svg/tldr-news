@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-18-crispr-turns-male-mice-into-females",
+    "title": "CRISPR turns male mice into females",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "August 18, 2026",
+    "image_url": "https://i.ibb.co/Sqdtrhj/ed6463c11028.png"
+  },
+  {
     "slug": "2026-08-18-prosecutor-sues-doj-over-political-firing",
     "title": "Prosecutor Sues DOJ Over Political Firing",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 12, 2026",
     "image_url": "https://i.ibb.co/Y4nmqbMQ/d5c8ed3dfaff.png"
-  },
-  {
-    "slug": "2026-08-12-presidential-planes-and-secret-security-swaps",
-    "title": "Presidential Planes and Secret Security Swaps",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 12, 2026",
-    "image_url": "https://i.ibb.co/8DGt53wk/355e42e1e39c.png"
   }
 ]
