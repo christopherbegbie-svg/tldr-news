@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-19-inside-floridas-chaotic-republican-primary",
+    "title": "Inside Florida's Chaotic Republican Primary",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 19, 2026",
+    "image_url": "https://i.ibb.co/SXJBc816/25543a4228d9.png"
+  },
+  {
     "slug": "2026-08-19-when-justice-procedures-fail-the-appeal",
     "title": "When Justice Procedures Fail: The Appeal",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 13, 2026",
     "image_url": "https://i.ibb.co/mrb59CKV/848f9b9177cc.png"
-  },
-  {
-    "slug": "2026-08-13-ceo-pay-vs-corporate-failure",
-    "title": "CEO Pay vs. Corporate Failure",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/W45v70WM/94c4f56ddc8a.png"
   }
 ]
