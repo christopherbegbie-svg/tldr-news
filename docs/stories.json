@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-19-the-salamander-that-changed-elections",
+    "title": "The Salamander That Changed Elections",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 19, 2026",
+    "image_url": "https://i.ibb.co/rGK32yJS/9bc4f0baac0e.png"
+  },
+  {
     "slug": "2026-08-19-political-power-the-hidden-architects",
     "title": "Political Power: The Hidden Architects",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 13, 2026",
     "image_url": "https://i.ibb.co/jvWxS1f1/2e44fedb9932.png"
-  },
-  {
-    "slug": "2026-08-13-the-rise-of-product-engineers",
-    "title": "The Rise of Product Engineers",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/V0SkFM6V/c9a4d0c29d9a.png"
   }
 ]
