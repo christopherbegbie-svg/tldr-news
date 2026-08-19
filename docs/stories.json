@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-19-political-power-the-hidden-architects",
+    "title": "Political Power: The Hidden Architects",
+    "category": "world",
+    "source": "BBC World",
+    "date": "August 19, 2026",
+    "image_url": "https://i.ibb.co/d0r211Yg/f4cc8e112e85.png"
+  },
+  {
     "slug": "2026-08-19-the-toads-secret-chemical-weapon",
     "title": "The Toad's Secret Chemical Weapon",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "August 13, 2026",
     "image_url": "https://i.ibb.co/V0SkFM6V/c9a4d0c29d9a.png"
-  },
-  {
-    "slug": "2026-08-13-sydney-airport-near-misses-explained",
-    "title": "Sydney Airport Near Misses Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/mrQvXGJG/7b19ae5d6ae6.png"
   }
 ]
