@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-19-when-scandals-lose-elections",
+    "title": "When Scandals Lose Elections",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 19, 2026",
+    "image_url": "https://i.ibb.co/WvFNrYsk/2817e66f18ae.png"
+  },
+  {
     "slug": "2026-08-19-when-voters-question-their-leaders-policies",
     "title": "When voters question their leaders' policies",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 13, 2026",
     "image_url": "https://i.ibb.co/VZmNp2b/39137233bb99.png"
-  },
-  {
-    "slug": "2026-08-13-tech-companies-must-pay-for-news",
-    "title": "Tech Companies Must Pay for News",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/cMPjGrr/c2564885cd3a.png"
   }
 ]
