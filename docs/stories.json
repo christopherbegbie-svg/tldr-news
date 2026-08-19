@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-19-voters-reject-their-own-leaders-policies",
+    "title": "Voters reject their own leaders' policies",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 19, 2026",
+    "image_url": "https://i.ibb.co/9myfbKN9/ec24657b479e.png"
+  },
+  {
     "slug": "2026-08-19-military-exercises-and-diplomatic-signals",
     "title": "Military exercises and diplomatic signals",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 13, 2026",
     "image_url": "https://i.ibb.co/6JyJqTnn/2ee3fb3f42f7.png"
-  },
-  {
-    "slug": "2026-08-13-from-newcomer-to-world-champion",
-    "title": "From Newcomer to World Champion",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/3YWd3YBv/511881732e53.png"
   }
 ]
