@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-19-the-toads-secret-chemical-weapon",
+    "title": "The Toad's Secret Chemical Weapon",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "August 19, 2026",
+    "image_url": "https://i.ibb.co/60XMXBMd/22297d0a397c.png"
+  },
+  {
     "slug": "2026-08-19-voters-reject-their-own-leaders-policies",
     "title": "Voters reject their own leaders' policies",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 13, 2026",
     "image_url": "https://i.ibb.co/mrQvXGJG/7b19ae5d6ae6.png"
-  },
-  {
-    "slug": "2026-08-13-mixed-signals-what-democrats-really-want",
-    "title": "Mixed Signals: What Democrats Really Want",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/6JyJqTnn/2ee3fb3f42f7.png"
   }
 ]
