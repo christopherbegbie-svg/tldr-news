@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-19-military-exercises-and-diplomatic-signals",
+    "title": "Military exercises and diplomatic signals",
+    "category": "world",
+    "source": "BBC World",
+    "date": "August 19, 2026",
+    "image_url": "https://i.ibb.co/KzqG2fvQ/74be53ff8d7f.png"
+  },
+  {
     "slug": "2026-08-19-elections-during-war-democratic-paradox-explained",
     "title": "Elections During War: Democratic Paradox Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 13, 2026",
     "image_url": "https://i.ibb.co/3YWd3YBv/511881732e53.png"
-  },
-  {
-    "slug": "2026-08-13-military-evacuation-when-families-wait",
-    "title": "Military Evacuation: When Families Wait",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/W4TBBNrT/886924a66739.png"
   }
 ]
