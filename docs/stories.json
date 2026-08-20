@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-20-understanding-criminal-appeals-and-sentencing",
+    "title": "Understanding criminal appeals and sentencing",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 20, 2026",
+    "image_url": "https://i.ibb.co/5WcX6SQ4/603ca882f25d.png"
+  },
+  {
     "slug": "2026-08-20-investigating-civilian-deaths-in-conflict",
     "title": "Investigating civilian deaths in conflict",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "August 14, 2026",
     "image_url": "https://i.ibb.co/rf71MWyJ/132543533571.png"
-  },
-  {
-    "slug": "2026-08-13-tariffs-explained-trades-hidden-cost",
-    "title": "Tariffs Explained: Trade's Hidden Cost",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 13, 2026",
-    "image_url": "https://i.ibb.co/5hdd19H8/e7dc1ca75ebe.png"
   }
 ]
