@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-21-extreme-rainfall-natures-most-destructive-force",
+    "title": "Extreme rainfall: Nature's most destructive force",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 21, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-21-wildlife-die-offs-natures-warning-system",
     "title": "Wildlife Die-Offs: Nature's Warning System",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 15, 2026",
     "image_url": "https://i.ibb.co/mC6NJjBm/164f4e19599a.png"
-  },
-  {
-    "slug": "2026-08-15-when-hikers-go-missing-rescue-operations",
-    "title": "When Hikers Go Missing: Rescue Operations",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 15, 2026",
-    "image_url": "https://i.ibb.co/hRkrNVxS/8977dd5d15b8.png"
   }
 ]
