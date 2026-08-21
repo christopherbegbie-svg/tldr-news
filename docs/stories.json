@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-21-understanding-ebola-a-global-health-crisis",
+    "title": "Understanding Ebola: A Global Health Crisis",
+    "category": "world",
+    "source": "Sky News",
+    "date": "August 21, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-21-the-power-of-reading-across-cultures",
     "title": "The Power of Reading Across Cultures",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 15, 2026",
     "image_url": "https://i.ibb.co/Y750D11c/4f9e70724151.png"
-  },
-  {
-    "slug": "2026-08-15-bird-flu-reaches-australias-little-penguins",
-    "title": "Bird Flu Reaches Australia's Little Penguins",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 15, 2026",
-    "image_url": "https://i.ibb.co/Cp5xGkwg/b96c3c41b9a5.png"
   }
 ]
