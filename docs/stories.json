@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-21-satire-and-politics-the-power-of-cartoons",
+    "title": "Satire and Politics: The Power of Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 21, 2026",
+    "image_url": "https://i.ibb.co/d4S5r47C/8bfe1bea299a.png"
+  },
+  {
     "slug": "2026-08-21-politics-art-and-public-symbols",
     "title": "Politics, Art, and Public Symbols",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 15, 2026",
     "image_url": "https://i.ibb.co/RT3Q0fcS/9eeb06f0897f.png"
-  },
-  {
-    "slug": "2026-08-15-politics-military-primaries-power",
-    "title": "Politics: Military, Primaries & Power",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 15, 2026",
-    "image_url": "https://i.ibb.co/Nbqk8Y9/2931c52d433f.png"
   }
 ]
