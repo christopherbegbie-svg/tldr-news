@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-21-the-power-of-reading-across-cultures",
+    "title": "The Power of Reading Across Cultures",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "August 21, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-21-political-strategy-beyond-battleground-states",
     "title": "Political Strategy Beyond Battleground States",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 15, 2026",
     "image_url": "https://i.ibb.co/Cp5xGkwg/b96c3c41b9a5.png"
-  },
-  {
-    "slug": "2026-08-15-how-communities-heal-together",
-    "title": "How Communities Heal Together",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 15, 2026",
-    "image_url": "https://i.ibb.co/4nYrXtDP/ec4cb08c7c76.png"
   }
 ]
