@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-21-politics-art-and-public-symbols",
+    "title": "Politics, Art, and Public Symbols",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 21, 2026",
+    "image_url": "https://i.ibb.co/8Ldn5LFF/bdc965f29e9f.png"
+  },
+  {
     "slug": "2026-08-21-putins-security-truth-vs-viral-claims",
     "title": "Putin's Security: Truth vs. Viral Claims",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 15, 2026",
     "image_url": "https://i.ibb.co/Nbqk8Y9/2931c52d433f.png"
-  },
-  {
-    "slug": "2026-08-15-understanding-earthquake-danger-zones",
-    "title": "Understanding Earthquake Danger Zones",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 15, 2026",
-    "image_url": "https://i.ibb.co/RG6XCzKx/73d55fe74c13.png"
   }
 ]
