@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-08-22</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-22-tiktoks-400-million-privacy-fine-explained.html</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-21-political-cartoons-democracys-watchdogs.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-15-science-vs-politics-understanding-gender-identity.html</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-15-military-families-fight-deployment-decisions.html</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
