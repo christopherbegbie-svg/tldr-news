@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-22-the-power-of-political-cartooning",
+    "title": "The Power of Political Cartooning",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 22, 2026",
+    "image_url": "https://i.ibb.co/9mKH28hF/e424b00a8760.png"
+  },
+  {
     "slug": "2026-08-22-when-nature-rebuilds-after-fire",
     "title": "When nature rebuilds after fire",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 16, 2026",
     "image_url": "https://i.ibb.co/LhZ262c5/5f00699c2950.png"
-  },
-  {
-    "slug": "2026-08-16-afghan-allies-fear-losing-american-home",
-    "title": "Afghan Allies Fear Losing American Home",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 16, 2026",
-    "image_url": "https://i.ibb.co/zHXhcFcd/937f5e828fca.png"
   }
 ]
