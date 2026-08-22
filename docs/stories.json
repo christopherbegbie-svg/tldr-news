@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-22-why-political-cartoons-matter",
+    "title": "Why Political Cartoons Matter",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 22, 2026",
+    "image_url": "https://i.ibb.co/SD77JmJY/3169bf687d57.png"
+  },
+  {
     "slug": "2026-08-22-how-communities-heal-after-tragedy",
     "title": "How Communities Heal After Tragedy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 16, 2026",
     "image_url": "https://i.ibb.co/YBqcn6Zx/4c218323ec0b.png"
-  },
-  {
-    "slug": "2026-08-16-the-hidden-power-of-political-cartoons",
-    "title": "The Hidden Power of Political Cartoons",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 16, 2026",
-    "image_url": "https://i.ibb.co/jks99xsq/f2d275a8a4c3.png"
   }
 ]
