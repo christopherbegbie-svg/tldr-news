@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-22-political-cartoons-shape-democratic-debate",
+    "title": "Political Cartoons Shape Democratic Debate",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 22, 2026",
+    "image_url": "https://i.ibb.co/hJ02Stz3/73772f3b4ff2.png"
+  },
+  {
     "slug": "2026-08-22-us-trade-allegations-against-india-explained",
     "title": "U.S. Trade Allegations Against India Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 16, 2026",
     "image_url": "https://i.ibb.co/bj94Yd7X/1b5c87fa882a.png"
-  },
-  {
-    "slug": "2026-08-16-can-you-trust-political-polls",
-    "title": "Can You Trust Political Polls?",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 16, 2026",
-    "image_url": "https://i.ibb.co/RpZWzpJg/326bf0faff7c.png"
   }
 ]
