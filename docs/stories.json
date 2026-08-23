@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-23-wildlife-crisis-sharks-and-bird-flu",
+    "title": "Wildlife Crisis: Sharks and Bird Flu",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 23, 2026",
+    "image_url": "https://i.ibb.co/LDPRmfTk/042d0d932d57.png"
+  },
+  {
     "slug": "2026-08-23-why-nations-celebrate-with-racing-events",
     "title": "Why Nations Celebrate With Racing Events",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 17, 2026",
     "image_url": "https://i.ibb.co/60gsDncJ/135c6b289ade.png"
-  },
-  {
-    "slug": "2026-08-17-geopolitics-when-allies-choose-different-paths",
-    "title": "Geopolitics: When Allies Choose Different Paths",
-    "category": "world",
-    "source": "BBC World",
-    "date": "August 17, 2026",
-    "image_url": "https://i.ibb.co/mCbtcNTd/a6c46c88c4cf.png"
   }
 ]
