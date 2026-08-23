@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-23-political-cartoons-democracys-visual-language",
+    "title": "Political Cartoons: Democracy's Visual Language",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 23, 2026",
+    "image_url": "https://i.ibb.co/M53HFDNp/19583694fe8d.png"
+  },
+  {
     "slug": "2026-08-23-when-bird-flu-reaches-mammals",
     "title": "When Bird Flu Reaches Mammals",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 16, 2026",
     "image_url": "https://i.ibb.co/PZn7m6Rf/56bff1d4f7f5.png"
-  },
-  {
-    "slug": "2026-08-16-visa-revocations-diplomacy-without-war",
-    "title": "Visa Revocations: Diplomacy Without War",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 16, 2026",
-    "image_url": "https://i.ibb.co/SXMwv8Ls/b8e92ea00ab4.png"
   }
 ]
