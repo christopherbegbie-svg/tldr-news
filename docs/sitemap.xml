@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-23-when-bird-flu-reaches-mammals.html</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-22-trade-wars-how-tariffs-hurt-everyone.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-16-visa-revocations-diplomacy-without-war.html</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-16-tommy-john-surgery-medical-innovation-in-sports.html</loc>
     <lastmod>2026-08-16</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
