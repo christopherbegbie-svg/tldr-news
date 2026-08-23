@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-23-political-cartoons-democracys-visual-watchdog",
+    "title": "Political Cartoons: Democracy's Visual Watchdog",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 23, 2026",
+    "image_url": "https://i.ibb.co/1GyTxGBc/29e30ff02819.png"
+  },
+  {
     "slug": "2026-08-23-thailands-hidden-south-conflict",
     "title": "Thailand's Hidden South Conflict",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 17, 2026",
     "image_url": "https://i.ibb.co/jvbGHtRg/cadffc65af23.png"
-  },
-  {
-    "slug": "2026-08-17-when-presidents-hide-government-secrets",
-    "title": "When Presidents Hide Government Secrets",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 17, 2026",
-    "image_url": "https://i.ibb.co/pvR2H9Ys/00954faf4f23.png"
   }
 ]
