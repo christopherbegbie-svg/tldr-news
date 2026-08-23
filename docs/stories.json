@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-23-fema-leadership-and-disaster-response",
+    "title": "FEMA Leadership and Disaster Response",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 23, 2026",
+    "image_url": "https://i.ibb.co/cS14jr4y/7097b5bf428b.png"
+  },
+  {
     "slug": "2026-08-23-political-cartoons-democracys-visual-conscience",
     "title": "Political Cartoons: Democracy's Visual Conscience",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 17, 2026",
     "image_url": "https://i.ibb.co/rGkxFMfF/a9eda12fea5d.png"
-  },
-  {
-    "slug": "2026-08-17-australian-politics-three-major-stories",
-    "title": "Australian Politics: Three Major Stories",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 17, 2026",
-    "image_url": "https://i.ibb.co/B27RXzsY/49a4ee0ae9a8.png"
   }
 ]
