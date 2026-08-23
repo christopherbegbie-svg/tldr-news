@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-23-political-cartoons-democracys-visual-conscience",
+    "title": "Political Cartoons: Democracy's Visual Conscience",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 23, 2026",
+    "image_url": "https://i.ibb.co/F4dPwnw6/107c3837914e.png"
+  },
+  {
     "slug": "2026-08-23-police-accountability-in-mental-health-crises",
     "title": "Police Accountability in Mental Health Crises",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 17, 2026",
     "image_url": "https://i.ibb.co/B27RXzsY/49a4ee0ae9a8.png"
-  },
-  {
-    "slug": "2026-08-17-parliaments-rules-why-decorum-matters",
-    "title": "Parliament's Rules: Why Decorum Matters",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "August 17, 2026",
-    "image_url": "https://i.ibb.co/ZR9N189Q/f0da2211a11c.png"
   }
 ]
