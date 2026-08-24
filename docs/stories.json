@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-24-why-one-wire-can-stop-an-entire-city",
+    "title": "Why One Wire Can Stop An Entire City",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 24, 2026",
+    "image_url": "https://i.ibb.co/8LryzZFP/d566db17b20e.png"
+  },
+  {
     "slug": "2026-08-24-climate-change-threatens-monets-gardens",
     "title": "Climate Change Threatens Monet's Gardens",
     "category": "history",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 18, 2026",
     "image_url": "https://i.ibb.co/1GZgsgtT/5c246f0cbb31.png"
-  },
-  {
-    "slug": "2026-08-18-nanorods-keep-laser-drones-cool",
-    "title": "Nanorods Keep Laser Drones Cool",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "August 18, 2026",
-    "image_url": "https://i.ibb.co/bjGHC54T/5af19e5f9f6e.png"
   }
 ]
