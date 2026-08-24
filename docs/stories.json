@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-24-healthcare-becomes-election-battleground",
+    "title": "Healthcare Becomes Election Battleground",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 24, 2026",
+    "image_url": "https://i.ibb.co/CK71MVbq/2299e43174cb.png"
+  },
+  {
     "slug": "2026-08-24-earthquake-sensors-track-hurricane-movement",
     "title": "Earthquake Sensors Track Hurricane Movement",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 18, 2026",
     "image_url": "https://i.ibb.co/fYFC8XH7/9e344326b600.png"
-  },
-  {
-    "slug": "2026-08-18-political-cartoons-democracys-visual-voice",
-    "title": "Political Cartoons: Democracy's Visual Voice",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 18, 2026",
-    "image_url": "https://i.ibb.co/d4t57gnr/e94496aed6c8.png"
   }
 ]
