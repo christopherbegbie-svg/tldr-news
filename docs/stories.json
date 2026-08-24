@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-24-union-corruption-exposed-in-australia",
+    "title": "Union corruption exposed in Australia",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 24, 2026",
+    "image_url": "https://i.ibb.co/pBsvNsJ4/2f88146515e2.png"
+  },
+  {
     "slug": "2026-08-24-trade-wars-how-tariffs-affect-you",
     "title": "Trade Wars: How Tariffs Affect You",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 18, 2026",
     "image_url": "https://i.ibb.co/JRyTKwMF/6677a80a7406.png"
-  },
-  {
-    "slug": "2026-08-18-how-political-deals-shape-policy",
-    "title": "How Political Deals Shape Policy",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "August 18, 2026",
-    "image_url": "https://i.ibb.co/8n3DLxn4/962632e84ca4.png"
   }
 ]
