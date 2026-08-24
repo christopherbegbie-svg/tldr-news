@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-24-record-ocean-heat-what-it-means",
+    "title": "Record Ocean Heat: What It Means",
+    "category": "science",
+    "source": "BBC Science",
+    "date": "August 24, 2026",
+    "image_url": "https://i.ibb.co/NnybdhFF/a74f46ef0a1c.png"
+  },
+  {
     "slug": "2026-08-24-healthcare-becomes-election-battleground",
     "title": "Healthcare Becomes Election Battleground",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 18, 2026",
     "image_url": "https://i.ibb.co/fznXXLsD/ec30c2fc3afe.png"
-  },
-  {
-    "slug": "2026-08-18-ai-mental-health-why-humans-still-matter",
-    "title": "AI, Mental Health & Why Humans Still Matter",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 18, 2026",
-    "image_url": "https://i.ibb.co/fYFC8XH7/9e344326b600.png"
   }
 ]
