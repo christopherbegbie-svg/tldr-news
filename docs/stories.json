@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-24-safe-states-vs-battlegrounds-in-campaigns",
+    "title": "Safe States vs. Battlegrounds in Campaigns",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 24, 2026",
+    "image_url": "https://i.ibb.co/fZxHP3f/e10cdc44132e.png"
+  },
+  {
     "slug": "2026-08-23-wildlife-crisis-sharks-and-bird-flu",
     "title": "Wildlife Crisis: Sharks and Bird Flu",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 17, 2026",
     "image_url": "https://i.ibb.co/JjTh6204/82bcd073a3a3.png"
-  },
-  {
-    "slug": "2026-08-17-military-deployment-policy-vs-people",
-    "title": "Military Deployment: Policy vs. People",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 17, 2026",
-    "image_url": "https://i.ibb.co/60gsDncJ/135c6b289ade.png"
   }
 ]
