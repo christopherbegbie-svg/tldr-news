@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-25-australias-housing-crisis-accelerating",
+    "title": "Australia's Housing Crisis Accelerating",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 25, 2026",
+    "image_url": "https://i.ibb.co/cSFmQJpy/678a2909dc6e.png"
+  },
+  {
     "slug": "2026-08-25-the-ice-divide-splitting-democrats",
     "title": "The ICE divide splitting Democrats",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "August 19, 2026",
     "image_url": "https://i.ibb.co/VKFHxJV/1300dbaacfcd.png"
-  },
-  {
-    "slug": "2026-08-19-bare-minimum-politics-when-good-enough-isnt",
-    "title": "Bare Minimum Politics: When Good Enough Isn't",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 19, 2026",
-    "image_url": ""
   }
 ]
