@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-25-trade-wars-tariffs-and-global-impact",
+    "title": "Trade Wars: Tariffs and Global Impact",
+    "category": "business",
+    "source": "BBC Business",
+    "date": "August 25, 2026",
+    "image_url": "https://i.ibb.co/Tx3RCyQT/1cb29959eea9.png"
+  },
+  {
     "slug": "2026-08-24-super-pacs-democracys-invisible-money-machine",
     "title": "Super PACs: Democracy's invisible money machine",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "August 18, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-08-18-diplomatic-crisis-france-expels-iranian-diplomats",
-    "title": "Diplomatic Crisis: France Expels Iranian Diplomats",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 18, 2026",
-    "image_url": "https://i.ibb.co/Zzm18ZgY/adc4da218235.png"
   }
 ]
