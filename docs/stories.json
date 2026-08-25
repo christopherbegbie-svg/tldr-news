@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-25-when-hackers-target-governments",
+    "title": "When Hackers Target Governments",
+    "category": "world",
+    "source": "France 24",
+    "date": "August 25, 2026",
+    "image_url": "https://i.ibb.co/Kj4w3cYf/97fa03453c11.png"
+  },
+  {
     "slug": "2026-08-25-allied-nations-share-military-technology",
     "title": "Allied Nations Share Military Technology",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 19, 2026",
     "image_url": "https://i.ibb.co/WvFNrYsk/2817e66f18ae.png"
-  },
-  {
-    "slug": "2026-08-19-when-voters-question-their-leaders-policies",
-    "title": "When voters question their leaders' policies",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 19, 2026",
-    "image_url": "https://i.ibb.co/C5w75442/d6af96d877e1.png"
   }
 ]
