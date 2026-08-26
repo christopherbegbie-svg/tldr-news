@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-26-data-claims-require-verification",
+    "title": "Data Claims Require Verification",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 26, 2026",
+    "image_url": "https://i.ibb.co/G43fxgVS/0238c76e82be.png"
+  },
+  {
     "slug": "2026-08-26-mushroom-kits-sparking-europes-biodiversity-crisis",
     "title": "Mushroom kits sparking Europe's biodiversity crisis",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 20, 2026",
     "image_url": "https://i.ibb.co/n8M67THn/ebc16a39d9fd.png"
-  },
-  {
-    "slug": "2026-08-20-when-data-gets-politicized",
-    "title": "When Data Gets Politicized",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 20, 2026",
-    "image_url": "https://i.ibb.co/Vcr8Gpk9/523533e5fa45.png"
   }
 ]
