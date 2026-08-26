@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-26-hidden-taxes-fund-major-infrastructure.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-25-visa-revocation-a-global-policy-shift.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-19-the-salamander-that-changed-elections.html</loc>
-    <lastmod>2026-08-19</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-19-political-power-the-hidden-architects.html</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
