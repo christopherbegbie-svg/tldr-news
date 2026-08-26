@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-26-inflation-interest-rates-and-you",
+    "title": "Inflation, Interest Rates, and You",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 26, 2026",
+    "image_url": "https://i.ibb.co/6Rp5QbGK/3d38ad5fdbd6.png"
+  },
+  {
     "slug": "2026-08-26-hidden-taxes-fund-major-infrastructure",
     "title": "Hidden Taxes Fund Major Infrastructure",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 19, 2026",
     "image_url": "https://i.ibb.co/HDN9fzvH/2b0a96b40ff5.png"
-  },
-  {
-    "slug": "2026-08-19-the-salamander-that-changed-elections",
-    "title": "The Salamander That Changed Elections",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 19, 2026",
-    "image_url": "https://i.ibb.co/rGK32yJS/9bc4f0baac0e.png"
   }
 ]
