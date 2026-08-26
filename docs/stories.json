@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-26-when-hospital-safety-systems-fail",
+    "title": "When Hospital Safety Systems Fail",
+    "category": "world",
+    "source": "NPR News",
+    "date": "August 26, 2026",
+    "image_url": "https://i.ibb.co/GvXJJgf7/db194796608f.png"
+  },
+  {
     "slug": "2026-08-26-perfect-energy-absorption-breakthrough",
     "title": "Perfect Energy Absorption Breakthrough",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 20, 2026",
     "image_url": "https://i.ibb.co/wrNL6dNJ/d996f9a26f94.png"
-  },
-  {
-    "slug": "2026-08-20-grassroots-beats-big-money-in-elections",
-    "title": "Grassroots beats big money in elections",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 20, 2026",
-    "image_url": "https://i.ibb.co/bR75Yrhz/831163dbd605.png"
   }
 ]
