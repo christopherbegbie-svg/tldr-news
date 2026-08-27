@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-27-disaster-distance-and-international-response",
+    "title": "Disaster, Distance, and International Response",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 27, 2026",
+    "image_url": "https://i.ibb.co/8gdVYQz9/a270955f81fe.png"
+  },
+  {
     "slug": "2026-08-27-political-endorsements-the-real-election-game",
     "title": "Political Endorsements: The Real Election Game",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "August 20, 2026",
     "image_url": "https://i.ibb.co/bMYWRBPY/199b9a29b233.png"
-  },
-  {
-    "slug": "2026-08-20-the-40-trillion-problem",
-    "title": "The $40 Trillion Problem",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 20, 2026",
-    "image_url": "https://i.ibb.co/whQDwdRr/c20d08e5c69a.png"
   }
 ]
