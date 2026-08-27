@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-27-politics-delays-public-health-response",
+    "title": "Politics Delays Public Health Response",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 27, 2026",
+    "image_url": "https://i.ibb.co/7dCZw4S6/8ac4e1598a77.png"
+  },
+  {
     "slug": "2026-08-27-can-a-president-rename-a-shared-lake",
     "title": "Can a President Rename a Shared Lake?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 21, 2026",
     "image_url": "https://i.ibb.co/b5G3HGgG/913e2315761c.png"
-  },
-  {
-    "slug": "2026-08-21-privacy-laws-data-broker-loopholes",
-    "title": "Privacy Laws & Data Broker Loopholes",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 21, 2026",
-    "image_url": "https://i.ibb.co/8gRVxtrf/1e14258202a5.png"
   }
 ]
