@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-28-flash-floods-natures-fastest-killers",
+    "title": "Flash Floods: Nature's Fastest Killers",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 28, 2026",
+    "image_url": "https://i.ibb.co/ympVKt8N/7eb176aeeda0.png"
+  },
+  {
     "slug": "2026-08-28-disaster-response-when-floods-cross-borders",
     "title": "Disaster Response: When Floods Cross Borders",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 21, 2026",
     "image_url": "https://i.ibb.co/8Ldn5LFF/bdc965f29e9f.png"
-  },
-  {
-    "slug": "2026-08-21-putins-security-truth-vs-viral-claims",
-    "title": "Putin's Security: Truth vs. Viral Claims",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 21, 2026",
-    "image_url": "https://i.ibb.co/7dHyRLG9/d5b555b5d6bc.png"
   }
 ]
