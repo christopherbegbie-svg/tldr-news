@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-28-flash-floods-natures-deadliest-surprise",
+    "title": "Flash Floods: Nature's Deadliest Surprise",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 28, 2026",
+    "image_url": "https://i.ibb.co/m5MJtwZd/d5cdcf9a3e34.png"
+  },
+  {
     "slug": "2026-08-28-global-aid-enough-or-token-gesture",
     "title": "Global aid: Enough or token gesture?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 21, 2026",
     "image_url": "https://i.ibb.co/0gNbDBZ/0b80dda375bf.png"
-  },
-  {
-    "slug": "2026-08-21-understanding-ebola-a-global-health-crisis",
-    "title": "Understanding Ebola: A Global Health Crisis",
-    "category": "world",
-    "source": "Sky News",
-    "date": "August 21, 2026",
-    "image_url": ""
   }
 ]
