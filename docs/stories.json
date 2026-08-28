@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-28-political-cartoons-shape-democratic-discourse",
+    "title": "Political Cartoons Shape Democratic Discourse",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 28, 2026",
+    "image_url": "https://i.ibb.co/WvcHjDNC/5e1c0239d8f3.png"
+  },
+  {
     "slug": "2026-08-28-understanding-royal-succession-in-modern-monarchies",
     "title": "Understanding Royal Succession in Modern Monarchies",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 22, 2026",
     "image_url": "https://i.ibb.co/1fv8cHBh/8614c750dd66.png"
-  },
-  {
-    "slug": "2026-08-22-political-cartoons-shape-public-opinion",
-    "title": "Political Cartoons Shape Public Opinion",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 22, 2026",
-    "image_url": "https://i.ibb.co/gMhNvQPY/6d243223aef4.png"
   }
 ]
