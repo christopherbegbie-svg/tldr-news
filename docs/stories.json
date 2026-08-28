@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-28-flash-floods-natures-deadliest-weapon",
+    "title": "Flash Floods: Nature's Deadliest Weapon",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 28, 2026",
+    "image_url": "https://i.ibb.co/wZqxmvR5/1462c32a69f9.png"
+  },
+  {
     "slug": "2026-08-28-political-cartoons-shape-democracy",
     "title": "Political Cartoons Shape Democracy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "August 22, 2026",
     "image_url": "https://i.ibb.co/CsBWXCt0/3764018e3028.png"
-  },
-  {
-    "slug": "2026-08-22-tiktoks-400-million-privacy-fine-explained",
-    "title": "TikTok's $400 Million Privacy Fine Explained",
-    "category": "technology",
-    "source": "BBC Technology",
-    "date": "August 22, 2026",
-    "image_url": "https://i.ibb.co/k22YZh5f/f193a3e99920.png"
   }
 ]
