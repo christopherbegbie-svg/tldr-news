@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-28-political-cartoons-shape-democracy",
+    "title": "Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 28, 2026",
+    "image_url": "https://i.ibb.co/HfpKF1Bf/31a9c4bf92ef.png"
+  },
+  {
     "slug": "2026-08-28-tropical-storms-how-nature-builds-chaos",
     "title": "Tropical Storms: How Nature Builds Chaos",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC Technology",
     "date": "August 22, 2026",
     "image_url": "https://i.ibb.co/k22YZh5f/f193a3e99920.png"
-  },
-  {
-    "slug": "2026-08-21-political-cartoons-democracys-watchdogs",
-    "title": "Political Cartoons: Democracy's Watchdogs",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 21, 2026",
-    "image_url": "https://i.ibb.co/bM1QKKgP/b43596ddfc6f.png"
   }
 ]
