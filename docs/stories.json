@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-how-communities-survive-natural-disasters",
+    "title": "How Communities Survive Natural Disasters",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/1ftzMjTb/32206a4b9808.png"
+  },
+  {
     "slug": "2026-08-29-political-cartoons-visual-truth-telling",
     "title": "Political Cartoons: Visual Truth-Telling",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "August 23, 2026",
     "image_url": "https://i.ibb.co/M5Zb6PPD/cf9ab407d5c0.png"
-  },
-  {
-    "slug": "2026-08-23-primary-elections-show-party-power-struggles",
-    "title": "Primary Elections Show Party Power Struggles",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 23, 2026",
-    "image_url": "https://i.ibb.co/xSVgvMxK/1e5c899f25e5.png"
   }
 ]
