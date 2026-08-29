@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-political-cartoons-visual-truth-telling",
+    "title": "Political Cartoons: Visual Truth-Telling",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/XxZ9PLqz/722f99534824.png"
+  },
+  {
     "slug": "2026-08-29-what-your-purchases-say-about-inflation",
     "title": "What Your Purchases Say About Inflation",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 23, 2026",
     "image_url": "https://i.ibb.co/xSVgvMxK/1e5c899f25e5.png"
-  },
-  {
-    "slug": "2026-08-23-ethiopian-runner-breaks-half-marathon-record",
-    "title": "Ethiopian Runner Breaks Half Marathon Record",
-    "category": "world",
-    "source": "BBC World",
-    "date": "August 23, 2026",
-    "image_url": "https://i.ibb.co/3YYNQ656/170ad913319b.png"
   }
 ]
