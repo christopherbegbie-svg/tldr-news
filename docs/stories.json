@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-political-cartoons-shape-our-understanding",
+    "title": "Political Cartoons Shape Our Understanding",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/qLMZ28j4/617ecffab2b0.png"
+  },
+  {
     "slug": "2026-08-29-when-mountains-unleash-waters-fury",
     "title": "When Mountains Unleash Water's Fury",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 22, 2026",
     "image_url": "https://i.ibb.co/9mKH28hF/e424b00a8760.png"
-  },
-  {
-    "slug": "2026-08-22-when-nature-rebuilds-after-fire",
-    "title": "When nature rebuilds after fire",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 22, 2026",
-    "image_url": "https://i.ibb.co/tTd5j3Sh/cfbdf85310ed.png"
   }
 ]
