@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-political-cartoons-shape-how-we-see-power",
+    "title": "Political Cartoons Shape How We See Power",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/N64hP5YH/fb74043cbd96.png"
+  },
+  {
     "slug": "2026-08-29-flash-floods-natures-deadliest-force",
     "title": "Flash Floods: Nature's Deadliest Force",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 22, 2026",
     "image_url": "https://i.ibb.co/Xr3ntChw/00962029a212.png"
-  },
-  {
-    "slug": "2026-08-22-belgiums-human-zoo-confronting-colonial-shame",
-    "title": "Belgium's Human Zoo: Confronting Colonial Shame",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 22, 2026",
-    "image_url": "https://i.ibb.co/5X05fPG6/9613a8c9b606.png"
   }
 ]
