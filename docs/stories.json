@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-political-cartoons-shape-how-we-see-politics",
+    "title": "Political Cartoons Shape How We See Politics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/N6fyRsCp/fb25b6ea9a78.png"
+  },
+  {
     "slug": "2026-08-29-understanding-settler-violence-and-political-conflict",
     "title": "Understanding Settler Violence and Political Conflict",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 23, 2026",
     "image_url": "https://i.ibb.co/F4dPwnw6/107c3837914e.png"
-  },
-  {
-    "slug": "2026-08-23-police-accountability-in-mental-health-crises",
-    "title": "Police Accountability in Mental Health Crises",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 23, 2026",
-    "image_url": "https://i.ibb.co/F9xzJ85/031e6114b4c7.png"
   }
 ]
