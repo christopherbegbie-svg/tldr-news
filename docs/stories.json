@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-power-geography-and-executive-orders",
+    "title": "Power, Geography, and Executive Orders",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/JWGvJQh3/a96efedd27ac.png"
+  },
+  {
     "slug": "2026-08-29-iceland-votes-on-eu-membership-independence-or-integration",
     "title": "Iceland Votes on EU Membership: Independence or Integration?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 23, 2026",
     "image_url": "https://i.ibb.co/M53HFDNp/19583694fe8d.png"
-  },
-  {
-    "slug": "2026-08-23-when-bird-flu-reaches-mammals",
-    "title": "When Bird Flu Reaches Mammals",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 23, 2026",
-    "image_url": "https://i.ibb.co/svdS3qxT/22a0d6759e58.png"
   }
 ]
