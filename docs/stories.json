@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-political-cartoons-shape-democracy",
+    "title": "Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/VPg76mk/04de89b8c92e.png"
+  },
+  {
     "slug": "2026-08-29-south-korea-considers-women-in-military-drafts",
     "title": "South Korea Considers Women in Military Drafts",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 22, 2026",
     "image_url": "https://i.ibb.co/hJ02Stz3/73772f3b4ff2.png"
-  },
-  {
-    "slug": "2026-08-22-us-trade-allegations-against-india-explained",
-    "title": "U.S. Trade Allegations Against India Explained",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "August 22, 2026",
-    "image_url": "https://i.ibb.co/Gvvsjjd0/8657e81c8135.png"
   }
 ]
