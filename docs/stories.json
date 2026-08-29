@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-29-what-your-purchases-say-about-inflation",
+    "title": "What Your Purchases Say About Inflation",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 29, 2026",
+    "image_url": "https://i.ibb.co/XkvLSVkB/ecd651e5d958.png"
+  },
+  {
     "slug": "2026-08-29-immigration-laws-apply-to-everyone",
     "title": "Immigration Laws Apply to Everyone",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "August 23, 2026",
     "image_url": "https://i.ibb.co/3YYNQ656/170ad913319b.png"
-  },
-  {
-    "slug": "2026-08-23-fema-leadership-and-disaster-response",
-    "title": "FEMA Leadership and Disaster Response",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 23, 2026",
-    "image_url": "https://i.ibb.co/cS14jr4y/7097b5bf428b.png"
   }
 ]
