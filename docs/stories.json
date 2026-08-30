@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-30-press-freedom-under-pressure",
+    "title": "Press Freedom Under Pressure",
+    "category": "world",
+    "source": "France 24",
+    "date": "August 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-30-nasas-quest-to-map-the-invisible-universe",
     "title": "NASA's Quest to Map the Invisible Universe",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/5XcXQqYS/0d14d293d224.png"
-  },
-  {
-    "slug": "2026-08-24-union-corruption-exposed-in-australia",
-    "title": "Union corruption exposed in Australia",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/pBsvNsJ4/2f88146515e2.png"
   }
 ]
