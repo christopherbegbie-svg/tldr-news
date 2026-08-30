@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-30-political-cartoons-shape-how-we-see-politics",
+    "title": "Political Cartoons Shape How We See Politics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 30, 2026",
+    "image_url": "https://i.ibb.co/1GMwYn9k/0ecd602d76e3.png"
+  },
+  {
     "slug": "2026-08-30-migration-stats-what-actually-gets-counted",
     "title": "Migration Stats: What Actually Gets Counted?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 23, 2026",
     "image_url": "https://i.ibb.co/1YbhfPYh/5f966409859c.png"
-  },
-  {
-    "slug": "2026-08-23-indycar-racing-celebrates-americas-250th-birthday",
-    "title": "IndyCar Racing Celebrates America's 250th Birthday",
-    "category": "world",
-    "source": "BBC World",
-    "date": "August 23, 2026",
-    "image_url": "https://i.ibb.co/rDWcGRZ/bfb1cae0e7fd.png"
   }
 ]
