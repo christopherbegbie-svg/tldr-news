@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-30-political-cartoons-shape-political-understanding",
+    "title": "Political Cartoons Shape Political Understanding",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-30-nepals-floods-why-geography-matters",
     "title": "Nepal's Floods: Why Geography Matters",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/CpqWmGnY/4bfe43a390d2.png"
-  },
-  {
-    "slug": "2026-08-24-institutions-under-fire-who-bears-responsibility",
-    "title": "Institutions Under Fire: Who Bears Responsibility?",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/Q7Xxz4hx/74d2a8d84127.png"
   }
 ]
