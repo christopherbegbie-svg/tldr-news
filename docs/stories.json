@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-30-political-cartoons-democracys-visual-voice",
+    "title": "Political Cartoons: Democracy's Visual Voice",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-30-understanding-natural-disaster-zones",
     "title": "Understanding Natural Disaster Zones",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/CK71MVbq/2299e43174cb.png"
-  },
-  {
-    "slug": "2026-08-24-earthquake-sensors-track-hurricane-movement",
-    "title": "Earthquake Sensors Track Hurricane Movement",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/rGmVNdTW/ee26849f0499.png"
   }
 ]
