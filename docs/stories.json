@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-30-political-shifts-when-voters-seek-alternatives",
+    "title": "Political Shifts: When Voters Seek Alternatives",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "August 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-30-political-cartoons-democracys-visual-voice",
     "title": "Political Cartoons: Democracy's Visual Voice",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC Science",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/NnybdhFF/a74f46ef0a1c.png"
-  },
-  {
-    "slug": "2026-08-24-healthcare-becomes-election-battleground",
-    "title": "Healthcare Becomes Election Battleground",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/CK71MVbq/2299e43174cb.png"
   }
 ]
