@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-physics-careers-beyond-the-lab",
+    "title": "Physics Careers: Beyond the Lab",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-literatures-power-to-build-empathy",
     "title": "Literature's Power to Build Empathy",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/8LryzZFP/d566db17b20e.png"
-  },
-  {
-    "slug": "2026-08-24-climate-change-threatens-monets-gardens",
-    "title": "Climate Change Threatens Monet's Gardens",
-    "category": "history",
-    "source": "Smithsonian Magazine",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/SXdwRQhM/13cd001239c4.png"
   }
 ]
