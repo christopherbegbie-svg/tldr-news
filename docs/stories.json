@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-political-cartoons-democracys-visual-truth",
+    "title": "Political Cartoons: Democracy's Visual Truth",
+    "category": "politics",
+    "source": "Politico",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-how-governments-negotiate-prisoner-releases",
     "title": "How Governments Negotiate Prisoner Releases",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/yHszChh/2708b9211f55.png"
-  },
-  {
-    "slug": "2026-08-24-museums-hidden-gallery-reopens-after-decades",
-    "title": "Museum's Hidden Gallery Reopens After Decades",
-    "category": "history",
-    "source": "Smithsonian Magazine",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/RGv7HmBc/1ee5d621ee9c.png"
   }
 ]
