@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-why-oil-deals-matter-to-you",
+    "title": "Why Oil Deals Matter to You",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-physics-careers-beyond-the-lab",
     "title": "Physics Careers: Beyond the Lab",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/pj8fMqXT/67d9d0b6f3e3.png"
-  },
-  {
-    "slug": "2026-08-24-why-one-wire-can-stop-an-entire-city",
-    "title": "Why One Wire Can Stop An Entire City",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/8LryzZFP/d566db17b20e.png"
   }
 ]
