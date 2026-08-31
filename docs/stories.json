@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-how-governments-negotiate-prisoner-releases",
+    "title": "How Governments Negotiate Prisoner Releases",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-30-political-shifts-when-voters-seek-alternatives",
     "title": "Political Shifts: When Voters Seek Alternatives",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Smithsonian Magazine",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/RGv7HmBc/1ee5d621ee9c.png"
-  },
-  {
-    "slug": "2026-08-24-record-ocean-heat-what-it-means",
-    "title": "Record Ocean Heat: What It Means",
-    "category": "science",
-    "source": "BBC Science",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/NnybdhFF/a74f46ef0a1c.png"
   }
 ]

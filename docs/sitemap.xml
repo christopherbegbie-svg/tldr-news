@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-08-31-how-governments-negotiate-prisoner-releases.html</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-30-political-shifts-when-voters-seek-alternatives.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-24-museums-hidden-gallery-reopens-after-decades.html</loc>
-    <lastmod>2026-08-24</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-24-record-ocean-heat-what-it-means.html</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
