@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-house-prices-economys-hidden-signal",
+    "title": "House Prices: Economy's Hidden Signal",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-trade-wars-reshape-election-outcomes",
     "title": "Trade Wars Reshape Election Outcomes",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 25, 2026",
     "image_url": "https://i.ibb.co/cKK7s9M0/3339882745e1.png"
-  },
-  {
-    "slug": "2026-08-25-mass-visa-revocation-policy-explained",
-    "title": "Mass Visa Revocation: Policy Explained",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 25, 2026",
-    "image_url": "https://i.ibb.co/PGn5W7kx/dee00cbe77cd.png"
   }
 ]
