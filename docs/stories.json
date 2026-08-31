@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-global-disaster-response-in-action",
+    "title": "Global Disaster Response in Action",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-venezuela-oil-deal-explained",
     "title": "Venezuela Oil Deal Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 25, 2026",
     "image_url": "https://i.ibb.co/7t61mpNQ/693122937c35.png"
-  },
-  {
-    "slug": "2026-08-25-art-history-and-government-control",
-    "title": "Art, History, and Government Control",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 25, 2026",
-    "image_url": "https://i.ibb.co/nMw6QgBp/57a8d8912ef0.png"
   }
 ]
