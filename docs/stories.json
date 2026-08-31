@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-understanding-venezuelas-oil-agreement",
+    "title": "Understanding Venezuela's Oil Agreement",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-why-great-athletes-retire",
     "title": "Why Great Athletes Retire",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 25, 2026",
     "image_url": "https://i.ibb.co/3YCxqBTb/ac6d32361492.png"
-  },
-  {
-    "slug": "2026-08-25-the-generation-earning-less-than-parents",
-    "title": "The Generation Earning Less Than Parents",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 25, 2026",
-    "image_url": "https://i.ibb.co/KcrxDqyn/884a6924fa0c.png"
   }
 ]
