@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-why-great-athletes-retire",
+    "title": "Why Great Athletes Retire",
+    "category": "world",
+    "source": "BBC World",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-europes-ai-push-meets-chip-supply-crisis",
     "title": "Europe's AI Push Meets Chip Supply Crisis",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 25, 2026",
     "image_url": "https://i.ibb.co/KcrxDqyn/884a6924fa0c.png"
-  },
-  {
-    "slug": "2026-08-25-trade-wars-tariffs-and-global-impact",
-    "title": "Trade Wars: Tariffs and Global Impact",
-    "category": "business",
-    "source": "BBC Business",
-    "date": "August 25, 2026",
-    "image_url": "https://i.ibb.co/Tx3RCyQT/1cb29959eea9.png"
   }
 ]
