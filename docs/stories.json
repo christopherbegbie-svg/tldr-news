@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-08-31-literatures-power-to-build-empathy",
+    "title": "Literature's Power to Build Empathy",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "August 31, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-08-31-political-cartoons-democracys-visual-truth",
     "title": "Political Cartoons: Democracy's Visual Truth",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Smithsonian Magazine",
     "date": "August 24, 2026",
     "image_url": "https://i.ibb.co/SXdwRQhM/13cd001239c4.png"
-  },
-  {
-    "slug": "2026-08-24-democrats-divided-over-ice-policy",
-    "title": "Democrats divided over ICE policy",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 24, 2026",
-    "image_url": "https://i.ibb.co/yHszChh/2708b9211f55.png"
   }
 ]
