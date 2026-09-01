@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-record-breaking-heat-the-climate-change-connection",
+    "title": "Record-Breaking Heat: The Climate Change Connection",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/0p9WVhDq/4120bd12d5d8.png"
+  },
+  {
     "slug": "2026-09-01-politics-vs-science-a-troubling-trend",
     "title": "Politics vs. Science: A Troubling Trend",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 26, 2026",
     "image_url": "https://i.ibb.co/HDB1ZtGS/66bc6b0c82f1.png"
-  },
-  {
-    "slug": "2026-08-26-inflation-interest-rates-and-you",
-    "title": "Inflation, Interest Rates, and You",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/6Rp5QbGK/3d38ad5fdbd6.png"
   }
 ]
