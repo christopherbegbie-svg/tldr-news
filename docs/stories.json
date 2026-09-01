@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-generational-change-in-american-politics",
+    "title": "Generational Change in American Politics",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/1tgC5bhV/d87ea8126d11.png"
+  },
+  {
     "slug": "2026-09-01-prison-overcrowding-crisis-explained",
     "title": "Prison Overcrowding Crisis Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 26, 2026",
     "image_url": "https://i.ibb.co/4ZDJjh7k/a35d30051fe0.png"
-  },
-  {
-    "slug": "2026-08-26-trade-wars-how-tariffs-work",
-    "title": "Trade Wars: How Tariffs Work",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/2Yf1bvYB/08260765cc33.png"
   }
 ]
