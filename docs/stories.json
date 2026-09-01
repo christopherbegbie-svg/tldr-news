@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-disaster-response-how-nations-unite-in-crisis",
+    "title": "Disaster Response: How Nations Unite in Crisis",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/nNL5xjYb/a9e8972da76a.png"
+  },
+  {
     "slug": "2026-09-01-generational-change-in-american-politics",
     "title": "Generational Change in American Politics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "August 26, 2026",
     "image_url": "https://i.ibb.co/G4NGqKfj/9aa7c10534c2.png"
-  },
-  {
-    "slug": "2026-08-26-presidential-endorsements-shape-political-races",
-    "title": "Presidential Endorsements Shape Political Races",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/4ZDJjh7k/a35d30051fe0.png"
   }
 ]
