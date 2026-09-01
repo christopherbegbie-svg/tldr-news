@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-global-news-disasters-and-debates-collide",
+    "title": "Global News: Disasters and Debates Collide",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/KxjfRwB4/d53289ec6ac3.png"
+  },
+  {
     "slug": "2026-09-01-devolution-local-power-vs-central-control",
     "title": "Devolution: Local Power vs. Central Control",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 26, 2026",
     "image_url": "https://i.ibb.co/G43fxgVS/0238c76e82be.png"
-  },
-  {
-    "slug": "2026-08-26-mushroom-kits-sparking-europes-biodiversity-crisis",
-    "title": "Mushroom kits sparking Europe's biodiversity crisis",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/5WrY1MBs/5fcd5f307af9.png"
   }
 ]
