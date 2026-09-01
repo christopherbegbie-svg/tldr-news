@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-targeted-violence-and-criminal-investigation",
+    "title": "Targeted Violence and Criminal Investigation",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/0RH5Z0js/97986541bbdb.png"
+  },
+  {
     "slug": "2026-08-31-global-disaster-response-in-action",
     "title": "Global Disaster Response in Action",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "August 25, 2026",
     "image_url": "https://i.ibb.co/Kj4w3cYf/97fa03453c11.png"
-  },
-  {
-    "slug": "2026-08-25-allied-nations-share-military-technology",
-    "title": "Allied Nations Share Military Technology",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 25, 2026",
-    "image_url": "https://i.ibb.co/7t61mpNQ/693122937c35.png"
   }
 ]

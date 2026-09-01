@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-09-01-targeted-violence-and-criminal-investigation.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-31-global-disaster-response-in-action.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-25-when-hackers-target-governments.html</loc>
-    <lastmod>2026-08-25</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-25-allied-nations-share-military-technology.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
