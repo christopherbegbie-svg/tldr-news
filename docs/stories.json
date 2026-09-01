@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-government-funding-why-it-matters-now",
+    "title": "Government Funding: Why It Matters Now",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/TDYSZM1w/5812a40ed9f4.png"
+  },
+  {
     "slug": "2026-09-01-targeted-violence-and-criminal-investigation",
     "title": "Targeted Violence and Criminal Investigation",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 25, 2026",
     "image_url": "https://i.ibb.co/mrw0V7s1/b77b82ff22e7.png"
-  },
-  {
-    "slug": "2026-08-25-when-hackers-target-governments",
-    "title": "When Hackers Target Governments",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 25, 2026",
-    "image_url": "https://i.ibb.co/Kj4w3cYf/97fa03453c11.png"
   }
 ]
