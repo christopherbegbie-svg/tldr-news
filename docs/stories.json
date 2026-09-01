@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-uk-records-hottest-summer-ever",
+    "title": "UK Records Hottest Summer Ever",
+    "category": "science",
+    "source": "BBC Science",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/rRJvmstp/bea24df5a6b5.png"
+  },
+  {
     "slug": "2026-09-01-the-congressman-who-bet-against-himself",
     "title": "The Congressman Who Bet Against Himself",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 26, 2026",
     "image_url": "https://i.ibb.co/yBNGnRT0/6d950d8b3343.png"
-  },
-  {
-    "slug": "2026-08-26-when-hospital-safety-systems-fail",
-    "title": "When Hospital Safety Systems Fail",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/GvXJJgf7/db194796608f.png"
   }
 ]
