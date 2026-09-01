@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-devolution-local-power-vs-central-control",
+    "title": "Devolution: Local Power vs. Central Control",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/1kTX6PB/dd9af3243f52.png"
+  },
+  {
     "slug": "2026-09-01-disaster-response-how-nations-unite-in-crisis",
     "title": "Disaster Response: How Nations Unite in Crisis",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "August 26, 2026",
     "image_url": "https://i.ibb.co/5WrY1MBs/5fcd5f307af9.png"
-  },
-  {
-    "slug": "2026-08-26-why-glaciers-suddenly-collapse",
-    "title": "Why Glaciers Suddenly Collapse",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/G4NGqKfj/9aa7c10534c2.png"
   }
 ]
