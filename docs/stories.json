@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-01-when-sacred-sites-face-urban-demolition",
+    "title": "When Sacred Sites Face Urban Demolition",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 01, 2026",
+    "image_url": "https://i.ibb.co/k2G0z13y/0842b74b7db4.png"
+  },
+  {
     "slug": "2026-09-01-affordability-the-campaign-message",
     "title": "Affordability: The Campaign Message",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 25, 2026",
     "image_url": "https://i.ibb.co/Q7THjtXc/34c41501e0b1.png"
-  },
-  {
-    "slug": "2026-08-25-when-conflicts-turn-dangerous",
-    "title": "When Conflicts Turn Dangerous",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 25, 2026",
-    "image_url": "https://i.ibb.co/WNggFPGN/984979045367.png"
   }
 ]
