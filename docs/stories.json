@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-02-do-individuals-change-history",
+    "title": "Do Individuals Change History?",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "September 02, 2026",
+    "image_url": "https://i.ibb.co/fVmkm7bG/e2ac4d7d7c9f.png"
+  },
+  {
     "slug": "2026-09-02-data-centers-progress-vs-community-concerns",
     "title": "Data Centers: Progress vs. Community Concerns",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 27, 2026",
     "image_url": "https://i.ibb.co/MyQcxtjM/6bf51043bbdb.png"
-  },
-  {
-    "slug": "2026-08-26-nepals-flash-floods-natures-force-unleashed",
-    "title": "Nepal's flash floods: nature's force unleashed",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/VcttFq9s/bd20c3908f22.png"
   }
 ]
