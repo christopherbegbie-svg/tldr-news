@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-02-the-hidden-economics-of-tobacco-policy",
+    "title": "The Hidden Economics of Tobacco Policy",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 02, 2026",
+    "image_url": "https://i.ibb.co/zT933D66/921c681c09ff.png"
+  },
+  {
     "slug": "2026-09-02-the-lake-rename-debate-explained",
     "title": "The Lake Rename Debate Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "August 28, 2026",
     "image_url": "https://i.ibb.co/kg6WbH5P/b6def1e08534.png"
-  },
-  {
-    "slug": "2026-08-27-international-disaster-aid-explained",
-    "title": "International Disaster Aid Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 27, 2026",
-    "image_url": "https://i.ibb.co/0yM2vQcX/49fa7aafb927.png"
   }
 ]
