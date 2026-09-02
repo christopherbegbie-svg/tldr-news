@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-02-civilian-casualties-and-geopolitical-escalation",
+    "title": "Civilian casualties and geopolitical escalation",
+    "category": "world",
+    "source": "BBC World",
+    "date": "September 02, 2026",
+    "image_url": "https://i.ibb.co/S4TyZjHL/65e050016ded.png"
+  },
+  {
     "slug": "2026-09-02-experience-beats-youth-in-massachusetts",
     "title": "Experience Beats Youth in Massachusetts",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 27, 2026",
     "image_url": "https://i.ibb.co/fzTyP9rK/72da682858a0.png"
-  },
-  {
-    "slug": "2026-08-27-coating-cures-diabetes-in-mice",
-    "title": "Coating Cures Diabetes in Mice",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "August 27, 2026",
-    "image_url": "https://i.ibb.co/mF6mtpC2/4d7758610dce.png"
   }
 ]
