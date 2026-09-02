@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-02-what-does-economic-growth-really-mean",
+    "title": "What Does Economic Growth Really Mean?",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 02, 2026",
+    "image_url": "https://i.ibb.co/BHJQn0nr/23d1397559d1.png"
+  },
+  {
     "slug": "2026-09-01-global-news-disasters-and-debates-collide",
     "title": "Global News: Disasters and Debates Collide",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 26, 2026",
     "image_url": "https://i.ibb.co/HDF2t6VV/8cc488d24eac.png"
-  },
-  {
-    "slug": "2026-08-26-data-claims-require-verification",
-    "title": "Data Claims Require Verification",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 26, 2026",
-    "image_url": "https://i.ibb.co/G43fxgVS/0238c76e82be.png"
   }
 ]
