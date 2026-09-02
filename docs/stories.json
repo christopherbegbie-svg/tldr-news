@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-02-experience-beats-youth-in-massachusetts",
+    "title": "Experience Beats Youth in Massachusetts",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 02, 2026",
+    "image_url": "https://i.ibb.co/n8YFFDtv/07281d775260.png"
+  },
+  {
     "slug": "2026-09-02-ai-efficiency-could-cost-future-engineers",
     "title": "AI Efficiency Could Cost Future Engineers",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "August 27, 2026",
     "image_url": "https://i.ibb.co/mF6mtpC2/4d7758610dce.png"
-  },
-  {
-    "slug": "2026-08-27-federal-judge-blocks-mail-in-voting-restrictions",
-    "title": "Federal judge blocks mail-in voting restrictions",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 27, 2026",
-    "image_url": "https://i.ibb.co/r2G95X3k/fc2459b47061.png"
   }
 ]
