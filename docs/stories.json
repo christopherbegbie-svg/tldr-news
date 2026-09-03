@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-03-political-brand-and-electoral-strategy",
+    "title": "Political Brand and Electoral Strategy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 03, 2026",
+    "image_url": "https://i.ibb.co/Q3FvTqXh/4c460ac2361f.png"
+  },
+  {
     "slug": "2026-09-03-how-destroyed-infrastructure-becomes-warfare",
     "title": "How Destroyed Infrastructure Becomes Warfare",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 28, 2026",
     "image_url": "https://i.ibb.co/wZqxmvR5/1462c32a69f9.png"
-  },
-  {
-    "slug": "2026-08-28-political-cartoons-shape-democracy",
-    "title": "Political Cartoons Shape Democracy",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 28, 2026",
-    "image_url": "https://i.ibb.co/HfpKF1Bf/31a9c4bf92ef.png"
   }
 ]
