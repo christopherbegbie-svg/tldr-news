@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-09-02</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-09-03-body-cameras-real-accountability-or-just-recording.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-02-the-hidden-economics-of-tobacco-policy.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-08-28-global-aid-enough-or-token-gesture.html</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-08-28-secret-deals-ndas-hiding-data-center-negotiations.html</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
