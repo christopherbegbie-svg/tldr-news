@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-03-natural-disasters-international-rescue-operations",
+    "title": "Natural Disasters & International Rescue Operations",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 03, 2026",
+    "image_url": "https://i.ibb.co/tPPtnC20/2335c6f1dd87.png"
+  },
+  {
     "slug": "2026-09-03-the-fema-debate-explained",
     "title": "The FEMA Debate Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 28, 2026",
     "image_url": "https://i.ibb.co/3YCLK8CV/59f6a9e007a5.png"
-  },
-  {
-    "slug": "2026-08-28-peace-talks-without-the-enemy",
-    "title": "Peace Talks Without the Enemy",
-    "category": "world",
-    "source": "France 24",
-    "date": "August 28, 2026",
-    "image_url": "https://i.ibb.co/hJkkN27W/98cff22b2a23.png"
   }
 ]
