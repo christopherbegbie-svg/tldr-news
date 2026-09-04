@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-04-the-hidden-infrastructure-powering-ai",
+    "title": "The Hidden Infrastructure Powering AI",
+    "category": "ai",
+    "source": "MIT Technology Review AI",
+    "date": "September 04, 2026",
+    "image_url": "https://i.ibb.co/MqDCjhh/b830c3201b42.png"
+  },
+  {
     "slug": "2026-09-04-the-global-fight-against-child-marriage",
     "title": "The global fight against child marriage",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "August 29, 2026",
     "image_url": "https://i.ibb.co/YFGx3WpF/4cdd6494c41b.png"
-  },
-  {
-    "slug": "2026-08-29-power-geography-and-executive-orders",
-    "title": "Power, Geography, and Executive Orders",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "August 29, 2026",
-    "image_url": "https://i.ibb.co/JWGvJQh3/a96efedd27ac.png"
   }
 ]
