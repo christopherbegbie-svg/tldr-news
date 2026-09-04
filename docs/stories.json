@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-04-the-map-lie-weve-all-believed",
+    "title": "The Map Lie We've All Believed",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 04, 2026",
+    "image_url": "https://i.ibb.co/zhrvVr7N/435056887861.png"
+  },
+  {
     "slug": "2026-09-03-election-security-protecting-democracy-online",
     "title": "Election Security: Protecting Democracy Online",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "August 29, 2026",
     "image_url": "https://i.ibb.co/N64hP5YH/fb74043cbd96.png"
-  },
-  {
-    "slug": "2026-08-29-flash-floods-natures-deadliest-force",
-    "title": "Flash Floods: Nature's Deadliest Force",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 29, 2026",
-    "image_url": "https://i.ibb.co/4gspDvkv/700d86e13e64.png"
   }
 ]
