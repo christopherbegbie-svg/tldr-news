@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-04-politics-as-performance-a-global-trend",
+    "title": "Politics as Performance: A Global Trend",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 04, 2026",
+    "image_url": "https://i.ibb.co/GQB6BMgv/2115c3acaeb3.png"
+  },
+  {
     "slug": "2026-09-04-the-falklands-dispute-explained-simply",
     "title": "The Falklands Dispute Explained Simply",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "August 29, 2026",
     "image_url": "https://i.ibb.co/zWsJ46bM/bbae75f80325.png"
-  },
-  {
-    "slug": "2026-08-29-political-cartoons-shape-democracy",
-    "title": "Political Cartoons Shape Democracy",
-    "category": "politics",
-    "source": "Politico",
-    "date": "August 29, 2026",
-    "image_url": "https://i.ibb.co/VPg76mk/04de89b8c92e.png"
   }
 ]
