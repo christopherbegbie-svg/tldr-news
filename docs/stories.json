@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-05-political-cartoons-democracys-sharpest-critics",
+    "title": "Political Cartoons: Democracy's Sharpest Critics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 05, 2026",
+    "image_url": "https://i.ibb.co/hJX7vhN3/0c13521fdda1.png"
+  },
+  {
     "slug": "2026-09-05-brazils-military-general-stops-coup-attempt",
     "title": "Brazil's Military General Stops Coup Attempt",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 30, 2026",
     "image_url": "https://i.ibb.co/JjCzfMYb/797fffa8f608.png"
-  },
-  {
-    "slug": "2026-08-29-how-communities-survive-natural-disasters",
-    "title": "How Communities Survive Natural Disasters",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "August 29, 2026",
-    "image_url": "https://i.ibb.co/1ftzMjTb/32206a4b9808.png"
   }
 ]
