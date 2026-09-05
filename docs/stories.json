@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-05-political-cartoons-democracys-visual-watchdogs",
+    "title": "Political Cartoons: Democracy's Visual Watchdogs",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 05, 2026",
+    "image_url": "https://i.ibb.co/WN1hL11F/2225899c940e.png"
+  },
+  {
     "slug": "2026-09-05-mistrial-explained-when-juries-deadlock",
     "title": "Mistrial explained: When juries deadlock",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "August 29, 2026",
     "image_url": "https://i.ibb.co/XkvLSVkB/ecd651e5d958.png"
-  },
-  {
-    "slug": "2026-08-29-immigration-laws-apply-to-everyone",
-    "title": "Immigration Laws Apply to Everyone",
-    "category": "world",
-    "source": "NPR News",
-    "date": "August 29, 2026",
-    "image_url": "https://i.ibb.co/G4JJP5y9/8f32eba69552.png"
   }
 ]
