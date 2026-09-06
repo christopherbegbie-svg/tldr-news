@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-06-data-centers-divide-americas-voters",
+    "title": "Data centers divide America's voters",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 06, 2026",
+    "image_url": "https://i.ibb.co/QF7ycjkg/1c47c9206f43.png"
+  },
+  {
     "slug": "2026-09-06-aircraft-engine-safety-built-for-emergencies",
     "title": "Aircraft Engine Safety: Built for Emergencies",
     "category": "world",
@@ -789,14 +797,6 @@
     "category": "politics",
     "source": "The Guardian World Politics",
     "date": "August 31, 2026",
-    "image_url": ""
-  },
-  {
-    "slug": "2026-08-30-political-shifts-when-voters-seek-alternatives",
-    "title": "Political Shifts: When Voters Seek Alternatives",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "August 30, 2026",
     "image_url": ""
   }
 ]
