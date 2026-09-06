@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-06-government-accountability-in-action",
+    "title": "Government Accountability in Action",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 06, 2026",
+    "image_url": "https://i.ibb.co/KpWCpV8D/614b404cf431.png"
+  },
+  {
     "slug": "2026-09-06-raid-your-retirement-fund-today",
     "title": "Raid Your Retirement Fund Today?",
     "category": "world",
@@ -788,14 +796,6 @@
     "title": "House Prices: Economy's Hidden Signal",
     "category": "world",
     "source": "The Guardian World",
-    "date": "August 31, 2026",
-    "image_url": ""
-  },
-  {
-    "slug": "2026-08-31-trade-wars-reshape-election-outcomes",
-    "title": "Trade Wars Reshape Election Outcomes",
-    "category": "politics",
-    "source": "NPR Politics",
     "date": "August 31, 2026",
     "image_url": ""
   }
