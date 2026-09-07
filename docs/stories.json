@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-07-architecture-as-political-legacy",
+    "title": "Architecture as Political Legacy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 07, 2026",
+    "image_url": "https://i.ibb.co/G4kTmpxg/21327df6613a.png"
+  },
+  {
     "slug": "2026-09-07-australias-superannuation-debate-explained",
     "title": "Australia's Superannuation Debate Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 01, 2026",
     "image_url": "https://i.ibb.co/HTrZbhtR/5b65b70d980d.png"
-  },
-  {
-    "slug": "2026-09-01-uk-records-hottest-summer-ever",
-    "title": "UK Records Hottest Summer Ever",
-    "category": "science",
-    "source": "BBC Science",
-    "date": "September 01, 2026",
-    "image_url": "https://i.ibb.co/rRJvmstp/bea24df5a6b5.png"
   }
 ]
