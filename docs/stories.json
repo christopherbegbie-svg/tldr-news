@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-07-breaking-down-research-publishing-barriers",
+    "title": "Breaking Down Research Publishing Barriers",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "September 07, 2026",
+    "image_url": "https://i.ibb.co/d0wP6rYp/f2962d2ecdf3.png"
+  },
+  {
     "slug": "2026-09-07-cross-border-politics-creating-convenient-enemies",
     "title": "Cross-Border Politics: Creating Convenient Enemies",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 01, 2026",
     "image_url": "https://i.ibb.co/spGJ74sK/ed50d2f73201.png"
-  },
-  {
-    "slug": "2026-09-01-courts-presidents-and-power-dynamics-explained",
-    "title": "Courts, Presidents, and Power Dynamics Explained",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 01, 2026",
-    "image_url": "https://i.ibb.co/B2Xy4hmd/f8ec4bf7916c.png"
   }
 ]
