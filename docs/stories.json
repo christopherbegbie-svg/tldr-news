@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-07-noise-makes-quantum-computers-work",
+    "title": "Noise Makes Quantum Computers Work",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "September 07, 2026",
+    "image_url": "https://i.ibb.co/9k2nGQ42/97292c18d0f2.png"
+  },
+  {
     "slug": "2026-09-07-leadership-accountability-matters",
     "title": "Leadership Accountability Matters",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 01, 2026",
     "image_url": "https://i.ibb.co/TDYSZM1w/5812a40ed9f4.png"
-  },
-  {
-    "slug": "2026-09-01-targeted-violence-and-criminal-investigation",
-    "title": "Targeted Violence and Criminal Investigation",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 01, 2026",
-    "image_url": "https://i.ibb.co/0RH5Z0js/97986541bbdb.png"
   }
 ]
