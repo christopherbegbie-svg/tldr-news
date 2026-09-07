@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-07-understanding-midterm-elections",
+    "title": "Understanding Midterm Elections",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 07, 2026",
+    "image_url": "https://i.ibb.co/twLsZHGc/fd8aa4659da4.png"
+  },
+  {
     "slug": "2026-09-07-cross-border-politics-explained",
     "title": "Cross-Border Politics Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 01, 2026",
     "image_url": "https://i.ibb.co/W4bhDsSZ/17cf16cb8822.png"
-  },
-  {
-    "slug": "2026-09-01-cross-border-crises-when-disasters-strike-globally",
-    "title": "Cross-Border Crises: When Disasters Strike Globally",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 01, 2026",
-    "image_url": "https://i.ibb.co/chQXy05h/c544e4a898ec.png"
   }
 ]
