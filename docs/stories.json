@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-08-ai-maps-and-global-diplomacy",
+    "title": "AI Maps and Global Diplomacy",
+    "category": "world",
+    "source": "France 24",
+    "date": "September 08, 2026",
+    "image_url": "https://i.ibb.co/pB56DkYx/e864a3df6021.png"
+  },
+  {
     "slug": "2026-09-08-settlements-sanctions-and-diplomatic-breakdown",
     "title": "Settlements, sanctions, and diplomatic breakdown",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "September 02, 2026",
     "image_url": "https://i.ibb.co/S4TyZjHL/65e050016ded.png"
-  },
-  {
-    "slug": "2026-09-02-experience-beats-youth-in-massachusetts",
-    "title": "Experience Beats Youth in Massachusetts",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 02, 2026",
-    "image_url": "https://i.ibb.co/n8YFFDtv/07281d775260.png"
   }
 ]
