@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-08-settlements-sanctions-and-diplomatic-breakdown",
+    "title": "Settlements, sanctions, and diplomatic breakdown",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "September 08, 2026",
+    "image_url": "https://i.ibb.co/7x9nSz4R/ee87343fd22e.png"
+  },
+  {
     "slug": "2026-09-08-seaweed-farming-and-climate-change-myths",
     "title": "Seaweed farming and climate change myths",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 02, 2026",
     "image_url": "https://i.ibb.co/n8YFFDtv/07281d775260.png"
-  },
-  {
-    "slug": "2026-09-02-ai-efficiency-could-cost-future-engineers",
-    "title": "AI Efficiency Could Cost Future Engineers",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "September 02, 2026",
-    "image_url": "https://i.ibb.co/4RhKKJx8/b7c3752bcc20.png"
   }
 ]
