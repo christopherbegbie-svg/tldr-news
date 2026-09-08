@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-08-government-spending-and-election-strategy",
+    "title": "Government Spending and Election Strategy",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 08, 2026",
+    "image_url": "https://i.ibb.co/G4981dTm/2e84ae569f8f.png"
+  },
+  {
     "slug": "2026-09-08-ai-maps-and-global-diplomacy",
     "title": "AI Maps and Global Diplomacy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 02, 2026",
     "image_url": "https://i.ibb.co/SXch5V6P/c25448f00542.png"
-  },
-  {
-    "slug": "2026-09-02-civilian-casualties-and-geopolitical-escalation",
-    "title": "Civilian casualties and geopolitical escalation",
-    "category": "world",
-    "source": "BBC World",
-    "date": "September 02, 2026",
-    "image_url": "https://i.ibb.co/S4TyZjHL/65e050016ded.png"
   }
 ]
