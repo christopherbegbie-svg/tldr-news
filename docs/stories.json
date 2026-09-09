@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-09-rising-seas-disappearing-farmland",
+    "title": "Rising Seas, Disappearing Farmland",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 09, 2026",
+    "image_url": "https://i.ibb.co/dsXCdw9g/340f14f9d202.png"
+  },
+  {
     "slug": "2026-09-09-elections-and-timing-why-changes-are-hard",
     "title": "Elections and Timing: Why Changes Are Hard",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "September 03, 2026",
     "image_url": "https://i.ibb.co/yn1BBW2k/ad96b68f981c.png"
-  },
-  {
-    "slug": "2026-09-03-when-party-leaders-become-campaign-liabilities",
-    "title": "When Party Leaders Become Campaign Liabilities",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 03, 2026",
-    "image_url": "https://i.ibb.co/dshp8ZgG/9c06663ec787.png"
   }
 ]
