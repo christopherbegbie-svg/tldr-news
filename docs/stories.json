@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-09-military-escalation-strike-and-counter-strike",
+    "title": "Military Escalation: Strike and Counter-Strike",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 09, 2026",
+    "image_url": "https://i.ibb.co/ks9Kptkd/dcf8b270a424.png"
+  },
+  {
     "slug": "2026-09-09-courts-clash-over-missouris-electoral-maps",
     "title": "Courts Clash Over Missouri's Electoral Maps",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 02, 2026",
     "image_url": "https://i.ibb.co/d0qL7fmz/e7be67132260.png"
-  },
-  {
-    "slug": "2026-09-02-congressional-censure-how-accountability-works",
-    "title": "Congressional Censure: How Accountability Works",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 02, 2026",
-    "image_url": "https://i.ibb.co/67VT6Rf1/10ea483bc83a.png"
   }
 ]
