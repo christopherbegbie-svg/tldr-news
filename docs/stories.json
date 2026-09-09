@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-09-when-intelligence-meets-mass-migration",
+    "title": "When Intelligence Meets Mass Migration",
+    "category": "world",
+    "source": "BBC World",
+    "date": "September 09, 2026",
+    "image_url": "https://i.ibb.co/bMDTw61H/b29375f68aa9.png"
+  },
+  {
     "slug": "2026-09-09-political-conventions-strategy-meets-spectacle",
     "title": "Political Conventions: Strategy Meets Spectacle",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 03, 2026",
     "image_url": "https://i.ibb.co/wFRGZQDM/6fea67262881.png"
-  },
-  {
-    "slug": "2026-09-03-political-brand-and-electoral-strategy",
-    "title": "Political Brand and Electoral Strategy",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 03, 2026",
-    "image_url": "https://i.ibb.co/Q3FvTqXh/4c460ac2361f.png"
   }
 ]
