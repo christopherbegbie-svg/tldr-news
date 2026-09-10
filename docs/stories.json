@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-10-sports-politics-and-global-power",
+    "title": "Sports, Politics, and Global Power",
+    "category": "world",
+    "source": "France 24",
+    "date": "September 10, 2026",
+    "image_url": "https://i.ibb.co/bgCz1Tr1/c23407aefbab.png"
+  },
+  {
     "slug": "2026-09-10-why-your-map-is-wrong",
     "title": "Why Your Map Is Wrong",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 04, 2026",
     "image_url": "https://i.ibb.co/V0rRHp16/6c7b948421a2.png"
-  },
-  {
-    "slug": "2026-09-04-saturns-unusual-10-sided-atmospheric-wave",
-    "title": "Saturn's unusual 10-sided atmospheric wave",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "September 04, 2026",
-    "image_url": "https://i.ibb.co/bR8b2V8x/af93e2f2b859.png"
   }
 ]
