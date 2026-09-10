@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-10-why-your-map-is-wrong",
+    "title": "Why Your Map Is Wrong",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 10, 2026",
+    "image_url": "https://i.ibb.co/XZ4XLRZM/5498247607dc.png"
+  },
+  {
     "slug": "2026-09-10-understanding-bail-flight-risk-and-extradition",
     "title": "Understanding Bail, Flight Risk, and Extradition",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "September 04, 2026",
     "image_url": "https://i.ibb.co/bR8b2V8x/af93e2f2b859.png"
-  },
-  {
-    "slug": "2026-09-04-court-battles-over-mail-in-voting",
-    "title": "Court Battles Over Mail-In Voting",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 04, 2026",
-    "image_url": "https://i.ibb.co/kgXYhRR9/532feafef5e6.png"
   }
 ]
