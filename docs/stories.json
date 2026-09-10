@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-10-political-promises-divide-party-unity",
+    "title": "Political Promises Divide Party Unity",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 10, 2026",
+    "image_url": "https://i.ibb.co/CTcCzmT/11b12e554f76.png"
+  },
+  {
     "slug": "2026-09-10-price-freezes-the-hidden-loophole",
     "title": "Price Freezes: The Hidden Loophole",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 04, 2026",
     "image_url": "https://i.ibb.co/m5b2v1qV/2e07892402b5.png"
-  },
-  {
-    "slug": "2026-09-04-the-hidden-infrastructure-powering-ai",
-    "title": "The Hidden Infrastructure Powering AI",
-    "category": "ai",
-    "source": "MIT Technology Review AI",
-    "date": "September 04, 2026",
-    "image_url": "https://i.ibb.co/MqDCjhh/b830c3201b42.png"
   }
 ]
