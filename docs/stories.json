@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-10-when-voters-reject-their-own-governor",
+    "title": "When voters reject their own governor",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 10, 2026",
+    "image_url": "https://i.ibb.co/WvNVD98P/117a50ec4fb4.png"
+  },
+  {
     "slug": "2026-09-10-nuclear-weapons-101-uranium-enrichment",
     "title": "Nuclear Weapons 101: Uranium Enrichment",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 03, 2026",
     "image_url": "https://i.ibb.co/VYNFnGGr/18ea4b6d6400.png"
-  },
-  {
-    "slug": "2026-09-03-nepal-floods-why-geography-matters-globally",
-    "title": "Nepal Floods: Why Geography Matters Globally",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 03, 2026",
-    "image_url": "https://i.ibb.co/sdV3mDbM/cef8d6a5ad00.png"
   }
 ]
