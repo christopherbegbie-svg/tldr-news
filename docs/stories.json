@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-10-the-hidden-health-crisis-in-poverty",
+    "title": "The Hidden Health Crisis in Poverty",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 10, 2026",
+    "image_url": "https://i.ibb.co/Mx4NX2S3/f475f6459fe0.png"
+  },
+  {
     "slug": "2026-09-10-political-promises-divide-party-unity",
     "title": "Political Promises Divide Party Unity",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 04, 2026",
     "image_url": "https://i.ibb.co/8g0sGhxT/01facec182ff.png"
-  },
-  {
-    "slug": "2026-09-04-can-election-rules-change-last-minute",
-    "title": "Can Election Rules Change Last-Minute?",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 04, 2026",
-    "image_url": "https://i.ibb.co/m5b2v1qV/2e07892402b5.png"
   }
 ]
