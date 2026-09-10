@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-10-algorithms-the-hidden-content-curator",
+    "title": "Algorithms: The Hidden Content Curator",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 10, 2026",
+    "image_url": "https://i.ibb.co/SX7VXh5C/8f313bd5e929.png"
+  },
+  {
     "slug": "2026-09-09-military-discipline-and-accountability-matter",
     "title": "Military Discipline and Accountability Matter",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 03, 2026",
     "image_url": "https://i.ibb.co/tPPtnC20/2335c6f1dd87.png"
-  },
-  {
-    "slug": "2026-09-03-the-fema-debate-explained",
-    "title": "The FEMA Debate Explained",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 03, 2026",
-    "image_url": "https://i.ibb.co/NnZ7B6NB/15a5a154ec51.png"
   }
 ]
