@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-11-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 11, 2026",
+    "image_url": "https://i.ibb.co/Y4r8FGgZ/9f4d731647ef.png"
+  },
+  {
     "slug": "2026-09-11-diesel-at-6-why-it-matters",
     "title": "Diesel at $6: Why It Matters",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 05, 2026",
     "image_url": "https://i.ibb.co/WN1hL11F/2225899c940e.png"
-  },
-  {
-    "slug": "2026-09-05-mistrial-explained-when-juries-deadlock",
-    "title": "Mistrial explained: When juries deadlock",
-    "category": "world",
-    "source": "BBC World",
-    "date": "September 05, 2026",
-    "image_url": "https://i.ibb.co/SDdSHbp4/29768125a50a.png"
   }
 ]
