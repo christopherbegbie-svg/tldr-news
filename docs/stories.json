@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-11-political-cartoons-visual-truth-telling",
+    "title": "Political Cartoons: Visual Truth-Telling",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 11, 2026",
+    "image_url": "https://i.ibb.co/8g9JjMKS/191e0272e161.png"
+  },
+  {
     "slug": "2026-09-11-earths-hottest-month-ever-tied",
     "title": "Earth's Hottest Month Ever Tied",
     "category": "history",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 05, 2026",
     "image_url": "https://i.ibb.co/PvWXyqgQ/a72b6d1bfbf8.png"
-  },
-  {
-    "slug": "2026-09-05-building-without-final-approval-power-and-law",
-    "title": "Building Without Final Approval: Power and Law",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 05, 2026",
-    "image_url": "https://i.ibb.co/20Tpd7H5/4c23946ff7f6.png"
   }
 ]
