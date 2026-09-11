@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-11-courts-stop-political-map-manipulation",
+    "title": "Courts Stop Political Map Manipulation",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 11, 2026",
+    "image_url": "https://i.ibb.co/NnyryTpw/4bad42c57fcb.png"
+  },
+  {
     "slug": "2026-09-11-welfare-systems-and-health-inequality",
     "title": "Welfare Systems and Health Inequality",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 04, 2026",
     "image_url": "https://i.ibb.co/PZBqWyt9/812c3c91babb.png"
-  },
-  {
-    "slug": "2026-09-04-leadership-and-accountability-in-government",
-    "title": "Leadership and Accountability in Government",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 04, 2026",
-    "image_url": "https://i.ibb.co/WNgtnvJJ/dba43fdce7ad.png"
   }
 ]
