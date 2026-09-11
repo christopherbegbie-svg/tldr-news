@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-11-trade-wars-hit-the-heartland",
+    "title": "Trade Wars Hit the Heartland",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 11, 2026",
+    "image_url": "https://i.ibb.co/x8BNJnfF/00fcf565c98c.png"
+  },
+  {
     "slug": "2026-09-11-sanctions-economic-weapons-in-global-conflict",
     "title": "Sanctions: Economic Weapons in Global Conflict",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 05, 2026",
     "image_url": "https://i.ibb.co/WWB4Wp2j/5c451c7f5492.png"
-  },
-  {
-    "slug": "2026-09-05-oil-tankers-targets-in-global-conflicts",
-    "title": "Oil Tankers: Targets in Global Conflicts",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "September 05, 2026",
-    "image_url": "https://i.ibb.co/MDjQ84G4/a83831aa3d00.png"
   }
 ]
