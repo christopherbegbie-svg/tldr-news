@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-11-911s-25-year-legacy",
+    "title": "9/11's 25-Year Legacy",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 11, 2026",
+    "image_url": "https://i.ibb.co/d0LscNkj/26bede8d0d9c.png"
+  },
+  {
     "slug": "2026-09-11-the-power-of-political-cartoons",
     "title": "The Power of Political Cartoons",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 05, 2026",
     "image_url": "https://i.ibb.co/j1gM5Pk/f8f2ce2c9ef0.png"
-  },
-  {
-    "slug": "2026-09-05-political-cartoons-democracys-visual-watchdogs",
-    "title": "Political Cartoons: Democracy's Visual Watchdogs",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 05, 2026",
-    "image_url": "https://i.ibb.co/WN1hL11F/2225899c940e.png"
   }
 ]
