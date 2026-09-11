@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-11-political-cartoons-democracys-visual-watchdogs",
+    "title": "Political Cartoons: Democracy's Visual Watchdogs",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 11, 2026",
+    "image_url": "https://i.ibb.co/Kjck0c5j/d1eed1c87773.png"
+  },
+  {
     "slug": "2026-09-11-pig-kidney-saves-patient-for-nine-months",
     "title": "Pig Kidney Saves Patient for Nine Months",
     "category": "history",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 05, 2026",
     "image_url": "https://i.ibb.co/hJX7vhN3/0c13521fdda1.png"
-  },
-  {
-    "slug": "2026-09-05-brazils-military-general-stops-coup-attempt",
-    "title": "Brazil's Military General Stops Coup Attempt",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 05, 2026",
-    "image_url": "https://i.ibb.co/hFwTJXCG/2c34f364eadb.png"
   }
 ]
