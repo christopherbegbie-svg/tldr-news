@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-11-welfare-systems-and-health-inequality",
+    "title": "Welfare Systems and Health Inequality",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 11, 2026",
+    "image_url": "https://i.ibb.co/pjc8HLDG/6693d40bfbc4.png"
+  },
+  {
     "slug": "2026-09-10-the-hidden-health-crisis-in-poverty",
     "title": "The Hidden Health Crisis in Poverty",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 04, 2026",
     "image_url": "https://i.ibb.co/WNgtnvJJ/dba43fdce7ad.png"
-  },
-  {
-    "slug": "2026-09-04-immigration-courts-face-due-process-crisis",
-    "title": "Immigration Courts Face Due Process Crisis",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 04, 2026",
-    "image_url": "https://i.ibb.co/8g0sGhxT/01facec182ff.png"
   }
 ]
