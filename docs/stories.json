@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-12-money-in-politics-why-it-matters",
+    "title": "Money in Politics: Why It Matters",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "September 12, 2026",
+    "image_url": "https://i.ibb.co/FkMtzxYv/3b0586068fbc.png"
+  },
+  {
     "slug": "2026-09-12-the-6m-romance-scam-uncovered",
     "title": "The $6M Romance Scam Uncovered",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 06, 2026",
     "image_url": "https://i.ibb.co/gbQXmcmZ/31a1adcf146e.png"
-  },
-  {
-    "slug": "2026-09-06-eastern-europes-political-shift-explained",
-    "title": "Eastern Europe's Political Shift Explained",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 06, 2026",
-    "image_url": "https://i.ibb.co/TDB7gzgx/070df852128c.png"
   }
 ]
