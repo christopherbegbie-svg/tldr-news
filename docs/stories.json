@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-12-political-cartoons-art-meets-democracy",
+    "title": "Political Cartoons: Art Meets Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 12, 2026",
+    "image_url": "https://i.ibb.co/9M7RR04/0c53caefe6ba.png"
+  },
+  {
     "slug": "2026-09-12-why-insults-backfire-in-politics",
     "title": "Why Insults Backfire in Politics",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 06, 2026",
     "image_url": "https://i.ibb.co/PGdHKg2S/c97994f572fe.png"
-  },
-  {
-    "slug": "2026-09-06-why-far-right-parties-win-elections",
-    "title": "Why Far-Right Parties Win Elections",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 06, 2026",
-    "image_url": "https://i.ibb.co/23rDpW6H/de8331ce7bd1.png"
   }
 ]
