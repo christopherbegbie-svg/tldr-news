@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-12-political-cartoons-democracys-silent-critics",
+    "title": "Political Cartoons: Democracy's Silent Critics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 12, 2026",
+    "image_url": "https://i.ibb.co/wZGstB62/87a22137b596.png"
+  },
+  {
     "slug": "2026-09-12-golf-diplomacy-politics-on-the-green",
     "title": "Golf Diplomacy: Politics on the Green",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 06, 2026",
     "image_url": "https://i.ibb.co/QF7ycjkg/1c47c9206f43.png"
-  },
-  {
-    "slug": "2026-09-06-aircraft-engine-safety-built-for-emergencies",
-    "title": "Aircraft Engine Safety: Built for Emergencies",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 06, 2026",
-    "image_url": "https://i.ibb.co/r25TFDZW/fedb28609443.png"
   }
 ]
