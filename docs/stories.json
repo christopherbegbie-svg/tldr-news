@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-12-recoverys-hidden-cost",
+    "title": "Recovery's Hidden Cost",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 12, 2026",
+    "image_url": "https://i.ibb.co/M5yQGs8m/92b23a4322bb.png"
+  },
+  {
     "slug": "2026-09-12-political-cartoons-shape-democracy",
     "title": "Political Cartoons Shape Democracy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 06, 2026",
     "image_url": "https://i.ibb.co/Q7cpQd5r/3d5bd0a396a2.png"
-  },
-  {
-    "slug": "2026-09-06-when-government-projects-meet-legal-blocks",
-    "title": "When Government Projects Meet Legal Blocks",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 06, 2026",
-    "image_url": "https://i.ibb.co/FbJg28Nv/6833337c0653.png"
   }
 ]
