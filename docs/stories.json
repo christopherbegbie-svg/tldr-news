@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-12-political-cartoons-shape-democracy",
+    "title": "Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 12, 2026",
+    "image_url": "https://i.ibb.co/LdJ7cW2L/50b433432a5c.png"
+  },
+  {
     "slug": "2026-09-12-brics-the-rising-global-power-bloc",
     "title": "BRICS: The Rising Global Power Bloc",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 06, 2026",
     "image_url": "https://i.ibb.co/FbJg28Nv/6833337c0653.png"
-  },
-  {
-    "slug": "2026-09-05-australia-day-a-nation-reckons-with-history",
-    "title": "Australia Day: A nation reckons with history",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 05, 2026",
-    "image_url": "https://i.ibb.co/h1rCc6Bc/3deab260cac5.png"
   }
 ]
