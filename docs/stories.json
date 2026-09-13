@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-13-when-political-anger-turns-into-harassment",
+    "title": "When Political Anger Turns Into Harassment",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 13, 2026",
+    "image_url": "https://i.ibb.co/5X1Mv5tj/3032869ab831.png"
+  },
+  {
     "slug": "2026-09-13-australias-migration-policy-explained",
     "title": "Australia's Migration Policy Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 07, 2026",
     "image_url": "https://i.ibb.co/PsSFs7qB/d1a129441128.png"
-  },
-  {
-    "slug": "2026-09-07-moroccos-long-road-to-recovery",
-    "title": "Morocco's Long Road to Recovery",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "September 07, 2026",
-    "image_url": "https://i.ibb.co/hJJMrXkH/aa8d51727163.png"
   }
 ]
