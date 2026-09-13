@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-13-political-cartoons-shape-public-opinion",
+    "title": "Political Cartoons Shape Public Opinion",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 13, 2026",
+    "image_url": "https://i.ibb.co/cchpMn3P/7c4c36694914.png"
+  },
+  {
     "slug": "2026-09-13-when-storms-strike-maritime-rescue-missions",
     "title": "When Storms Strike: Maritime Rescue Missions",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 06, 2026",
     "image_url": "https://i.ibb.co/KpWCpV8D/614b404cf431.png"
-  },
-  {
-    "slug": "2026-09-06-raid-your-retirement-fund-today",
-    "title": "Raid Your Retirement Fund Today?",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 06, 2026",
-    "image_url": "https://i.ibb.co/7JTP90q3/799d0478d691.png"
   }
 ]
