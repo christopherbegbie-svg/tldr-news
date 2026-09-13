@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-13-how-writers-imagine-tomorrow",
+    "title": "How Writers Imagine Tomorrow",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "September 13, 2026",
+    "image_url": "https://i.ibb.co/gMYBVb3f/6ee1adc9dfac.png"
+  },
+  {
     "slug": "2026-09-13-political-cartoons-shape-public-opinion",
     "title": "Political Cartoons Shape Public Opinion",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 07, 2026",
     "image_url": "https://i.ibb.co/7JFWGzdy/e849be6565a5.png"
-  },
-  {
-    "slug": "2026-09-06-government-accountability-in-action",
-    "title": "Government Accountability in Action",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 06, 2026",
-    "image_url": "https://i.ibb.co/KpWCpV8D/614b404cf431.png"
   }
 ]
