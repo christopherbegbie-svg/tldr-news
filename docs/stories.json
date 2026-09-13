@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-13-political-donations-and-democratic-rules",
+    "title": "Political Donations and Democratic Rules",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "September 13, 2026",
+    "image_url": "https://i.ibb.co/QjJbXJ5S/7f35686dce9b.png"
+  },
+  {
     "slug": "2026-09-13-maternal-health-equity-fighting-for-all-mothers",
     "title": "Maternal Health Equity: Fighting for All Mothers",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 07, 2026",
     "image_url": "https://i.ibb.co/twLsZHGc/fd8aa4659da4.png"
-  },
-  {
-    "slug": "2026-09-07-cross-border-politics-explained",
-    "title": "Cross-Border Politics Explained",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 07, 2026",
-    "image_url": "https://i.ibb.co/QjcfXdF0/da2789f13f2d.png"
   }
 ]
