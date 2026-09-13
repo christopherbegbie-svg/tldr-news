@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-13-political-attacks-vs-policy-debate",
+    "title": "Political Attacks vs. Policy Debate",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 13, 2026",
+    "image_url": "https://i.ibb.co/jCKq8TV/b666232aed95.png"
+  },
+  {
     "slug": "2026-09-13-when-political-anger-turns-into-harassment",
     "title": "When Political Anger Turns Into Harassment",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 07, 2026",
     "image_url": "https://i.ibb.co/vxdsGQmD/bd898c0d7466.png"
-  },
-  {
-    "slug": "2026-09-07-midterm-elections-explained-simply",
-    "title": "Midterm Elections Explained Simply",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 07, 2026",
-    "image_url": "https://i.ibb.co/PsSFs7qB/d1a129441128.png"
   }
 ]
