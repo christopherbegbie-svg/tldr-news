@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-14-the-great-ai-speed-debate",
+    "title": "The Great AI Speed Debate",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 14, 2026",
+    "image_url": "https://i.ibb.co/rXyMtvH/3a6fee58e053.png"
+  },
+  {
     "slug": "2026-09-14-parliamentary-debate-and-democratic-discourse",
     "title": "Parliamentary debate and democratic discourse",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 07, 2026",
     "image_url": "https://i.ibb.co/G4kTmpxg/21327df6613a.png"
-  },
-  {
-    "slug": "2026-09-07-australias-superannuation-debate-explained",
-    "title": "Australia's Superannuation Debate Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 07, 2026",
-    "image_url": "https://i.ibb.co/RTVxz6c6/0ec1a696b23b.png"
   }
 ]
