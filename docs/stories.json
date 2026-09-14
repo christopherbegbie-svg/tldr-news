@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-14-the-sun-and-space-energy-system",
+    "title": "The Sun and Space Energy System",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "September 14, 2026",
+    "image_url": "https://i.ibb.co/Ldm4pLZg/05c227cc516f.png"
+  },
+  {
     "slug": "2026-09-14-the-great-ai-speed-debate",
     "title": "The Great AI Speed Debate",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "September 07, 2026",
     "image_url": "https://i.ibb.co/sv6cYYKH/4640654e762e.png"
-  },
-  {
-    "slug": "2026-09-07-architecture-as-political-legacy",
-    "title": "Architecture as Political Legacy",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 07, 2026",
-    "image_url": "https://i.ibb.co/G4kTmpxg/21327df6613a.png"
   }
 ]
