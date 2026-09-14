@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-14-political-controversy-and-public-accountability",
+    "title": "Political Controversy and Public Accountability",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 14, 2026",
+    "image_url": "https://i.ibb.co/qYr47gTB/cba9e8029e00.png"
+  },
+  {
     "slug": "2026-09-14-north-carolinas-senate-race-a-gop-problem",
     "title": "North Carolina's Senate Race: A GOP Problem",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 08, 2026",
     "image_url": "https://i.ibb.co/8nTwCHQR/0b67aea34d13.png"
-  },
-  {
-    "slug": "2026-09-08-the-data-center-backlash-reshaping-politics",
-    "title": "The Data Center Backlash Reshaping Politics",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 08, 2026",
-    "image_url": "https://i.ibb.co/cK82SxZt/74b5c61528c0.png"
   }
 ]
