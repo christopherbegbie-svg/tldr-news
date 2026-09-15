@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-15-north-carolinas-unexpected-political-shift",
+    "title": "North Carolina's Unexpected Political Shift",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 15, 2026",
+    "image_url": "https://i.ibb.co/1FMQM4J/6c8945060069.png"
+  },
+  {
     "slug": "2026-09-15-how-immigration-policy-affects-universities",
     "title": "How Immigration Policy Affects Universities",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 08, 2026",
     "image_url": "https://i.ibb.co/vCjvDTrB/a26a2b3997e2.png"
-  },
-  {
-    "slug": "2026-09-08-government-spending-and-election-strategy",
-    "title": "Government Spending and Election Strategy",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 08, 2026",
-    "image_url": "https://i.ibb.co/G4981dTm/2e84ae569f8f.png"
   }
 ]
