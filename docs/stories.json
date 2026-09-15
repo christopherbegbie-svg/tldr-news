@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-15-the-ai-inference-revolution-is-here",
+    "title": "The AI Inference Revolution Is Here",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "September 15, 2026",
+    "image_url": "https://i.ibb.co/bgk1vdv3/6a08abb7ee74.png"
+  },
+  {
     "slug": "2026-09-15-when-a-test-drive-changed-history",
     "title": "When a Test Drive Changed History",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 09, 2026",
     "image_url": "https://i.ibb.co/8DffWyhn/81ad011d94f2.png"
-  },
-  {
-    "slug": "2026-09-09-military-escalation-strike-and-counter-strike",
-    "title": "Military Escalation: Strike and Counter-Strike",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 09, 2026",
-    "image_url": "https://i.ibb.co/ks9Kptkd/dcf8b270a424.png"
   }
 ]
