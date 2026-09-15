@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-15-democrats-unite-on-ai-regulation",
+    "title": "Democrats Unite on AI Regulation",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 15, 2026",
+    "image_url": "https://i.ibb.co/HphyVhN4/20d2b6c65a2f.png"
+  },
+  {
     "slug": "2026-09-15-the-ai-inference-revolution-is-here",
     "title": "The AI Inference Revolution Is Here",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 09, 2026",
     "image_url": "https://i.ibb.co/TDDVzk66/5c01f51de21e.png"
-  },
-  {
-    "slug": "2026-09-09-free-speech-vs-extremism-a-court-decides",
-    "title": "Free Speech vs. Extremism: A Court Decides",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 09, 2026",
-    "image_url": "https://i.ibb.co/8DffWyhn/81ad011d94f2.png"
   }
 ]
