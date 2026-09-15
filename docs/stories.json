@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-15-political-opposites-unite-over-ai",
+    "title": "Political Opposites Unite Over AI",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 15, 2026",
+    "image_url": "https://i.ibb.co/cS3y8r0v/6ec606936c66.png"
+  },
+  {
     "slug": "2026-09-15-government-funding-process-and-accountability",
     "title": "Government Funding: Process and Accountability",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 09, 2026",
     "image_url": "https://i.ibb.co/fVLk2YGM/a088280160db.png"
-  },
-  {
-    "slug": "2026-09-09-why-chimps-seem-closer-and-further-away",
-    "title": "Why Chimps Seem Closer and Further Away",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "September 09, 2026",
-    "image_url": "https://i.ibb.co/3YjTm6TB/f6b316fd5e55.png"
   }
 ]
