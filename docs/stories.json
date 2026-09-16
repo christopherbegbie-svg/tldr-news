@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-16-ai-is-transforming-political-campaigns",
+    "title": "AI Is Transforming Political Campaigns",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 16, 2026",
+    "image_url": "https://i.ibb.co/7tG0kCF3/4e1460ae0055.png"
+  },
+  {
     "slug": "2026-09-16-dinosaur-poop-reveals-bird-extinction-survival",
     "title": "Dinosaur Poop Reveals Bird Extinction Survival",
     "category": "history",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 10, 2026",
     "image_url": "https://i.ibb.co/Y7hCDZsG/b4b13a3876ba.png"
-  },
-  {
-    "slug": "2026-09-10-sports-politics-and-global-power",
-    "title": "Sports, Politics, and Global Power",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 10, 2026",
-    "image_url": "https://i.ibb.co/bgCz1Tr1/c23407aefbab.png"
   }
 ]
