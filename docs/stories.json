@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-16-congressional-impeachment-and-military-authority",
+    "title": "Congressional Impeachment and Military Authority",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 16, 2026",
+    "image_url": "https://i.ibb.co/pvTNQhxM/51e5844ac1b5.png"
+  },
+  {
     "slug": "2026-09-16-the-universe-has-a-handedness",
     "title": "The universe has a handedness",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 10, 2026",
     "image_url": "https://i.ibb.co/WvNVD98P/117a50ec4fb4.png"
-  },
-  {
-    "slug": "2026-09-10-nuclear-weapons-101-uranium-enrichment",
-    "title": "Nuclear Weapons 101: Uranium Enrichment",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 10, 2026",
-    "image_url": "https://i.ibb.co/V0Hwzsww/d71bf1d036d0.png"
   }
 ]
