@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-16-how-inflation-changes-your-wallet",
+    "title": "How Inflation Changes Your Wallet",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 16, 2026",
+    "image_url": "https://i.ibb.co/MxmDBpZw/e51cb9c112d3.png"
+  },
+  {
     "slug": "2026-09-16-congressional-impeachment-and-military-authority",
     "title": "Congressional Impeachment and Military Authority",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 10, 2026",
     "image_url": "https://i.ibb.co/39ZZgdZh/fa01430c2e7e.png"
-  },
-  {
-    "slug": "2026-09-10-when-voters-reject-their-own-governor",
-    "title": "When voters reject their own governor",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 10, 2026",
-    "image_url": "https://i.ibb.co/WvNVD98P/117a50ec4fb4.png"
   }
 ]
