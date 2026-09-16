@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-16-the-universe-has-a-handedness",
+    "title": "The universe has a handedness",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "September 16, 2026",
+    "image_url": "https://i.ibb.co/BHh5q8Kt/9a57bc26e4ca.png"
+  },
+  {
     "slug": "2026-09-16-south-africas-affirmative-action-debate",
     "title": "South Africa's Affirmative Action Debate",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 10, 2026",
     "image_url": "https://i.ibb.co/V0Hwzsww/d71bf1d036d0.png"
-  },
-  {
-    "slug": "2026-09-10-algorithms-the-hidden-content-curator",
-    "title": "Algorithms: The Hidden Content Curator",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 10, 2026",
-    "image_url": "https://i.ibb.co/SX7VXh5C/8f313bd5e929.png"
   }
 ]
