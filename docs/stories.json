@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-16-immigration-policy-shapes-nations",
+    "title": "Immigration Policy Shapes Nations",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 16, 2026",
+    "image_url": "https://i.ibb.co/fV8PsvWT/15a4d431cd2f.png"
+  },
+  {
     "slug": "2026-09-16-ai-is-transforming-political-campaigns",
     "title": "AI Is Transforming Political Campaigns",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 10, 2026",
     "image_url": "https://i.ibb.co/jmj4rmq/15a6bb8051d9.png"
-  },
-  {
-    "slug": "2026-09-10-cross-border-politics-campaign-strategy-101",
-    "title": "Cross-Border Politics: Campaign Strategy 101",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 10, 2026",
-    "image_url": "https://i.ibb.co/Y7hCDZsG/b4b13a3876ba.png"
   }
 ]
