@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-17-political-power-meets-corporate-influence",
+    "title": "Political power meets corporate influence",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 17, 2026",
+    "image_url": "https://i.ibb.co/rRb379Pj/8ded6b5059c8.png"
+  },
+  {
     "slug": "2026-09-17-the-lawyer-behind-political-tactics",
     "title": "The Lawyer Behind Political Tactics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Smithsonian Magazine",
     "date": "September 11, 2026",
     "image_url": "https://i.ibb.co/TMT9d8zP/672c38994c09.png"
-  },
-  {
-    "slug": "2026-09-11-911s-25-year-legacy",
-    "title": "9/11's 25-Year Legacy",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 11, 2026",
-    "image_url": "https://i.ibb.co/d0LscNkj/26bede8d0d9c.png"
   }
 ]
