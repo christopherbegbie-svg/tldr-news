@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-09-17-australias-immigration-policy-battle-explained.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-16-political-debate-shapes-immigration-rules.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-10-price-freezes-the-hidden-loophole.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-09-10-watching-the-watchers-a-freedom-question.html</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
