@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-17-political-rhetoric-and-campaign-strategy",
+    "title": "Political Rhetoric and Campaign Strategy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 17, 2026",
+    "image_url": "https://i.ibb.co/9mFLcbkt/e154c17aa20e.png"
+  },
+  {
     "slug": "2026-09-17-olympic-rowing-in-crocodile-territory",
     "title": "Olympic Rowing in Crocodile Territory",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 11, 2026",
     "image_url": "https://i.ibb.co/NnyryTpw/4bad42c57fcb.png"
-  },
-  {
-    "slug": "2026-09-11-welfare-systems-and-health-inequality",
-    "title": "Welfare Systems and Health Inequality",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 11, 2026",
-    "image_url": "https://i.ibb.co/pjc8HLDG/6693d40bfbc4.png"
   }
 ]
