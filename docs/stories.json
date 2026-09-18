@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-18-the-power-of-political-cartoons-explained",
+    "title": "The Power of Political Cartoons Explained",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 18, 2026",
+    "image_url": "https://i.ibb.co/JZCB9c5/d980116f1b4b.png"
+  },
+  {
     "slug": "2026-09-18-nigeria-prison-cell-tragedy-explained",
     "title": "Nigeria Prison Cell Tragedy Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 12, 2026",
     "image_url": "https://i.ibb.co/wZGstB62/87a22137b596.png"
-  },
-  {
-    "slug": "2026-09-12-golf-diplomacy-politics-on-the-green",
-    "title": "Golf Diplomacy: Politics on the Green",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 12, 2026",
-    "image_url": "https://i.ibb.co/qYRhKZy4/61448229331f.png"
   }
 ]
