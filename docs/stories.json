@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-18-from-solo-genius-to-legacy-leader",
+    "title": "From Solo Genius to Legacy Leader",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "September 18, 2026",
+    "image_url": "https://i.ibb.co/nqpSmr3N/4522c1abe629.png"
+  },
+  {
     "slug": "2026-09-18-the-power-of-political-cartoons-explained",
     "title": "The Power of Political Cartoons Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 12, 2026",
     "image_url": "https://i.ibb.co/39j40VQL/20c60b540e12.png"
-  },
-  {
-    "slug": "2026-09-12-political-cartoons-democracys-silent-critics",
-    "title": "Political Cartoons: Democracy's Silent Critics",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 12, 2026",
-    "image_url": "https://i.ibb.co/wZGstB62/87a22137b596.png"
   }
 ]
