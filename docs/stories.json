@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-18-political-cartoons-democracys-visual-truth",
+    "title": "Political Cartoons: Democracy's Visual Truth",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 18, 2026",
+    "image_url": "https://i.ibb.co/xR0VYLD/f1f0618ede4e.png"
+  },
+  {
     "slug": "2026-09-18-inside-secret-us-china-ai-talks",
     "title": "Inside Secret U.S.-China AI Talks",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "September 12, 2026",
     "image_url": "https://i.ibb.co/FkMtzxYv/3b0586068fbc.png"
-  },
-  {
-    "slug": "2026-09-12-the-6m-romance-scam-uncovered",
-    "title": "The $6M Romance Scam Uncovered",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 12, 2026",
-    "image_url": "https://i.ibb.co/xSVq499j/1e42085a7dd1.png"
   }
 ]
