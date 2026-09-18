@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-18-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 18, 2026",
+    "image_url": "https://i.ibb.co/Z5GnRW4/e584c5135e18.png"
+  },
+  {
     "slug": "2026-09-18-modern-warfare-without-weapons",
     "title": "Modern Warfare Without Weapons",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 12, 2026",
     "image_url": "https://i.ibb.co/LdJ7cW2L/50b433432a5c.png"
-  },
-  {
-    "slug": "2026-09-12-brics-the-rising-global-power-bloc",
-    "title": "BRICS: The Rising Global Power Bloc",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 12, 2026",
-    "image_url": "https://i.ibb.co/ZRvRJGzd/0d9a0ad5398e.png"
   }
 ]
