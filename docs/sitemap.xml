@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-09-18-record-congressional-departures-reshape-washington.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-17-false-flags-and-geopolitical-games.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-11-political-cartoons-democracys-visual-watchdog.html</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-09-11-trade-wars-hit-the-heartland.html</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
