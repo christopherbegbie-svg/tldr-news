@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-19-shark-attacks-rarity-and-ocean-safety",
+    "title": "Shark Attacks: Rarity and Ocean Safety",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 19, 2026",
+    "image_url": "https://i.ibb.co/jvwhHSRq/bb690e0b4636.png"
+  },
+  {
     "slug": "2026-09-18-the-arctic-power-shift-explained",
     "title": "The Arctic Power Shift Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 12, 2026",
     "image_url": "https://i.ibb.co/LDFpkgX9/4d4e10bd032c.png"
-  },
-  {
-    "slug": "2026-09-12-north-carolinas-unexpected-senate-race",
-    "title": "North Carolina's Unexpected Senate Race",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 12, 2026",
-    "image_url": "https://i.ibb.co/cXFJDMGN/465184f6074e.png"
   }
 ]
