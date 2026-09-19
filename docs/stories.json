@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-19-shark-attacks-and-wildlife-management-decisions",
+    "title": "Shark Attacks and Wildlife Management Decisions",
+    "category": "world",
+    "source": "BBC World",
+    "date": "September 19, 2026",
+    "image_url": "https://i.ibb.co/t1MV86T/575e1f9cc03e.png"
+  },
+  {
     "slug": "2026-09-19-political-cartoons-democracys-visual-watchdog",
     "title": "Political Cartoons: Democracy's Visual Watchdog",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 13, 2026",
     "image_url": "https://i.ibb.co/cchpMn3P/7c4c36694914.png"
-  },
-  {
-    "slug": "2026-09-13-when-storms-strike-maritime-rescue-missions",
-    "title": "When Storms Strike: Maritime Rescue Missions",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 13, 2026",
-    "image_url": "https://i.ibb.co/hxd46qRW/4e38a3d58537.png"
   }
 ]
