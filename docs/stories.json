@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-19-the-power-of-political-cartoons-explained",
+    "title": "The Power of Political Cartoons Explained",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 19, 2026",
+    "image_url": "https://i.ibb.co/q326CTTL/349b0c0376de.png"
+  },
+  {
     "slug": "2026-09-19-ballistic-missiles-how-do-they-work",
     "title": "Ballistic Missiles: How Do They Work?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 13, 2026",
     "image_url": "https://i.ibb.co/XkbTs9Zr/08bb4c5e4fbf.png"
-  },
-  {
-    "slug": "2026-09-13-maps-politics-and-why-the-un-stays-neutral",
-    "title": "Maps, politics, and why the UN stays neutral",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "September 13, 2026",
-    "image_url": "https://i.ibb.co/mr8295kJ/b24e8bdf0174.png"
   }
 ]
