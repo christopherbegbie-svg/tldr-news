@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-19-cartoons-democracys-visual-truth-tellers",
+    "title": "Cartoons: Democracy's Visual Truth-Tellers",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 19, 2026",
+    "image_url": "https://i.ibb.co/VW0MM3GM/8be2e3b2d7a0.png"
+  },
+  {
     "slug": "2026-09-19-us-military-presence-in-greenland-the-arctic-strategy",
     "title": "US Military Presence in Greenland: The Arctic Strategy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 12, 2026",
     "image_url": "https://i.ibb.co/V062d2jL/40b1bbd7a6cc.png"
-  },
-  {
-    "slug": "2026-09-12-global-oil-pipeline-shut-down-after-attacks",
-    "title": "Global Oil Pipeline Shut Down After Attacks",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 12, 2026",
-    "image_url": "https://i.ibb.co/prkQ5T2D/26d98ae4a0c0.png"
   }
 ]
