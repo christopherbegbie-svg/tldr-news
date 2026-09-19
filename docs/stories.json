@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-19-political-cartoons-democracys-visual-watchdog",
+    "title": "Political Cartoons: Democracy's Visual Watchdog",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 19, 2026",
+    "image_url": "https://i.ibb.co/gb7yyTT6/d261fd4905da.png"
+  },
+  {
     "slug": "2026-09-19-the-gas-price-crisis-explained",
     "title": "The Gas Price Crisis Explained",
     "category": "economics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 13, 2026",
     "image_url": "https://i.ibb.co/hxd46qRW/4e38a3d58537.png"
-  },
-  {
-    "slug": "2026-09-13-screens-out-pens-in-educations-digital-shift",
-    "title": "Screens Out, Pens In: Education's Digital Shift",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 13, 2026",
-    "image_url": "https://i.ibb.co/rKDD1WQb/66e75d6af546.png"
   }
 ]
