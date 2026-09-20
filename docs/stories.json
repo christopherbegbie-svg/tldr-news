@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-20-spacexs-100-billion-louisiana-deal",
+    "title": "SpaceX's $100 Billion Louisiana Deal",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 20, 2026",
+    "image_url": "https://i.ibb.co/8ghCxx5T/07b2780a3a48.png"
+  },
+  {
     "slug": "2026-09-20-global-diplomacy-how-leaders-shape-nations",
     "title": "Global Diplomacy: How Leaders Shape Nations",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 14, 2026",
     "image_url": "https://i.ibb.co/JjCnqNXp/e2f786adee72.png"
-  },
-  {
-    "slug": "2026-09-14-tech-leaders-call-for-ai-slowdown",
-    "title": "Tech Leaders Call for AI Slowdown",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 14, 2026",
-    "image_url": "https://i.ibb.co/5HHy6KM/26ef2063d746.png"
   }
 ]
