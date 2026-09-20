@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-20-when-monuments-become-military-bases",
+    "title": "When Monuments Become Military Bases",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 20, 2026",
+    "image_url": "https://i.ibb.co/HpLK6NDt/0e50bee03ce9.png"
+  },
+  {
     "slug": "2026-09-20-political-independence-when-candidates-break-party-lines",
     "title": "Political Independence: When Candidates Break Party Lines",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 14, 2026",
     "image_url": "https://i.ibb.co/Jwc6DsdR/0e9e741c01f9.png"
-  },
-  {
-    "slug": "2026-09-14-ai-leaders-call-for-development-slowdown",
-    "title": "AI Leaders Call for Development Slowdown",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 14, 2026",
-    "image_url": "https://i.ibb.co/MDHZGdJC/c499c72ef9fb.png"
   }
 ]
