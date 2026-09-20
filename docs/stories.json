@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-20-media-bans-and-political-power-explained",
+    "title": "Media Bans and Political Power Explained",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 20, 2026",
+    "image_url": "https://i.ibb.co/p6Jp2P3c/758198cdf7c5.png"
+  },
+  {
     "slug": "2026-09-20-secret-global-deals-how-deportations-really-work",
     "title": "Secret Global Deals: How Deportations Really Work",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC Science",
     "date": "September 14, 2026",
     "image_url": "https://i.ibb.co/PGyjjdbt/9bdd1400824e.png"
-  },
-  {
-    "slug": "2026-09-14-emergency-measures-to-save-our-oceans",
-    "title": "Emergency Measures to Save Our Oceans",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "September 14, 2026",
-    "image_url": "https://i.ibb.co/GvNvJJkb/2444804ee1cd.png"
   }
 ]
