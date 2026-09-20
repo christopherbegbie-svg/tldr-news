@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-09-20-australias-migration-and-economic-policy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-19-ai-copyright-and-creative-control.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-13-electrification-how-to-save-5000-yearly.html</loc>
-    <lastmod>2026-09-13</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-09-13-social-securitys-crisis-why-silence-surrounds-it.html</loc>
     <lastmod>2026-09-13</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
