@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-21-einsteins-gravity-theory-still-stands",
+    "title": "Einstein's Gravity Theory Still Stands",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "September 21, 2026",
+    "image_url": "https://i.ibb.co/s9c9LQvg/002d667bb8cf.png"
+  },
+  {
     "slug": "2026-09-21-understanding-modern-drone-warfare",
     "title": "Understanding Modern Drone Warfare",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 15, 2026",
     "image_url": "https://i.ibb.co/1FMQM4J/6c8945060069.png"
-  },
-  {
-    "slug": "2026-09-15-how-immigration-policy-affects-universities",
-    "title": "How Immigration Policy Affects Universities",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 15, 2026",
-    "image_url": "https://i.ibb.co/FkYX2pS3/745586c84727.png"
   }
 ]
