@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-21-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 21, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-09-20-federal-force-who-watches-the-watchers",
     "title": "Federal Force: Who Watches the Watchers?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 14, 2026",
     "image_url": "https://i.ibb.co/0jcPRXw5/2ec3576550b1.png"
-  },
-  {
-    "slug": "2026-09-14-political-controversy-and-public-accountability",
-    "title": "Political Controversy and Public Accountability",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 14, 2026",
-    "image_url": "https://i.ibb.co/qYr47gTB/cba9e8029e00.png"
   }
 ]
