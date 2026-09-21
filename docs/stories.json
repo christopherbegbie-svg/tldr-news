@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-21-spacexs-louisiana-star-base-deal",
+    "title": "SpaceX's Louisiana Star Base Deal",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 21, 2026",
+    "image_url": "https://i.ibb.co/gZr7ZVJ1/406187f50ea2.png"
+  },
+  {
     "slug": "2026-09-21-memoir-wars-truth-and-power",
     "title": "Memoir Wars: Truth and Power",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Economics",
     "date": "September 15, 2026",
     "image_url": "https://i.ibb.co/wZ9Nvg3T/cdd1e195fe4b.png"
-  },
-  {
-    "slug": "2026-09-15-when-steel-mills-close-communities-break",
-    "title": "When Steel Mills Close, Communities Break",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 15, 2026",
-    "image_url": "https://i.ibb.co/PqRfyYz/9f62c4944c68.png"
   }
 ]
