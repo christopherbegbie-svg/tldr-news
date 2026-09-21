@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-21-press-freedom-vs-executive-power",
+    "title": "Press Freedom vs. Executive Power",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 21, 2026",
+    "image_url": "https://i.ibb.co/q3Vkh4Fm/10693fe974e6.png"
+  },
+  {
     "slug": "2026-09-21-ai-optimizes-the-nations-airspace",
     "title": "AI Optimizes the Nation's Airspace",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "September 15, 2026",
     "image_url": "https://i.ibb.co/bgk1vdv3/6a08abb7ee74.png"
-  },
-  {
-    "slug": "2026-09-15-when-a-test-drive-changed-history",
-    "title": "When a Test Drive Changed History",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "September 15, 2026",
-    "image_url": "https://i.ibb.co/bM3jXdRb/e1df8d6440d2.png"
   }
 ]
