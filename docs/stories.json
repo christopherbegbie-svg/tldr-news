@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-21-memoir-wars-truth-and-power",
+    "title": "Memoir Wars: Truth and Power",
+    "category": "world",
+    "source": "France 24",
+    "date": "September 21, 2026",
+    "image_url": "https://i.ibb.co/xKg6NVfN/7924c3d2ae31.png"
+  },
+  {
     "slug": "2026-09-21-einsteins-gravity-theory-still-stands",
     "title": "Einstein's Gravity Theory Still Stands",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 15, 2026",
     "image_url": "https://i.ibb.co/PqRfyYz/9f62c4944c68.png"
-  },
-  {
-    "slug": "2026-09-15-north-carolinas-unexpected-political-shift",
-    "title": "North Carolina's Unexpected Political Shift",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 15, 2026",
-    "image_url": "https://i.ibb.co/1FMQM4J/6c8945060069.png"
   }
 ]
