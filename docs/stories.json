@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-21-cold-cases-when-justice-takes-decades",
+    "title": "Cold Cases: When Justice Takes Decades",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 21, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-09-21-the-power-of-political-cartoons",
     "title": "The Power of Political Cartoons",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 14, 2026",
     "image_url": "https://i.ibb.co/yBbw890G/a8302901b7ab.png"
-  },
-  {
-    "slug": "2026-09-14-when-federal-agents-cross-state-lines",
-    "title": "When Federal Agents Cross State Lines",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 14, 2026",
-    "image_url": "https://i.ibb.co/0jcPRXw5/2ec3576550b1.png"
   }
 ]
