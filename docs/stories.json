@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-21-air-traffic-control-when-systems-fail",
+    "title": "Air Traffic Control: When Systems Fail",
+    "category": "world",
+    "source": "BBC World",
+    "date": "September 21, 2026",
+    "image_url": "https://i.ibb.co/hRqQ81p8/f012e30b3cb6.png"
+  },
+  {
     "slug": "2026-09-21-press-freedom-vs-executive-power",
     "title": "Press Freedom vs. Executive Power",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 15, 2026",
     "image_url": "https://i.ibb.co/HphyVhN4/20d2b6c65a2f.png"
-  },
-  {
-    "slug": "2026-09-15-the-ai-inference-revolution-is-here",
-    "title": "The AI Inference Revolution Is Here",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "September 15, 2026",
-    "image_url": "https://i.ibb.co/bgk1vdv3/6a08abb7ee74.png"
   }
 ]
