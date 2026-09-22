@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-22-when-political-movements-outgrow-their-leaders",
+    "title": "When Political Movements Outgrow Their Leaders",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 22, 2026",
+    "image_url": "https://i.ibb.co/mCY3mSrS/fd3fff275caa.png"
+  },
+  {
     "slug": "2026-09-22-how-ocean-heat-creates-mega-storms",
     "title": "How Ocean Heat Creates Mega Storms",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 16, 2026",
     "image_url": "https://i.ibb.co/CjL4NSC/30e7a015ddb1.png"
-  },
-  {
-    "slug": "2026-09-16-how-inflation-changes-your-wallet",
-    "title": "How Inflation Changes Your Wallet",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 16, 2026",
-    "image_url": "https://i.ibb.co/MxmDBpZw/e51cb9c112d3.png"
   }
 ]
