@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-22-monument-or-military-base",
+    "title": "Monument or Military Base?",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 22, 2026",
+    "image_url": "https://i.ibb.co/HTxWyHzW/c5ce17716a30.png"
+  },
+  {
     "slug": "2026-09-22-trees-deserve-votes-too",
     "title": "Trees Deserve Votes Too",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "September 16, 2026",
     "image_url": "https://i.ibb.co/BHh5q8Kt/9a57bc26e4ca.png"
-  },
-  {
-    "slug": "2026-09-16-south-africas-affirmative-action-debate",
-    "title": "South Africa's Affirmative Action Debate",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 16, 2026",
-    "image_url": "https://i.ibb.co/XfQ6qwd1/0e386b48179d.png"
   }
 ]
