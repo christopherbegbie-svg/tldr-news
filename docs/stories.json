@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-22-when-news-networks-battle-presidents",
+    "title": "When News Networks Battle Presidents",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 22, 2026",
+    "image_url": "https://i.ibb.co/1tpRwtnL/73a05a181c05.png"
+  },
+  {
     "slug": "2026-09-22-air-to-air-refueling-explained-simply",
     "title": "Air-to-air refueling explained simply",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 15, 2026",
     "image_url": "https://i.ibb.co/cS3y8r0v/6ec606936c66.png"
-  },
-  {
-    "slug": "2026-09-15-government-funding-process-and-accountability",
-    "title": "Government Funding: Process and Accountability",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 15, 2026",
-    "image_url": "https://i.ibb.co/dsqWBXs3/f78d4dc865cc.png"
   }
 ]
