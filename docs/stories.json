@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-22-courage-beyond-borders-one-cyclists-fight",
+    "title": "Courage Beyond Borders: One Cyclist's Fight",
+    "category": "world",
+    "source": "BBC World",
+    "date": "September 22, 2026",
+    "image_url": "https://i.ibb.co/YF0s8W0d/eaf4a1b11711.png"
+  },
+  {
     "slug": "2026-09-22-monument-or-military-base",
     "title": "Monument or Military Base?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 16, 2026",
     "image_url": "https://i.ibb.co/pvTNQhxM/51e5844ac1b5.png"
-  },
-  {
-    "slug": "2026-09-16-the-universe-has-a-handedness",
-    "title": "The universe has a handedness",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "September 16, 2026",
-    "image_url": "https://i.ibb.co/BHh5q8Kt/9a57bc26e4ca.png"
   }
 ]
