@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-22-trees-deserve-votes-too",
+    "title": "Trees Deserve Votes Too",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 22, 2026",
+    "image_url": "https://i.ibb.co/fshkNzr/57faf2a9dfc7.png"
+  },
+  {
     "slug": "2026-09-22-south-sudan-faces-us-sanctions",
     "title": "South Sudan Faces US Sanctions",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 16, 2026",
     "image_url": "https://i.ibb.co/XfQ6qwd1/0e386b48179d.png"
-  },
-  {
-    "slug": "2026-09-16-cryptos-regulatory-moment-crashes",
-    "title": "Crypto's Regulatory Moment Crashes",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 16, 2026",
-    "image_url": "https://i.ibb.co/svk67YCq/468315222eed.png"
   }
 ]
