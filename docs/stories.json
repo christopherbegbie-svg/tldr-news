@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-23-comedy-art-history-learning-magic",
+    "title": "Comedy + Art History = Learning Magic",
+    "category": "world",
+    "source": "NPR News",
+    "date": "September 23, 2026",
+    "image_url": "https://i.ibb.co/Cs6C8KQX/684933dd8d72.png"
+  },
+  {
     "slug": "2026-09-23-inside-the-booker-prize-selection-process",
     "title": "Inside the Booker Prize Selection Process",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 17, 2026",
     "image_url": "https://i.ibb.co/cSn3qWbc/ae03288c40d1.png"
-  },
-  {
-    "slug": "2026-09-17-when-politicians-repeat-controversial-comments",
-    "title": "When Politicians Repeat Controversial Comments",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 17, 2026",
-    "image_url": "https://i.ibb.co/VZPyxQv/090f29e01208.png"
   }
 ]
