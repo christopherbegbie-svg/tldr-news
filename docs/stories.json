@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-24-what-polls-reveal-about-voter-preferences",
+    "title": "What Polls Reveal About Voter Preferences",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 24, 2026",
+    "image_url": "https://i.ibb.co/9khB8wYK/8132394b75cd.png"
+  },
+  {
     "slug": "2026-09-24-ai-breach-medicare-hacked-late-disclosure",
     "title": "AI Breach: Medicare Hacked, Late Disclosure",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 17, 2026",
     "image_url": "https://i.ibb.co/tVjLZS6/7c51c68bad60.png"
-  },
-  {
-    "slug": "2026-09-17-ai-chatbots-providing-pregnancy-care-via-text",
-    "title": "AI Chatbots Providing Pregnancy Care via Text",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 17, 2026",
-    "image_url": "https://i.ibb.co/VcycChjC/6108f3524ab3.png"
   }
 ]
