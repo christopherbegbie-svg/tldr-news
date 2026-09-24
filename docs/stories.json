@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-24-diy-asteroid-detection-using-starlight",
+    "title": "DIY Asteroid Detection Using Starlight",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "September 24, 2026",
+    "image_url": "https://i.ibb.co/kVTVNn40/6102c66c28e4.png"
+  },
+  {
     "slug": "2026-09-24-us-china-summits-why-they-matter",
     "title": "US-China summits: Why they matter",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 18, 2026",
     "image_url": "https://i.ibb.co/4RdWzyQd/d778e3cb6c1e.png"
-  },
-  {
-    "slug": "2026-09-17-false-flags-and-geopolitical-games",
-    "title": "False Flags and Geopolitical Games",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "September 17, 2026",
-    "image_url": "https://i.ibb.co/4nTFS2hd/e16efc8ae4ef.png"
   }
 ]
