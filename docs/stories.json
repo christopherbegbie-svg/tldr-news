@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-24-portable-labs-democratize-stem-education",
+    "title": "Portable Labs Democratize STEM Education",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "September 24, 2026",
+    "image_url": "https://i.ibb.co/tPCZnCWR/41f588b5d35c.png"
+  },
+  {
     "slug": "2026-09-24-the-thucydides-trap-explained",
     "title": "The Thucydides Trap Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "September 18, 2026",
     "image_url": "https://i.ibb.co/Zp1FTfxM/4c68b389fbff.png"
-  },
-  {
-    "slug": "2026-09-18-when-presidential-nominations-fall-apart",
-    "title": "When Presidential Nominations Fall Apart",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 18, 2026",
-    "image_url": "https://i.ibb.co/G3M2HX8X/b59b1a952efb.png"
   }
 ]
