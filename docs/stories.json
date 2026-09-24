@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-24-campaign-rallies-political-strategy-explained",
+    "title": "Campaign Rallies: Political Strategy Explained",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 24, 2026",
+    "image_url": "https://i.ibb.co/Csw2hhbm/aff7a978d96c.png"
+  },
+  {
     "slug": "2026-09-24-ai-security-the-hacking-problem-nobody-expected",
     "title": "AI Security: The Hacking Problem Nobody Expected",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 18, 2026",
     "image_url": "https://i.ibb.co/xKYSN2sy/0278080d61cb.png"
-  },
-  {
-    "slug": "2026-09-18-starship-reaches-orbit-with-working-satellites",
-    "title": "Starship reaches orbit with working satellites",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "September 18, 2026",
-    "image_url": "https://i.ibb.co/ZRyVVGTD/41d3e3b50fe7.png"
   }
 ]
