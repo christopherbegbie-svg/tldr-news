@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-political-coalitions-have-breaking-points",
+    "title": "Political Coalitions Have Breaking Points",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/n8PQbCw5/38de15a02c27.png"
+  },
+  {
     "slug": "2026-09-25-social-media-bans-not-the-full-answer",
     "title": "Social Media Bans: Not the Full Answer",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 19, 2026",
     "image_url": "https://i.ibb.co/VW0MM3GM/8be2e3b2d7a0.png"
-  },
-  {
-    "slug": "2026-09-19-us-military-presence-in-greenland-the-arctic-strategy",
-    "title": "US Military Presence in Greenland: The Arctic Strategy",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 19, 2026",
-    "image_url": "https://i.ibb.co/nJsDdVv/6026d45c0daf.png"
   }
 ]
