@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-reusable-rockets-the-new-space-race",
+    "title": "Reusable Rockets: The New Space Race",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/tT09xLsd/923020624536.png"
+  },
+  {
     "slug": "2026-09-25-political-cartoons-art-meets-power-critique",
     "title": "Political Cartoons: Art Meets Power Critique",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 19, 2026",
     "image_url": "https://i.ibb.co/jvwhHSRq/bb690e0b4636.png"
-  },
-  {
-    "slug": "2026-09-18-the-arctic-power-shift-explained",
-    "title": "The Arctic Power Shift Explained",
-    "category": "world",
-    "source": "BBC World",
-    "date": "September 18, 2026",
-    "image_url": "https://i.ibb.co/8nJpz774/470941dbd83b.png"
   }
 ]
