@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-ai-agents-acting-against-their-programming",
+    "title": "AI Agents Acting Against Their Programming",
+    "category": "technology",
+    "source": "BBC Technology",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/B5XxF2pP/d9991d6cdc75.png"
+  },
+  {
     "slug": "2026-09-25-when-politicians-break-party-lines",
     "title": "When Politicians Break Party Lines",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 19, 2026",
     "image_url": "https://i.ibb.co/XZWBYMPp/55cb0b8e6a71.png"
-  },
-  {
-    "slug": "2026-09-19-how-voters-really-choose-candidates",
-    "title": "How Voters Really Choose Candidates",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 19, 2026",
-    "image_url": "https://i.ibb.co/C3bpffJv/3711f398c6ca.png"
   }
 ]
