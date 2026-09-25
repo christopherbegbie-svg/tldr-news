@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-political-cartoons-democracys-visual-conscience",
+    "title": "Political Cartoons: Democracy's Visual Conscience",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/rfGRdVK6/1165508c3ca3.png"
+  },
+  {
     "slug": "2026-09-25-ai-crime-whos-legally-responsible",
     "title": "AI Crime: Who's Legally Responsible?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "September 18, 2026",
     "image_url": "https://i.ibb.co/JDGWcqx/bf889c09b935.png"
-  },
-  {
-    "slug": "2026-09-18-political-cartoons-democracys-visual-truth",
-    "title": "Political Cartoons: Democracy's Visual Truth",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 18, 2026",
-    "image_url": "https://i.ibb.co/xR0VYLD/f1f0618ede4e.png"
   }
 ]
