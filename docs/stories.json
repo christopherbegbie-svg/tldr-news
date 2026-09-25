@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-political-cartoons-art-meets-power-critique",
+    "title": "Political Cartoons: Art Meets Power Critique",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/NdTZ2DPH/c03e002f26a0.png"
+  },
+  {
     "slug": "2026-09-25-political-cartoons-democracys-visual-conscience",
     "title": "Political Cartoons: Democracy's Visual Conscience",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "September 18, 2026",
     "image_url": "https://i.ibb.co/8nJpz774/470941dbd83b.png"
-  },
-  {
-    "slug": "2026-09-18-us-seeks-security-deal-over-greenland",
-    "title": "US Seeks Security Deal Over Greenland",
-    "category": "world",
-    "source": "BBC World",
-    "date": "September 18, 2026",
-    "image_url": "https://i.ibb.co/JDGWcqx/bf889c09b935.png"
   }
 ]
