@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-ai-crime-whos-legally-responsible",
+    "title": "AI Crime: Who's Legally Responsible?",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/ZRdSmZg7/a5a3b54eba06.png"
+  },
+  {
     "slug": "2026-09-25-press-freedom-and-government-power",
     "title": "Press Freedom and Government Power",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 18, 2026",
     "image_url": "https://i.ibb.co/xR0VYLD/f1f0618ede4e.png"
-  },
-  {
-    "slug": "2026-09-18-inside-secret-us-china-ai-talks",
-    "title": "Inside Secret U.S.-China AI Talks",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 18, 2026",
-    "image_url": "https://i.ibb.co/ksXhSfFN/c0de60fec443.png"
   }
 ]
