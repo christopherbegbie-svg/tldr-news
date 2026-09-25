@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-press-freedom-and-government-power",
+    "title": "Press Freedom and Government Power",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/JWYn7tQ5/834e9746bbd6.png"
+  },
+  {
     "slug": "2026-09-25-ai-hacking-medicare-a-wake-up-call",
     "title": "AI Hacking Medicare: A Wake-Up Call",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 18, 2026",
     "image_url": "https://i.ibb.co/ksXhSfFN/c0de60fec443.png"
-  },
-  {
-    "slug": "2026-09-18-from-solo-genius-to-legacy-leader",
-    "title": "From Solo Genius to Legacy Leader",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "September 18, 2026",
-    "image_url": "https://i.ibb.co/nqpSmr3N/4522c1abe629.png"
   }
 ]
