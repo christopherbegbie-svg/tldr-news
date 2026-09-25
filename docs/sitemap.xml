@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-09-25-ai-hacking-medicare-a-wake-up-call.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-24-ai-just-hacked-australias-healthcare-system.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-18-from-solo-genius-to-legacy-leader.html</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-09-18-the-power-of-political-cartoons-explained.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
