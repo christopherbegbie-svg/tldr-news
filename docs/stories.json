@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-25-political-cartoons-democracys-visual-watchdogs",
+    "title": "Political Cartoons: Democracy's Visual Watchdogs",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 25, 2026",
+    "image_url": "https://i.ibb.co/wZFPsqGR/f93d40ff4569.png"
+  },
+  {
     "slug": "2026-09-25-how-liquid-crystals-changed-technology",
     "title": "How Liquid Crystals Changed Technology",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 19, 2026",
     "image_url": "https://i.ibb.co/gb7yyTT6/d261fd4905da.png"
-  },
-  {
-    "slug": "2026-09-19-the-gas-price-crisis-explained",
-    "title": "The Gas Price Crisis Explained",
-    "category": "economics",
-    "source": "NPR Economics",
-    "date": "September 19, 2026",
-    "image_url": "https://i.ibb.co/jkzmJrzd/d4922bca081e.png"
   }
 ]
