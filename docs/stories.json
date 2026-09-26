@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-26-the-strait-that-shakes-the-world",
+    "title": "The Strait That Shakes the World",
+    "category": "world",
+    "source": "The Hindu",
+    "date": "September 26, 2026",
+    "image_url": "https://i.ibb.co/G40h8p90/f629d6105315.png"
+  },
+  {
     "slug": "2026-09-26-political-cartoons-democracys-visual-voice",
     "title": "Political Cartoons: Democracy's Visual Voice",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 19, 2026",
     "image_url": "https://i.ibb.co/9kD89Ygp/81cfcc439a1a.png"
-  },
-  {
-    "slug": "2026-09-19-political-cartoons-as-democracys-mirror",
-    "title": "Political Cartoons as Democracy's Mirror",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 19, 2026",
-    "image_url": "https://i.ibb.co/F4d2S9HB/1fc7ecd8859d.png"
   }
 ]
