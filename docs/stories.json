@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-26-maps-power-and-democracy",
+    "title": "Maps, Power, and Democracy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 26, 2026",
+    "image_url": "https://i.ibb.co/RTMG2SxJ/8abc60c6d259.png"
+  },
+  {
     "slug": "2026-09-26-15-minute-test-stops-unnecessary-baby-antibiotics",
     "title": "15-Minute Test Stops Unnecessary Baby Antibiotics",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 20, 2026",
     "image_url": "https://i.ibb.co/p6Jp2P3c/758198cdf7c5.png"
-  },
-  {
-    "slug": "2026-09-20-secret-global-deals-how-deportations-really-work",
-    "title": "Secret Global Deals: How Deportations Really Work",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 20, 2026",
-    "image_url": "https://i.ibb.co/v7fSnnK/aa227c18674a.png"
   }
 ]
