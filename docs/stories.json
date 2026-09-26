@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-26-political-cartoons-democracys-visual-truth-tellers",
+    "title": "Political Cartoons: Democracy's Visual Truth-Tellers",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 26, 2026",
+    "image_url": "https://i.ibb.co/sJzLnyZ6/12a3050c10e7.png"
+  },
+  {
     "slug": "2026-09-26-press-freedom-and-government-power",
     "title": "Press Freedom and Government Power",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 19, 2026",
     "image_url": "https://i.ibb.co/q326CTTL/349b0c0376de.png"
-  },
-  {
-    "slug": "2026-09-19-ballistic-missiles-how-do-they-work",
-    "title": "Ballistic Missiles: How Do They Work?",
-    "category": "world",
-    "source": "BBC World",
-    "date": "September 19, 2026",
-    "image_url": "https://i.ibb.co/3mhzmKMm/73f48eae9976.png"
   }
 ]
