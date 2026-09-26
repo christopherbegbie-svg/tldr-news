@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-26-presidential-power-vs-press-freedom",
+    "title": "Presidential Power vs. Press Freedom",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 26, 2026",
+    "image_url": "https://i.ibb.co/HpFNssBD/abc312f973bc.png"
+  },
+  {
     "slug": "2026-09-26-sports-politics-and-global-pressure",
     "title": "Sports, Politics, and Global Pressure",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 20, 2026",
     "image_url": "https://i.ibb.co/nspcxDgK/00da2f039158.png"
-  },
-  {
-    "slug": "2026-09-19-ai-copyright-and-creative-control",
-    "title": "AI, Copyright, and Creative Control",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 19, 2026",
-    "image_url": "https://i.ibb.co/bMhL5zYz/8f88c8689aa3.png"
   }
 ]
