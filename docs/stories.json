@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-26-political-cartoons-democracys-visual-voice",
+    "title": "Political Cartoons: Democracy's Visual Voice",
+    "category": "politics",
+    "source": "Politico",
+    "date": "September 26, 2026",
+    "image_url": "https://i.ibb.co/B5sh5Md3/3f3080ba4cd3.png"
+  },
+  {
     "slug": "2026-09-25-ceos-ai-photo-costs-her-job",
     "title": "CEO's AI Photo Costs Her Job",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 19, 2026",
     "image_url": "https://i.ibb.co/F4d2S9HB/1fc7ecd8859d.png"
-  },
-  {
-    "slug": "2026-09-19-press-freedom-under-fire-what-it-means",
-    "title": "Press Freedom Under Fire: What It Means",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 19, 2026",
-    "image_url": "https://i.ibb.co/0HGhzXn/a72e85b916b5.png"
   }
 ]
