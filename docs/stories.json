@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-28-government-ads-and-political-lines",
+    "title": "Government Ads and Political Lines",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 28, 2026",
+    "image_url": "https://i.ibb.co/N6FkDMvT/2c5473b0948d.png"
+  },
+  {
     "slug": "2026-09-28-dead-whale-living-ecosystem",
     "title": "Dead Whale, Living Ecosystem",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 22, 2026",
     "image_url": "https://i.ibb.co/3YNbDvb4/19a7bce90cd2.png"
-  },
-  {
-    "slug": "2026-09-21-online-misogyny-fueling-domestic-violence",
-    "title": "Online Misogyny Fueling Domestic Violence",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 21, 2026",
-    "image_url": "https://i.ibb.co/j9bDLFvq/7e908349e665.png"
   }
 ]
