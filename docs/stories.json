@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-29-does-risk-require-proof-before-action",
+    "title": "Does risk require proof before action?",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 29, 2026",
+    "image_url": "https://i.ibb.co/sdh59dN3/a30e1641fc93.png"
+  },
+  {
     "slug": "2026-09-29-faith-and-politics-collide-in-elections",
     "title": "Faith and Politics Collide in Elections",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 23, 2026",
     "image_url": "https://i.ibb.co/Ld3z18qx/2590f0a81235.png"
-  },
-  {
-    "slug": "2026-09-23-farm-politics-when-trade-policy-divides-allies",
-    "title": "Farm Politics: When Trade Policy Divides Allies",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 23, 2026",
-    "image_url": "https://i.ibb.co/7xy5syjX/3bef0e903402.png"
   }
 ]
