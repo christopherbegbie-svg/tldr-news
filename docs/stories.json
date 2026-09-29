@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-29-when-government-controls-press-access",
+    "title": "When Government Controls Press Access",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "September 29, 2026",
+    "image_url": "https://i.ibb.co/pvSw1kK7/a87df44600ba.png"
+  },
+  {
     "slug": "2026-09-29-australian-politics-leadership-and-democratic-change",
     "title": "Australian Politics: Leadership and Democratic Change",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 22, 2026",
     "image_url": "https://i.ibb.co/mCY3mSrS/fd3fff275caa.png"
-  },
-  {
-    "slug": "2026-09-22-how-ocean-heat-creates-mega-storms",
-    "title": "How Ocean Heat Creates Mega Storms",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 22, 2026",
-    "image_url": "https://i.ibb.co/kgKsgc2R/7b1aefeea297.png"
   }
 ]
