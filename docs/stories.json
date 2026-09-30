@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-30-big-companies-and-zero-tax-explained",
+    "title": "Big Companies and Zero Tax Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 30, 2026",
+    "image_url": "https://i.ibb.co/HLVcvpkx/7c3b7c293895.png"
+  },
+  {
     "slug": "2026-09-30-big-companies-and-zero-taxes",
     "title": "Big Companies and Zero Taxes",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "September 24, 2026",
     "image_url": "https://i.ibb.co/tPCZnCWR/41f588b5d35c.png"
-  },
-  {
-    "slug": "2026-09-24-the-thucydides-trap-explained",
-    "title": "The Thucydides Trap Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 24, 2026",
-    "image_url": "https://i.ibb.co/nNYV6h5g/2eea03ce658b.png"
   }
 ]
