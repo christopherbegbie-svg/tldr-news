@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-09-30-australian-media-and-education-at-crossroads",
+    "title": "Australian Media and Education at Crossroads",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "September 30, 2026",
+    "image_url": "https://i.ibb.co/TqM12pP2/1f3767d6c6d7.png"
+  },
+  {
     "slug": "2026-09-30-campus-safety-political-change",
     "title": "Campus Safety & Political Change",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "September 23, 2026",
     "image_url": "https://i.ibb.co/4wrM9g3c/cd0a062bbad5.png"
-  },
-  {
-    "slug": "2026-09-23-press-freedom-vs-presidential-power",
-    "title": "Press Freedom vs. Presidential Power",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 23, 2026",
-    "image_url": "https://i.ibb.co/3m8sdJzH/e499576a4ebe.png"
   }
 ]
