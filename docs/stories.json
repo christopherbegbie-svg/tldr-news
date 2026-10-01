@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-01-latino-voters-reshape-swing-state-politics",
+    "title": "Latino voters reshape swing state politics",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 01, 2026",
+    "image_url": "https://i.ibb.co/Z6Z98ZTs/ac1fc9e52e54.png"
+  },
+  {
     "slug": "2026-10-01-the-real-risks-of-online-gaming",
     "title": "The Real Risks of Online Gaming",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 25, 2026",
     "image_url": "https://i.ibb.co/wZFPsqGR/f93d40ff4569.png"
-  },
-  {
-    "slug": "2026-09-25-how-liquid-crystals-changed-technology",
-    "title": "How Liquid Crystals Changed Technology",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "September 25, 2026",
-    "image_url": ""
   }
 ]
