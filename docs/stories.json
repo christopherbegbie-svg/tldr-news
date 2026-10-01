@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-01-why-corporations-pay-zero-tax",
+    "title": "Why Corporations Pay Zero Tax",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 01, 2026",
+    "image_url": "https://i.ibb.co/nMsQj6zg/b832084a8c82.png"
+  },
+  {
     "slug": "2026-09-30-true-crime-wins-literary-recognition",
     "title": "True Crime Wins Literary Recognition",
     "category": "literature",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 24, 2026",
     "image_url": "https://i.ibb.co/dJxJQcFj/362d3bc427a0.png"
-  },
-  {
-    "slug": "2026-09-24-press-freedom-and-presidential-power",
-    "title": "Press Freedom and Presidential Power",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 24, 2026",
-    "image_url": "https://i.ibb.co/jkhfzTpr/65d828e90894.png"
   }
 ]
