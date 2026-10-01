@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-01-the-real-risks-of-online-gaming",
+    "title": "The Real Risks of Online Gaming",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 01, 2026",
+    "image_url": "https://i.ibb.co/LzzfYpQL/02aef7ec9c01.png"
+  },
+  {
     "slug": "2026-10-01-ice-raids-and-accountability",
     "title": "ICE Raids and Accountability",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "September 25, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-09-25-ais-first-government-hack-what-it-means",
-    "title": "AI's First Government Hack: What It Means",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 25, 2026",
-    "image_url": "https://i.ibb.co/KpQJpvvs/ed3218139680.png"
   }
 ]
