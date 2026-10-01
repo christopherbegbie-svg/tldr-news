@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-01-campaign-strategy-in-solid-red-states",
+    "title": "Campaign Strategy in Solid Red States",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 01, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-01-elephants-imitate-each-others-deep-calls",
     "title": "Elephants Imitate Each Other's Deep Calls",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 25, 2026",
     "image_url": "https://i.ibb.co/NdTZ2DPH/c03e002f26a0.png"
-  },
-  {
-    "slug": "2026-09-25-political-cartoons-democracys-visual-conscience",
-    "title": "Political Cartoons: Democracy's Visual Conscience",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 25, 2026",
-    "image_url": "https://i.ibb.co/rfGRdVK6/1165508c3ca3.png"
   }
 ]
