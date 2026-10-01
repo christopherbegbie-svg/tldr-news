@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-01-the-trump-campaign-strategy-paradox",
+    "title": "The Trump Campaign Strategy Paradox",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 01, 2026",
+    "image_url": "https://i.ibb.co/nN06VgLS/7f61ee7c448e.png"
+  },
+  {
     "slug": "2026-10-01-steak-prices-and-election-politics",
     "title": "Steak Prices and Election Politics",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 25, 2026",
     "image_url": "https://i.ibb.co/JWYn7tQ5/834e9746bbd6.png"
-  },
-  {
-    "slug": "2026-09-25-ai-hacking-medicare-a-wake-up-call",
-    "title": "AI Hacking Medicare: A Wake-Up Call",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 25, 2026",
-    "image_url": "https://i.ibb.co/PzsTNSzn/55f60086bbcf.png"
   }
 ]
