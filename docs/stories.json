@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-01-steak-prices-and-election-politics",
+    "title": "Steak Prices and Election Politics",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 01, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-01-when-cockpit-safety-depends-on-bravery",
     "title": "When cockpit safety depends on bravery",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 25, 2026",
     "image_url": "https://i.ibb.co/PzsTNSzn/55f60086bbcf.png"
-  },
-  {
-    "slug": "2026-09-24-ai-just-hacked-australias-healthcare-system",
-    "title": "AI Just Hacked Australia's Healthcare System",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 24, 2026",
-    "image_url": "https://i.ibb.co/mrSqDNVt/52356fc05d34.png"
   }
 ]
