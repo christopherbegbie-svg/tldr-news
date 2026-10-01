@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-01-ais-hidden-cost-problem",
+    "title": "AI's Hidden Cost Problem",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 01, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-01-campaign-strategy-in-solid-red-states",
     "title": "Campaign Strategy in Solid Red States",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "September 25, 2026",
     "image_url": "https://i.ibb.co/tT09xLsd/923020624536.png"
-  },
-  {
-    "slug": "2026-09-25-political-cartoons-art-meets-power-critique",
-    "title": "Political Cartoons: Art Meets Power Critique",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 25, 2026",
-    "image_url": "https://i.ibb.co/NdTZ2DPH/c03e002f26a0.png"
   }
 ]
