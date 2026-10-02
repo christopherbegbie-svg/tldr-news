@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-02-how-the-census-shapes-american-power",
+    "title": "How the Census Shapes American Power",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 02, 2026",
+    "image_url": "https://i.ibb.co/xQ2b84W/c653deda6d86.png"
+  },
+  {
     "slug": "2026-10-02-australia-strengthens-international-student-protections",
     "title": "Australia Strengthens International Student Protections",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 25, 2026",
     "image_url": "https://i.ibb.co/RG0DMmpg/025d207a10eb.png"
-  },
-  {
-    "slug": "2026-09-25-faith-and-culture-collide-in-modern-france",
-    "title": "Faith and Culture Collide in Modern France",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 25, 2026",
-    "image_url": "https://i.ibb.co/xKphQSsL/f8999c331b3d.png"
   }
 ]
