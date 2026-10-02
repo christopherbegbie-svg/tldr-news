@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-02-cartoonists-decode-politics-weekly",
+    "title": "Cartoonists Decode Politics Weekly",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 02, 2026",
+    "image_url": "https://i.ibb.co/qL6CtJcs/b3db881ef26c.png"
+  },
+  {
     "slug": "2026-10-02-political-legacy-and-generational-impact",
     "title": "Political Legacy and Generational Impact",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 26, 2026",
     "image_url": "https://i.ibb.co/sJzLnyZ6/12a3050c10e7.png"
-  },
-  {
-    "slug": "2026-09-26-press-freedom-and-government-power",
-    "title": "Press Freedom and Government Power",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 26, 2026",
-    "image_url": "https://i.ibb.co/tpqcT1Mw/933547c6a9cf.png"
   }
 ]
