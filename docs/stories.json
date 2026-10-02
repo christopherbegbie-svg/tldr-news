@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-02-understanding-australias-news-cycle-today",
+    "title": "Understanding Australia's News Cycle Today",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 02, 2026",
+    "image_url": "https://i.ibb.co/6cJ02ggF/7309448985b7.png"
+  },
+  {
     "slug": "2026-10-02-how-the-census-shapes-american-power",
     "title": "How the Census Shapes American Power",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC Technology",
     "date": "September 25, 2026",
     "image_url": "https://i.ibb.co/B5XxF2pP/d9991d6cdc75.png"
-  },
-  {
-    "slug": "2026-09-25-when-politicians-break-party-lines",
-    "title": "When Politicians Break Party Lines",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 25, 2026",
-    "image_url": "https://i.ibb.co/RG0DMmpg/025d207a10eb.png"
   }
 ]
