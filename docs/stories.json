@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-02-the-critical-first-week-of-life",
+    "title": "The Critical First Week of Life",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 02, 2026",
+    "image_url": "https://i.ibb.co/xqH5LLg3/29dd1bc22e5b.png"
+  },
+  {
     "slug": "2026-10-02-the-power-of-political-cartoons",
     "title": "The Power of Political Cartoons",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "September 26, 2026",
     "image_url": "https://i.ibb.co/G40h8p90/f629d6105315.png"
-  },
-  {
-    "slug": "2026-09-26-political-cartoons-democracys-visual-voice",
-    "title": "Political Cartoons: Democracy's Visual Voice",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 26, 2026",
-    "image_url": "https://i.ibb.co/B5sh5Md3/3f3080ba4cd3.png"
   }
 ]
