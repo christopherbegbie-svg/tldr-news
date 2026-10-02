@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-02-citizens-vs-government-plans",
+    "title": "Citizens vs. Government Plans",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 02, 2026",
+    "image_url": "https://i.ibb.co/35kxtYdK/65ea8e8d62cd.png"
+  },
+  {
     "slug": "2026-10-02-money-signals-truth-in-politics",
     "title": "Money Signals Truth in Politics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "September 26, 2026",
     "image_url": "https://i.ibb.co/VYmtTWdQ/9326093a9302.png"
-  },
-  {
-    "slug": "2026-09-26-when-politicians-break-ranks",
-    "title": "When politicians break ranks",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "September 26, 2026",
-    "image_url": "https://i.ibb.co/GQ2jbNY0/86818b0764fe.png"
   }
 ]
