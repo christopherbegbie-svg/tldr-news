@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-02-australias-tech-debt-problem-exposed",
+    "title": "Australia's Tech Debt Problem Exposed",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 02, 2026",
+    "image_url": "https://i.ibb.co/tT962Vqb/5ca9f4b48afa.png"
+  },
+  {
     "slug": "2026-10-02-cartoonists-decode-politics-weekly",
     "title": "Cartoonists Decode Politics Weekly",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "September 26, 2026",
     "image_url": "https://i.ibb.co/Z6FyqMLf/e4afee41ad77.png"
-  },
-  {
-    "slug": "2026-09-26-political-cartoons-democracys-visual-truth-tellers",
-    "title": "Political Cartoons: Democracy's Visual Truth-Tellers",
-    "category": "politics",
-    "source": "Politico",
-    "date": "September 26, 2026",
-    "image_url": "https://i.ibb.co/sJzLnyZ6/12a3050c10e7.png"
   }
 ]
