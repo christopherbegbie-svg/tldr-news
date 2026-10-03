@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-03-a-storied-museum-closes-its-doors",
+    "title": "A Storied Museum Closes Its Doors",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 03, 2026",
+    "image_url": "https://i.ibb.co/twRS7jHp/704d79d4930c.png"
+  },
+  {
     "slug": "2026-10-03-libyas-peace-deal-crumbles-in-seconds",
     "title": "Libya's Peace Deal Crumbles in Seconds",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 27, 2026",
     "image_url": "https://i.ibb.co/vCkyYSWB/f30f255cc46d.png"
-  },
-  {
-    "slug": "2026-09-27-australias-diplomacy-meets-digital-security-crisis",
-    "title": "Australia's Diplomacy Meets Digital Security Crisis",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 27, 2026",
-    "image_url": "https://i.ibb.co/8gHhN6vH/8de883983872.png"
   }
 ]
