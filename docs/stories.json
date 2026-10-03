@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-03-political-cartoons-shape-democratic-conversation",
+    "title": "Political Cartoons Shape Democratic Conversation",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 03, 2026",
+    "image_url": "https://i.ibb.co/3mgjmPjK/e5fd59b7456b.png"
+  },
+  {
     "slug": "2026-10-02-government-insider-arrested-for-foreign-support",
     "title": "Government Insider Arrested for Foreign Support",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 26, 2026",
     "image_url": "https://i.ibb.co/JRmm6vxJ/7e78bbc85ef0.png"
-  },
-  {
-    "slug": "2026-09-26-why-europes-ai-dream-faces-resistance",
-    "title": "Why Europe's AI Dream Faces Resistance",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "September 26, 2026",
-    "image_url": "https://i.ibb.co/rRx6DZHH/78c2ec306544.png"
   }
 ]
