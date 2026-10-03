@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-03-political-cartoons-democracys-visual-commentary",
+    "title": "Political Cartoons: Democracy's Visual Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 03, 2026",
+    "image_url": "https://i.ibb.co/1txQ20CQ/90b6c79841b1.png"
+  },
+  {
     "slug": "2026-10-03-brazil-vs-us-election-interference-clash",
     "title": "Brazil vs. US: Election Interference Clash",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 27, 2026",
     "image_url": "https://i.ibb.co/k64nRXZH/7e6a23b9b455.png"
-  },
-  {
-    "slug": "2026-09-27-happiness-needs-more-than-just-avoiding-pain",
-    "title": "Happiness Needs More Than Just Avoiding Pain",
-    "category": "literature",
-    "source": "The Guardian Books",
-    "date": "September 27, 2026",
-    "image_url": "https://i.ibb.co/zV3dYQ8F/b1908e60d522.png"
   }
 ]
