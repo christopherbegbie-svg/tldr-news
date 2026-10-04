@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-04-why-political-cartoons-matter",
+    "title": "Why Political Cartoons Matter",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 04, 2026",
+    "image_url": "https://i.ibb.co/8DpRNP8V/cdad70d9e7fc.png"
+  },
+  {
     "slug": "2026-10-04-journalism-ethics-the-cost-of-getting-the-story",
     "title": "Journalism Ethics: The Cost of Getting the Story",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 28, 2026",
     "image_url": "https://i.ibb.co/kghBW8JS/2a9de62fc76e.png"
-  },
-  {
-    "slug": "2026-09-27-interest-rates-hit-13-year-high",
-    "title": "Interest Rates Hit 13-Year High",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 27, 2026",
-    "image_url": "https://i.ibb.co/JwrPr4hx/53173a81e619.png"
   }
 ]
