@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-04-political-cartoons-democracys-visual-commentary",
+    "title": "Political Cartoons: Democracy's Visual Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 04, 2026",
+    "image_url": "https://i.ibb.co/LX07nGZS/ba99c26c2a89.png"
+  },
+  {
     "slug": "2026-10-04-justice-delayed-when-survivors-face-threats",
     "title": "Justice Delayed When Survivors Face Threats",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 28, 2026",
     "image_url": "https://i.ibb.co/7JXWSQvh/8bbda15ba53c.png"
-  },
-  {
-    "slug": "2026-09-28-old-comments-modern-consequences",
-    "title": "Old Comments, Modern Consequences",
-    "category": "world",
-    "source": "France 24",
-    "date": "September 28, 2026",
-    "image_url": "https://i.ibb.co/XQkt3f9/2bccbd791121.png"
   }
 ]
