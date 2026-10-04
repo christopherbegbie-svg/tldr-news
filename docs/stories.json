@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-04-whats-an-ai-czar",
+    "title": "What's an AI Czar?",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 04, 2026",
+    "image_url": "https://i.ibb.co/B5H4mcdd/491b973f788b.png"
+  },
+  {
     "slug": "2026-10-04-political-cartoons-democracys-visual-commentary",
     "title": "Political Cartoons: Democracy's Visual Commentary",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "September 28, 2026",
     "image_url": "https://i.ibb.co/3yxpp8yS/9b9a02ac9ac0.png"
-  },
-  {
-    "slug": "2026-09-28-car-standards-cost-vs-environment",
-    "title": "Car Standards: Cost vs. Environment",
-    "category": "world",
-    "source": "NPR News",
-    "date": "September 28, 2026",
-    "image_url": "https://i.ibb.co/7JXWSQvh/8bbda15ba53c.png"
   }
 ]
