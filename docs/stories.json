@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-04-defamation-influence-and-legal-truth",
+    "title": "Defamation, Influence, and Legal Truth",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 04, 2026",
+    "image_url": "https://i.ibb.co/Y4sw02nB/ac133a532998.png"
+  },
+  {
     "slug": "2026-10-04-brazils-presidential-election-explained",
     "title": "Brazil's Presidential Election Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "September 28, 2026",
     "image_url": "https://i.ibb.co/DPQsP06f/b41977681879.png"
-  },
-  {
-    "slug": "2026-09-28-stem-books-inspire-next-gen-engineers",
-    "title": "STEM Books Inspire Next-Gen Engineers",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "September 28, 2026",
-    "image_url": "https://i.ibb.co/0HSJQGS/c423c9542bbc.png"
   }
 ]
