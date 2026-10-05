@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-05-when-citizens-challenge-political-plans",
+    "title": "When Citizens Challenge Political Plans",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 05, 2026",
+    "image_url": "https://i.ibb.co/Ckt3wgn/b092f180623c.png"
+  },
+  {
     "slug": "2026-10-04-brazils-election-gets-closer",
     "title": "Brazil's Election Gets Closer",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 28, 2026",
     "image_url": "https://i.ibb.co/0jysNT6Z/a923b113fc9e.png"
-  },
-  {
-    "slug": "2026-09-28-interest-rates-explained-simply",
-    "title": "Interest Rates Explained Simply",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 28, 2026",
-    "image_url": "https://i.ibb.co/pr2W0ZQn/58fe95e2ced3.png"
   }
 ]
