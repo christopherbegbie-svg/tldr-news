@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-05-should-ai-choose-your-vote",
+    "title": "Should AI Choose Your Vote?",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 05, 2026",
+    "image_url": "https://i.ibb.co/Y7vZ1Dcv/2b44e4d63a22.png"
+  },
+  {
     "slug": "2026-10-05-brazils-election-shock-explained",
     "title": "Brazil's Election Shock Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "September 29, 2026",
     "image_url": "https://i.ibb.co/bgvjH3Bb/1f2b0e8ae5e1.png"
-  },
-  {
-    "slug": "2026-09-29-ultrafast-radiotherapy-transforms-cancer-care",
-    "title": "Ultrafast Radiotherapy Transforms Cancer Care",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "September 29, 2026",
-    "image_url": "https://i.ibb.co/xSkpzYvJ/d7d75e40596e.png"
   }
 ]
