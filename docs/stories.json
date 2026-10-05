@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-05-immigration-policy-the-political-balancing-act",
+    "title": "Immigration Policy: The Political Balancing Act",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 05, 2026",
+    "image_url": "https://i.ibb.co/mrrHXrq9/e7c75951645a.png"
+  },
+  {
     "slug": "2026-10-05-should-ai-choose-your-vote",
     "title": "Should AI Choose Your Vote?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "September 29, 2026",
     "image_url": "https://i.ibb.co/Z1T01F2P/3036b3f741d4.png"
-  },
-  {
-    "slug": "2026-09-29-tiny-lungs-replace-animal-testing",
-    "title": "Tiny Lungs Replace Animal Testing",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "September 29, 2026",
-    "image_url": "https://i.ibb.co/bgvjH3Bb/1f2b0e8ae5e1.png"
   }
 ]
