@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-06-free-speech-vs-presidential-power",
+    "title": "Free Speech vs. Presidential Power",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 06, 2026",
+    "image_url": "https://i.ibb.co/8Dgfmzf3/ffd3574dd247.png"
+  },
+  {
     "slug": "2026-10-06-uk-airbase-security-global-tensions-explained",
     "title": "UK Airbase Security: Global Tensions Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "September 30, 2026",
     "image_url": "https://i.ibb.co/MkFjhFVR/f29dba0d458c.png"
-  },
-  {
-    "slug": "2026-09-30-gender-violence-when-systems-fail-women",
-    "title": "Gender Violence: When Systems Fail Women",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 30, 2026",
-    "image_url": "https://i.ibb.co/5gwJwW0P/fdf06b894f2a.png"
   }
 ]
