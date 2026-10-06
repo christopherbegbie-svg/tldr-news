@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-06-the-missing-political-enemy-problem",
+    "title": "The Missing Political Enemy Problem",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 06, 2026",
+    "image_url": "https://i.ibb.co/Mynn0dTR/8d4dfeb82348.png"
+  },
+  {
     "slug": "2026-10-05-brain-cells-controlled-by-light",
     "title": "Brain Cells Controlled by Light",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "September 29, 2026",
     "image_url": "https://i.ibb.co/s9CD6jXs/edd45b0bb7a5.png"
-  },
-  {
-    "slug": "2026-09-29-does-risk-require-proof-before-action",
-    "title": "Does risk require proof before action?",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 29, 2026",
-    "image_url": "https://i.ibb.co/sdh59dN3/a30e1641fc93.png"
   }
 ]
