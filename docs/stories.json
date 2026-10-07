@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-07-when-elections-shape-our-planet",
+    "title": "When Elections Shape Our Planet",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 07, 2026",
+    "image_url": "https://i.ibb.co/TBxjGb2y/d0459c464819.png"
+  },
+  {
     "slug": "2026-10-07-predicting-economics-biggest-prize",
     "title": "Predicting Economics' Biggest Prize",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 01, 2026",
     "image_url": "https://i.ibb.co/nMsQj6zg/b832084a8c82.png"
-  },
-  {
-    "slug": "2026-09-30-true-crime-wins-literary-recognition",
-    "title": "True Crime Wins Literary Recognition",
-    "category": "literature",
-    "source": "The Guardian Books",
-    "date": "September 30, 2026",
-    "image_url": "https://i.ibb.co/60KxswC3/358f137c2b9d.png"
   }
 ]
