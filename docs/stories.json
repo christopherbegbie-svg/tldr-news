@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-07-safe-political-seats-can-flip-fast",
+    "title": "Safe Political Seats Can Flip Fast",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 07, 2026",
+    "image_url": "https://i.ibb.co/FkdDynW4/8a1636f5a4b2.png"
+  },
+  {
     "slug": "2026-10-07-nuclear-clocks-redefining-precision",
     "title": "Nuclear Clocks: Redefining Precision",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 01, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-10-01-when-cockpit-safety-depends-on-bravery",
-    "title": "When cockpit safety depends on bravery",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 01, 2026",
-    "image_url": "https://i.ibb.co/4R15LV7y/d5c73eb2c4e0.png"
   }
 ]
