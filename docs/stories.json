@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-07-predicting-economics-biggest-prize",
+    "title": "Predicting Economics' Biggest Prize",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 07, 2026",
+    "image_url": "https://i.ibb.co/1YhKW586/efb8039c270b.png"
+  },
+  {
     "slug": "2026-10-07-presidents-and-public-buildings-an-unwritten-rule",
     "title": "Presidents and Public Buildings: An Unwritten Rule",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "September 30, 2026",
     "image_url": "https://i.ibb.co/60KxswC3/358f137c2b9d.png"
-  },
-  {
-    "slug": "2026-09-30-big-companies-and-zero-tax-explained",
-    "title": "Big Companies and Zero Tax Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "September 30, 2026",
-    "image_url": "https://i.ibb.co/HLVcvpkx/7c3b7c293895.png"
   }
 ]
