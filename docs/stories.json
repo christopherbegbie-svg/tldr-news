@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-07-approval-ratings-and-election-outcomes",
+    "title": "Approval Ratings and Election Outcomes",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 07, 2026",
+    "image_url": "https://i.ibb.co/Z6JjxQpr/c871eef95cb0.png"
+  },
+  {
     "slug": "2026-10-06-why-glaciers-matter-more-than-you-think",
     "title": "Why Glaciers Matter More Than You Think",
     "category": "world",
@@ -788,14 +796,6 @@
     "title": "IEEE Awards: Recognizing Engineering Excellence",
     "category": "engineering",
     "source": "IEEE Spectrum",
-    "date": "September 30, 2026",
-    "image_url": ""
-  },
-  {
-    "slug": "2026-09-30-police-training-sexual-assault-investigations",
-    "title": "Police Training & Sexual Assault Investigations",
-    "category": "world",
-    "source": "NPR News",
     "date": "September 30, 2026",
     "image_url": ""
   }

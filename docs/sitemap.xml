@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-10-07-approval-ratings-and-election-outcomes.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-06-why-glaciers-matter-more-than-you-think.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-09-30-ieee-awards-recognizing-engineering-excellence.html</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-09-30-police-training-sexual-assault-investigations.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
