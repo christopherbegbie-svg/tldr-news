@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-07-what-are-sleeper-races",
+    "title": "What Are Sleeper Races?",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 07, 2026",
+    "image_url": "https://i.ibb.co/LzLH8rc9/0039b5671bc9.png"
+  },
+  {
     "slug": "2026-10-07-when-elections-shape-our-planet",
     "title": "When Elections Shape Our Planet",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 01, 2026",
     "image_url": "https://i.ibb.co/Y7f1Bn9N/d9ea91776bfe.png"
-  },
-  {
-    "slug": "2026-10-01-why-corporations-pay-zero-tax",
-    "title": "Why Corporations Pay Zero Tax",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 01, 2026",
-    "image_url": "https://i.ibb.co/nMsQj6zg/b832084a8c82.png"
   }
 ]
