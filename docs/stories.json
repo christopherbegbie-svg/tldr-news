@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-07-police-tools-and-unintended-consequences",
+    "title": "Police Tools and Unintended Consequences",
+    "category": "world",
+    "source": "France 24",
+    "date": "October 07, 2026",
+    "image_url": "https://i.ibb.co/RGTXjhXj/f598d03e0c74.png"
+  },
+  {
     "slug": "2026-10-07-medicare-for-all-promise-vs-reality",
     "title": "Medicare for All: Promise vs. Reality",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 01, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-10-01-elephants-imitate-each-others-deep-calls",
-    "title": "Elephants Imitate Each Other's Deep Calls",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "October 01, 2026",
-    "image_url": "https://i.ibb.co/HpRh1LSb/c096dc1f0f02.png"
   }
 ]
