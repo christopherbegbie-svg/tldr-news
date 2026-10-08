@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-08-filmmaking-as-investigation",
+    "title": "Filmmaking as Investigation",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 08, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-08-military-honours-diplomacy-in-ceremony",
     "title": "Military Honours: Diplomacy in Ceremony",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 02, 2026",
     "image_url": "https://i.ibb.co/VYPmSmMH/aa03d5ff84af.png"
-  },
-  {
-    "slug": "2026-10-01-australias-esafety-crisis-whos-in-charge",
-    "title": "Australia's eSafety Crisis: Who's in Charge?",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 01, 2026",
-    "image_url": "https://i.ibb.co/ksHndxss/cf8840d6b7f8.png"
   }
 ]
