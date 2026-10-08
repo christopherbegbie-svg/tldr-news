@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-08-inside-mexicos-judicial-system",
+    "title": "Inside Mexico's Judicial System",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 08, 2026",
+    "image_url": "https://i.ibb.co/kghtS9Q9/4792545f0181.png"
+  },
+  {
     "slug": "2026-10-08-crypto-regulation-hits-a-roadblock",
     "title": "Crypto regulation hits a roadblock",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 02, 2026",
     "image_url": "https://i.ibb.co/qL6CtJcs/b3db881ef26c.png"
-  },
-  {
-    "slug": "2026-10-02-political-legacy-and-generational-impact",
-    "title": "Political Legacy and Generational Impact",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 02, 2026",
-    "image_url": "https://i.ibb.co/pvNMrvkj/35ba5347f144.png"
   }
 ]
