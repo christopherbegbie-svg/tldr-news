@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-08-hidden-warfare-how-nations-defend-themselves",
+    "title": "Hidden Warfare: How Nations Defend Themselves",
+    "category": "politics",
+    "source": "BBC Politics",
+    "date": "October 08, 2026",
+    "image_url": "https://i.ibb.co/BVgcJVXK/fa2234b0b27c.png"
+  },
+  {
     "slug": "2026-10-07-government-ads-political-tool-or-public-service",
     "title": "Government Ads: Political Tool or Public Service?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 01, 2026",
     "image_url": "https://i.ibb.co/fzDwhpYX/3f2cec239cf9.png"
-  },
-  {
-    "slug": "2026-10-01-ais-hidden-cost-problem",
-    "title": "AI's Hidden Cost Problem",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 01, 2026",
-    "image_url": ""
   }
 ]
