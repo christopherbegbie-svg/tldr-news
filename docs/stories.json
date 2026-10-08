@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-08-polls-predict-but-elections-decide",
+    "title": "Polls Predict, But Elections Decide",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 08, 2026",
+    "image_url": "https://i.ibb.co/KcpxjF5n/e1186dc70d74.png"
+  },
+  {
     "slug": "2026-10-08-ai-startups-valuation-crashes-before-ipo",
     "title": "AI Startup's Valuation Crashes Before IPO",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 01, 2026",
     "image_url": "https://i.ibb.co/LzzfYpQL/02aef7ec9c01.png"
-  },
-  {
-    "slug": "2026-10-01-ice-raids-and-accountability",
-    "title": "ICE Raids and Accountability",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 01, 2026",
-    "image_url": "https://i.ibb.co/mCJ0QMVZ/b44ce9611244.png"
   }
 ]
