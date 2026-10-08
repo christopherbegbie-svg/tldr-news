@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-08-political-money-strategy-or-stunt",
+    "title": "Political Money: Strategy or Stunt?",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 08, 2026",
+    "image_url": "https://i.ibb.co/R4TTWZmp/5d906ccf91aa.png"
+  },
+  {
     "slug": "2026-10-08-understanding-peace-negotiations-and-diplomacy",
     "title": "Understanding Peace Negotiations and Diplomacy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "October 02, 2026",
     "image_url": "https://i.ibb.co/n86bQSgB/55eacca979b2.png"
-  },
-  {
-    "slug": "2026-10-02-australias-tech-debt-problem-exposed",
-    "title": "Australia's Tech Debt Problem Exposed",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 02, 2026",
-    "image_url": "https://i.ibb.co/tT962Vqb/5ca9f4b48afa.png"
   }
 ]
