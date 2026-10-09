@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-09-political-cartoons-democracys-visual-watchdog",
+    "title": "Political Cartoons: Democracy's Visual Watchdog",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 09, 2026",
+    "image_url": "https://i.ibb.co/KxgSt1TL/fc9e5489b1ef.png"
+  },
+  {
     "slug": "2026-10-09-aviations-insider-threat-problem",
     "title": "Aviation's Insider Threat Problem",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 03, 2026",
     "image_url": "https://i.ibb.co/twRS7jHp/704d79d4930c.png"
-  },
-  {
-    "slug": "2026-10-03-libyas-peace-deal-crumbles-in-seconds",
-    "title": "Libya's Peace Deal Crumbles in Seconds",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 03, 2026",
-    "image_url": "https://i.ibb.co/S4PQ3kkH/c6ef695129ac.png"
   }
 ]
