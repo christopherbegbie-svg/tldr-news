@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-09-a-billionaires-budget-suit-choice",
+    "title": "A Billionaire's Budget Suit Choice",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 09, 2026",
+    "image_url": "https://i.ibb.co/7JzGsLdj/ea58a9b1891f.png"
+  },
+  {
     "slug": "2026-10-09-public-executions-a-history-we-nearly-forgot",
     "title": "Public Executions: A History We Nearly Forgot",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Economics",
     "date": "October 03, 2026",
     "image_url": "https://i.ibb.co/wFFrsvbx/c4f3310c1a71.png"
-  },
-  {
-    "slug": "2026-10-03-ai-cameras-fight-crimebut-watch-privacy",
-    "title": "AI Cameras Fight Crime\u2014But Watch Privacy",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 03, 2026",
-    "image_url": "https://i.ibb.co/tpPL7rsL/e15b73efe9a2.png"
   }
 ]
