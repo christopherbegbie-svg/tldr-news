@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-09-political-cartoons-satire-as-journalism",
+    "title": "Political Cartoons: Satire as Journalism",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 09, 2026",
+    "image_url": "https://i.ibb.co/MygQg790/c6bfd0b9a4c2.png"
+  },
+  {
     "slug": "2026-10-09-measuring-black-hole-spin",
     "title": "Measuring Black Hole Spin",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 03, 2026",
     "image_url": "https://i.ibb.co/5X29z7B5/071fb0a9cc2e.png"
-  },
-  {
-    "slug": "2026-10-03-f-16-jets-maintenance-matters-in-war",
-    "title": "F-16 Jets: Maintenance Matters in War",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "October 03, 2026",
-    "image_url": "https://i.ibb.co/JWQ1cdHx/e2bce8f97d62.png"
   }
 ]
