@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-09-political-cartoons-democracys-visual-commentary",
+    "title": "Political Cartoons: Democracy's Visual Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 09, 2026",
+    "image_url": "https://i.ibb.co/vxBFPtWv/5dc33f16ea0a.png"
+  },
+  {
     "slug": "2026-10-09-one-eviction-national-crisis-political-change",
     "title": "One Eviction, National Crisis, Political Change",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "October 02, 2026",
     "image_url": "https://i.ibb.co/NgSJTCZt/e1f5f64f1f38.png"
-  },
-  {
-    "slug": "2026-10-02-citizens-vs-government-plans",
-    "title": "Citizens vs. Government Plans",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 02, 2026",
-    "image_url": "https://i.ibb.co/35kxtYdK/65ea8e8d62cd.png"
   }
 ]
