@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-09-anne-carson-literatures-bold-rule-breaker",
+    "title": "Anne Carson: Literature's Bold Rule-Breaker",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "October 09, 2026",
+    "image_url": "https://i.ibb.co/0yJCWqzM/5f5e361cfa24.png"
+  },
+  {
     "slug": "2026-10-09-political-cartoons-satire-as-journalism",
     "title": "Political Cartoons: Satire as Journalism",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 03, 2026",
     "image_url": "https://i.ibb.co/gL4Nr9dB/e91b16beee95.png"
-  },
-  {
-    "slug": "2026-10-03-brazils-election-rematch-explained",
-    "title": "Brazil's Election Rematch Explained",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 03, 2026",
-    "image_url": "https://i.ibb.co/5X29z7B5/071fb0a9cc2e.png"
   }
 ]
