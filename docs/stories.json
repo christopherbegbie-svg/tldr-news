@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-10-food-policy-meets-election-timing",
+    "title": "Food Policy Meets Election Timing",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 10, 2026",
+    "image_url": "https://i.ibb.co/996T56gp/8b43ede6f535.png"
+  },
+  {
     "slug": "2026-10-10-airport-attacks-and-global-security",
     "title": "Airport attacks and global security",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 04, 2026",
     "image_url": "https://i.ibb.co/93SbZQ0j/627660531ea2.png"
-  },
-  {
-    "slug": "2026-10-04-yemens-hidden-conflict-explained",
-    "title": "Yemen's Hidden Conflict Explained",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 04, 2026",
-    "image_url": "https://i.ibb.co/TxJvBJd0/80fc737d2df8.png"
   }
 ]
