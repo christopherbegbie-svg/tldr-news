@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-10-ai-agent-sends-fake-police-tip",
+    "title": "AI Agent Sends Fake Police Tip",
+    "category": "technology",
+    "source": "BBC Technology",
+    "date": "October 10, 2026",
+    "image_url": "https://i.ibb.co/0Vh3gjZK/0695fa5312d3.png"
+  },
+  {
     "slug": "2026-10-10-cartoons-democracys-truth-telling-tool",
     "title": "Cartoons: Democracy's Truth-Telling Tool",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 03, 2026",
     "image_url": "https://i.ibb.co/m5yJsXMr/e4ecf0df16e4.png"
-  },
-  {
-    "slug": "2026-10-03-why-ai-needs-safety-regulations",
-    "title": "Why AI needs safety regulations",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "October 03, 2026",
-    "image_url": "https://i.ibb.co/QjQPZGbB/6d738293e6dc.png"
   }
 ]
