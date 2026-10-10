@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-10-a-name-doesnt-define-destiny",
+    "title": "A Name Doesn't Define Destiny",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 10, 2026",
+    "image_url": "https://i.ibb.co/wrcf9rF3/576a00c446a1.png"
+  },
+  {
     "slug": "2026-10-10-ai-agent-sends-fake-police-tip",
     "title": "AI Agent Sends Fake Police Tip",
     "category": "technology",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 03, 2026",
     "image_url": "https://i.ibb.co/Rps9gsF5/2c5c33c5b666.png"
-  },
-  {
-    "slug": "2026-10-03-where-did-the-political-boogeyman-go",
-    "title": "Where Did the Political Boogeyman Go?",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 03, 2026",
-    "image_url": "https://i.ibb.co/m5yJsXMr/e4ecf0df16e4.png"
   }
 ]
