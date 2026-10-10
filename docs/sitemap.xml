@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-10-10-fashion-as-political-strategy-explained.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-09-weight-loss-drugs-and-healthcare-access.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-03-the-unsolved-ustica-flight-crash-mystery.html</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-10-03-political-cartoons-democracys-visual-commentary.html</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
