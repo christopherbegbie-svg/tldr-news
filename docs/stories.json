@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-11-airport-security-and-global-conflict",
+    "title": "Airport Security and Global Conflict",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 11, 2026",
+    "image_url": "https://i.ibb.co/c7bK6Wp/e2081d765c83.png"
+  },
+  {
     "slug": "2026-10-10-bipartisan-backlash-democracys-system-of-checks",
     "title": "Bipartisan Backlash: Democracy's System of Checks",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 04, 2026",
     "image_url": "https://i.ibb.co/LX07nGZS/ba99c26c2a89.png"
-  },
-  {
-    "slug": "2026-10-04-justice-delayed-when-survivors-face-threats",
-    "title": "Justice Delayed When Survivors Face Threats",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 04, 2026",
-    "image_url": "https://i.ibb.co/ZR99QJyY/f1097271ec24.png"
   }
 ]
