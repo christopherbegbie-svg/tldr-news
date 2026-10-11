@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-11-battleground-districts-where-elections-are-won",
+    "title": "Battleground Districts: Where Elections Are Won",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 11, 2026",
+    "image_url": "https://i.ibb.co/r2YMCcD3/93c088a1ec21.png"
+  },
+  {
     "slug": "2026-10-11-ais-false-confession-a-warning-sign",
     "title": "AI's False Confession: A Warning Sign",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 04, 2026",
     "image_url": "https://i.ibb.co/0j5sTwTq/c006d3b0d29d.png"
-  },
-  {
-    "slug": "2026-10-04-whats-an-ai-czar",
-    "title": "What's an AI Czar?",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 04, 2026",
-    "image_url": "https://i.ibb.co/B5H4mcdd/491b973f788b.png"
   }
 ]
