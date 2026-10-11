@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-11-australias-smart-emergency-alert-system",
+    "title": "Australia's Smart Emergency Alert System",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 11, 2026",
+    "image_url": "https://i.ibb.co/HLHJSfCt/3e2b80286372.png"
+  },
+  {
     "slug": "2026-10-11-election-interference-the-hidden-threat",
     "title": "Election Interference: The Hidden Threat",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Deutsche Welle",
     "date": "October 05, 2026",
     "image_url": "https://i.ibb.co/YFwff0r4/156642335b5d.png"
-  },
-  {
-    "slug": "2026-10-05-supreme-court-tests-corporate-climate-accountability",
-    "title": "Supreme Court Tests Corporate Climate Accountability",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 05, 2026",
-    "image_url": "https://i.ibb.co/sXFzV5H/c6dd339fa020.png"
   }
 ]
