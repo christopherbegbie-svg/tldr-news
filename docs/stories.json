@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-11-political-cartoons-shape-democracy-daily",
+    "title": "Political Cartoons Shape Democracy Daily",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 11, 2026",
+    "image_url": "https://i.ibb.co/kg1TDPrv/db424ca1a78c.png"
+  },
+  {
     "slug": "2026-10-11-europe-vs-china-the-car-wars-begin",
     "title": "Europe vs. China: The Car Wars Begin",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "October 05, 2026",
     "image_url": "https://i.ibb.co/8nntmSW7/ed438e923f03.png"
-  },
-  {
-    "slug": "2026-10-05-geopolitics-when-powers-leave-others-step-in",
-    "title": "Geopolitics: When powers leave, others step in",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "October 05, 2026",
-    "image_url": "https://i.ibb.co/SXhzRnNm/ee7096f0c707.png"
   }
 ]
