@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-11-world-events-protests-space-and-memory",
+    "title": "World Events: Protests, Space, and Memory",
+    "category": "world",
+    "source": "France 24",
+    "date": "October 11, 2026",
+    "image_url": "https://i.ibb.co/XxP4pqtJ/97da5faca02b.png"
+  },
+  {
     "slug": "2026-10-11-sanctions-and-trade-a-political-contradiction",
     "title": "Sanctions and Trade: A Political Contradiction",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 05, 2026",
     "image_url": "https://i.ibb.co/Ckt3wgn/b092f180623c.png"
-  },
-  {
-    "slug": "2026-10-04-brazils-election-gets-closer",
-    "title": "Brazil's Election Gets Closer",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "October 04, 2026",
-    "image_url": "https://i.ibb.co/QvxTP0JN/121d58a3b7e9.png"
   }
 ]
