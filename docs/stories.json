@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-11-regional-conflicts-global-consequences",
+    "title": "Regional Conflicts, Global Consequences",
+    "category": "world",
+    "source": "France 24",
+    "date": "October 11, 2026",
+    "image_url": "https://i.ibb.co/kFDTfhH/dd33928aec59.png"
+  },
+  {
     "slug": "2026-10-11-battleground-districts-where-elections-are-won",
     "title": "Battleground Districts: Where Elections Are Won",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 04, 2026",
     "image_url": "https://i.ibb.co/Y4sw02nB/ac133a532998.png"
-  },
-  {
-    "slug": "2026-10-04-brazils-presidential-election-explained",
-    "title": "Brazil's Presidential Election Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 04, 2026",
-    "image_url": "https://i.ibb.co/0j5sTwTq/c006d3b0d29d.png"
   }
 ]
