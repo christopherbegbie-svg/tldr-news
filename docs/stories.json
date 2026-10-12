@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-12-tax-policy-and-political-strategy",
+    "title": "Tax Policy and Political Strategy",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 12, 2026",
+    "image_url": "https://i.ibb.co/hFXGz6Sv/453bb920694e.png"
+  },
+  {
     "slug": "2026-10-11-trust-taxes-why-fairness-matters-in-policy",
     "title": "Trust taxes: Why fairness matters in policy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 05, 2026",
     "image_url": "https://i.ibb.co/mrrHXrq9/e7c75951645a.png"
-  },
-  {
-    "slug": "2026-10-05-should-ai-choose-your-vote",
-    "title": "Should AI Choose Your Vote?",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 05, 2026",
-    "image_url": "https://i.ibb.co/Y7vZ1Dcv/2b44e4d63a22.png"
   }
 ]
