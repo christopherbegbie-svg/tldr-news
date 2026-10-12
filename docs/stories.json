@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-12-the-monte-verde-mystery-explained",
+    "title": "The Monte Verde Mystery Explained",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 12, 2026",
+    "image_url": "https://i.ibb.co/F4QwxLy1/df0925dd79e8.png"
+  },
+  {
     "slug": "2026-10-12-enemies-trading-during-conflict",
     "title": "Enemies Trading During Conflict",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 06, 2026",
     "image_url": "https://i.ibb.co/WpNgqh1C/a9021b0a4a13.png"
-  },
-  {
-    "slug": "2026-10-06-indias-hidden-athletic-champions-emerge",
-    "title": "India's Hidden Athletic Champions Emerge",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 06, 2026",
-    "image_url": "https://i.ibb.co/Q716J30P/75dce95924f7.png"
   }
 ]
