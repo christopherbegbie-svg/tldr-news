@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-13-oil-islands-and-international-justice",
+    "title": "Oil, Islands, and International Justice",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 13, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-13-britains-new-leader-reopens-brexit-debate",
     "title": "Britain's New Leader Reopens Brexit Debate",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 07, 2026",
     "image_url": "https://i.ibb.co/Z6JjxQpr/c871eef95cb0.png"
-  },
-  {
-    "slug": "2026-10-06-why-glaciers-matter-more-than-you-think",
-    "title": "Why Glaciers Matter More Than You Think",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 06, 2026",
-    "image_url": "https://i.ibb.co/R4vmVxSt/9b84378bd544.png"
   }
 ]
