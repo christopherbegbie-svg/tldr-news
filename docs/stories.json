@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-13-the-power-of-political-messaging",
+    "title": "The Power of Political Messaging",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 13, 2026",
+    "image_url": "https://i.ibb.co/gZ2JmSSg/201134a82920.png"
+  },
+  {
     "slug": "2026-10-13-quantum-computers-need-freezers-and-vacuums",
     "title": "Quantum computers need freezers and vacuums",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 07, 2026",
     "image_url": "https://i.ibb.co/TBxjGb2y/d0459c464819.png"
-  },
-  {
-    "slug": "2026-10-07-predicting-economics-biggest-prize",
-    "title": "Predicting Economics' Biggest Prize",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 07, 2026",
-    "image_url": "https://i.ibb.co/1YhKW586/efb8039c270b.png"
   }
 ]
