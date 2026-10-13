@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-13-parliament-protest-and-democratic-balance",
+    "title": "Parliament, Protest, and Democratic Balance",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 13, 2026",
+    "image_url": "https://i.ibb.co/Djn8DXx/ea632a69c3a5.png"
+  },
+  {
     "slug": "2026-10-13-oversight-gone-wrong-politics-over-accountability",
     "title": "Oversight Gone Wrong: Politics Over Accountability",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 06, 2026",
     "image_url": "https://i.ibb.co/8D46tq5R/c32938a6fd94.png"
-  },
-  {
-    "slug": "2026-10-06-free-speech-vs-presidential-power",
-    "title": "Free Speech vs. Presidential Power",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 06, 2026",
-    "image_url": "https://i.ibb.co/8Dgfmzf3/ffd3574dd247.png"
   }
 ]
