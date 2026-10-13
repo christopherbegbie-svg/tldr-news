@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-13-australias-45-billion-resource-debate",
+    "title": "Australia's $45 Billion Resource Debate",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 13, 2026",
+    "image_url": "https://i.ibb.co/6qmRcLk/c78c3f21daeb.png"
+  },
+  {
     "slug": "2026-10-13-australias-45-billion-resource-question",
     "title": "Australia's $45 Billion Resource Question",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 07, 2026",
     "image_url": "https://i.ibb.co/FkdDynW4/8a1636f5a4b2.png"
-  },
-  {
-    "slug": "2026-10-07-nuclear-clocks-redefining-precision",
-    "title": "Nuclear Clocks: Redefining Precision",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 07, 2026",
-    "image_url": "https://i.ibb.co/3Y0w8Ws2/c6aff9e9ba3a.png"
   }
 ]
