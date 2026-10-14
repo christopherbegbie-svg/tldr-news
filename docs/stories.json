@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-14-multiple-techniques-one-tiny-sample",
+    "title": "Multiple Techniques, One Tiny Sample",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "October 14, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-14-government-ethics-violations-explained",
     "title": "Government Ethics Violations Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 08, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-10-08-military-honours-diplomacy-in-ceremony",
-    "title": "Military Honours: Diplomacy in Ceremony",
-    "category": "politics",
-    "source": "BBC Politics",
-    "date": "October 08, 2026",
-    "image_url": "https://i.ibb.co/VWWTCMT6/b7fb32c7cab8.png"
   }
 ]
