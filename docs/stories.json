@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-14-theatres-global-journey-explained",
+    "title": "Theatre's Global Journey Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 14, 2026",
+    "image_url": "https://i.ibb.co/HLhGNhPX/c6de504da334.png"
+  },
+  {
     "slug": "2026-10-14-australias-healthcare-funding-dilemma-explained",
     "title": "Australia's Healthcare Funding Dilemma Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 08, 2026",
     "image_url": "https://i.ibb.co/kghtS9Q9/4792545f0181.png"
-  },
-  {
-    "slug": "2026-10-08-crypto-regulation-hits-a-roadblock",
-    "title": "Crypto regulation hits a roadblock",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 08, 2026",
-    "image_url": "https://i.ibb.co/9HzcycLx/8e0b3f12f30c.png"
   }
 ]
