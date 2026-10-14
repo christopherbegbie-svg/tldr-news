@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-14-when-justice-goes-live-a-modern-dilemma",
+    "title": "When Justice Goes Live: A Modern Dilemma",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 14, 2026",
+    "image_url": "https://i.ibb.co/gMJBm5c0/d0ee4135cad7.png"
+  },
+  {
     "slug": "2026-10-14-industrial-fire-toxins-devastate-downstream-ecosystems",
     "title": "Industrial Fire Toxins Devastate Downstream Ecosystems",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "October 08, 2026",
     "image_url": "https://i.ibb.co/pDDgr0x/916d42d41ab6.png"
-  },
-  {
-    "slug": "2026-10-08-anne-carson-wins-nobel-prize-in-literature",
-    "title": "Anne Carson wins Nobel Prize in Literature",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 08, 2026",
-    "image_url": "https://i.ibb.co/LDvkKPhm/36ee862dd5f9.png"
   }
 ]
