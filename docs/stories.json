@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-14-global-conflicts-and-world-leadership",
+    "title": "Global Conflicts and World Leadership",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 14, 2026",
+    "image_url": "https://i.ibb.co/CZ02CkH/3b8a10c7fdc0.png"
+  },
+  {
     "slug": "2026-10-14-ambassadors-misconduct-what-you-should-know",
     "title": "Ambassadors & Misconduct: What You Should Know",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 08, 2026",
     "image_url": "https://i.ibb.co/KcpxjF5n/e1186dc70d74.png"
-  },
-  {
-    "slug": "2026-10-08-ai-startups-valuation-crashes-before-ipo",
-    "title": "AI Startup's Valuation Crashes Before IPO",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 08, 2026",
-    "image_url": "https://i.ibb.co/chGQmwz3/e6f5665aee53.png"
   }
 ]
