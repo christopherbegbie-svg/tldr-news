@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-14-giant-bacteria-hiding-in-your-gut",
+    "title": "Giant Bacteria Hiding in Your Gut",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 14, 2026",
+    "image_url": "https://i.ibb.co/TQB2WD9/6bcbbda52992.png"
+  },
+  {
     "slug": "2026-10-14-global-conflicts-and-world-leadership",
     "title": "Global Conflicts and World Leadership",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 08, 2026",
     "image_url": "https://i.ibb.co/xS7DLCjd/c8db3b2b041e.png"
-  },
-  {
-    "slug": "2026-10-08-polls-predict-but-elections-decide",
-    "title": "Polls Predict, But Elections Decide",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 08, 2026",
-    "image_url": "https://i.ibb.co/KcpxjF5n/e1186dc70d74.png"
   }
 ]
