@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-14-resource-taxation-the-wealth-balancing-act",
+    "title": "Resource Taxation: The Wealth Balancing Act",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 14, 2026",
+    "image_url": "https://i.ibb.co/JR2CzPHm/f58d31308d9e.png"
+  },
+  {
     "slug": "2026-10-13-political-corruption-access-for-sale",
     "title": "Political Corruption: Access for Sale",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 07, 2026",
     "image_url": "https://i.ibb.co/21Qv2GFM/d714ce6db6c0.png"
-  },
-  {
-    "slug": "2026-10-07-military-executions-past-present-and-methods",
-    "title": "Military executions: past, present, and methods",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 07, 2026",
-    "image_url": "https://i.ibb.co/S71bm2J8/0b6b79322f7b.png"
   }
 ]
