@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-15-quantum-computers-enter-high-school-classrooms",
+    "title": "Quantum Computers Enter High School Classrooms",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 15, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-15-googles-more-efficient-quantum-error-fix",
     "title": "Google's More Efficient Quantum Error Fix",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "October 09, 2026",
     "image_url": "https://i.ibb.co/0yJCWqzM/5f5e361cfa24.png"
-  },
-  {
-    "slug": "2026-10-09-political-cartoons-satire-as-journalism",
-    "title": "Political Cartoons: Satire as Journalism",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 09, 2026",
-    "image_url": "https://i.ibb.co/MygQg790/c6bfd0b9a4c2.png"
   }
 ]
