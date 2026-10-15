@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-15-religion-and-government-drawing-the-line",
+    "title": "Religion and Government: Drawing the Line",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 15, 2026",
+    "image_url": "https://i.ibb.co/2Gh5ym9/11d35a5ba40b.png"
+  },
+  {
     "slug": "2026-10-15-the-science-of-finding-your-flow",
     "title": "The Science of Finding Your Flow",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 09, 2026",
     "image_url": "https://i.ibb.co/7JzGsLdj/ea58a9b1891f.png"
-  },
-  {
-    "slug": "2026-10-09-public-executions-a-history-we-nearly-forgot",
-    "title": "Public Executions: A History We Nearly Forgot",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 09, 2026",
-    "image_url": "https://i.ibb.co/n87Qjc19/344bb64bd4ca.png"
   }
 ]
