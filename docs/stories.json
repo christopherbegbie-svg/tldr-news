@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-15-school-safety-emergency-response-systems",
+    "title": "School Safety: Emergency Response Systems",
+    "category": "world",
+    "source": "France 24",
+    "date": "October 15, 2026",
+    "image_url": "https://i.ibb.co/5h5YJWH1/26cdaadbb327.png"
+  },
+  {
     "slug": "2026-10-15-snap-changes-and-election-timing",
     "title": "SNAP Changes and Election Timing",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 09, 2026",
     "image_url": "https://i.ibb.co/KxgSt1TL/fc9e5489b1ef.png"
-  },
-  {
-    "slug": "2026-10-09-aviations-insider-threat-problem",
-    "title": "Aviation's Insider Threat Problem",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 09, 2026",
-    "image_url": "https://i.ibb.co/1GWhsTgQ/55f54676c92f.png"
   }
 ]
