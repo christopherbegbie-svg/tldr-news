@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-15-googles-more-efficient-quantum-error-fix",
+    "title": "Google's More Efficient Quantum Error Fix",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 15, 2026",
+    "image_url": "https://i.ibb.co/6RCBzPj8/a5e2bb7d9f91.png"
+  },
+  {
     "slug": "2026-10-15-why-kansas-politics-just-got-unpredictable",
     "title": "Why Kansas Politics Just Got Unpredictable",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 09, 2026",
     "image_url": "https://i.ibb.co/MygQg790/c6bfd0b9a4c2.png"
-  },
-  {
-    "slug": "2026-10-09-measuring-black-hole-spin",
-    "title": "Measuring Black Hole Spin",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 09, 2026",
-    "image_url": ""
   }
 ]
