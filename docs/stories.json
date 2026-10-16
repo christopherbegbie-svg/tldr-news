@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-16-press-secretary-governments-voice-to-you",
+    "title": "Press Secretary: Government's Voice to You",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 16, 2026",
+    "image_url": "https://i.ibb.co/7tVQdxWQ/5fdb30557933.png"
+  },
+  {
     "slug": "2026-10-16-rare-civilian-intervention-sparks-safety-debate",
     "title": "Rare Civilian Intervention Sparks Safety Debate",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 10, 2026",
     "image_url": "https://i.ibb.co/996T56gp/8b43ede6f535.png"
-  },
-  {
-    "slug": "2026-10-10-airport-attacks-and-global-security",
-    "title": "Airport attacks and global security",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 10, 2026",
-    "image_url": "https://i.ibb.co/TBbW8vwX/a4c73bf5ad76.png"
   }
 ]
