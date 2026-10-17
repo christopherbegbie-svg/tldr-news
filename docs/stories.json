@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-17-energy-deals-and-federal-power-explained",
+    "title": "Energy Deals and Federal Power Explained",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 17, 2026",
+    "image_url": "https://i.ibb.co/wrYgQLgj/0387b764ab05.png"
+  },
+  {
     "slug": "2026-10-17-senate-races-three-issues-that-matter-most",
     "title": "Senate races: Three issues that matter most",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 11, 2026",
     "image_url": "https://i.ibb.co/KzGm88k1/7b789f495196.png"
-  },
-  {
-    "slug": "2026-10-11-the-science-behind-ancient-sauna-practices",
-    "title": "The Science Behind Ancient Sauna Practices",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 11, 2026",
-    "image_url": ""
   }
 ]
