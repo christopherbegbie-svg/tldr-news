@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-17-political-cartoons-as-democratic-commentary",
+    "title": "Political Cartoons as Democratic Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 17, 2026",
+    "image_url": "https://i.ibb.co/20zqrz1f/0553e2d4c360.png"
+  },
+  {
     "slug": "2026-10-17-ukraines-oil-strategy-and-shifting-alliances",
     "title": "Ukraine's Oil Strategy and Shifting Alliances",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "October 11, 2026",
     "image_url": "https://i.ibb.co/RTCnxtR5/dbb4c7e2b987.png"
-  },
-  {
-    "slug": "2026-10-11-australias-smart-emergency-alert-system",
-    "title": "Australia's Smart Emergency Alert System",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 11, 2026",
-    "image_url": "https://i.ibb.co/HLHJSfCt/3e2b80286372.png"
   }
 ]
