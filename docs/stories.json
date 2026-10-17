@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-17-inside-as-byatts-creative-mind",
+    "title": "Inside A.S. Byatt's Creative Mind",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "October 17, 2026",
+    "image_url": "https://i.ibb.co/wFf3qDCf/ecabbeaaf86f.png"
+  },
+  {
     "slug": "2026-10-17-ai-powered-torpedoes-explained",
     "title": "AI-Powered Torpedoes Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "October 11, 2026",
     "image_url": "https://i.ibb.co/7dmzmJjt/e2dd57b8d8a3.png"
-  },
-  {
-    "slug": "2026-10-11-airport-security-and-global-conflict",
-    "title": "Airport Security and Global Conflict",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 11, 2026",
-    "image_url": "https://i.ibb.co/c7bK6Wp/e2081d765c83.png"
   }
 ]
