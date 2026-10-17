@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-17-justice-decades-after-apartheid-ends",
+    "title": "Justice Decades After Apartheid Ends",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 17, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-17-crisis-and-democracy-two-stories-explained",
     "title": "Crisis and Democracy: Two Stories Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 11, 2026",
     "image_url": "https://i.ibb.co/kFDTfhH/dd33928aec59.png"
-  },
-  {
-    "slug": "2026-10-11-battleground-districts-where-elections-are-won",
-    "title": "Battleground Districts: Where Elections Are Won",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 11, 2026",
-    "image_url": "https://i.ibb.co/r2YMCcD3/93c088a1ec21.png"
   }
 ]
