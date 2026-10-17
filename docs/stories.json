@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-17-political-cartoons-democracys-visual-storytellers",
+    "title": "Political Cartoons: Democracy's Visual Storytellers",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 17, 2026",
+    "image_url": "https://i.ibb.co/1GN4RgM0/594f4cffa2f5.png"
+  },
+  {
     "slug": "2026-10-17-silence-reduces-post-surgery-sickness",
     "title": "Silence Reduces Post-Surgery Sickness",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 11, 2026",
     "image_url": "https://i.ibb.co/kg1TDPrv/db424ca1a78c.png"
-  },
-  {
-    "slug": "2026-10-11-europe-vs-china-the-car-wars-begin",
-    "title": "Europe vs. China: The Car Wars Begin",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 11, 2026",
-    "image_url": "https://i.ibb.co/HTC4LK1Q/c7a4c1662b7b.png"
   }
 ]
