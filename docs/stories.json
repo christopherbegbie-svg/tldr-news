@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-17-political-cartoons-democracys-visual-watchdog",
+    "title": "Political Cartoons: Democracy's Visual Watchdog",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 17, 2026",
+    "image_url": "https://i.ibb.co/qMr7rqs1/a76b3ac184f5.png"
+  },
+  {
     "slug": "2026-10-17-when-politicians-distance-from-allies",
     "title": "When politicians distance from allies",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "BBC Politics",
     "date": "October 11, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-10-11-riyadh-attack-and-global-conflict-escalation",
-    "title": "Riyadh attack and global conflict escalation",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 11, 2026",
-    "image_url": "https://i.ibb.co/NgcJXLCR/2b77d35dbf8b.png"
   }
 ]
