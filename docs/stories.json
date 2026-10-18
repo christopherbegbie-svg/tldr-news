@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-18-why-press-secretaries-matter",
+    "title": "Why Press Secretaries Matter",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 18, 2026",
+    "image_url": "https://i.ibb.co/bjLTVHbC/4dce6e198451.png"
+  },
+  {
     "slug": "2026-10-18-war-peace-and-political-strategy",
     "title": "War, Peace, and Political Strategy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 12, 2026",
     "image_url": "https://i.ibb.co/9mRnrFw4/457f5142248e.png"
-  },
-  {
-    "slug": "2026-10-12-when-business-disputes-turn-into-prison-sentences",
-    "title": "When Business Disputes Turn Into Prison Sentences",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 12, 2026",
-    "image_url": "https://i.ibb.co/WNvCsH4N/6ceb8836a4c8.png"
   }
 ]
