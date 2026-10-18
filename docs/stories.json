@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-18-synthetic-drugs-flood-us-cities",
+    "title": "Synthetic drugs flood US cities",
+    "category": "world",
+    "source": "BBC World",
+    "date": "October 18, 2026",
+    "image_url": "https://i.ibb.co/5Wgzf66R/eb5c0b010cb4.png"
+  },
+  {
     "slug": "2026-10-18-celebrity-and-electoral-politics-intersect",
     "title": "Celebrity and Electoral Politics Intersect",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 12, 2026",
     "image_url": "https://i.ibb.co/yBfP3tHR/fc10e1f38ddd.png"
-  },
-  {
-    "slug": "2026-10-12-personal-grievances-shape-political-outcomes",
-    "title": "Personal Grievances Shape Political Outcomes",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 12, 2026",
-    "image_url": "https://i.ibb.co/nsdNGv8y/b5e128783b4d.png"
   }
 ]
