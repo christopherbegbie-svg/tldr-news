@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-18-celebrity-and-electoral-politics-intersect",
+    "title": "Celebrity and Electoral Politics Intersect",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 18, 2026",
+    "image_url": "https://i.ibb.co/Kp3wNQSN/784429f7ea0c.png"
+  },
+  {
     "slug": "2026-10-18-fast-moving-fire-why-military-bases-are-at-risk",
     "title": "Fast-Moving Fire: Why Military Bases Are At Risk",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 12, 2026",
     "image_url": "https://i.ibb.co/nsdNGv8y/b5e128783b4d.png"
-  },
-  {
-    "slug": "2026-10-12-military-incident-sparks-iran-uk-crisis",
-    "title": "Military Incident Sparks Iran-UK Crisis",
-    "category": "world",
-    "source": "Deutsche Welle",
-    "date": "October 12, 2026",
-    "image_url": "https://i.ibb.co/Q7XmKGgs/dc1613a76543.png"
   }
 ]
