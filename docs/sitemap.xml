@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-10-19-australia-appoints-new-anti-corruption-leader.html</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-18-how-fare-caps-make-transit-affordable.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-13-disability-advocate-who-transformed-hollywood.html</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-10-13-price-bans-dont-stop-price-increases.html</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
