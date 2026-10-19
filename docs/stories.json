@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-19-political-violence-and-democratic-safety",
+    "title": "Political Violence and Democratic Safety",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 19, 2026",
+    "image_url": "https://i.ibb.co/PGKgBzvN/8d390a7283df.png"
+  },
+  {
     "slug": "2026-10-19-scotlands-path-to-greater-self-governance",
     "title": "Scotland's Path to Greater Self-Governance",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 13, 2026",
     "image_url": "https://i.ibb.co/HpGFs7jb/982a6ecff3c7.png"
-  },
-  {
-    "slug": "2026-10-13-government-agency-transformation-explained",
-    "title": "Government Agency Transformation Explained",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 13, 2026",
-    "image_url": "https://i.ibb.co/ZqBqLTj/6f28cd5f63bd.png"
   }
 ]
