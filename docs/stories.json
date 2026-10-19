@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-19-temporary-protected-status-explained",
+    "title": "Temporary Protected Status Explained",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 19, 2026",
+    "image_url": "https://i.ibb.co/7x9R0ZMZ/25cc20061ec6.png"
+  },
+  {
     "slug": "2026-10-19-republicans-quietly-drop-trump-from-campaigns",
     "title": "Republicans Quietly Drop Trump From Campaigns",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 13, 2026",
     "image_url": "https://i.ibb.co/ksD8dDXS/38b485b1f4c8.png"
-  },
-  {
-    "slug": "2026-10-13-the-power-of-political-messaging",
-    "title": "The Power of Political Messaging",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 13, 2026",
-    "image_url": "https://i.ibb.co/gZ2JmSSg/201134a82920.png"
   }
 ]
