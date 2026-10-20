@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-presidential-power-meets-tariff-authority",
+    "title": "Presidential Power Meets Tariff Authority",
+    "category": "world",
+    "source": "BBC World",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/chPbJ3Dj/5db168cbfa63.png"
+  },
+  {
     "slug": "2026-10-20-alaskas-ranked-choice-voting-challenge",
     "title": "Alaska's Ranked-Choice Voting Challenge",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/21xg2bYb/628c7fd70114.png"
-  },
-  {
-    "slug": "2026-10-14-giant-bacteria-hiding-in-your-gut",
-    "title": "Giant Bacteria Hiding in Your Gut",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/TQB2WD9/6bcbbda52992.png"
   }
 ]
