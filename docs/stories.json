@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-building-political-power-before-elections",
+    "title": "Building Political Power Before Elections",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/s9024Msg/39c08c678653.png"
+  },
+  {
     "slug": "2026-10-20-diplomacy-when-smiles-hide-real-disagreements",
     "title": "Diplomacy: When smiles hide real disagreements",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC Science",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/G4Y6Ygqb/288bf0fe8c7a.png"
-  },
-  {
-    "slug": "2026-10-14-multiple-techniques-one-tiny-sample",
-    "title": "Multiple Techniques, One Tiny Sample",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 14, 2026",
-    "image_url": ""
   }
 ]
