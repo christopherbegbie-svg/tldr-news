@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-political-violence-a-democracy-crisis",
+    "title": "Political Violence: A Democracy Crisis",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/TxwwNC1Y/dbc5465c84c0.png"
+  },
+  {
     "slug": "2026-10-20-building-political-power-before-elections",
     "title": "Building Political Power Before Elections",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/gMJBm5c0/d0ee4135cad7.png"
-  },
-  {
-    "slug": "2026-10-14-industrial-fire-toxins-devastate-downstream-ecosystems",
-    "title": "Industrial Fire Toxins Devastate Downstream Ecosystems",
-    "category": "science",
-    "source": "BBC Science",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/G4Y6Ygqb/288bf0fe8c7a.png"
   }
 ]
