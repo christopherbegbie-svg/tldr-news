@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-fighting-disease-with-infected-mosquitoes",
+    "title": "Fighting Disease With Infected Mosquitoes",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/Vpx564r2/153166a00497.png"
+  },
+  {
     "slug": "2026-10-20-alaskas-voting-confusion-the-two-dans-problem",
     "title": "Alaska's Voting Confusion: The Two Dans Problem",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/HRPCcGs/77b08e575e6d.png"
-  },
-  {
-    "slug": "2026-10-14-global-crises-reshape-world-leadership-today",
-    "title": "Global crises reshape world leadership today",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/N6dKhybF/07f757cebb93.png"
   }
 ]
