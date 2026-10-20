@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-party-loyalty-vs-political-survival",
+    "title": "Party loyalty vs. political survival",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/C5WCvvxg/dea23c3922fe.png"
+  },
+  {
     "slug": "2026-10-20-political-violence-and-democratic-safety",
     "title": "Political Violence and Democratic Safety",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "October 13, 2026",
     "image_url": "https://i.ibb.co/jkVZj0YK/2c5dba0f950d.png"
-  },
-  {
-    "slug": "2026-10-13-australias-45-billion-resource-debate",
-    "title": "Australia's $45 Billion Resource Debate",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 13, 2026",
-    "image_url": "https://i.ibb.co/6qmRcLk/c78c3f21daeb.png"
   }
 ]
