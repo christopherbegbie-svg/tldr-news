@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-political-violence-and-democratic-safety",
+    "title": "Political Violence and Democratic Safety",
+    "category": "politics",
+    "source": "The Guardian World Politics",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/pFFDQMZ/5421cae02a30.png"
+  },
+  {
     "slug": "2026-10-20-the-barber-who-didnt-want-fame",
     "title": "The barber who didn't want fame",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 13, 2026",
     "image_url": "https://i.ibb.co/6qmRcLk/c78c3f21daeb.png"
-  },
-  {
-    "slug": "2026-10-13-australias-45-billion-resource-question",
-    "title": "Australia's $45 Billion Resource Question",
-    "category": "politics",
-    "source": "The Guardian World Politics",
-    "date": "October 13, 2026",
-    "image_url": "https://i.ibb.co/Pz3C1DwN/2cdcfe764651.png"
   }
 ]
