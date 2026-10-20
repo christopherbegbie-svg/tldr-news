@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-political-strategy-building-power-early",
+    "title": "Political Strategy: Building Power Early",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/SXrWxGRm/9c7c9de7d665.png"
+  },
+  {
     "slug": "2026-10-20-political-violence-understanding-targeted-attacks",
     "title": "Political Violence: Understanding Targeted Attacks",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/N0h3L7Q/12853951ef12.png"
-  },
-  {
-    "slug": "2026-10-14-resource-taxation-the-wealth-balancing-act",
-    "title": "Resource Taxation: The Wealth Balancing Act",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/JR2CzPHm/f58d31308d9e.png"
   }
 ]
