@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-political-violence-a-sign-of-divided-society",
+    "title": "Political Violence: A Sign of Divided Society",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/G4MwGrJP/17f48091fcea.png"
+  },
+  {
     "slug": "2026-10-20-political-violence-a-democracy-crisis",
     "title": "Political Violence: A Democracy Crisis",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World Politics",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/DgTd5Dwz/4828b6f08e1a.png"
-  },
-  {
-    "slug": "2026-10-14-when-justice-goes-live-a-modern-dilemma",
-    "title": "When Justice Goes Live: A Modern Dilemma",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/gMJBm5c0/d0ee4135cad7.png"
   }
 ]
