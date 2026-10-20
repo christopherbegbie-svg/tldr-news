@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-20-political-violence-understanding-targeted-attacks",
+    "title": "Political Violence: Understanding Targeted Attacks",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 20, 2026",
+    "image_url": "https://i.ibb.co/ZRXtd7b6/740958e32e9c.png"
+  },
+  {
     "slug": "2026-10-20-reading-the-real-numbers-behind-economic-claims",
     "title": "Reading the real numbers behind economic claims",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/JR2CzPHm/f58d31308d9e.png"
-  },
-  {
-    "slug": "2026-10-13-political-corruption-access-for-sale",
-    "title": "Political Corruption: Access for Sale",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 13, 2026",
-    "image_url": "https://i.ibb.co/FLZx9MzN/e6bbdc67a7d8.png"
   }
 ]
