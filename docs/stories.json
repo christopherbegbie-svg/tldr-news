@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-21-how-stars-shaped-human-civilizations",
+    "title": "How stars shaped human civilizations",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "October 21, 2026",
+    "image_url": "https://i.ibb.co/bgNgrc4n/cb1689bbda31.png"
+  },
+  {
     "slug": "2026-10-21-loyalty-vs-policy-in-american-politics",
     "title": "Loyalty vs. Policy in American Politics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 15, 2026",
     "image_url": "https://i.ibb.co/1tftkwT3/1dda7dc217d2.png"
-  },
-  {
-    "slug": "2026-10-14-theatres-global-journey-explained",
-    "title": "Theatre's Global Journey Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/HLhGNhPX/c6de504da334.png"
   }
 ]
