@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-21-can-polls-predict-elections-accurately",
+    "title": "Can Polls Predict Elections Accurately?",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 21, 2026",
+    "image_url": "https://i.ibb.co/Zp04BDbx/ce2a0b0f2260.png"
+  },
+  {
     "slug": "2026-10-21-election-interference-and-political-claims",
     "title": "Election Interference and Political Claims",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 15, 2026",
     "image_url": "https://i.ibb.co/DcJ7Cd5/c41671e7da0f.png"
-  },
-  {
-    "slug": "2026-10-15-quantum-limits-on-cooling-speed",
-    "title": "Quantum Limits on Cooling Speed",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 15, 2026",
-    "image_url": "https://i.ibb.co/JFGxTxLB/8989ccfcdff0.png"
   }
 ]
