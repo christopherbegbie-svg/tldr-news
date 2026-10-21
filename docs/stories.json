@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-21-political-attack-ads-and-personal-tragedy",
+    "title": "Political Attack Ads and Personal Tragedy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 21, 2026",
+    "image_url": "https://i.ibb.co/qMhTNgjS/5c3c85a49bac.png"
+  },
+  {
     "slug": "2026-10-21-california-gas-prices-meet-global-politics",
     "title": "California Gas Prices Meet Global Politics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "New Scientist",
     "date": "October 15, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-10-15-googles-more-efficient-quantum-error-fix",
-    "title": "Google's More Efficient Quantum Error Fix",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "October 15, 2026",
-    "image_url": "https://i.ibb.co/6RCBzPj8/a5e2bb7d9f91.png"
   }
 ]
