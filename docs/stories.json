@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-21-ais-role-in-youth-radicalisation",
+    "title": "AI's Role in Youth Radicalisation",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 21, 2026",
+    "image_url": "https://i.ibb.co/PzxLyYCb/f281bee87e09.png"
+  },
+  {
     "slug": "2026-10-21-democracy-under-threat-in-australia",
     "title": "Democracy Under Threat in Australia",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/997FrmHS/8efcefd67ed3.png"
-  },
-  {
-    "slug": "2026-10-14-supreme-courts-winning-conservative-lawyer",
-    "title": "Supreme Court's Winning Conservative Lawyer",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/TMh68FQg/89c777da6553.png"
   }
 ]
