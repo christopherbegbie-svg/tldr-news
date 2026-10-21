@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-21-how-voter-data-can-get-it-wrong",
+    "title": "How Voter Data Can Get It Wrong",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 21, 2026",
+    "image_url": "https://i.ibb.co/XxR4mX0M/7558d5b508f7.png"
+  },
+  {
     "slug": "2026-10-21-when-courts-block-government-policy-changes",
     "title": "When Courts Block Government Policy Changes",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 15, 2026",
     "image_url": "https://i.ibb.co/7tNzdqj3/740087bc1be2.png"
-  },
-  {
-    "slug": "2026-10-15-aca-enrollment-changes-explained",
-    "title": "ACA Enrollment Changes Explained",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 15, 2026",
-    "image_url": "https://i.ibb.co/MQ1vx2P/f608b53d8df6.png"
   }
 ]
