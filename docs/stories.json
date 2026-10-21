@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-21-democracy-under-threat-in-australia",
+    "title": "Democracy Under Threat in Australia",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 21, 2026",
+    "image_url": "https://i.ibb.co/bMjKsPxS/cd57087815c5.png"
+  },
+  {
     "slug": "2026-10-21-when-farmers-swing-elections",
     "title": "When Farmers Swing Elections",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 14, 2026",
     "image_url": "https://i.ibb.co/TMh68FQg/89c777da6553.png"
-  },
-  {
-    "slug": "2026-10-14-starshield-spacexs-military-internet-system",
-    "title": "Starshield: SpaceX's Military Internet System",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 14, 2026",
-    "image_url": "https://i.ibb.co/bt699kS/d9f43e8e3cdf.png"
   }
 ]
