@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-21-election-interference-and-political-claims",
+    "title": "Election Interference and Political Claims",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 21, 2026",
+    "image_url": "https://i.ibb.co/235JnqQ5/673cf1392fad.png"
+  },
+  {
     "slug": "2026-10-21-new-ieee-president-elected-heres-why-it-matters",
     "title": "New IEEE President Elected: Here's Why It Matters",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "October 15, 2026",
     "image_url": "https://i.ibb.co/JFGxTxLB/8989ccfcdff0.png"
-  },
-  {
-    "slug": "2026-10-15-diplomats-and-accountability-explained",
-    "title": "Diplomats and accountability explained",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 15, 2026",
-    "image_url": "https://i.ibb.co/B2x0xLf3/0990a3306cb1.png"
   }
 ]
