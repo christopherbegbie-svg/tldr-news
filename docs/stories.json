@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-22-election-monitors-explained",
+    "title": "Election Monitors Explained",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 22, 2026",
+    "image_url": "https://i.ibb.co/Rpn9Qj5P/a891c9c196ad.png"
+  },
+  {
     "slug": "2026-10-21-political-attack-ads-and-personal-tragedy",
     "title": "Political Attack Ads and Personal Tragedy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 15, 2026",
     "image_url": "https://i.ibb.co/HpkH8Gsq/d4ad94bb8900.png"
-  },
-  {
-    "slug": "2026-10-15-quantum-computers-enter-high-school-classrooms",
-    "title": "Quantum Computers Enter High School Classrooms",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "October 15, 2026",
-    "image_url": ""
   }
 ]

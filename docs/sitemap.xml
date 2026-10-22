@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-10-22-election-monitors-explained.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-21-political-attack-ads-and-personal-tragedy.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-15-snap-changes-and-election-timing.html</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-10-15-quantum-computers-enter-high-school-classrooms.html</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
