@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-22-why-machines-cant-replace-your-engineering-team",
+    "title": "Why Machines Can't Replace Your Engineering Team",
+    "category": "engineering",
+    "source": "IEEE Spectrum",
+    "date": "October 22, 2026",
+    "image_url": "https://i.ibb.co/j9c4NZ8C/cacd3457df27.png"
+  },
+  {
     "slug": "2026-10-22-mystery-solved-trees-not-earharts-plane",
     "title": "Mystery Solved: Trees, Not Earhart's Plane",
     "category": "history",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 16, 2026",
     "image_url": "https://i.ibb.co/ymKWK9vS/7872c5c1a5d0.png"
-  },
-  {
-    "slug": "2026-10-16-political-cartoons-democracys-visual-watchdog",
-    "title": "Political Cartoons: Democracy's Visual Watchdog",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 16, 2026",
-    "image_url": "https://i.ibb.co/yc30g4NK/f6c23a8e1004.png"
   }
 ]
