@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-22-when-animal-preservation-becomes-wildlife-crime",
+    "title": "When animal preservation becomes wildlife crime",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 22, 2026",
+    "image_url": "https://i.ibb.co/G4RvNvct/6911c1e9e0b5.png"
+  },
+  {
     "slug": "2026-10-22-election-monitors-explained",
     "title": "Election Monitors Explained",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 15, 2026",
     "image_url": "https://i.ibb.co/5h5YJWH1/26cdaadbb327.png"
-  },
-  {
-    "slug": "2026-10-15-snap-changes-and-election-timing",
-    "title": "SNAP Changes and Election Timing",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 15, 2026",
-    "image_url": "https://i.ibb.co/HpkH8Gsq/d4ad94bb8900.png"
   }
 ]
