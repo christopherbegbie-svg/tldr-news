@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-22-political-ads-the-science-of-persuasion",
+    "title": "Political Ads: The Science of Persuasion",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 22, 2026",
+    "image_url": "https://i.ibb.co/390ZS3mD/afe13c9b77f6.png"
+  },
+  {
     "slug": "2026-10-22-bogong-moths-from-extinction-to-recovery",
     "title": "Bogong Moths: From Extinction to Recovery",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Economics",
     "date": "October 16, 2026",
     "image_url": "https://i.ibb.co/7JkqwTqW/598ca0273c73.png"
-  },
-  {
-    "slug": "2026-10-16-new-type-of-water-ice-just-discovered",
-    "title": "New type of water ice just discovered",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 16, 2026",
-    "image_url": "https://i.ibb.co/Xr6xbdDz/20c061a02a68.png"
   }
 ]
