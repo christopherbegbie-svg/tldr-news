@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-22-the-healthcare-cost-squeeze",
+    "title": "The Healthcare Cost Squeeze",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 22, 2026",
+    "image_url": "https://i.ibb.co/N6jB84Hn/51c4b88e7d06.png"
+  },
+  {
     "slug": "2026-10-22-why-machines-cant-replace-your-engineering-team",
     "title": "Why Machines Can't Replace Your Engineering Team",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "October 16, 2026",
     "image_url": "https://i.ibb.co/FqHLnPbX/381dd822eb1d.png"
-  },
-  {
-    "slug": "2026-10-16-when-powerful-allies-publicly-disagree",
-    "title": "When Powerful Allies Publicly Disagree",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 16, 2026",
-    "image_url": "https://i.ibb.co/ymKWK9vS/7872c5c1a5d0.png"
   }
 ]
