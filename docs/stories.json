@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-22-haitis-gang-crisis-a-global-problem",
+    "title": "Haiti's Gang Crisis: A Global Problem",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 22, 2026",
+    "image_url": "https://i.ibb.co/GfBxVRC2/36655698ad01.png"
+  },
+  {
     "slug": "2026-10-22-when-polls-get-elections-wrong",
     "title": "When Polls Get Elections Wrong",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 15, 2026",
     "image_url": "https://i.ibb.co/2Gh5ym9/11d35a5ba40b.png"
-  },
-  {
-    "slug": "2026-10-15-the-science-of-finding-your-flow",
-    "title": "The Science of Finding Your Flow",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 15, 2026",
-    "image_url": "https://i.ibb.co/kgq5jKMt/bbeca64d0150.png"
   }
 ]
