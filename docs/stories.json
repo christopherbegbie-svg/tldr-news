@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-23-political-cartoons-shape-democracy",
+    "title": "Political Cartoons Shape Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 23, 2026",
+    "image_url": "https://i.ibb.co/99L29YwW/f57a51879d72.png"
+  },
+  {
     "slug": "2026-10-23-ebola-crosses-borders-tracking-a-crisis",
     "title": "Ebola Crosses Borders: Tracking a Crisis",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian Books",
     "date": "October 17, 2026",
     "image_url": "https://i.ibb.co/wFf3qDCf/ecabbeaaf86f.png"
-  },
-  {
-    "slug": "2026-10-17-ai-powered-torpedoes-explained",
-    "title": "AI-Powered Torpedoes Explained",
-    "category": "world",
-    "source": "The Hindu",
-    "date": "October 17, 2026",
-    "image_url": "https://i.ibb.co/8gnRXS3M/cca148982d96.png"
   }
 ]
