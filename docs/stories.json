@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-23-political-cartoons-democracys-visual-commentary",
+    "title": "Political Cartoons: Democracy's Visual Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 23, 2026",
+    "image_url": "https://i.ibb.co/277QXHyR/adbd3a5f7f81.png"
+  },
+  {
     "slug": "2026-10-23-israeli-palestinian-conflict-escalates",
     "title": "Israeli-Palestinian Conflict Escalates",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 17, 2026",
     "image_url": "https://i.ibb.co/354Y85tV/c47472968c4b.png"
-  },
-  {
-    "slug": "2026-10-17-justice-decades-after-apartheid-ends",
-    "title": "Justice Decades After Apartheid Ends",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 17, 2026",
-    "image_url": ""
   }
 ]
