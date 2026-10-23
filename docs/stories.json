@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-23-political-cartoons-democracys-visual-watchdog",
+    "title": "Political Cartoons: Democracy's Visual Watchdog",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 23, 2026",
+    "image_url": "https://i.ibb.co/BH2TY8zc/9d3b5d3e3d9d.png"
+  },
+  {
     "slug": "2026-10-23-storms-power-grids-and-infrastructure-collapse",
     "title": "Storms, Power Grids, and Infrastructure Collapse",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 17, 2026",
     "image_url": "https://i.ibb.co/JwVpXRYS/044ac70d824b.png"
-  },
-  {
-    "slug": "2026-10-17-frances-cultural-defense-meets-global-capital",
-    "title": "France's Cultural Defense Meets Global Capital",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 17, 2026",
-    "image_url": "https://i.ibb.co/1JqJc58t/0968add1433c.png"
   }
 ]
