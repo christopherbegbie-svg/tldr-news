@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-25-ais-language-gap-threatens-democracy",
+    "title": "AI's Language Gap Threatens Democracy",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 25, 2026",
+    "image_url": "https://i.ibb.co/d4T6vt6f/50e36644b98e.png"
+  },
+  {
     "slug": "2026-10-25-politics-and-safety-democracys-hidden-vulnerability",
     "title": "Politics and safety: democracy's hidden vulnerability",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "MIT Technology Review AI",
     "date": "October 19, 2026",
     "image_url": "https://i.ibb.co/5gqzmLyY/3cf83f6d16ae.png"
-  },
-  {
-    "slug": "2026-10-19-diesel-tax-deferral-help-or-delay",
-    "title": "Diesel Tax Deferral: Help or Delay?",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 19, 2026",
-    "image_url": "https://i.ibb.co/prZVVdk5/7d85102c443d.png"
   }
 ]
