@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-25-frances-growing-wave-of-worker-protests",
+    "title": "France's Growing Wave of Worker Protests",
+    "category": "world",
+    "source": "The Hindu",
+    "date": "October 25, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-25-elections-protests-wildfires-shape-global-week",
     "title": "Elections, Protests, Wildfires Shape Global Week",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 19, 2026",
     "image_url": "https://i.ibb.co/PGKgBzvN/8d390a7283df.png"
-  },
-  {
-    "slug": "2026-10-19-scotlands-path-to-greater-self-governance",
-    "title": "Scotland's Path to Greater Self-Governance",
-    "category": "politics",
-    "source": "BBC Politics",
-    "date": "October 19, 2026",
-    "image_url": "https://i.ibb.co/hRGjM3QS/565bd523ff97.png"
   }
 ]
