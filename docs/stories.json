@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-25-midterms-breaking-a-century-old-pattern",
+    "title": "Midterms: Breaking a Century-Old Pattern",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 25, 2026",
+    "image_url": "https://i.ibb.co/8LVzWcsy/46aa27f2e774.png"
+  },
+  {
     "slug": "2026-10-25-opposition-leader-returns-to-venezuela",
     "title": "Opposition Leader Returns to Venezuela",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 19, 2026",
     "image_url": "https://i.ibb.co/YB71ZjfF/d9bb84e57165.png"
-  },
-  {
-    "slug": "2026-10-19-new-3d-carbon-form-created-in-lab",
-    "title": "New 3D Carbon Form Created in Lab",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 19, 2026",
-    "image_url": "https://i.ibb.co/0ptmb40n/99e1a1584a33.png"
   }
 ]
