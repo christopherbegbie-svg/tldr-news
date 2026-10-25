@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-25-gun-violence-and-public-safety-systems",
+    "title": "Gun Violence and Public Safety Systems",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 25, 2026",
+    "image_url": "https://i.ibb.co/Xxp73wTT/4e0d8210bf3e.png"
+  },
+  {
     "slug": "2026-10-24-drive-by-shootings-crime-and-community-safety",
     "title": "Drive-By Shootings: Crime and Community Safety",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "October 18, 2026",
     "image_url": "https://i.ibb.co/5Wgzf66R/eb5c0b010cb4.png"
-  },
-  {
-    "slug": "2026-10-18-celebrity-and-electoral-politics-intersect",
-    "title": "Celebrity and Electoral Politics Intersect",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 18, 2026",
-    "image_url": "https://i.ibb.co/Kp3wNQSN/784429f7ea0c.png"
   }
 ]
