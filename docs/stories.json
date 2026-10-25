@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-25-election-interference-the-invisible-threat",
+    "title": "Election Interference: The Invisible Threat",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 25, 2026",
+    "image_url": "https://i.ibb.co/jvznBLXR/48c3068a7a71.png"
+  },
+  {
     "slug": "2026-10-25-gun-violence-and-public-safety-systems",
     "title": "Gun Violence and Public Safety Systems",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 18, 2026",
     "image_url": "https://i.ibb.co/qLRGH1q8/300071c8975a.png"
-  },
-  {
-    "slug": "2026-10-18-synthetic-drugs-flood-us-cities",
-    "title": "Synthetic drugs flood US cities",
-    "category": "world",
-    "source": "BBC World",
-    "date": "October 18, 2026",
-    "image_url": "https://i.ibb.co/5Wgzf66R/eb5c0b010cb4.png"
   }
 ]
