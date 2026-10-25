@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-25-brazils-election-when-access-becomes-politics",
+    "title": "Brazil's Election: When Access Becomes Politics",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 25, 2026",
+    "image_url": "https://i.ibb.co/cXTxHg62/431a322aed88.png"
+  },
+  {
     "slug": "2026-10-25-ais-language-gap-threatens-democracy",
     "title": "AI's Language Gap Threatens Democracy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 19, 2026",
     "image_url": "https://i.ibb.co/hJ6GnR0x/290285c5f2aa.png"
-  },
-  {
-    "slug": "2026-10-19-ai-optimized-internet-progress-or-problem",
-    "title": "AI-optimized internet: progress or problem?",
-    "category": "ai",
-    "source": "MIT Technology Review AI",
-    "date": "October 19, 2026",
-    "image_url": "https://i.ibb.co/5gqzmLyY/3cf83f6d16ae.png"
   }
 ]
