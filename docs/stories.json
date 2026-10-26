@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-26-how-tradition-shapes-modern-politics",
+    "title": "How Tradition Shapes Modern Politics",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 26, 2026",
+    "image_url": "https://i.ibb.co/PGJhnq5F/f75105725132.png"
+  },
+  {
     "slug": "2026-10-26-charge-transfer-has-a-hidden-pattern",
     "title": "Charge Transfer Has A Hidden Pattern",
     "category": "physics",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 20, 2026",
     "image_url": "https://i.ibb.co/ZRXtd7b6/740958e32e9c.png"
-  },
-  {
-    "slug": "2026-10-20-reading-the-real-numbers-behind-economic-claims",
-    "title": "Reading the real numbers behind economic claims",
-    "category": "world",
-    "source": "BBC World",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/6RhnytGQ/be4694a623d0.png"
   }
 ]
