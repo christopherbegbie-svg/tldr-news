@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-26-politics-safety-and-civility",
+    "title": "Politics, Safety, and Civility",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 26, 2026",
+    "image_url": "https://i.ibb.co/93HnHsp7/0db7e53d4b98.png"
+  },
+  {
     "slug": "2026-10-26-culture-reshapes-presidential-campaign-strategy",
     "title": "Culture Reshapes Presidential Campaign Strategy",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 20, 2026",
     "image_url": "https://i.ibb.co/vCF5N7cM/5b266b70caa0.png"
-  },
-  {
-    "slug": "2026-10-20-prank-or-crime-the-peachy-flamingo-case",
-    "title": "Prank or crime? The Peachy flamingo case",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/xq2fyNKF/d114eb414431.png"
   }
 ]
