@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-26-independent-candidates-a-new-political-strategy",
+    "title": "Independent Candidates: A New Political Strategy",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 26, 2026",
+    "image_url": "https://i.ibb.co/Vc06m2mD/376c3ddbd0e7.png"
+  },
+  {
     "slug": "2026-10-26-ai-unlocks-millions-of-scientific-papers",
     "title": "AI Unlocks Millions of Scientific Papers",
     "category": "engineering",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 20, 2026",
     "image_url": "https://i.ibb.co/RpvMwRjW/3336936a7358.png"
-  },
-  {
-    "slug": "2026-10-20-cloud-outage-why-everything-connected-collapsed",
-    "title": "Cloud Outage: Why Everything Connected Collapsed",
-    "category": "technology",
-    "source": "BBC Technology",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/DHbrQcCT/dcc6f78d1e8a.png"
   }
 ]
