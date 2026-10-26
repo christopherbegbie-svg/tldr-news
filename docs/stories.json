@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-26-charge-transfer-has-a-hidden-pattern",
+    "title": "Charge Transfer Has A Hidden Pattern",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "October 26, 2026",
+    "image_url": "https://i.ibb.co/C3MCJMZY/168ee2cd5276.png"
+  },
+  {
     "slug": "2026-10-26-military-justice-across-international-borders",
     "title": "Military Justice Across International Borders",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "October 20, 2026",
     "image_url": "https://i.ibb.co/6RhnytGQ/be4694a623d0.png"
-  },
-  {
-    "slug": "2026-10-20-party-loyalty-vs-political-survival",
-    "title": "Party loyalty vs. political survival",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/C5WCvvxg/dea23c3922fe.png"
   }
 ]
