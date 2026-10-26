@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-26-ais-power-balancing-benefits-and-risks",
+    "title": "AI's Power: Balancing Benefits and Risks",
+    "category": "physics",
+    "source": "Physics World",
+    "date": "October 26, 2026",
+    "image_url": "https://i.ibb.co/5zNq5pM/83929db50d41.png"
+  },
+  {
     "slug": "2026-10-26-how-tradition-shapes-modern-politics",
     "title": "How Tradition Shapes Modern Politics",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 20, 2026",
     "image_url": "https://i.ibb.co/SXrWxGRm/9c7c9de7d665.png"
-  },
-  {
-    "slug": "2026-10-20-political-violence-understanding-targeted-attacks",
-    "title": "Political Violence: Understanding Targeted Attacks",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/ZRXtd7b6/740958e32e9c.png"
   }
 ]
