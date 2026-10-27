@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tldrglobalnews.com/</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tldrglobalnews.com/posts/2026-10-27-political-debate-wheres-the-line.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-26-politics-safety-and-civility.html</loc>
@@ -596,12 +602,6 @@
   </url>
   <url>
     <loc>https://tldrglobalnews.com/posts/2026-10-20-presidential-power-meets-tariff-authority.html</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tldrglobalnews.com/posts/2026-10-20-alaskas-ranked-choice-voting-challenge.html</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>

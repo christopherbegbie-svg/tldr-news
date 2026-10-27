@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-27-political-debate-wheres-the-line",
+    "title": "Political Debate: Where's the Line?",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 27, 2026",
+    "image_url": "https://i.ibb.co/jkc7GsSQ/557c25649a59.png"
+  },
+  {
     "slug": "2026-10-26-politics-safety-and-civility",
     "title": "Politics, Safety, and Civility",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "October 20, 2026",
     "image_url": "https://i.ibb.co/chPbJ3Dj/5db168cbfa63.png"
-  },
-  {
-    "slug": "2026-10-20-alaskas-ranked-choice-voting-challenge",
-    "title": "Alaska's Ranked-Choice Voting Challenge",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/vCF5N7cM/5b266b70caa0.png"
   }
 ]
