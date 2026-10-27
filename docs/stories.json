@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-27-ceasefires-saving-lives-during-war",
+    "title": "Ceasefires: Saving Lives During War",
+    "category": "world",
+    "source": "BBC World",
+    "date": "October 27, 2026",
+    "image_url": "https://i.ibb.co/cS5N7f1Q/014caf359374.png"
+  },
+  {
     "slug": "2026-10-27-old-crimes-new-trials-whats-legal",
     "title": "Old Crimes, New Trials: What's Legal?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 21, 2026",
     "image_url": "https://i.ibb.co/1tW3fvvn/faeebade7203.png"
-  },
-  {
-    "slug": "2026-10-20-political-violence-a-sign-of-divided-society",
-    "title": "Political Violence: A Sign of Divided Society",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/G4MwGrJP/17f48091fcea.png"
   }
 ]
