@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-27-democracy-needs-civility-to-survive",
+    "title": "Democracy Needs Civility to Survive",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 27, 2026",
+    "image_url": "https://i.ibb.co/nNgQVBsG/c0f9b268fe56.png"
+  },
+  {
     "slug": "2026-10-27-when-politicians-face-real-violence",
     "title": "When Politicians Face Real Violence",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 20, 2026",
     "image_url": "https://i.ibb.co/TxwwNC1Y/dbc5465c84c0.png"
-  },
-  {
-    "slug": "2026-10-20-building-political-power-before-elections",
-    "title": "Building Political Power Before Elections",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 20, 2026",
-    "image_url": "https://i.ibb.co/s9024Msg/39c08c678653.png"
   }
 ]
