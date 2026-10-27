@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-27-protecting-elections-from-interference",
+    "title": "Protecting Elections From Interference",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 27, 2026",
+    "image_url": "https://i.ibb.co/NdJ0Z5cv/6959d0df788a.png"
+  },
+  {
     "slug": "2026-10-27-do-insects-really-have-feelings",
     "title": "Do Insects Really Have Feelings?",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 21, 2026",
     "image_url": "https://i.ibb.co/0j1StC6r/cbc2c514d595.png"
-  },
-  {
-    "slug": "2026-10-21-how-stars-shaped-human-civilizations",
-    "title": "How stars shaped human civilizations",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 21, 2026",
-    "image_url": "https://i.ibb.co/bgNgrc4n/cb1689bbda31.png"
   }
 ]
