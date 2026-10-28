@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-28-how-ai-data-centers-became-political",
+    "title": "How AI Data Centers Became Political",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 28, 2026",
+    "image_url": "https://i.ibb.co/ZzG56cHZ/a7780cb88a8a.png"
+  },
+  {
     "slug": "2026-10-28-a-subway-tragedy-that-changed-everything",
     "title": "A Subway Tragedy That Changed Everything",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 22, 2026",
     "image_url": "https://i.ibb.co/My0D77L8/f9cbaa546f7f.png"
-  },
-  {
-    "slug": "2026-10-22-when-coral-reefs-disappear-forever",
-    "title": "When Coral Reefs Disappear Forever",
-    "category": "science",
-    "source": "New Scientist",
-    "date": "October 22, 2026",
-    "image_url": "https://i.ibb.co/zHfpr8R8/96cb31c01207.png"
   }
 ]
