@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-28-inflation-the-silent-wealth-eroder",
+    "title": "Inflation: The Silent Wealth Eroder",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 28, 2026",
+    "image_url": "https://i.ibb.co/3Q0nWnM/2de2880cac55.png"
+  },
+  {
     "slug": "2026-10-28-how-ai-data-centers-became-political",
     "title": "How AI Data Centers Became Political",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 22, 2026",
     "image_url": "https://i.ibb.co/390ZS3mD/afe13c9b77f6.png"
-  },
-  {
-    "slug": "2026-10-22-bogong-moths-from-extinction-to-recovery",
-    "title": "Bogong Moths: From Extinction to Recovery",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 22, 2026",
-    "image_url": "https://i.ibb.co/My0D77L8/f9cbaa546f7f.png"
   }
 ]
