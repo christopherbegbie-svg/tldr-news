@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-28-online-hate-from-screens-to-streets",
+    "title": "Online Hate: From Screens to Streets",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 28, 2026",
+    "image_url": "https://i.ibb.co/R4zFfGSg/f24158777ef1.png"
+  },
+  {
     "slug": "2026-10-28-inflation-rising-what-does-it-mean",
     "title": "Inflation Rising: What Does It Mean?",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 21, 2026",
     "image_url": "https://i.ibb.co/mCQTYfks/491b338ba956.png"
-  },
-  {
-    "slug": "2026-10-21-can-polls-predict-elections-accurately",
-    "title": "Can Polls Predict Elections Accurately?",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 21, 2026",
-    "image_url": "https://i.ibb.co/Zp04BDbx/ce2a0b0f2260.png"
   }
 ]
