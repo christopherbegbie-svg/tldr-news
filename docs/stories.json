@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-28-the-theranos-documentary-dilemma",
+    "title": "The Theranos Documentary Dilemma",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 28, 2026",
+    "image_url": "https://i.ibb.co/fdHhrDGZ/6221fdbe8b59.png"
+  },
+  {
     "slug": "2026-10-28-israels-messy-election-explained",
     "title": "Israel's Messy Election Explained",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 22, 2026",
     "image_url": "https://i.ibb.co/GfBxVRC2/36655698ad01.png"
-  },
-  {
-    "slug": "2026-10-22-when-polls-get-elections-wrong",
-    "title": "When Polls Get Elections Wrong",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 22, 2026",
-    "image_url": "https://i.ibb.co/3YRCh08s/a814f1b64b12.png"
   }
 ]
