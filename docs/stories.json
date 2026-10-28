@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-28-inflation-rising-what-does-it-mean",
+    "title": "Inflation Rising: What Does It Mean?",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 28, 2026",
+    "image_url": "https://i.ibb.co/xtn5xb1h/a73c30628245.png"
+  },
+  {
     "slug": "2026-10-28-mississippis-black-voters-shape-elections",
     "title": "Mississippi's Black Voters Shape Elections",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 21, 2026",
     "image_url": "https://i.ibb.co/Zp04BDbx/ce2a0b0f2260.png"
-  },
-  {
-    "slug": "2026-10-21-election-interference-and-political-claims",
-    "title": "Election Interference and Political Claims",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 21, 2026",
-    "image_url": "https://i.ibb.co/235JnqQ5/673cf1392fad.png"
   }
 ]
