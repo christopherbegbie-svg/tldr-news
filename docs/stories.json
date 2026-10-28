@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-28-minnesota-americas-political-battleground",
+    "title": "Minnesota: America's Political Battleground",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 28, 2026",
+    "image_url": "https://i.ibb.co/j9Y7MpYB/1fba37298a74.png"
+  },
+  {
     "slug": "2026-10-28-the-theranos-documentary-dilemma",
     "title": "The Theranos Documentary Dilemma",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 22, 2026",
     "image_url": "https://i.ibb.co/Y7gxmT0G/8cdd2635c07c.png"
-  },
-  {
-    "slug": "2026-10-22-haitis-gang-crisis-a-global-problem",
-    "title": "Haiti's Gang Crisis: A Global Problem",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 22, 2026",
-    "image_url": "https://i.ibb.co/GfBxVRC2/36655698ad01.png"
   }
 ]
