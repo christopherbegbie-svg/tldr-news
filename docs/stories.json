@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-29-military-command-and-institutional-accountability",
+    "title": "Military Command and Institutional Accountability",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 29, 2026",
+    "image_url": "https://i.ibb.co/9HfWzJS2/cc3055572f5f.png"
+  },
+  {
     "slug": "2026-10-28-australias-energy-control-showdown",
     "title": "Australia's Energy Control Showdown",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 22, 2026",
     "image_url": "https://i.ibb.co/N6jB84Hn/51c4b88e7d06.png"
-  },
-  {
-    "slug": "2026-10-22-why-machines-cant-replace-your-engineering-team",
-    "title": "Why Machines Can't Replace Your Engineering Team",
-    "category": "engineering",
-    "source": "IEEE Spectrum",
-    "date": "October 22, 2026",
-    "image_url": "https://i.ibb.co/j9c4NZ8C/cacd3457df27.png"
   }
 ]
