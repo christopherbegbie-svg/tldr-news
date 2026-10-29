@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-29-political-influence-when-big-bets-fail",
+    "title": "Political Influence: When Big Bets Fail",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 29, 2026",
+    "image_url": "https://i.ibb.co/LzkHgSWP/a7160578ab00.png"
+  },
+  {
     "slug": "2026-10-29-birds-get-jet-lag-on-fast-flights",
     "title": "Birds Get Jet Lag on Fast Flights",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 23, 2026",
     "image_url": "https://i.ibb.co/9HphGbgH/f55c792307cf.png"
-  },
-  {
-    "slug": "2026-10-23-when-hospitals-become-targets",
-    "title": "When Hospitals Become Targets",
-    "category": "world",
-    "source": "BBC World",
-    "date": "October 23, 2026",
-    "image_url": "https://i.ibb.co/S7PnrGcB/3c66299fd38a.png"
   }
 ]
