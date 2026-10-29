@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-29-birds-get-jet-lag-on-fast-flights",
+    "title": "Birds Get Jet Lag on Fast Flights",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "October 29, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-29-ebola-victory-last-patients-leave-treatment",
     "title": "Ebola Victory: Last Patients Leave Treatment",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "BBC World",
     "date": "October 23, 2026",
     "image_url": "https://i.ibb.co/S7PnrGcB/3c66299fd38a.png"
-  },
-  {
-    "slug": "2026-10-23-political-cartoons-democracys-visual-truth-tellers",
-    "title": "Political Cartoons: Democracy's Visual Truth-Tellers",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 23, 2026",
-    "image_url": "https://i.ibb.co/LdGg7xrK/ef0e87ecfee9.png"
   }
 ]
