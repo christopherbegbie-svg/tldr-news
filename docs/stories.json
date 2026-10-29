@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-29-australias-gas-who-should-decide",
+    "title": "Australia's Gas: Who Should Decide?",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 29, 2026",
+    "image_url": "https://i.ibb.co/fYqg1vgf/73cc1ed4d0ab.png"
+  },
+  {
     "slug": "2026-10-29-when-elections-divide-nations",
     "title": "When Elections Divide Nations",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 22, 2026",
     "image_url": "https://i.ibb.co/chBq0Dzn/e003f7709272.png"
-  },
-  {
-    "slug": "2026-10-22-formula-one-races-into-africa",
-    "title": "Formula One races into Africa",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 22, 2026",
-    "image_url": "https://i.ibb.co/fd0gmD22/3db4c82be4c0.png"
   }
 ]
