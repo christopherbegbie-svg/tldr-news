@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-29-government-hacks-and-transparency",
+    "title": "Government Hacks and Transparency",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 29, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-29-how-to-organize-your-important-documents",
     "title": "How to Organize Your Important Documents",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR News",
     "date": "October 23, 2026",
     "image_url": "https://i.ibb.co/ch40Mxt7/3ead94640ebe.png"
-  },
-  {
-    "slug": "2026-10-23-the-economic-paradox-no-one-wins",
-    "title": "The Economic Paradox No One Wins",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 23, 2026",
-    "image_url": "https://i.ibb.co/gbfMRPvB/5ddabec3a200.png"
   }
 ]
