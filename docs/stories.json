@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-29-campaign-rallies-political-strategy-101",
+    "title": "Campaign Rallies: Political Strategy 101",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 29, 2026",
+    "image_url": "https://i.ibb.co/HfT9GmJ6/7707783480f0.png"
+  },
+  {
     "slug": "2026-10-29-political-influence-when-big-bets-fail",
     "title": "Political Influence: When Big Bets Fail",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 23, 2026",
     "image_url": "https://i.ibb.co/99L29YwW/f57a51879d72.png"
-  },
-  {
-    "slug": "2026-10-23-ebola-crosses-borders-tracking-a-crisis",
-    "title": "Ebola Crosses Borders: Tracking a Crisis",
-    "category": "world",
-    "source": "NPR News",
-    "date": "October 23, 2026",
-    "image_url": "https://i.ibb.co/9HphGbgH/f55c792307cf.png"
   }
 ]
