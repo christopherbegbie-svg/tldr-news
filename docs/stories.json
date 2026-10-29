@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-29-how-courts-prove-criminal-intent",
+    "title": "How Courts Prove Criminal Intent",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 29, 2026",
+    "image_url": "https://i.ibb.co/W4MDyf3H/029969095389.png"
+  },
+  {
     "slug": "2026-10-29-why-safe-states-arent-always-safe",
     "title": "Why Safe States Aren't Always Safe",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 23, 2026",
     "image_url": "https://i.ibb.co/277QXHyR/adbd3a5f7f81.png"
-  },
-  {
-    "slug": "2026-10-23-israeli-palestinian-conflict-escalates",
-    "title": "Israeli-Palestinian Conflict Escalates",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 23, 2026",
-    "image_url": "https://i.ibb.co/ZzsTsTv3/b7bf305e42ae.png"
   }
 ]
