@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-30-the-art-and-magic-of-translated-fiction",
+    "title": "The Art and Magic of Translated Fiction",
+    "category": "literature",
+    "source": "The Guardian Books",
+    "date": "October 30, 2026",
+    "image_url": "https://i.ibb.co/SDNwn04n/3f780383292a.png"
+  },
+  {
     "slug": "2026-10-30-political-cartoons-democracys-visual-watchdog",
     "title": "Political Cartoons: Democracy's Visual Watchdog",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 24, 2026",
     "image_url": "https://i.ibb.co/4wsx6Zrq/2b7fdb40f29a.png"
-  },
-  {
-    "slug": "2026-10-23-australias-storm-and-flooding-crisis-explained",
-    "title": "Australia's Storm and Flooding Crisis Explained",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 23, 2026",
-    "image_url": "https://i.ibb.co/Lz6FFxkb/2334a8909012.png"
   }
 ]
