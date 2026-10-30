@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-30-ceasefires-pauses-that-save-lives",
+    "title": "Ceasefires: pauses that save lives",
+    "category": "world",
+    "source": "France 24",
+    "date": "October 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-30-pope-votes-breaking-2000-years-of-tradition",
     "title": "Pope Votes: Breaking 2,000 Years of Tradition",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 24, 2026",
     "image_url": "https://i.ibb.co/Gfr8kwYG/12240052364f.png"
-  },
-  {
-    "slug": "2026-10-24-political-cartoons-democracys-visual-weapon",
-    "title": "Political Cartoons: Democracy's Visual Weapon",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 24, 2026",
-    "image_url": "https://i.ibb.co/FqHc6qQB/428c23eddc40.png"
   }
 ]
