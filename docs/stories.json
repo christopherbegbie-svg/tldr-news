@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-30-michigans-senate-race-why-it-matters",
+    "title": "Michigan's Senate Race: Why It Matters",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "October 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-30-new-global-alliance-reshapes-world-politics",
     "title": "New Global Alliance Reshapes World Politics",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 24, 2026",
     "image_url": "https://i.ibb.co/8Dk1d4WP/8b6e14ca22ec.png"
-  },
-  {
-    "slug": "2026-10-24-economic-populism-the-new-political-trend",
-    "title": "Economic Populism: The New Political Trend",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 24, 2026",
-    "image_url": "https://i.ibb.co/m5HskHjn/9dba1717ff85.png"
   }
 ]
