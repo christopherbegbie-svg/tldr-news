@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-30-feral-deer-australias-growing-crisis",
+    "title": "Feral Deer: Australia's Growing Crisis",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 30, 2026",
+    "image_url": "https://i.ibb.co/S4FCJ6w3/4b426bd09d4f.png"
+  },
+  {
     "slug": "2026-10-30-gdp-reports-shape-election-outcomes",
     "title": "GDP Reports Shape Election Outcomes",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "Politico",
     "date": "October 23, 2026",
     "image_url": "https://i.ibb.co/BH2TY8zc/9d3b5d3e3d9d.png"
-  },
-  {
-    "slug": "2026-10-23-storms-power-grids-and-infrastructure-collapse",
-    "title": "Storms, Power Grids, and Infrastructure Collapse",
-    "category": "science",
-    "source": "BBC Science",
-    "date": "October 23, 2026",
-    "image_url": "https://i.ibb.co/fzF9CHKp/a485e83c1461.png"
   }
 ]
