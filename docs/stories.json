@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-30-new-global-alliance-reshapes-world-politics",
+    "title": "New Global Alliance Reshapes World Politics",
+    "category": "world",
+    "source": "The Guardian World",
+    "date": "October 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-30-two-names-one-ballot-controversy",
     "title": "Two Names, One Ballot Controversy",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 24, 2026",
     "image_url": "https://i.ibb.co/m5HskHjn/9dba1717ff85.png"
-  },
-  {
-    "slug": "2026-10-24-is-the-stock-market-bubble-about-to-burst",
-    "title": "Is the Stock Market Bubble About to Burst?",
-    "category": "economics",
-    "source": "NPR Economics",
-    "date": "October 24, 2026",
-    "image_url": "https://i.ibb.co/hR5xLjQh/3541028f2444.png"
   }
 ]
