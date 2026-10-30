@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-30-two-names-one-ballot-controversy",
+    "title": "Two Names, One Ballot Controversy",
+    "category": "world",
+    "source": "BBC World",
+    "date": "October 30, 2026",
+    "image_url": ""
+  },
+  {
     "slug": "2026-10-30-ceasefires-pauses-that-save-lives",
     "title": "Ceasefires: pauses that save lives",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "NPR Economics",
     "date": "October 24, 2026",
     "image_url": "https://i.ibb.co/hR5xLjQh/3541028f2444.png"
-  },
-  {
-    "slug": "2026-10-24-sports-safety-and-global-politics-intersect",
-    "title": "Sports, Safety, and Global Politics Intersect",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 24, 2026",
-    "image_url": "https://i.ibb.co/Gfr8kwYG/12240052364f.png"
   }
 ]
