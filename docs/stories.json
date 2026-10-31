@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-31-youth-protests-sweeping-across-europe",
+    "title": "Youth Protests Sweeping Across Europe",
+    "category": "world",
+    "source": "NPR News",
+    "date": "October 31, 2026",
+    "image_url": "https://i.ibb.co/HfXwQMF7/558d426c5168.png"
+  },
+  {
     "slug": "2026-10-31-are-election-polls-trustworthy",
     "title": "Are Election Polls Trustworthy?",
     "category": "politics",
@@ -790,13 +798,5 @@
     "source": "The Hindu",
     "date": "October 25, 2026",
     "image_url": ""
-  },
-  {
-    "slug": "2026-10-25-elections-protests-wildfires-shape-global-week",
-    "title": "Elections, Protests, Wildfires Shape Global Week",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 25, 2026",
-    "image_url": "https://i.ibb.co/Fkp7yMt0/288da25c50e8.png"
   }
 ]
