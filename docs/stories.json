@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-31-religion-and-politics-where-they-intersect",
+    "title": "Religion and Politics: Where They Intersect",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 31, 2026",
+    "image_url": "https://i.ibb.co/YBLMHY9H/0f533d2f2a41.png"
+  },
+  {
     "slug": "2026-10-31-when-your-partners-meds-become-your-risk",
     "title": "When Your Partner's Meds Become Your Risk",
     "category": "science",
@@ -790,13 +798,5 @@
     "source": "NPR Politics",
     "date": "October 25, 2026",
     "image_url": "https://i.ibb.co/1YLLW4Jg/a57231d94168.png"
-  },
-  {
-    "slug": "2026-10-25-crime-hate-and-mental-health",
-    "title": "Crime, Hate, and Mental Health",
-    "category": "world",
-    "source": "France 24",
-    "date": "October 25, 2026",
-    "image_url": "https://i.ibb.co/YTFCrvDn/cba5bd6deb73.png"
   }
 ]
