@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-10-31-the-power-of-political-cartoons",
+    "title": "The Power of Political Cartoons",
+    "category": "politics",
+    "source": "Politico",
+    "date": "October 31, 2026",
+    "image_url": "https://i.ibb.co/FkG8z8kW/5480c7bc83a5.png"
+  },
+  {
     "slug": "2026-10-30-government-misconduct-what-happens-when-officials-lie-to-cou",
     "title": "Government Misconduct: What Happens When Officials Lie to Courts",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "France 24",
     "date": "October 24, 2026",
     "image_url": "https://i.ibb.co/KxvZTZ5X/3bf62c3697c5.png"
-  },
-  {
-    "slug": "2026-10-24-when-campaigns-meet-culture",
-    "title": "When Campaigns Meet Culture",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 24, 2026",
-    "image_url": "https://i.ibb.co/x86XQT7b/c07f66f78e38.png"
   }
 ]
