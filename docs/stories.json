@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-11-01-political-cartoons-democracys-visual-commentary",
+    "title": "Political Cartoons: Democracy's Visual Commentary",
+    "category": "politics",
+    "source": "Politico",
+    "date": "November 01, 2026",
+    "image_url": "https://i.ibb.co/rGFDhWHp/0543df0c80d2.png"
+  },
+  {
     "slug": "2026-11-01-un-peacekeeping-mission-ends-in-western-sahara",
     "title": "UN Peacekeeping Mission Ends in Western Sahara",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "IEEE Spectrum",
     "date": "October 26, 2026",
     "image_url": "https://i.ibb.co/wFkLkYTW/7cd6eaa63214.png"
-  },
-  {
-    "slug": "2026-10-26-ais-power-balancing-benefits-and-risks",
-    "title": "AI's Power: Balancing Benefits and Risks",
-    "category": "physics",
-    "source": "Physics World",
-    "date": "October 26, 2026",
-    "image_url": "https://i.ibb.co/5zNq5pM/83929db50d41.png"
   }
 ]
