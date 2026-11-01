@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-11-01-how-election-monitoring-works-in-america",
+    "title": "How Election Monitoring Works in America",
+    "category": "politics",
+    "source": "NPR Politics",
+    "date": "November 01, 2026",
+    "image_url": "https://i.ibb.co/fV7SfnXR/427037cff2ea.png"
+  },
+  {
     "slug": "2026-11-01-us-iran-when-threats-escalate",
     "title": "U.S.-Iran: When Threats Escalate",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 25, 2026",
     "image_url": "https://i.ibb.co/Xr87xZhZ/a5e3625706ba.png"
-  },
-  {
-    "slug": "2026-10-25-midterms-breaking-a-century-old-pattern",
-    "title": "Midterms: Breaking a Century-Old Pattern",
-    "category": "politics",
-    "source": "NPR Politics",
-    "date": "October 25, 2026",
-    "image_url": "https://i.ibb.co/8LVzWcsy/46aa27f2e774.png"
   }
 ]
