@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-11-01-political-cartoons-democracys-visual-watchdogs",
+    "title": "Political Cartoons: Democracy's Visual Watchdogs",
+    "category": "politics",
+    "source": "Politico",
+    "date": "November 01, 2026",
+    "image_url": "https://i.ibb.co/cSNrRgMg/fc67e4d8f039.png"
+  },
+  {
     "slug": "2026-11-01-nyc-marathon-a-global-celebration-of-athleticism",
     "title": "NYC Marathon: A Global Celebration of Athleticism",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "October 26, 2026",
     "image_url": "https://i.ibb.co/C3MCJMZY/168ee2cd5276.png"
-  },
-  {
-    "slug": "2026-10-26-military-justice-across-international-borders",
-    "title": "Military Justice Across International Borders",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 26, 2026",
-    "image_url": "https://i.ibb.co/8nH8CskH/d53f5c996c07.png"
   }
 ]
