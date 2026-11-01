@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-11-01-political-cartoons-democracys-ink-stained-mirror",
+    "title": "Political Cartoons: Democracy's Ink-Stained Mirror",
+    "category": "politics",
+    "source": "Politico",
+    "date": "November 01, 2026",
+    "image_url": "https://i.ibb.co/9mY4YXRc/7f53f9e0519f.png"
+  },
+  {
     "slug": "2026-11-01-student-blockades-and-civic-power",
     "title": "Student Blockades and Civic Power",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "Physics World",
     "date": "October 26, 2026",
     "image_url": "https://i.ibb.co/QvR2gV2K/4dadf5427b63.png"
-  },
-  {
-    "slug": "2026-10-26-master-manipulators-and-criminal-justice",
-    "title": "Master Manipulators and Criminal Justice",
-    "category": "world",
-    "source": "The Guardian World",
-    "date": "October 26, 2026",
-    "image_url": "https://i.ibb.co/DfRTz4Zp/8e1da2e7e525.png"
   }
 ]
