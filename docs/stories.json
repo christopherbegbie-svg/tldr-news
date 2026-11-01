@@ -1,5 +1,13 @@
 [
   {
+    "slug": "2026-11-01-fish-follow-one-influential-neighbor",
+    "title": "Fish Follow One Influential Neighbor",
+    "category": "science",
+    "source": "New Scientist",
+    "date": "November 01, 2026",
+    "image_url": "https://i.ibb.co/3YCp2H1s/a1d0fd5d1050.png"
+  },
+  {
     "slug": "2026-11-01-when-economic-crisis-triggers-mass-protest",
     "title": "When Economic Crisis Triggers Mass Protest",
     "category": "world",
@@ -790,13 +798,5 @@
     "source": "The Guardian World",
     "date": "October 25, 2026",
     "image_url": "https://i.ibb.co/cXTxHg62/431a322aed88.png"
-  },
-  {
-    "slug": "2026-10-25-ais-language-gap-threatens-democracy",
-    "title": "AI's Language Gap Threatens Democracy",
-    "category": "politics",
-    "source": "Politico",
-    "date": "October 25, 2026",
-    "image_url": "https://i.ibb.co/d4T6vt6f/50e36644b98e.png"
   }
 ]
